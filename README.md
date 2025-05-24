@@ -31,7 +31,8 @@ Manual Agent combines powerful PDF processing, intelligent search, and automatio
 
 ## System Architecture
 
-![Architecture Diagram](docs/images/diagram.png)
+(![Architecture Diagram](https://github.com/user-attachments/assets/fa4f64cc-872c-40eb-afee-0b9f89493e9a)
+
 
 Manual Agent consists of five integrated components:
 
