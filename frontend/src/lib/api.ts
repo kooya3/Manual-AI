@@ -1652,6 +1652,7 @@ export const getSubscription = async (): Promise<SubscriptionStatus> => {
     plan_name: 'free',
     current_period_end: new Date(2099, 11, 31).toISOString(),
     cancel_at_period_end: false,
+    has_schedule: false,
   };
 };
 

@@ -118,12 +118,18 @@ if config.ENV_MODE == EnvMode.STAGING:
 if config.ENV_MODE == EnvMode.LOCAL:
     allowed_origins.append("http://localhost:3000")
 
+origins = [
+    "https://manualagent.vercel.app",
+    # Add other origins here if needed (e.g., for local development)
+    # "http://localhost:3000",
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=allowed_origins,
+    allow_origins=origins,
     allow_credentials=True,
-    allow_methods=["GET", "POST", "PUT", "DELETE", "OPTIONS"],
-    allow_headers=["Content-Type", "Authorization"],
+    allow_methods=["*"], # Allows all methods
+    allow_headers=["*"], # Allows all headers
 )
 
 # Include the agent router with a prefix

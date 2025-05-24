@@ -1,11 +1,11 @@
 export const siteConfig = {
   name: 'Manual Agent',
-  url: 'https://suna.so/',
+  url: 'https://manualagent.vercel.app/',
   description: 'Dayliff Manual Agent',
   links: {
-    twitter: 'https://x.com/kortixai',
-    github: 'https://github.com/kortix-ai/',
-    linkedin: 'https://www.linkedin.com/company/kortix/',
+    twitter: 'https://x.com/dayliff',
+    github: 'https://github.com/Davis-Shirtliff-ICT',
+    linkedin: 'https://www.linkedin.com/company/dayliff/',
   },
 };
 

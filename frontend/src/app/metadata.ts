@@ -4,14 +4,14 @@ import { siteConfig } from '@/lib/site';
 export const metadata: Metadata = {
   title: siteConfig.name,
   description: siteConfig.description,
-  keywords: ['Kortix Suna', 'AI', 'Agent'],
+  keywords: ['Manual Agent', 'AI', 'Agent'],
   authors: [
     {
-      name: 'Kortix AI Corp',
-      url: 'https://kortix.ai',
+      name: 'Manual Agent',
+      url: 'https://manualagent.vercel.app/',
     },
   ],
-  creator: 'Kortix AI Corp',
+  creator: 'Dayliff Manual Agent',
   openGraph: {
     type: 'website',
     locale: 'en_US',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: siteConfig.name,
     description: siteConfig.description,
-    creator: '@kortixai',
+    creator: '@dayliff',
   },
   robots: {
     index: true,
