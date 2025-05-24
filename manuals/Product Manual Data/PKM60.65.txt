@@ -1,0 +1,160 @@
+PKm60/65
+Peripheral Impeller
+Booster Pumps
+60
+
+PUMP HEAD (m)
+
+50
+
+PKm65
+
+40
+PKm60®
+
+30
+
+20
+
+10
+
+0
+
+1.5
+1.0
+2
+3
+FLOW RATE (m/hr)
+
+0.5
+
+2.5
+
+3
+
+PUMPS
+The Pedrollo PKm is a robust, reliable and economical pump used principally for water transfer in domestic and small scale water
+transfer applications. The pump body is made from cast iron with a brass insert set into the front housing for improved starting
+performance and protection from jamming. The impeller is made from brass.
+The pumps have been remodelled and re-engineered offering the following benefits;
+• Quiet operation due to the anti vibration system between shaft and impeller
+• More compact
+• More efficient motor with low energy consumption and lower operating temperature
+• Special paint which gives improved resistance against environmental corrosion
+• Extended life
+Pumps can be installed for manual or automatic control using either the recommended ‘Pedrollo Easysmall’ controller or a pressure
+tank and switch. Also available is the integral ‘Hydrofresh’ version (PKm60) only which combines a 24L horizontal diaphragm tank,
+pressure switch and gauge with pressure settings of 1.4 bar for pump start and 2.8 bar for pump stop.
+MOTOR
+Pumps are close coupled to a TEFC brushless induction motor designed for continuous operation. Overload protector is provided
+in the windings to protect against electrical and mechanical overload and the pump can be connected directly to the mains power
+supply through a 10amp fuse or MCB.
+Enclosure Class: IPX4
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non aggressive liquids without
+abrasive particles or fibres.
+Max. Fluid Temperature: +600C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 8m (at sea level)
+
+Speed: 2900rpm
+
+L
+DN2
+
+H
+
+DN1
+H1
+
+W
+
+PUMP DATA
+
+PKm60/PKm65
+DN2
+
+Model
+
+Max.
+Motor Operating DN1 DN2
+(kW) Current (A) (”)
+(”)
+
+Dimensions (mm)
+L
+
+H
+
+H1
+
+W
+
+56
+
+Weight
+(kg)
+
+0.37
+
+2.4
+
+1
+
+1
+
+208 145
+
+118
+
+5
+
+Hydrofresh PKm60® 0.37
+
+2.4
+
+1
+
+1
+
+535 500 346 255
+
+14
+
+3.4
+
+1
+
+1
+
+237 153
+
+7
+
+PKm60®
+Pkm65
+
+0.5
+
+63
+
+120
+
+DN1
+H
+H1
+
+L
+
+W
+
+Hydrofresh PKm60®
+
+H
+
+

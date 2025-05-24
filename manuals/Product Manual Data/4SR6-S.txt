@@ -1,0 +1,226 @@
+4SR6-S
+Submersible
+Borehole Pumps
+450
+
+72%
+
+ETA
+
+400
+
+64%
+
+4SR6/58-S
+
+56%
+
+300
+
+48%
+
+4SR6/43-S
+
+250
+
+40%
+4SR6/32-S
+
+200
+
+32%
+
+4SR6/24-S
+
+150
+
+24%
+
+4SR6/17-S
+4SR6/13-S
+4SR6/9-S
+
+100
+
+ETA%
+
+PUMP HEAD (m)
+
+350
+
+16%
+
+50
+
+8%
+1
+
+0
+
+2
+
+3
+
+5
+4
+6
+FLOW RATE (m3/hr)
+
+7
+
+8
+
+9
+
+10
+
+PUMP
+Pedrollo 4SR6-S submersible pumps are specifically designed for water supply from boreholes, though can also be used in other
+applications in either vertical or horizontal configurations. They feature an upgraded specification with a revised floating impeller
+hydraulic design and advanced high wear resistance materials for the impellers and diffusers. This provides exceptional sand
+handling capability (up to 200g/m3) and improved operating efficiency.
+Pump impellers are made from high-strength Delrin technopolymer, diffusers from Noryl and the stage casings, top housing,
+suction interconnector, pump sleeve and shaft from AISI304 stainless steel.
+MOTOR
+Pumps are coupled to Pedrollo two pole sealed motor constructed principally from AISI 316 stainless steel. Drytek control box is
+available for both single phase and three phase pump control which incorporates incoming mains isolator, digital display of motor
+operating status and protection against over and under voltage, motor overload and phase sequence loss. The controller can be
+connected directly to the mains power supply.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non aggressive liquids with a maximum sand content of 200gm/m3.
+Max. Liquid Temperature: +350C.
+Min. Borehole Diameter: 110mm
+Max. Immersion Depth:200m
+PUMP DATA
+Current (A)
+
+Motor
+Model
+
+DN
+(”)
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+kW
+
+HP
+
+1x240V
+
+3x415V
+
+4SR6/9-S
+
+1.1
+
+1.5
+
+8
+
+3
+
+446
+
+371
+
+14
+
+4SR6/13-S
+
+1.5
+
+2
+
+10
+
+5
+
+598
+
+396
+
+16
+
+4SR6/17-S
+
+2.2
+
+3
+
+15
+
+6
+
+723
+
+437
+
+20
+
+4SR6/24-S
+
+3
+
+4
+
+7
+
+969
+
+450
+
+24
+
+4SR6/32-S
+
+4
+
+5.5
+
+9
+
+1247
+
+505
+
+29
+
+4SR6/43-S
+
+5.5
+
+7.5
+
+12
+
+1618
+
+590
+
+37
+
+4SR6/58-S
+
+7.5
+
+10
+
+16
+
+2161
+
+800
+
+52
+
+

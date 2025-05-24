@@ -1,0 +1,233 @@
+Solar PV
+Accessories
+
+TED
+A
+D
+UP
+PV DISCONNECT
+
+Specially designed for isolation of PV array strings from controllers or inverters in Photovoltaic (PV)
+applications during operation and maintenance. They feature fast-acting DC Circuit Breakers that
+protect installation against over currents and short-circuits on the DC side. When installed on each
+string of a multi-string PV array, they also protect against reverse currents in the event of shading or
+faults.
+* Also applies to PV combiner and PV Protect
+Enclosure Class: IP65*
+
+200mm
+
+110mm
+112mm
+
+TECHNICAL DATA
+
+123mm
+
+Single String
+
+Rated
+Current (A)
+
+Model
+220mm
+
+PVDISC500/16A
+
+Rated Voltage
+(VDC)
+
+1
+
+500
+
+16
+
+PVDISC1000/16A
+170mm
+
+Max No of
+Strings
+
+PVDISC1000/40A
+
+2
+
+40
+
+4
+
+Weight
+(kg)
+2.5
+2.6
+
+1000
+
+2.7
+
+Multi String
+
+PV COMBINER
+
+Enables parallel wiring of output of multiple PV disconnects in a multi-string installation for
+connection to solar pump controller or solar power inverter.
+
+110mm
+
+TECHNICAL DATA
+220mm
+
+Model
+
+Rated
+Current (A)
+
+Max No.
+of Strings
+
+Rated
+Voltage(VDC)
+
+Weight
+(kg)
+
+PVCOMBI
+
+125
+
+4
+
+1000
+
+2.6
+
+170mm
+
+PV PROTECT
+
+Features advanced Surge Protection for PV systems against transient overvoltage caused by
+lightning discharges on the DC side. When the distance between inverter/controller and the PV
+array is greater than 10m, it is advisable to install 2No units, one close to inverter/controller and
+another close to array all suitably bonded and earthed.
+
+110mm
+
+220mm
+
+TECHNICAL DATA
+
+170mm
+
+AC PARALLEL BOX
+
+Model
+
+Max Voltage (VDC)
+
+Weight (kg)
+
+PVPROTECT
+
+1000
+
+2.6
+
+Enables parallel wiring of outputs from 2 to 3 Power-M modules in an installation allowing for
+effective doubling or tripling available power.
+
+110mm
+
+TECHNICAL DATA
+220mm
+
+Model
+
+Rated Current
+(A)
+
+AC-PB
+
+60
+
+AC-PB/1
+
+90
+
+Rated Voltage
+(VAC)
+240
+
+Max No. of
+Power-M Modules
+2
+
+Weight
+(kg)
+
+3
+
+3.0
+
+2.8
+
+170mm
+
+CONTACTOR BOX
+
+Designed for ensuring a stable voltage supply to a Sunverter 3 Installation. The units effectively
+suppress over voltage spikes/surges, phase loss, phase imbalance, overvoltage, and
+undervoltage essential for trouble free operation and system reliability.
+
+160mm
+
+TECHNICAL DATA
+Model
+
+325mm
+
+275mm
+
+Rated Current Nominal Discharge Rated Voltage
+(A)
+Current (kA)
+(V)
+
+Weight
+(kg)
+
+CB-SV3/3.7T
+
+19
+
+4.2
+
+CB-SV3/5.5T
+
+13
+
+4.4
+
+CB-SV3/7.5T
+
+18
+
+CB-SV3/11T
+
+24
+
+4.8
+
+CB-SV3/15T
+
+30
+
+5.0
+
+5
+
+3x415
+
+4.6
+
+

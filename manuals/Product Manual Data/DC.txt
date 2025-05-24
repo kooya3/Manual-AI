@@ -1,0 +1,139 @@
+Engine Pumps
+
+35
+30
+
+DC 100D
+PETROL
+
+DIESEL
+DC 80D
+
+DC 50S/LPG
+
+DC 80S/LPG
+
+PUMP
+The Dayliff DC range of self priming engine pumps are of fully portable design suitable for irrigation, dewatering and general pumping
+duties. All models feature open impellers suitable for pumping lightly silted water and a sturdy carrying and protection frame. Also included
+are quick couple hose connectors and suction strainers. Maximum suction is 8m at sea level, though this will be reduced at altitudes.
+Pump body and impellers are manufactured from high grade cast aluminium.
+Hybrid LPG powered models are available that can also be petrol powered. LPG fueling is from a domestic gas tank with a standard
+regulator that is fed into the pump carburetor. LPG benefits include savings of up to 50% on fuel costs and reduced harmful emissions.
+ENGINE
+Proprietary air cooled, 4-stroke OHV single cylinder with transistorised ignition and oil alert.
+Note: Performance curves for all engines relate to the engine governor set at maximum speed of 3600rpm to achieve maximum rated
+power output. To prolong engine life pumps should only be run under maximum power conditions for short periods and for extended duty
+the throttle setting should be reduced to approximately three-quarters power. Pump performance will then be reduced accordingly.
+SPECIFICATIONS
+Engine
+Model
+
+Fuel
+
+DC 50S/LPG
+
+Petrol/
+LPG
+
+DC 80S/LPG
+DC 80D
+DC 100D
+
+Diesel
+
+Petrol Model
+
+Type
+
+Capacity
+(CC)
+
+Max Power
+(HP)
+
+Tank
+(Ltr)
+
+SW170FB
+
+212
+
+7
+
+3.6
+
+Inlet
+
+&
+Consumption
+Outlet (”)
+(L/Hr)
+1.7
+
+LA178F
+
+296
+
+6
+
+3.5
+
+1.5
+
+LA186F
+
+406
+
+10
+
+5.5
+
+2.5
+
+2
+3
+4
+
+Weight
+(kg)
+
+L
+
+W
+
+H
+
+460
+
+365
+
+355
+
+19
+
+485
+
+365
+
+405
+
+21
+
+540
+
+440
+
+510
+
+43
+
+590
+
+450
+
+530
+
+64
+
+

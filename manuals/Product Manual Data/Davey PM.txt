@@ -1,0 +1,30 @@
+PUMP
+DAVEY PM centrifugal impeller type pool pumps are specially designed for heavy duty applications, particularly institutional and
+commercial swimming pools. Features include built-in check valve, quick connect couplings for simple installation, extra large line
+strainer with see through lid and computer designed impeller and diffuser for high efficiency, excellent priming performance and
+quiet operation.
+All pump components are made from glass filled plastics. This pump is compatible with marine conditions, as such it may be used in
+fish farming applications.
+MOTOR
+The pump is fitted with an integral DAVEY ‘large frame’ TEFC heavy duty motor designed to match the pump output. Features
+include front mounted fan for improved cooling and motor protection in the event of seal leakage, heavy duty bearings and a
+corrosion protected aluminium casing. The motor is provided with an in-built automatic re-start thermal relay for protection against
+electrical and mechanical overload and can be connected directly to a power supply through a 13amp fuse or MCB.
+Enclosure Class: IP56
+
+Insulation Class: F
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non aggressive liquids without solids or fibres.
+Maximum Fluid Temperature:+500C
+Maximum Ambient Temperature:+550C
+Maximum Suction Lift: 7.5m (at sea level)
+
+V
+1x240V
+1x240V
+3x415V
+
+Speed:2900rpm
+
+

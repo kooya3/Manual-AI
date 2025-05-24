@@ -1,0 +1,258 @@
+DS60
+
+250
+
+2.0
+
+80
+
+225 DS 60-16
+DS 60-15
+
+200
+
+kW
+
+1.5
+175
+150
+
+60
+
+DS 60-12
+ETA%
+DS 60-10
+
+125
+
+1.0
+
+40
+
+0.5
+
+20
+
+DS 60-8
+
+100
+DS 60-6
+
+75
+DS 60-4
+
+50
+25
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+0
+
+10
+
+20 30 40 50 60 70 80
+
+90
+
+FLOW RATE (m3/hr)
+
+PUMP
+DAYLIFF DS submersible pumps are designed specifically for borehole supply applications. They are of multistage centrifugal impeller
+design and all parts are made from premium AISIS304 stainless steel with water lubricated rubber bearings. A submersible motor is fitted
+beneath the pump and suction is effected through a strainer between the pump and motor.
+MOTOR
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel cage motor constructed from stainless steel. The motor
+requires a remote starter and if unstable supply voltage is likely, an additional quick tripping control relay is recommended. Note that due
+to low starting torques of submersible motors, it is recommended that DOL starters are used. A DAYLIFF SCT electronic pump controller is
+recommended for comprehensive pump control including low level motor overload and irregular power supply protection.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Voltage: 3x415V
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean chemically non-aggressive liquids without solid particles or fibres.
+Max. Liquid Temperature: DS wet end-500C
+Max. Water Depth: 300m
+Min. Borehole Diameter: 200m
+PUMP DATA
+
+Model
+DS 60-4
+
+Motor
+
+Dimensions (mm)
+
+kW
+
+HP
+
+Full Load
+Current (A)
+
+I start
+I
+
+A
+
+B
+
+C
+
+7.5
+
+10
+
+16.5
+
+5.0
+
+1382
+
+660
+
+722
+
+E*
+
+Weight
+(Kg)
+44
+
+DS 60-6
+
+11
+
+15
+
+24.2
+
+4.8
+
+1678
+
+730
+
+948
+
+71
+
+DS 60-8
+
+15
+
+20
+
+32
+
+5.0
+
+1959
+
+785
+
+1174
+
+82
+
+DS 60-10
+
+18.5
+
+25
+
+40
+
+5.5
+
+2260
+
+860
+
+1400
+
+DS 60-12
+
+22
+
+30
+
+47
+
+5.1
+
+2546
+
+920
+
+1626
+
+105
+
+DS 60-15
+
+26
+
+35
+
+58
+
+4.9
+
+2800
+
+1157
+
+1965
+
+175
+
+DS 60-16
+
+30
+
+40
+
+64.1
+
+4.7
+
+3128
+
+1050
+
+2078
+
+126
+
+E*=Maximum diameter of the pump inclusive of cable guard and motor
+
+149
+
+94
+
+Rp4"
+
+

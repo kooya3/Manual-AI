@@ -1,0 +1,84 @@
+CK/CKR
+
+65
+60
+55
+50
+
+CKRm90
+
+45
+40
+35
+30
+25
+20
+15
+10
+5
+
+3.5
+
+PUMP
+The PEDROLLO CK/CKR range are self-priming peripheral type liquid ring pumps designed for handling difficult liquids and
+pumping conditions. They are especially suited for irregular flow rates, aerated and foamy liquids and viscous liquids like oils and
+low volatility fuels and the self priming design makes them suitable for difficult suction conditions.
+Pump construction is cast iron body, aluminium motor bracket with cover with brass front anti-locking shim function.and brass
+impeller for CK, Bronze for CKR.
+MOTOR
+Pumps are close coupled to a TEFC brushless induction motor designed for continuous operation. A thermal relay is provided in the
+windings to protect against electrical and mechanical overload and the pump can be connected directly to the mains power supply
+through a 10amp fuse or MCB.
+Enclosure Class: IPX4
+
+Insulation Class: F
+
+Voltage: 1 x 240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non aggressive liquids without abrasive particles or fibres. The pump is designed to
+handle higher viscosity as well as highly aerated liquids.
+Max. Fluid Temperature: +900C,+550C for diesel/naphta
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 9m (at sea level)
+
+Model
+
+Motor
+(kW)
+
+Current
+(A)
+3
+
+CKRm90
+
+5.7
+
+1”
+
+1”
+
+260
+
+80
+
+152
+
+120
+
+7
+
+296
+
+90
+
+179
+
+134
+
+12
+
+

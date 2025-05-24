@@ -1,0 +1,226 @@
+B
+
+A
+
+B
+
+C
+
+D
+
+B
+
+C
+
+D
+
+FLA 10/20/40 1400
+
+1300
+
+1500
+
+1150
+
+FLA 100 1550
+
+1600
+
+1600
+
+1150
+
+1500
+
+1600
+
+1500
+
+1150
+
+FLA 120 1600
+
+1800
+
+1700
+
+1250
+
+A
+FLA 60
+
+A
+
+DAYLIFF FLA packaged Fire Sets are specially designed to provide automatic supply to multiple hose reel or sprinkler outlets for firefighting
+installations. Pump sets combine parallel duty diesel and electric powered supply pumps to ensure serviceability in all conditions as well as a
+jockey pump to maintain system pressure. Particular features include:• Individual electric motor and diesel engine powered pump sets providing standby supply in the event of electrical power failure
+• Separate automatic jockey pump to maintain system pressure and regulate main pump operation
+• Bellows type pressure switch controlled operation providing progressive jockey pump, electric pump and diesel pump starting at
+reducing cut-in pressures
+• Low maintenance diaphragm type pressure vessel to regulate the jockey pump cycling.
+• Integral control panel providing automatic parallel operation of the supply pumps and incorporating electrical protection panels and a
+DC battery charging system
+• Compact frame mounted design incorporating necessary valves and piping for simple site installation
+Systems are designed to give rated output of either about 5bar or 10bar and six standard sizes are available 10,20,40,60,100 and
+120m³/hr with the two pump sets operating in parallel, 50% standby output being provided in the event of electrical failure.
+Fire sets EN 12845 specification certified as compliant by KEBS are also available. Performance and design is similar though some
+components are to high level specification as stipulated in the standard.
+Dayliff FLA Fire Sets combine quality components for optimal operational efficiency with Dayliff’s unmatched pumping expertise and
+competitive pricing to provide effective, reliable and easy to install firefighting solutions.
+SPECIFICATIONS
+Supply Pumps: Dayliff DE end suction bareshaft pumps featuring gland packing seal, heavy duty cast iron construction, bronze impellers
+and diffusers. Pump models are selected to meet the design pressure and flow rates. Detail performance curves are available on request.
+Diesel Engine: Dayliff DLA air cooled or Dayliff DLY water cooled with automatic electric start. Alternative engines are available on
+request.
+Electric Motor: TEFC squirrel cage 2-pole 2900 rpm electric motors suitably rated for the pump load.
+Jockey Pump: Option of DB4-60 horizontal multistage pump or Dayliff DIN3-19 vertical multistage centrifugal pump fitted with electric
+motor. The pump is set to maintain system pressure at 10bar thus avoids cycling of the service pumps due to minor system leakages.
+Pressure Vessel: GWS pressure vessel featuring polyproplene liner with special diaphragm and air valve design that eliminates leaks and
+the need for maintenance.
+Piping: Suitably sized piping and fittings are provided for direct suction and delivery line connections including necessary isolating gate
+valves, non-return valves on the system outlet. The limit of piping is shown in the schematic drawing.
+Control Panel: Electric pump control panel with star-delta starter, Jockey pump control panel with DOL starter and engine pump control
+panel with DC power circuit for engine and DC battery charging system. The control panels are integrally mounted as standard though can
+be supplied loose for remote installation if required.
+
+EQUIPMENT SPECIFICATION
+Model
+
+Nominal
+Flow
+(m3/hr)
+Parallel Duty Single Duty
+
+Medium Pressure 5Bar
+Electric Pump
+Diesel Pump
+Motor
+Power
+Pump
+Engine
+(kW)
+(kW)
+
+Wt
+(kg)
+
+Model
+
+High Pressure 10Bar
+Electric Pump
+Diesel Pump
+Motor
+Power
+Engine
+Pump/Impeller Dia
+(kW)
+
+(kW)
+
+FLA 10/5
+FLA 20/5
+FLA 40/5
+FLA 60/5
+FLA 100/5
+
+10
+20
+40
+60
+100
+
+5
+10
+20
+30
+50
+
+DE 32-16
+DE 32-20
+DE 32-20
+DE 40-20
+DE 50-20
+
+5.5
+7.5
+7.5
+11
+15
+
+DLA10DE
+DLA20D
+DLA20D
+DLA20D
+DLY40
+
+6
+8
+13
+13
+29
+
+420
+450
+570 FLA 40/10 DE40-32H/272
+600 FLA 60/10 DE40-32H/280
+805 FLA 100/10 DE40-32H/310
+
+30
+30
+37
+
+DLY40
+
+FLA 120/5
+
+120
+
+60
+
+DE 65-20
+
+30
+
+DLY60
+
+42
+
+900 FLA 120/10 DE50-32H/275
+
+45
+
+Wt
+(kg)
+
+Piping
+DIA
+(”)
+
+2
+29
+
+690
+
+3
+
+DLY60
+
+42
+
+990
+1100
+
+4
+
+DLY80
+
+62
+
+1420
+
+Medium Pressure (5Bar): Cut-out pressure 5.1Bar, Cut-in pressure 3.5, 3.0 & 2.5Bar for jockey, motor & engine respectively.
+High Pressure (10Bar): Cut-out pressure 10.5Bar, Cut-in pressure 7.5, 6.5 & 5.5Bar for jockey, motor & engine respectively.
+
+6
+
+

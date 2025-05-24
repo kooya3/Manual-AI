@@ -1,0 +1,5 @@
+-- Create the manuals storage bucket
+-- SELECT storage.create_bucket('manuals',
+--     bucket_owner => auth.uid(),
+--     public => false
+-- );

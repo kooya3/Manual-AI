@@ -1,0 +1,115 @@
+NGA
+Centrifugal Booster
+Pumps
+25
+
+20
+
+NGAm3A
+15
+
+NGAm3C
+10
+
+NGAm1A
+5
+
+0
+
+10
+
+40
+
+30
+
+20
+
+50
+
+60
+
+PUMP
+The PEDROLLO NGA pump is a non self priming centrifugal open impeller pump with close coupled motor. It is designed for
+pumping water and chemically non-agressive liquids containing impurities and suspended solids and is suited for a wide range of
+industrial, irrigation and transfer duties. The pump is of back pullout design allowing dismantling without disconnection of the
+pump casing from the pipework.
+Pump body is constructed from cast iron and the impeller from AISI316 stainless steel.
+MOTOR
+Pumps are close coupled to TEFC brushless induction motor designed for continuous operation. A thermal relay is provided in the
+windings to protect against electrical and mechanical overload and the pump can be connected directly to the mains power supply
+through a 10amp fuse or MCB.
+Enclosure Class: IP44
+
+Insulation Class: B
+
+Speed: 2900 rpm
+
+Voltage: 1x 240V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without abrasive particles or fibres
+Suspended Particle Diameter: NGAm1A-12mm, NGAm3A & 3C-20mm
+Max. Fluid Temperature: +800C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 7m (at sea level)
+PUMP DATA
+Model
+NGAm1A
+NGAm3C
+NGAm3A
+
+Motor
+(kW)
+0.75
+1.5
+2.2
+
+Current
+(A)
+5.8
+9.1
+12
+
+Particle
+Size(mm)
+12
+
+DN
+(”)
+1½
+
+20
+
+2
+
+A
+DN
+
+A
+299
+387
+407
+
+Dimensions (mm)
+C
+B
+190
+227
+298
+
+217
+
+Weight
+(Kg)
+12.7
+23.1
+25.7
+
+B
+
+C
+DN
+
+Dimensions in mm
+
+

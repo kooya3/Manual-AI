@@ -1,0 +1,176 @@
+DIN3
+
+DIN 3-36
+
+DIN 3-29
+
+DIN 3-19
+
+60
+
+ETA%
+
+50
+
+DIN 3-15
+
+40
+DIN 3-10
+
+NPSH
+
+30
+20
+10
+
+PUMP
+The DAYLIFF DIN pump range are of non self priming vertical multistage in-line centrifugal design suitable for a wide range of
+water supply, irrigation, liquid transfer and boosting applications. The pumps are of heavy duty construction and designed for
+continuous duty in commercial and industrial installations. All DIN pumps feature AISI 316 stainless steel vital components in
+contact with water including the impellers, intermediate chambers, shaft and top and bottom housings and are suitable for
+pumping highly mineralised corrosive water. All pumps are water lubricated and are provided with a standard cartridge type
+mechanical seal. They are supplied complete with BSP internally threaded counter flanges.
+MOTOR
+The pumps are coupled to high efficiency IE3 totally enclosed fan cooled 2-pole motor complying with IEC standards and must be
+connected to an effective motor starter in accordance with local regulations.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean, non-explosive liquids without solid particles or fibres.
+Liquid Temperature Range: -150C to +1200C
+Maximum Ambient Temperature: +500C
+Maximum Suction Lift: According to the NPSH curve plus a safety margin of 1m
+Maximum Operating Pressure: 23 bar
+Maximum Inlet Pressure: DIN3-15 to 29-10bar, DIN 3-36 - 15bar
+PUMP DATA
+Motor
+Model
+
+DIN3-10
+DIN3-15
+DIN3-19
+DIN3-29
+DIN3-36
+
+Voltage
+(V)
+1x240
+3x415
+1x240
+3x415
+1x240
+3x415
+1x240
+3x415
+
+kW
+
+HP
+
+0.75
+
+1.0
+
+1.1
+
+1.5
+
+1.5
+
+2
+
+2.2
+3
+
+Full Load I Start
+Current
+(A)
+I
+
+Dimensions (mm)
+H1
+
+H2
+
+D1
+
+D2
+
+Weight
+(kg)
+
+414
+
+649
+
+141
+
+115
+
+26
+
+504
+
+793
+
+592
+
+887
+
+3.5
+
+2
+5.4
+2
+6.3
+1.6
+7.1
+
+3.0
+
+4.8
+
+6.8
+
+772
+
+1067
+
+4
+
+6.5
+
+6.5
+
+902
+
+1218
+
+4.1
+2
+6.9
+2.2
+8.9
+
+PN25/DN32
+
+34
+177
+
+40
+141
+45
+
+197
+
+147
+
+56
+
+All dimensions in mm
+
+

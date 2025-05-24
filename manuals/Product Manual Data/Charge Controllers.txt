@@ -1,0 +1,210 @@
+TED
+A
+D
+UP
+
+Solarix PRS 2020, 3030 and PR 3030 PWM type charge controllers offer high performance and
+simple operation as well as many protection features. They offer automatic detection for either
+12VDC or 24VDC configuration and a multi coloured LED or LCD display indicates
+
+Tarom 4545-48 PWM charge controller is designed for use with inverter AC systems. The controller
+combine basic solar charger functions with 45A input and is available for 12V, 24V and 48V
+systems. A text type LCD display is provided that indicates operating parameters and fault
+messages. All controllers provide various electronic protection functions including overcharge,
+over voltage, over temperature and over load with an automatic electronic fuse.
+
+Opti SC-SM smart PWM charge controllers are high specification simple to use units for general
+solar charging control applications, particularly for solar lighting control. Features include
+temperature sensing for compensation of charge voltage, battery type and protection level
+selection, intelligent voltage regulation that selects three stages of charging and a unique
+adjustable lamp dimming function. The controller is fitted with LED's that display various operating
+and fault conditions and also protects against current, voltage and charge levels outside set limits.
+Opti SC MAX charge controllers are advanced technology units that feature automatic system
+voltage recognition, various battery working mode and protection options, charge intensity
+selection, electronic overload protection and an LCD display.
+Opti SC MPPT charge controllers are advanced design MPPT (Maximum Power Point Tracker) type
+electronic units that are particularly designed for operation with inverter systems. MPPT technology
+optimally matches power between the PV solar array and the battery bank and typically giving a 2530% power gain over PWM regulation. All units are provided with an LCD display that indicates
+input and output voltage and current, charge mode, battery charge status and energy outputs.
+
+DAYLIFF
+
+The DAYLIFF solar charge controller is of advanced design with Maximum Power Point Tracking
+(MPPT) applying an intelligent ultra-fast algorithm that enables the controller to extract maximum
+power from solar arrays. The battery charging process is also optimized for long battery life and
+improved system performance. Self-diagnostics and electronic error protections prevent damage
+when installation errors or system faults occur .
+• Rated charge current 30 and 40A
+• Automatic Battery Voltage recognition
+• Maximum efficiency 98 %
+
+STECA
+
+Max. Module Current (A)
+Nominal Battery Voltage(VDC)
+
+PRS
+2020
+20
+
+PRS
+3030
+30
+
+Tarom
+4545-48
+45
+
+SC
+10SM
+10
+
+OPTI
+SC
+SC
+50MAX 60MAX
+50
+60
+
+12/24
+
+DAYLIFF
+SC 600
+MPPT
+25
+24
+
+SC 3kW
+MPPT
+45
+12/24/48
+
+MPPT
+MPPT
+30
+40
+30
+40
+12/24 Auto Select
+
+66
+
+145
+
+150
+14
+
+15
+
+30
+
+13
+
+4
+
+SC
+20SM
+20
+
+12/24/
+48
+
+12/24
+
+Max. Input Voltage (VDC)
+Self Consumption (V:mA)
+
+PR
+3030
+30
+
+720/
+1440
+
+Max. PV Array Power (Watts)
+
+900
+
+2400
+
+120/240 240/480 600/1200
+
+Low VoltageDisconnect (LVD)
+
+11.2-11.6V(22.4-23.2V)
+
+46.8V
+
+10.8-11.9V(21.6-23.8V)
+
+22.4V
+
+800/1600 12V432/ 12V576/
+24V864 24V1152
+/3200
+11.5/22.4
+10.0/17.0
+/44.4
+
+Reconnection Voltage (LVR)
+
+12.4V-12.7(24.8-25.4V)
+
+50V
+
+12-13.2V(24-26.4V)
+
+24.6V
+
+12.4/24.6/
+50.4
+
+IP 32
+
+IP 31
+218x134
+x65
+0.8
+
+IP 43
+220x170
+x575
+1.85
+
+IP 31
+315x65
+x128
+4.5
+
+Display
+IP Rating
+Dimensions (mm)
+Weight (kgs)
+
+600
+
+LED
+187x96x45
+0.35
+
+12.4/24.6
+
+LCD
+IP 67
+85x70
+85x85
+x20
+x20
+0.2
+
+IP 32
+127x164x47
+0.21
+
+0.69
+
+IP30
+185x250x95
+2.65
+
+

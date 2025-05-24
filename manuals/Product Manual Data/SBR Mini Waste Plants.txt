@@ -1,0 +1,150 @@
+SBR MINI
+Waste Water
+Treatment Plants
+
+Discharge
+Pump(optional)
+Manhole
+Cover
+
+Ground Level
+
+¾” air pipe
+
+Manhole
+Cover
+
+Air
+Pump
+
+Top Water Level
+
+Effluent Inflow
+
+Bottom Water Level
+Inlet Tee
+
+Units in mm
+256
+
+Fine Bubble
+Diffuser
+
+200
+222
+
+Air Lift
+Manifold
+
+20
+
+Fine Bubble
+Diffuser
+
+140
+
+37
+ø18
+
+110
+
+58W Air Pump
+(For Aeration & Discharge)
+
+Bioliff SBR Mini is a popular technology for treating wastewater from smaller establishments ranging from 10 to 80 heads. The SBR process treats
+sewage and wastewater producing a high-quality effluent that is clear and odour free providing excellent economy in both investment and
+operating cost. It is constructed in-ground or above ground from concrete or other tank materials such as paneltim plastic. A single motorized
+component, the Linear Air Pump, is installed adjacent to the plant which incorporates an intelligent programmable controller to control plant
+operation.
+The SBR Mini is particularly versatile and can be used in most tank dimensions and shapes. This flexibility allows the system to be easily retrofitted to
+existing septic/conservancy tanks often without need for any further civil works. Particular application areas include;
+• Sites with failing septic tanks, soakaways and leach fields.
+• Sites with high groundwater, bedrock levels, poor draining soils e.g. black cotton soils.
+• Sites with flooding septic tanks especially during rains.
+• Sites suffering from bad septic smells.
+• Sites using exhauster truck services.
+Benefits of the SBR include;
+• Recycling of water for irrigation, carwash, toilet flushing etc.
+• Entirely aerobic so does not create odorous gases as septic tanks and anaerobic bio digesters do.
+• System treats and stabilises sludge, so potentially will not need exhausting.
+• Reduces environment impact and preserves ground water resources.
+The purification process includes:1. Charging: Wastewater continuously enters the system via the sewer line.
+2. Aeration: Air is forced into the reactor by a low energy Linear Air Pump to provide oxygen to the bacteria (activated sludge). The aeration
+also mixes the contents of the reactor so oxygen and waste are brought into contact with the bacteria. In this step the waste is removed from
+the water by the bacteria. The aeration pump controller applies air to the system intermittently during the aeration phase.
+3. Settling: Aeration is stopped and for a period of 90mins the reactor is still, allowing the activated sludge to settle to the bottom of the
+reactor tank taking all suspended solids with it. This leaves clear water, or supernatant, in the top section of the reactor tank.
+4. Discharge: Airlift, run from the air pump, lifts a batch of the clear water out of the system and into storage or discharge to the environment.
+5. Storage (Optional): The discharged treated water is introduced to Chlorine disinfection within the storage chamber. The treated water is
+either utilised for irrigation, car wash, wash down etc. or safely discharged to the environment.
+EQUIPMENT SPECIFICATION
+Model
+Population Equivalent (PE)
+Flow (m3/day)
+Organic Loading (kg/BOD5/day)
+Nitrogen Loading (kg/NH/day)
+Tank Depth (m)
+Total Tank Volume (m3)
+Installed Power(kW***)
+
+10PE
+10
+1.5
+0.6
+0.08
+1.7
+5
+0.058
+
+20PE
+20
+3.0
+1.2
+0.16
+2
+9
+0.2
+
+40PE
+40
+6.0
+2.4
+0.32
+2
+18
+0.4
+
+60PE
+60
+9.0
+3.6
+0.48
+2
+27
+0.6
+
+80PE
+80
+12.0
+4.8
+0.64
+2
+36
+0.8
+
+* The design and layout is very flexible. For alternative layouts, smaller foot prints, or different depths please enquire.
+** Due to the intelligent controller and SBR cycle process the actual power consumption is lower than the installed power would suggest.
+SBR Purification results:
+BOD: <30mg/l
+*
+
+COD: <50mg/l*
+
+TSS: <30mg/l
+
+TN: <20mg/l
+
+COD results are dependent on the proportion of non-biodegradable soluble COD in wastewater. If the proportion is too high then further chemo-physio process
+may be required.
+
+

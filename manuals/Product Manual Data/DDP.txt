@@ -1,0 +1,117 @@
+DDP
+60
+
+50
+
+DDP 60/65
+DDP 65
+
+DDP 60
+DDP 60E
+DDP 60E
+
+PUMPS
+The Dayliff DDP peripheral pump is specially designed for all small scale domestic and commercial water supply uses. It is of high
+specification peripheral featuring copper windings, a high capacity motor and stainless steel housing inserts to ensure free impeller
+movement. The pump body is manufactured from cast iron and impeller from brass.
+DDPE60E is of lighter construction and does not feature stainless steel housing inserts.
+MOTORS
+Pumps are close coupled to reliable TEFC electric motors designed for continuous operation and are provided with a thermal cutout
+to protect against electrical overload. They can be connected directly to the mains power supply through a 10A fuse or MCB.
+Enclosure Class: IP44
+
+Insulation Class: F
+
+Speed:2900rpm
+
+Voltage:1x240V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solid particles or fibres
+Max. Fluid Temperature: +600C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 7m at sea level
+PUMP DATA
+Motor
+(kW)
+
+Current (A)
+
+DN1
+(”)
+
+DDP 60E
+
+0.37
+
+1.8
+
+1
+
+DDP 60
+
+0.37
+
+2.5
+
+1
+
+DDP 65
+
+0.75
+
+5.2
+
+1.5
+
+Model
+
+DN2
+
+DN1
+
+DN2
+(”)
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+L
+
+W
+
+H
+
+1
+
+254
+
+118
+
+150
+
+4.4
+
+1
+
+265
+
+118
+
+151
+
+5.3
+
+1.5
+
+305
+
+136
+
+181
+
+10
+
+

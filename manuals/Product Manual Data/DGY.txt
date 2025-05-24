@@ -1,0 +1,255 @@
+DGY
+Prime Power
+Diesel Generators
+
+Dayliff DGY generators are robust, high quality units designed for continuous duty in a wide range of power supply applications. All
+sets offer the following features:• Powered by dependable and efficient Dayliff Y Series water cooled diesel engines with 12V starter system the for small sizes
+and 24V starter systems for 30kVA and above
+• Close coupled at 1500rpm to a brushless single bearing alternator with solid state AVR regulation.
+• Base frame mounted on anti-vibration mounts and including a high capacity base mounted fuel tank for extended operation
+time.
+• Powder coated sound and weather proof canopies with residential silencer for extremely low noise operation.
+• Integral DSE digital control module that provides selectable readout of electrical voltage, phase current, output frequency
+and battery voltage and engine speed, hours run, oil pressure and coolant temperature.
+• Automatic shut down protection in the event of low engine oil pressure, high engine temperature and over and under speed
+with warning indicators provided for each condition.
+• Digital automatic mains failure provision for starting the generator. An additional automatic transfer switch is also required for
+mains/generator power transfer.
+Dayliff DGY Yanan diesel generators are reliable economical and high specification products that are the ideal solution for all
+continuous duty and standby power generating requirements.
+TECHNICAL DATA
+GENERATOR MODEL
+Prime/Standby
+Power Output
+
+DGY 7Y
+
+DGY 12YM
+
+DGY 12Y
+
+kVA
+
+9/10
+
+12/13
+
+15/17
+
+kW
+
+7/8
+
+12/13
+
+Dimensions &
+Weights
+
+Alternator Data
+
+Engine Data
+
+Type
+
+DGY 16Y
+
+DGY 24Y
+
+DGY 36Y
+
+DGY 48Y
+
+DGY 60Y
+
+20/22
+16/18
+
+30/33
+
+45/50
+
+60/66
+
+75/83
+
+24/26
+
+36/40
+
+48/53
+
+60/66
+
+YD380D
+
+YND 485D
+
+YSD490D
+
+Y4102D
+
+Y4102ZLD
+
+YD4EZLD
+
+YD4110ZLD
+
+Rated Power @ 1500rpm (kW)
+
+11
+
+17
+
+20
+
+33
+
+48
+
+63
+
+76.7
+
+Max Power @ 1500rpm (kW)
+
+12
+
+18.7
+
+22
+
+36.3
+
+52.8
+
+69.3
+
+80.7
+
+Aspiration
+
+Naturally Aspirated
+
+Turbo Aftercooled
+
+No. of cylinders
+
+3
+
+Displacement (L)
+
+1.4
+
+2.2
+
+2.5
+
+Fuel
+75% load
+Consumption
+100%
+load
+(litres/hr)
+Fuel Tank Size (litres)
+
+2.5
+
+3.8
+
+4.4
+
+6.9
+
+9.7
+
+12.4
+
+16.3
+
+3.3
+
+5
+
+5.8
+
+9.2
+
+12.9
+
+16.5
+
+20.9
+
+4
+
+100
+
+160
+
+Self excited 4 pole (1500rpm) single bearing, brushless
+3x400V
+
+3x400V
+
+1x240V
+
+Voltage Regulation
+
+Solid state AVR±1.0% with 4% engine governing
+
+Insulation Class
+
+H
+
+Protection Rating
+
+IP21
+
+Length, A (mm)
+
+1900
+
+1800
+
+Width, B (mm)
+
+2300
+
+1000
+
+Height, C (mm)
+Dry Weight (kgs)
+
+4.3
+
+150
+
+Alternator Type
+Output Voltage
+
+3.9
+
+1180
+770
+
+800
+
+2400
+1100
+
+1240
+860
+
+1070
+
+1230
+
+1280
+1260
+
+1390
+
+DERATING: Given outputs are sea level ratings. Sets should be derated at 1% for every 100m higher than 100m above sea level, and 2% for every
+50C temperature above 200C for naturally aspirated engines.
+
+

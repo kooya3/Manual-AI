@@ -1,0 +1,490 @@
+DSM
+Submersible Motor
+
+6
+Ø7
+
+Ø
+
+33
+
+.2
+
+11
+
+50.9
+
+.2
+±0
+
+1.
+
+2
+
+±
+
+0.
+
+2
+
+M8 THREAD
+
+1/2-20UNF
+Ø94
+
+24(min)
+
++0.3
+
+Ø138
+0, Ø76.2-0.07
++0.1, Ø25
+
++0.02,
+73 - 0.12
+
++0.05
+-0.03
+
+H
+
+H
+
++0.25, 76.0
+
+3.5 MIN
+
+22.5
+
+Ø15.5
+
+Ø38 +0.05
+
++0.02
+
+Ø87.3 -0.05
+Ø34
+
+DSM4
+
+DSM6/8
+
+4" Motor
+
+6" Motor
+
+8" Motor
+
+DAYLIFF DSM submersible motors are specifically designed to give exceptional reliability and efficiency in all borehole pumping applications.
+Features include:• 4" oil filled type motor with FDA approved colourless oil
+• 6/8" canned type motor with resin filled stator for extended motor life
+• Largely stainless steel AISI 304 construction with cast iron top and bottom bearings
+• Water lubricated thrust and radial bearings
+• Reinforced netted Nylon diaphragm for internal motor pressure compensation
+• Thermal overload for motor protection
+• Standard NEMA flanges for use with all types of pumps
+Protection: IP68
+
+Insulation Class: F
+
+Voltage: 1x220V/240V,50Hz/ 3x380V/415V, 50Hz
+
+OPERATING PARAMETERS
+Max Voltage Variation: ±10%
+Max Starts/Hr: 20
+Max Water Temperature: 350C
+Min Water Pass Flow Rate: 0.2m/sec
+Max Immersion Depth: 200m-4" and 300m-6/8"
+Installation: Vertical/horizontal with a tilt angle >50
+MOTOR DATA
+SINGLE PHASE
+Power
+kW
+0.37
+0.55
+0.75
+1.1
+1.5
+2.2
+
+HP
+0.5
+0.75
+1
+1.5
+2
+3
+
+In
+
+Istart Efficiency
+
+(A)
+3.7
+5.0
+6.2
+8.1
+10.4
+15.0
+
+(A)
+12
+15
+20
+32
+38
+46
+
+%
+53
+62
+64
+68
+73
+72
+
+PF
+
+MATERIAL SPECIFICATION
+Capacitor
+
+RPM
+
+CosØ
+
+0.90
+
+mm2
+
+µF
+
+16
+20
+25
+35
+40
+55
+
+2840
+
+Tail Cable
+
+1.5
+
+m
+
+1.7
+
+2.5
+
+H
+(mm)
+
+Weight
+
+346
+365
+380
+405
+440
+495
+
+7
+8
+9
+10
+12
+14
+
+THREE PHASE
+Power
+kW
+0.37
+0.55
+1.1
+0.75
+1.5
+2.2
+3.0
+4.0
+5.5
+7.5
+5.5
+7.5
+11
+15
+18.5
+22
+26
+30
+37
+45
+55
+
+HP
+0.5
+0.75
+1
+1.5
+2
+3
+4.0
+5.5
+7.5
+10
+7.5
+10
+15
+20
+25
+30
+36
+40
+50
+60
+75
+
+In
+(A)
+
+PF
+Istart Efficiency
+(CosØ)
+(A)
+(%)
+
+4.5
+1.6
+1.9
+6.7
+8.9
+2.3
+3.1
+12
+4.0
+14
+5.6
+22
+7.4
+43
+9.8
+49
+71
+13.7
+18.9
+96
+12.7 59.5
+16.5 67.5
+24.2 60.7
+32
+142.3
+101.2
+40
+139.4
+47
+58
+301
+64.1 320
+275
+72.4
+96
+672
+118
+826
+
+60
+64
+66
+70
+72
+71
+73
+75
+76
+76
+79
+79
+77
+80
+81
+77
+82
+83
+82
+87
+88
+
+RPM
+
+Thrust Load Tail Cable
+(N)
+m
+mm2
+
+2820
+0.80
+
+2840
+
+2000
+
+1.5
+
+1.7
+
+2850
+3000
+2840
+0.85
+
+0.86
+0.89
+0.86
+0.84
+0.85
+0.84
+
+2850
+2837
+2826
+2802
+2837
+2814
+2720
+2003
+2848
+2850
+
+2.0
+
+2.5
+
+5000
+
+4.0
+15500
+11000
+
+4.0
+6.0
+5.0
+8.4
+
+27500
+
+16
+10*2
+
+H
+Dia Weight
+(mm) (mm)
+(Kg)
+330
+346
+365
+380
+405 94
+440
+516
+607
+683
+783
+627
+662
+727
+140
+787
+857
+907
+1004
+1047
+1417
+1105
+1205
+
+Component
+
+Material
+
+Motor shell
+
+304 stainless steel
+
+Sand guard
+
+NBR
+
+Cable connector
+
+4"-EPDM, 6/8"-XLPE
+
+Upper end bracket
+cover
+
+4"-304 stainless steel,
+6/8"-Cast Iron
+
+Upper end bracket
+
+Zinc plated cast iron
+
+Mechanical Seal
+
+Ceramic /Carbon
+
+Shaft (0.5-10HP)
+
+4”-304 stainless steel,
+6/8”-AISI 420
+
+Rotor (0.5-3HP)
+
+4”-Aluminium
+
+Rotor (4-10HP)
+
+4”-Copper
+
+Winding
+
+Copper
+
+Lower end
+bracket
+Lower end bracket
+cover
+
+4”-Aluminium,
+6/8”-Cast Iron
+4”-304 stainless steel,
+6/8”-Cast Iron
+
+Diaphragm
+
+NBR
+
+(Kg)
+
+7
+7
+8
+9
+10
+12
+15
+20
+23
+28
+51
+55
+61
+67
+75
+80
+101
+102
+117
+172
+202
+
+

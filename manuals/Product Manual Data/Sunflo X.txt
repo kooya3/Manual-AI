@@ -1,0 +1,310 @@
+DC Solar
+Submersible Pump
+100
+
+Average Daily Irradiation Values (Kwhr/m)
+6.3 6.5
+
+90
+SUNFLO-X
+1500C3
+
+80
+
+6.5
+6.0
+
+5.6
+
+5.8
+
+5.8
+
+5.6 5.7 5.9
+
+5.1 5.3
+
+PUMP HEAD (m)
+
+70
+60
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+50
+
+Graph 1
+% Daily Output
+
+40
+
+13.5%
+13%
+13%
+12%
+12%
+
+SUNFLO-X
+1500C8
+
+30
+
+10%
+
+SUNFLO-X
+500H1.6
+
+10%
+
+7%
+
+7%
+
+20
+SUNFLO-X
+200H/500H
+
+SUNFLO-X
+600C/1100C/1500C
+
+SUNFLO-X
+SUNFLO-X
+1100C3
+200H1
+SUNFLO-X
+600C2
+10
+
+1
+
+0
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+2%
+
+2%
+
+0%
+6
+
+8
+
+0%
+7
+
+8
+
+9
+
+10 11 12 13 14 15 16 17 18
+Time (hrs)
+Graph 2
+
+9 10 11
+
+Flow(m3/hr)
+PUMP
+DAYLIFF SUNFLO-X Range of pumps are high specification solar powered centrifugal and helical rotor DC pumps specifically designed for wells/borehole
+applications and feature a remote surface mounted controller. Pumps are constructed principally from AISI 304 stainless steel and are engineered to the highest
+standards to give serviceability, excellent efficiency, high reliability and long life.
+MOTOR
+Pumps are fitted with Permanent Magnet brushless high efficiency, maintenance free DC motors without integrated electronics specifically designed for maximum
+efficiency. They should be powered by solar arrays configured to provide the input voltage required and sized at approximately 130% of the rated motor power.
+Insulation Class: F
+
+Enclosure Class: IP68
+
+Speed: 4000rpm
+
+CONTROLLER
+Pumps are provided with matched controllers for monitoring, protecting and controlling pump operations with the following features:• Protection against reverse polarity, overload and over temperature.
+• Integrated MPPT (Maximum Power Point Tracking) with 99% energy conversion efficiency to maximize module power output.
+• Fully automatic operation and complete protection including low level control, dry running and over/under voltage.
+• Enhanced pump start on low sun intensity.
+• Easy trouble shooting, where fault code is displayed on LCD screen for fast identification and problem solving.
+• Enclosure Class: IP52
+PUMP OUTPUTS
+Performance curves are given at standard test conditions of 1000W/m2 solar irradiance and 250C. Output will vary throughout the year depending upon prevailing
+irradiation levels. For estimated daily outputs at continuous pumping multiply the indicated output at the duty point by the daily irradiation given in Graph 1. For
+indicative purposes factors of 1.1 can be applied for hot arid areas and 0.9 for temperate high altitude areas in the Tropics. Output will vary throughout the day as a
+proportion of the estimated hourly irradiation as shown in Graph 2.
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids with a sand content of less than 0.1%.
+Maximum Liquid Temperature: 0-350C
+Controller Ambient Temperature: -200C to +600C
+Max Immersion Depth: 70m
+Minimum Borehole Diameter: 125mm
+
+79
+
+PUMP DATA
+Power
+
+Model
+SUNFLO-X
+200H1
+SUNFLO-X
+500H1.6
+SUNFLO-X
+600C2
+SUNFLO-X
+1100C3
+SUNFLO-X
+1500C3
+SUNFLO-X
+1500C8
+
+Type
+
+kW
+
+Helical
+0.2
+Rotor
+Helical
+0.5
+Rotor
+Centrifugal 0.6
+Centrifugal
+
+Rated
+Motor
+Voltage
+(V)
+
+24
+
+Max
+Input Recommended
+MPP
+Voltage
+Voltage (V)
+(V)
+
+60
+
+30-50
+
+48
+
+100
+
+60-80
+
+48
+
+100
+
+60-18
+
+1.1
+
+110
+
+200
+
+120-160
+
+Centrifugal 1.5
+
+110
+
+200
+
+120-160
+
+Centrifugal 1.5
+
+110
+
+200
+
+120-160
+
+D&S Rated
+Range
+
+PV
+Congration
+
+6m3 /day at 1x350Wx1String
+30m Head
+10m3 /day at
+40m Head
+2x350Wx1String
+12m3 /day at
+30m Head
+20m3 /day at 4x350Wx1String
+40m Head
+20m3 /day at 6x350Wx2Strings
+60m Head
+50m3 /day at 6x350Wx2Strings
+25m Head
+
+Dimensions (mm)
+A
+
+B
+
+C
+
+Outlet
+
+195
+
+¾”
+
+365 170
+
+Weight
+(kg)
+
+6
+7
+
+375
+180
+500
+
+7
+
+320
+430
+
+630
+
+1¼”
+
+220
+
+8
+
+200
+490
+
+690
+
+10
+550
+
+230
+
+320
+
+2”
+
+172
+
+39
+
+

@@ -1,0 +1,150 @@
+DBH
+Horizontal Multistage
+Pumps
+60
+50
+
+PUMP HEAD (m)
+
+DBH8-30
+
+40
+30
+DBH2-40
+
+DBH4-50
+
+20
+10
+
+ETA %
+
+0
+DBH8-30
+
+30
+
+DBH2-40
+DBH4-50
+
+20
+0
+
+2
+
+4
+6
+8
+FLOW RATE (m3/hr)
+
+10
+
+12
+
+PUMP
+The Dayliff DBH range of horizontal multistage centrifugal pumps are designed for continuous duty in various water transfer duties
+with particular application in pumping slightly corrosive liquids. The pump has small physical dimensions, axial suction port and
+radial discharge and is base plate mounted. The pump body, suction and discharge ports are made from AISI 316 stainless steel as
+is all the other parts in contact with the pumped liquid. The mechanical seal is made from silicon carbide designed for easy
+replacement. Both pump and continuously rated motor unit are of monoblock design and particular attention has been paid to
+quietness and smooth operation.
+MOTOR
+The pump is coupled to a totally enclosed, fan cooled single phase squirrel-cage motor with built in thermal overload protection
+suitable for continuous duty. The motor can be connected to a power outlet fuse or MCB and protection must be provided.
+Enclosure Class:IP54
+
+Insulation Class: F
+
+Voltage:1x240V
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, slightly aggressive but non-explosive liquid without solid particles or fibres
+Liquid Temperature: 00C - 1100C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: According to NPSH curve plus a safety margin of 1
+Max. Operating Pressure:10bar
+
+Model
+DBH 2-40
+
+Motor Current
+(kW)
+(A)
+0.37
+
+4
+
+DNA
+
+Dimensions(mm)
+DNB
+
+DNA
+A
+
+B
+
+140
+
+132
+
+C
+
+H
+
+1"
+
+DBH 4-50
+
+0.75
+
+6
+
+1¼”
+
+DBH 8-30
+
+1.5
+
+12
+
+1½”
+
+255
+204
+
+142
+
+178
+
+267
+
+L1
+
+Weight
+(kg)
+
+403
+
+10
+
+441
+
+12
+
+514
+
+22
+
+A
+
+DNB
+
+L1
+C
+
+B
+
+

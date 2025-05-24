@@ -1,0 +1,217 @@
+SMARTFLO
+Smart Inverter
+Booster Sets
+
+SDSMART
+
+SDBE
+
+SDIX
+
+Variable speed control is a widely used technology for pump control & works by varying the pump speed to provide system water output at a constant
+pressure. Smart Inverter booster sets feature an integrated variable speed inverter drive within a permanent magnet motor. This provides the
+following benefits:
+• Constant pressure providing consistent, even supply to the consumer.
+• Large energy cost savings as systems are always operating at peak efficiency for the demand conditions.
+• Extended pump life due to reduced electrical and mechanical operating loads.
+• Silent operation with no pressure shocks
+• Simplified installation due to compact dimensions and integral pump control with no separate control panel needed
+Principle system components include an integral variable speed controller, a quality Dayliff pump, a pressure sensor and a surge tank that smoothens
+the operating cycle. The integral controllers offer the following features;
+• Varies pump speed to maintain a pre-set system pressure.
+• Over voltage, under voltage, single phasing and electrical overload protection.
+• Dry run protection with auto restart.
+• Integral soft start/stop function which extends pump life, reduces system pressure loads and
+reduces mains power loading on start up.
+• Master-Slave controller configurations and sychronization of multiple controller systems for
+sequenced pump operation.
+• Balanced pump operation ensuring equalized operating periods for each system pump.
+50Hz
+40Hz
+
+All Dayliff Smart inverter booster sets use the latest technology controllers integrated into a quality
+Dayliff pump and are supplied frame mounted complete with inlet, outlet manifolds and valves
+for simple installation. Nominal system pressures can be set to suit site conditions and multiple
+pump configurations are available. Variable speed technology is now accepted as the most
+efficient way to provide on-demand water supply in all sorts of industrial, commercial and
+domestic applications. Dayliff smart inverter booster sets are the ideal solution in the application
+of this efficient technology.
+
+45Hz
+
+Smartflo interprets the signal from the
+pressure transducer and varies pump speed
+to maintain constant set pressure at various
+demand levels.
+
+SPECIFICATIONS
+Pumps - Options of Dayliff Dsmart, DBE or DIX permanent magnent smart inverter centrifugal pumps.
+Controllers - Integrally mounted controllers that provide a pump control system that utilizes variable frequency drive technology (VFD) to provide
+constant pressure at varying demand flow requirements.
+Motors - The pumps are coupled to a high efficiency IE5 permanent magnet variable speed motor complying with IEC standards. The motors can be
+PUMP DETAILS
+
+2 PUMP SYSTEM
+
+SYSTEM
+POWER
+PRESSURE
+(kW)
+(Bar)
+
+DAYLIFF
+1.1xph
+DBE 5-40
+DSMART
+1.5x1ph
+1500
+DAYLIFF
+2.2x1ph
+DBE 12-40
+DAYLIFF
+5.5x3ph
+DIX 5-15
+DAYLIFF
+7.5x3ph
+DIX 10-8
+DAYLIFF
+10x3ph
+DIX 20-5
+
+4
+
+18
+15
+11
+
+MODEL
+No.
+SDBE
+2-10/40
+SDSMART
+2-24/40
+SDBE
+2-24/40
+SDIX
+2-10/180
+SDIX
+2-20/150
+SDIX
+2-40/110
+
+NOMINAL TANK INLET/
+OUTPUT SIZE OUTLET
+(Lit)
+(m3/hr)
+(”)
+
+10
+
+3
+
+1¼
+
+24
+
+3
+
+2
+
+3 PUMP SYSTEM
+LxWxH
+(mm)
+
+675x600x700
+
+80
+
+675x675x790
+
+90
+
+675x675x750
+10
+
+40
+
+100
+180
+
+675x675x940
+20
+
+WEIGHT MODEL
+(Kg)
+No.
+
+24
+
+3
+675x675x1180
+
+190
+210
+
+SDBE
+3-15/40
+SDSMART
+3-36/40
+SDBE
+3-36/40
+SDIX
+3-15/180
+SDIX
+3-30/150
+SDIX
+3-60/110
+
+NOMINAL TANK INLET/
+OUTPUT SIZE OUTLET
+(Lit)
+(m3/hr)
+(”)
+
+15
+
+1½
+3
+
+LxWxH
+(mm)
+
+WEIGHT
+(Kg)
+
+900x600x700
+
+105
+
+900x675x790
+
+115
+
+900x675x750
+
+125
+
+36
+2
+15
+
+205
+1100x675x940
+
+30
+60
+
+24
+
+3
+4
+
+215
+1500x675x1180
+
+235
+
+

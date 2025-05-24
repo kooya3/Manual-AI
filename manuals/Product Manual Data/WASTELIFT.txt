@@ -1,0 +1,73 @@
+Wastelift
+Sewage Lifting Unit
+
+10
+9
+8
+
+PUMP HEAD (m)
+
+7
+6
+5
+4
+3
+2
+
+1. Connecting cable
+2. Vent Valve
+3. Discharge
+
+4. Tank
+5. Toilet Connection
+6. Basin Connection
+
+1
+
+0
+
+1
+
+2
+
+3
+4
+FLOW RATE (m3/hr)
+
+5
+
+6
+
+SYSTEM
+Dayliff Wastelift is a unique product designed for the collection and discharge of waste from a WC, washbasin or shower where site
+conditions prevent direct connection to a gravity sewage system. This can arise due to the installation being below the sewer level or
+remoteness making direct drainage impractical. The unit consists of an ABS plastic collection tank connected directly to the WC outlet
+which contains a highly effective cutter pump that macerates toilet waste so it can easily pass through small bore water pipes. The
+integral cutter pump is controlled automatically by means of a pneumatically operated level switch. Particular features include;
+• Self cleaning design with sloping bottom keeps grinder and tank free from sedimentation
+• Built in charcoal filter eliminates odours
+• High Torque pump motor with special windings and shaft technology for improved maceration efficiency
+• Low noise level, compact and easy to install
+• Fitted with circuit board with delay timer function and low voltage protection
+The unit is supplied with all installation fittings and is provided with three inlets so is suitable for connection to all bathroom facilities as
+well as a 'P-trap type' toilet making installation simple.
+PUMP
+The integral cutter pump is controlled automatically by means of pneumativally operated level switch. It is provided protection and can
+be connected directly to the main power supply through a 10Amps MCB or Fuse.
+Voltage: 240V, 50Hz
+Insulation Class: F
+
+Operating Current: 3 Amps
+Enclosure Class: IP24
+
+Power Consumption: 600W
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Sewage water containing toilet paper and faeces, though not sanitary articles or wastewater containing fat.
+Max Fluid Temperature: +500C
+Max. Ambient temperature: +350C
+Max. Fluid Volume: 9litres
+PH Range: 4-10
+
+

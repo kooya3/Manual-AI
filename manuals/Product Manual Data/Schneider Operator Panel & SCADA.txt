@@ -1,0 +1,90 @@
+Operator Panel
+and SCADA for
+Pumping
+
+HARMONY HMI
+Harmony ST6 HMI (Human Machine Interface) is a high-resolution touch screen advanced operator interface for controlling automation systems in various
+industry operations including Pumping, HVAC (heating, ventilation and air conditioning), Food & Beverage and Packaging. It is particularly suited for
+operation at pump stations with multiple pumps and motors. The HMI features improved user experience through an intuitive design powered by modern
+visualization software Ecostruxure Operator Terminal Expert. It is offered as a standard in 12” or 15” display size, and assembled in an enclosure complete
+with accessories which may include PLCs (programmable logic controllers) depending on the use case. The HMI is compatible with multiple PLC models
+enabling direct integrations with existing control systems. Salient features include:
+• User access management and operation logs ensuring security and traceability.
+• Data logging and trend graphs
+• Alarm summary with alarm message, type, data and time it was reported or restored.
+• Web Viewer function allowing remote monitoring and control from PC/Tablet/Phone
+• Aluminium front panel with status LED for signaling operating status
+• Communication via Ethernet with Enterprise systems (SCADA, MES and ERP) using OPC-UA protocol.
+SPECIFICATIONS
+Display Type: Colour TFT LCD 16M Colours
+Processor: ARM Cortex-A8 800MHz
+Touch Panel: Resistive single touch
+Backlight Lifespan: 50,000 hours white
+Enclosure material: Polycarbonate
+Ambient Temperature: 0-50°C
+Rated Supply Voltage: 24Vdc ± 20%
+Power Consumption: 18.5W
+IP Protection: IP65 front, IP20 rear
+Memory: 1GB device memory, 512KB backup memory, 128MB user data memory
+Integrated connection type: 1 Com Serial RS232, 1 Com Serial RS485, 1 USB 2.0 type A, 1 USB 2.0 micro-B, 2 Ethernet
+Display
+Dimensions (HxWxD) & Weight
+
+HMIST6600
+12.1” wide 1,280 x 800 pixels (WXGA)
+235 x 313 x 50 mm, 1.8kg
+
+HMIST6700
+15.6” wide 1,366 x 768 pixels (FWXGA)
+268 x 412 x 50 mm, 2.7kg
+
+EMSE SCADA FOR PUMPING
+Ecostruxure Machine SCADA Expert (EMSE) is a modern and scalable Supervisory Control and Data Acquisition (SCADA) system designed for efficient pump
+station control and monitoring. The SCADA is deployed on PC Workstations/Servers and accessible from Thin Client stations within the Local Area Network
+(LAN). Optionally, remote access via the internet can be set up using Virtual Private Network (VPN).
+EMSE enables centralized control and real-time monitoring of multiple pump stations. Instantaneous data acquisition from instrumentation allows tracking
+and reporting on various water parameters including volumes pumped, flow rates, pressure, levels and quality. Integral alarm management ensures prioritized
+alarm notifications on dashboards and e-mail. Other salient features include:
+• Intuitive user interface with customizable dashboards and graphical displays.
+• Data Management with secure data logging, storage, and report generation.
+• Support of backup or secondary data server for redundancy - used when primary data server is unavailable.
+• Multiple security options for thin client access including IP whitelisting, disabling commands and SSL encryption.
+• Integration of SQL databases and native drivers for communication with PLCs and enterprise systems (MES, ERP).
+• Native OPC interface including OPC UA and OPC DA for data exchange with third party systems.
+EMSE is supplied with a perpetual runtime license specified to a maximum tag count (1.5K, 4K, 32K & 64K) complete with one thin client access license.
+Additional think client access licenses (HMIEMSETCA) can be purchased to allow access of the SCADA from other computers within the facility intranet and
+also enable SCADA display on multiple screens in control rooms.
+DIGITAL LICENSE
+
+DESCRIPTION
+
+TAGS
+
+HMIEMSERT1KA
+
+EMSE 1.5K Tag RT License
+
+1,500
+
+HMIEMSERT4KA
+
+EMSE 4K Tag RT License
+
+4,000
+
+HMIEMSERT32KA
+
+EMSE 32K Tag RT License
+
+32,000
+
+HMIEMSERT64KA
+
+EMSE 64K Tag RT License
+
+64,000
+-
+
+Upgrade licenses are available for increasing to next Tag count level i.e. 4K, 32K and 64K
+
+

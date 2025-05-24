@@ -1,0 +1,104 @@
+PoolChlor
+Salt Water Chlorinators
+
+Salt Water Chlorination is now well established as an effective method of swimming pool sanitisation. Chlorinators work on the electrolysis
+process whereby salt in the water is separated into its basic elements which releases chlorine gas into the water. Benefits include;
+• Improved water quality; Due to the consistent chlorine dosage and lack of residue, water quality is much better than that achieved by
+using conventional dry chlorine compounds.
+• Simple Operation; Once installed there is nothing to do - simply switch on and forget about pool chlorination.
+• Free Chlorine; No more chlorine bills - the unit will pay for itself in about a year.
+• Improved swimming pleasure; Saltwater chlorinated water puts an end to sore, red eyes and smelly, itchy skin.
+Dayliff PoolChlor is a high performance, high specification unit that includes the controller, a separate long life electrolysis cell and a flow
+sensor. The cell is connected on the pool return line in series with the pool pump for tandem operation. Features include;
+• Digital display and LED indicators
+• Self-cleaning cell
+• Adjustable chlorine output
+• No flow detection and shutdown
+• High and low salt indication
+• Salinity level indication
+• Water temperature indication
+Dayliff PoolChlor is a highly effective and efficient pool chlorinator that once fitted will give many years of consistent pool pleasure.
+OPERATION
+For effective PoolChlor operation the pool water should have salt added to a concentration of approximately 4000ppm, a typical 100m3
+pool requiring 400kgs. For general use pools should be dosed with chlorine at 3gms/m3/day and at the PoolChlor output of 30 gms/hr this
+will be achieved in 10 hrs operation. Dosage for pools of different sizes should be pro-rated accordingly.
+For optimal water quality a variable speed pool pump is suggested that can be set to work continuously at low speed and reduced chlorine
+levels. When operating a Chlorinator it is very important that pH is regularly monitored and controlled and also if the water becomes
+exceptionally dirty additional manual chlorination may be necessary to temporarily boost chlorine levels.
+
+EQUIPMENT SPECIFICATION
+Model
+
+Power(W)
+
+Poolchlor30
+
+180
+
+Poolchlor50
+
+240
+
+Chlorine
+Production(g/hr)
+
+INSTALLATION LAYOUT
+Pool Volume
+(m3)
+
+Weight
+(kg)
+
+115
+
+9
+
+30
+50
+
+150
+
+CONTROL
+MODULE
+
+110/220VDC
+POWER
+POOL TIMER
+OR
+SOURCE
+
+HEATER/
+SOLAR
+
+CONTROLS
+
+FILTER
+
+9
+PRE-FILTER
+
+14
+
+FLOW
+SWITCH
+
+22
+
+CELL
+
+35
+
+PUMP
+FROM
+POOL
+
+FROM
+SPA
+
+POOL
+RETURN
+
+SPA
+RETURN
+
+

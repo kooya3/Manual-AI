@@ -1,0 +1,123 @@
+45
+DDC 170
+40
+DDC 158
+35
+30 DDC 158E
+25
+20
+DDC 158/170
+
+15
+10
+5
+DDC 158E
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+PUMP
+The Dayliff DDC centrifugal non self priming closed impeller pump is specially designed for all small scale domestic and
+commercial water supply uses and is particularly suited for water boosting and transfer applications. The pump body is cast iron and
+the impeller brass.
+DDC158 Econo is of lighter construction and is fitted with stainless steel impeller.
+MOTOR
+Pumps are close coupled to reliable TEFC electric motors designed for continuous operation and are provided with a thermal cut
+out to protect against electrical overload. They can be connected directly to the mains power supply through a 10A fuse or MCB.
+Enclosure Class: IP44
+
+Insulation Class: F
+
+Voltage:1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solid particles or fibres
+Max. Fluid Temperature: +600C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 7m at sea level
+Motor
+Model
+DDC 158E
+DDC 158
+DDC 170
+
+kW
+
+HP
+
+0.75
+
+1
+
+1.1
+
+1.5
+
+Dimensions (mm)
+
+Current
+(A)
+
+L
+
+W
+
+H
+
+4.5
+
+305
+
+190
+
+240
+
+5.2
+
+305
+
+190
+
+260
+
+7
+
+346
+
+230
+
+293
+
+Weight
+DN1(”)
+
+DN2(”)
+
+1
+
+1
+
+1.5
+
+1.5
+
+(kg)
+12
+14
+21
+
+

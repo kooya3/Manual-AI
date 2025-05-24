@@ -1,0 +1,188 @@
+D25RE2
+
+D3RE2
+
+D45RE15
+
+D8RE2
+
+D20S
+
+Dosatron proportional chemical feeders are a unique solution for accurate in-line injection of a wide range of chemicals for
+various water treatment, agricultural and industrial applications. Installed directly on the raw water supply line, a hydraulic motor
+pump uses the water flow as its energy source. This pump in turn activates the dosing piston. Particular benefits are:• Fully automatic operation with dosage directly proportional to flow.
+• Simple to install and no external power source required.
+• Highly accurate and consistent dosage externally adjustable as required.
+• Accommodates large dosage ranges and operating pressures.
+Dosatron is principally used for water treatment applications particularly chlorination. Installation is simple and can be in line
+taking the full water flow or on a bypass for larger flow rates. Speacilised application products are available on request.
+Built principally from high quality engineering plastics and incorporating simple mechanical components, Dosatron feeders are
+designed for long-term reliability and durability. Now extensively proven the world over, Dosatron is established as the preferred
+option whenever consistent and accurate chemical dosage is an essential requirement for any production or environmental
+process.
+OPERATING PRINCIPLE
+
+OPERATING CONDITIONS
+Feed Water: Thin, clean non aggressive liquids without fibres
+or particles pre-filtered to atleast 300 micron (50 mesh). Pretreatment is required for feed water with higher levels of
+suspended solids.
+Chemical Concentrate: Thin, clean chemicals including most
+acids, alkalis and polymers for standard units. Special models are
+available for aggresive and viscous chemicals and can be
+specified on request.
+Operating Water Temp: Min 50C - Max400C
+Average Dosage Accuracy: +/-5%
+Repeatability: +/-3% (API standard)
+Suction Performance: self-priming, max4m
+Viscosity: PV kit required above 200 cSt at 200C and max with
+PV kit 400 cSt
+
+Motor Piston
+
+Solution Water +%
+Additive
+
+Clear Water
+
+Dosing Piston
+Adjustment % ratio
+
+Concentrated additive to be dosed
+
+MODEL DATA
+Model
+
+Operating
+Flow
+(m3/hr)
+
+Dosing Range
+%
+
+Pressure
+Loss
+(Bar)
+
+Stroke
+Volume
+(l)
+
+Inlet/
+Outlet
+
+0.3-1.9
+
+0.45
+
+0.2-2.3
+
+0.53
+
+Ratio
+
+Pressure
+Range
+(Bar)
+
+1:500-1:50
+
+0.3-6
+0.5-5
+
+0.1-1.7
+
+0.15-8
+0.12-10
+
+D25RE2
+
+0.01-2.5
+
+0.2-2
+
+D3RE2
+
+0.01-3
+
+0.2-3
+
+D45RE15
+
+0.1-4.5
+
+0.2-1.5
+
+1:500-1:33
+
+D8RE2
+
+0.5-8
+
+D20S
+
+1-20
+
+0.2-2
+
+1:500-1:50
+
+Dimensions
+
+Weight
+(Kg)
+
+Hmax
+
+W
+
+¾” BSP
+
+473
+
+160
+
+¾” BSP
+
+569
+
+218
+
+2
+
+0.8
+
+1” BSP
+
+531
+
+180
+
+3.2
+
+0.2-1.7
+
+1.7
+
+1½” BSP
+
+660
+
+218
+
+5.5
+
+0.12-0.88
+
+5
+
+2” BSP
+
+1320
+
+380
+
+23
+
+2
+
+

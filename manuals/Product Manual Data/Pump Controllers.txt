@@ -1,0 +1,66 @@
+Easy Small is a quality controller that automates pump operation replacing the traditional pressure
+switch and expansion tank. It works by starting the pump when pressure drops to the preset cut in
+level and stops it when demand drops to less than cut out flow rate. Features include:
+Dry running protection with automatic restart
+• Controlled cycling frequency in the event of system leakage
+• LED status indicator to monitor pump operation
+• Strong IP65 rated weather sealed housing
+• In-line connection with additional tee for pressure tank connection if required
+OPERATING CONDITIONS
+Voltage: 240V/50Hz
+Max. Motor Size:1.5kW
+Cut in Pressure: 1.5 Bar
+Max. Flow Rate: 12m3/hr(1 Bar Pressure Loss)
+Max. Delivery Height: 10m
+
+Max. Current: 12/16A
+Max. Water Temperature: 500C
+Max. Working Pressure: 10Bar
+Cut Out Flow: 2L/min
+
+The Pedrollo Easy Press is an integrated electronic pump controller for the provision of automatic
+pressurised water supply and is a more effective alternative to conventional pressure switch/pressure
+tank systems. The unit operates by starting the pump when system pressure drops below the pre-set
+value and stopping it when demand drops below the cut-out flow rate. Particular features include;Ÿ Led status indicators to monitor pump operation
+Ÿ Integral air chamber for even pressure supply
+Ÿ Dry running protection with automatic pump restart facility
+Ÿ Controlled cycling frequency in the event of system pressure leakage
+Ÿ Exceptionally strong IP65 rated moisture proof housing for trouble free long life operation
+Ÿ Patented free flow non-return valve providing low system pressure drop and flexible
+installation
+Easy Press is a state of the art design featuring a number of innovative control features to ensure
+consistent water supply and trouble free pump operation. It is the ideal solution for the automatic
+control of all small scale pumped water supply systems.
+OPERATING CONDITIONS
+Voltage: 240V/50Hz
+Maximum Water Temperature: 650C
+Cut in Pressure: 1.5 Bar
+Protection:IP65
+
+Maximum Current: 10A
+Maximum Working Pressure: 10Bar
+Maximum Flow Rate: 12m3/hr
+
+The Flux pump controller is specifically designed for the automatic control of booster pumps
+installed with a positive suction supply, notably for pressuring domestic systems from a roof tanks. it
+operates on flow so switches on with demand and switches off when demand ceases. Particular
+features are:Ÿ LED status indicator to monitor pump operation
+Ÿ Eliminates pump cycling conditions
+Ÿ Provides automatic run dry protection and pump reset when water supply returns
+Ÿ Strong sealed housing incorporating resin bonded circuit board protected from moisture
+damage
+Ÿ Can be installed vertically or horizontally.
+Flux provides consistent water supply with trouble free pump operation and is the ideal solution for
+the control of no-pressurised water supplies where additional pressure boosting is required to
+increase system flows.
+OPERATING CONDITIONS
+Voltage: 240V/50Hz
+Maximum Water Temperature: 650C
+Cut in Flow Rate: 1litre/min
+Protection:IP65
+
+Maximum Current: 10A
+Maximum Working Temperature: 10Bar
+Maximum Flow Rate: 12m3/hr
+
+

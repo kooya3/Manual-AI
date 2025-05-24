@@ -1,0 +1,176 @@
+DE
+End Suction
+Centrifugal Pumps
+
+1450 RPM
+
+PUMP HEAD (m)
+
+60
+50
+40
+DE100/32
+
+30
+20
+10
+10
+
+100
+
+1000
+
+2900 RPM
+160
+
+PUMP HEAD (m)
+
+140
+120
+100
+80
+60
+40
+20
+20
+
+30
+
+50
+
+70
+
+100
+
+FLOW RATE (m3/hr)
+
+200
+
+300
+
+400
+
+500
+
+PUMP
+The Dayliff DE range of end suction centrifugal pumps are rugged heavy-duty pumps designed for various water supply, irrigation
+and fire fighting duties in agricultural, commercial and industrial applications. The pumps feature gland packing seal for simple and
+economic maintenance, back pullout design enabling removal of the rotating element without disturbing the pipework connections
+and heavy duty bearings.
+A wide range is available and pumps can be modified for specific duties by adjustment of the impeller diameter which must be done
+with reference to the particular pump curve. Motors should be selected according to the pump speed and impeller diameter and
+mounted together with the pumps on a base frame with coupling. The pumps are also suitable for belt drive by either electric motor or
+a diesel engine. Pump construction is heavy duty cast iron casing with stainless steel shaft and bronze impeller.
+Temp Range: -100C to +1050C
+
+Max Operating Pressure: 16Bar
+
+0.75
+1.1
+3
+1.1
+1.5
+3
+
+5.5
+
+od
+24
+24
+24
+24
+24
+24
+32
+42
+42
+42
+32
+24
+32
+32
+
+5.5
+18.5
+7.5
+11
+
+15
+18.5
+37
+75
+30
+
+7.5
+7.5
+
+525
+
+90
+45
+
+32
+32
+
+11
+11
+DE100/32
+
+32
+32
+
+75
+132
+315
+
+160
+
+32
+
+45
+
+42
+
+30
+
+32
+
+37
+
+42
+
+75
+
+42
+
+30
+
+42
+
+55
+
+42
+
+90
+
+42
+
+75
+110
+
+48
+48
+
+90
+
+48
+
+132
+
+48
+
+n1
+
+134
+
+

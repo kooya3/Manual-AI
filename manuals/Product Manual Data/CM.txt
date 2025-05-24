@@ -1,0 +1,221 @@
+CM
+Horizontal Multistage
+Centrifugal Pumps
+80
+70
+
+PUMP HEAD (m)
+
+60
+
+CM3
+8A
+
+CM5
+
+CM15
+4A
+
+4A
+6A
+
+50
+40
+
+CM10
+
+6A
+
+3A
+
+4A
+
+2A
+
+4A
+
+2A
+
+30
+20
+10
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+12
+14
+16
+FLOW RATE (m3/hr)
+
+18
+
+20
+
+22
+
+24
+
+PUMP
+The Grundfos CM range of horizontal multistage pumps are high efficiency, high quality products designed for continuous duty in various water
+boosting and transfer applications. They are of compact dimensions, feature axial suction and radial discharge ports and are exceptionally quiet
+in operation. The suction and outlet chambers are made of grey cast iron, the impeller and the impeller housing of 304 stainless steel.
+The pumps are available in a wide range of sizes to suit particular applications and are designed for operation with the Grundfos PMI pump
+controller which provides automatic operation according to demand as well as dry-run propection.
+MOTOR
+The pump is coupled to a totally enclosed, fan cooled Grundfos squirrel-cage motor. Single phase motors include a built in thermal overload
+protection and should be connected to mains power through a 10A fuse or MCB. Three phase motors should be installed with a remote starter.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquids: Thin, clean, non-aggressive and non-explosive liquids without solid particles or fibres.
+Liquid Temperature: 00C to +1200C
+Max. Ambient Temperature: +550C
+Max. Suction Lift: According to the NPSH curve plus a safety margin of 1.0m
+Max. Operating Pressure: 10 bar
+PUMP DATA
+Model
+CM3-4A
+CM3-8A
+CM3-6A
+CM5-4A
+CM5-6A
+CM10-2A
+CM10-3A
+CM10-4A
+CM15-2A
+CM15-4A
+
+Voltage, V
+
+1X240
+
+3X415
+
+Power
+(kW)
+0.5
+0.7
+0.9
+0.7
+1.3
+1.3
+2.2
+3.2
+2.2
+5.8
+
+Current
+(A)
+3.2
+4.2
+5.2
+4.2
+8.9
+8.9
+4.9
+6.6
+4.9
+11.4
+
+Starting
+Current (A)
+17
+16
+22
+16.4
+30
+30
+36
+55
+36
+11
+
+A1
+(”)
+
+A2
+(”)
+1
+
+1
+1¼
+1½
+
+1½
+
+2
+
+2
+
+L1
+324
+400
+436
+364
+451
+421
+451
+537
+421
+590
+
+Dimensions(mm)
+B1
+H
+L2
+150
+186
+208
+142
+222
+150
+227
+178
+229
+190
+239
+190
+220
+210
+265
+198
+220
+190
+190
+210
+228
+220
+246
+
+H2
+149
+201
+245
+257
+
+Weight
+(kg)
+15
+17
+18
+16
+26
+32
+35
+41
+29
+34
+
+

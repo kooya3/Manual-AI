@@ -1,0 +1,109 @@
+DG PED
+Electronic Pressure
+Booster Systems
+60
+
+DG PED
+
+50
+
+40
+
+30
+
+Pset 4Bar
+
+Pset 3Bar
+
+DG PED Mini
+20
+
+Pset 2Bar
+
+10
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+PUMP
+Pedrollo DG PED is an advanced integrated automatic water pressurizing system designed for domestic and small scale water
+supply applications. The high efficiency self-priming pump is inverter controlled and the system is provided with an inbuilt pressure
+vessel and electronic control that regulates performance and also provides various protective functions. Particular features are:• Compact easy-to-install low noise booster system that provides constant pressure at fluctuating demand rates. The
+pressure setting is adjustable between 1-5.5Bar (factory set 3Bar). For longer operating period (2.5-4.5Bar)
+• Fully automatic control with protection for low voltage, electrical overload and dry running.
+• Suitable self-priming capabilities.
+• Can be installed anywhere including unventilated spaces due to water cooled pump design.
+• Expandable systems available through parallel unit operation.
+Pedrollo DG PED has many advantages over conventional water boosting systems due to its compactness, efficiency and advanced
+control and monitoring features. It is thoroughly engineered to the usual high Pedrollo standards and once installed will provide
+seamless water supply over many years of reliable operation.
+Enclosure Class: IPX4
+
+Insulation Class: F
+
+Voltage: 1X240V ±10%
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non aggressive water without particles or fibers. Cartridge pre-filtration is required to
+remove any impurities
+Maximum Operating Pressure: 10bar
+Maximum Ambient Temperature: 400C
+Maximum Liquid Temperature: 400C
+Operating Position: Vertical
+Minimum Suction Lift: 8m
+200
+274
+
+PUMP DATA
+
+DG PED Mini
+
+0.75
+
+7.5
+
+DG PED
+
+1.1
+
+10
+
+Inlet/Outlet (”)
+1
+
+Weight (kg)
+16
+17
+
+184
+
+Max Current (A)
+
+344
+
+Motor (kW)
+
+278
+
+MODEL
+
+390
+
+Dimensions in mm
+
+

@@ -1,0 +1,253 @@
+DIN90
+
+250
+
+200
+
+8
+7
+6
+5
+4
+
+DIN 90-6
+DIN 90-5
+
+150
+
+DIN 90-4
+
+0
+7
+
+DIN 90-3
+100
+DIN 90-2
+50
+
+105
+ETA%
+
+6
+
+90
+
+5
+
+75
+
+4
+
+60
+45
+NPSH
+
+DIN 90-1
+
+30
+15
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+20
+
+40
+
+60
+
+80
+
+100 120 140
+
+PUMP
+The DAYLIFF DIN pump range are of non self priming vertical multistage in-line centrifugal design suitable for a wide range of
+water supply, irrigation, liquid transfer and boosting applications. The pumps are of heavy duty construction and designed for
+continuous duty in commercial and industrial installations. All DIN pumps feature AISI 316 stainless steel vital components in
+contact with water including the impellers, intermediate chambers, shaft and top and bottom housings and are suitable for pumping
+highly mineralised corrosive water. All pumps are water lubricated and are provided with a standard cartridge type mechanical seal.
+They are supplied complete with BSP internally threaded counter flanges.
+MOTOR
+The pumps are coupled to high efficiency IE3 totally enclosed fan cooled 2-pole motor complying with IEC standards and must be
+connected to an effective motor starter in accordance with local regulations.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Voltage: 3x380-415V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean, non-aggressive and non-explosive liquids without solid particles or fibres.
+Liquid Temperature Range: -150C to +1200C
+Maximum Ambient Temperature: +500C
+Maximum Suction Lift: According to the NPSH curve plus a safety margin of 1m
+Maximum Operating Pressure: Up to 7.5kW - 16bar, others - 25bar
+Maximum Inlet Pressure:DIN 90-1-4Bar, DIN 90-2 -10Bar, DIN 90-3 to 6 -15Bar
+PUMP DATA
+Model
+
+Motor
+
+Full Load I Start
+Current
+I
+(A)
+
+kW
+
+HP
+
+DIN90-1
+
+7.5
+
+10
+
+14.7
+
+DIN90-2
+
+15
+
+20
+
+25.5
+
+DIN90-3
+
+22
+
+30
+
+37.1
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+D1
+
+D2
+
+D3
+
+981
+
+235
+
+197
+
+300
+
+118
+
+778 1268
+
+269
+
+215
+
+350
+
+170
+
+318
+
+241
+
+350
+
+221
+
+1662 390
+
+H1
+
+H2
+
+8.7
+
+572
+
+6.4
+6.4
+
+870 1410
+
+DIN90-4
+
+30
+
+40
+
+50.3
+
+6.4
+
+962
+
+295
+
+400
+
+330
+
+DIN90-5
+
+37
+
+50
+
+61.7
+
+6.6
+
+1054 1714
+
+390
+
+295
+
+400
+
+355
+
+DIN90-6
+
+45
+
+60
+
+74.8
+
+6.2
+
+1146 1836
+
+446
+
+325
+
+450
+
+436
+
+All dimensions in mm
+
+

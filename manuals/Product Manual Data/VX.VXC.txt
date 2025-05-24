@@ -1,0 +1,255 @@
+VX/VXC
+Waste Water Pumps
+
+30
+
+25
+
+20
+
+VX
+
+15
+
+VXC
+
+10
+VX55/50
+VX40/50
+VX75/65
+
+5
+VXC4
+
+VXC-F
+
+VXm10/35
+
+0
+
+20
+
+VXC30/50(-F)
+VXm15/50 & VXCm15/45
+
+40
+
+80
+
+60
+
+VXC4 55/100
+
+100
+
+120
+
+140
+
+PUMP
+The Pedrollo VX/VXC range of submersible drainage pumps are designed to handle industrial waste water and sewage. The open
+type impellers make the pumps especially suitable for pumping water containing a high proportion of solid particles including
+threads and fibres.
+Material of construction is heavy duty cast iron for motor housing and pump body except VX 40/50 whose motor housing is made
+from AISI 304 stainless steel. All pumps are supplied with 10m neoprene cable and the VXCm15/45 also includes an integral float
+switch for low level control.
+Two configurations are available. VX/VXC for either portable or fixed sump applications and VXC-F for sewage installations with
+discharge connection and guide bars provided.
+MOTOR
+Hermetically sealed induction motor designed for continuous duty provided the pump remains partially submerged (min 350mm). A
+control box is recommended for the single phase models which should be connected to a fused supply. Three phase models requires
+a remote DOL starter.
+Enclosure Class: IPX8
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, chemically non-aggressive liquids, containing suspended particles up to the specified size .
+Max. Fluid Temperature: +400C
+Max. Operating Depth: 10m
+Typical Installation
+PUMP DATA
+
+1x240V
+
+0.75
+
+1
+
+4.8
+
+1.5
+
+1.1
+
+1.5
+
+7.0
+
+2
+
+B
+
+40
+
+C
+
+148 406
+500
+
+428
+3
+
+5.7
+
+VX40/50
+
+4
+
+5.8
+
+3
+
+2.5
+
+DN
+
+C
+
+16
+
+50
+
+800
+
+587
+
+49
+48
+
+700
+
+2
+
+VX
+
+VXC
+
+20
+
+198 122 169 457 800
+
+B
+B C
+
+155
+
+VXCm15/45
+VXC30/50 (-F) 2.2
+
+Weight
+(kg)
+
+14
+
+446 500
+
+95
+
+VXm15/50
+
+H
+
+Ø
+min
+
+DN
+
+HP
+
+P
+min
+
+H
+
+kW
+
+Dimensions (mm)
+
+VX55/50
+
+4
+
+5.5
+
+7
+
+VX75/65
+
+5.5
+
+7.5
+
+12.7
+
+2.5
+
+65
+
+700 800
+
+65
+
+VXC455/100
+
+4
+
+5.5
+
+9
+
+4
+
+100
+
+228 165 806 1000 1000
+
+132
+
+107 170 627
+
+500
+
+54
+
+DN
+
+A
+(P)VXC
+
+P (minimum)
+
+VXm10/35
+
+3x415V
+
+Solids
+DN Passage
+(”)
+(mm)
+A
+
+H
+
+Current(A)
+
+H
+
+Motor
+Model
+
+Ø(minimum)
+
+

@@ -1,0 +1,153 @@
+ECO
+Salt Water Chlorinators
+
+SYSTEM LAYOUT
+230V Power
+Supply
+
+EcoSalt2
+
+Suction
+Line
+
+Accessories
+PUMP
+
+Return to
+pool line
+
+FILTER
+
+Ecomatic COMM
+
+EcoSalt 2
+
+Saltwater chlorination is the best solution to ensure a sparkling clean swimming pool. Benefits offered include:• Improved water quality! Due to consistent chlorine dosage and lack of residue, water quality is much better than that achieved by using conventional dry
+chlorine compounds.
+• Simple Operation! Once installed and water is salinated, simply switch on and forget about pool chlorination.
+• Free Chlorine! No more chlorine bills, the unit will pay for itself in about two years.
+• Improved swimming pleasure! Saltwater chlorinated water puts an end to sore, red eyes and smelly, itchy skin.
+Davey Chlorinators are of exceptional design combining high flow, long life electrodes with a robust switch mode power supply to provide many years of trouble
+free operation. All models feature multilingual and user friendly LCD interface with data logging capability, adjustable reverse polarity self-cleaning cells, auto-turn
+off on low salt, low flow and overload indication. Two types are available:Eco Salt 2- Economic, simple and compact units for smaller pools featuring inline reverse polarity cell to minimize maintenance and installation flexibility with cell
+plug to eliminate need for bypass. It also comes with an integrated flowswitch with min flow of 3.6m3/hr making it suitable for variable speed pumps. Operating salt
+level; 3-6g/l.
+Ecomatic COMM - For big residential and light commercial applications, the specification includes a heavy duty control unit and a high flow rate reverse polarity
+cell. It features logging for cell run and power supply time, low salt and low flow as well as cell failure. It has software controlled DC current to the cell for enhanced
+chlorine production. Suitable for 3-36g/l of salt level (sea water). This model also features MODBUS interface for remote monitoring of temperature, conductivity
+and run times. An optional WiFi and 4G connections are also available.
+Combining the benefits of the saltwater chlorination process with outstanding design, ease of operation and exceptional reliability a Davey Chlorinator is simply the
+best chlorinator available. Once installed no pool owner will ever be without one again!
+SALT WATER CHLORINATION
+The most common source of chlorine is common salt or sodium chloride. When dissolved in water the sodium and chlorine ions separate to form free sodium and
+chlorine. If an electric charge is passed through the solution in a process called electrolysis chlorine gas forms at the anode and hydrogen gas at the cathode, free
+chlorine gas being recovered in the process.
+Salt water chlorination uses this simple process, the pool water being passed through an electrolysis cell where chlorine gas is produced. Due to the very low
+quantities it is totally safe and very effective as the gas being produced is of 100% concentration. The electrolysis process also has the benefit of producing small
+quantities of ozone as a by-product which improves the sanitizing effect. In order for the process to occur salt is dissolved in the pool and thereafter there is constant
+production of chlorine whenever the pool pump is working. It really couldn't be simpler!
+CHLORINATOR OPERATION
+Davey Chlorinators include two components, the control unit and the electrolysis cell. The control unit is wall mounted close to the filter and provides DC power to the
+electrolysis cell. The pump is connected through the control unit so chlorine production only occurs when the pump is operating, the standard sizing basis being
+dosage levels of 1.5gms/m of pool volume every 24hours.
+The electrolysis cell is mounted in-line with the pool circulation piping after the pool filter. It has no moving parts, but does scale up with use, the self-cleaning process
+removing this scale by reversing the electrical polarity. Periodically the cells should also be manually cleaned.
+Salt is added at the pool at a concentration of about 4,000ppm, a typical 100m3 pool requiring about 400kgs. After the initial dose concentration levels need to be
+periodically topped up, though top up levels are small, usually in amounts of 50kgs. When operating a Chlorinator it is very important that pH is regularly monitored
+and controlled and also if the water becomes exceptionally dirty additional manual chlorination may be necessary to temporarily boost chlorine levels.
+EQUIPMENT DATA
+Model
+EcoSalt DES2-15E
+EcoSalt DES2-25E
+EcoSalt DES2-35E
+Ecomatic COMM 500
+Ecomatic COMM 1000
+
+Power
+(W)
+
+Chlorine
+Production
+(g/hr)
+
+120
+
+15
+25
+35
+50
+100
+
+240
+250
+500
+
+Pool Volume
+(8hr operation), m3
+Low
+High
+Usage
+Usage
+75
+50
+125
+80
+175
+110
+250
+150
+500
+300
+
+Controller
+Dimensions (mm)
+
+Cell Housing
+Dimensions (mm)
+
+Inlet/
+Height Width Depth Height Width Depth Outlet
+
+Weight
+(Kg)
+
+320
+
+238
+
+113
+
+341
+
+198
+
+120
+
+50
+
+10
+
+400
+
+300
+
+150
+
+206
+
+415
+
+127
+
+90
+
+16
+17
+
+NOTE:
+1. Recommended pool volumes are based upon 1.5ppm chlorine dosage in eight hours of pump operation. Dosage should be increased by +50% for pools with heavy bathing loads or in hot
+climates and a larger chlorinator specified accordingly
+2. In 'hard water' applications (above 275ppm), reverse polarity systems will require regular (monthly) inspection and manual cleaning.
+3. For Commercial, use 2.5ppm due to higher bath load and extended use
+
+

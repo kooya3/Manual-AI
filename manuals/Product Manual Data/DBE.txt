@@ -1,0 +1,225 @@
+DBE
+Horizontal Multistage
+Variable Speed Pump
+90
+
+90%
+90%
+
+50
+
+60
+80%
+
+40
+
+50
+70%
+
+40
+
+80%
+
+PUMP HEAD (m)
+
+PUMP HEAD (m)
+
+100%
+
+60
+
+70
+
+70%
+
+30
+
+60%
+
+30
+20
+
+60%
+50%
+
+20
+
+50%
+
+DBE 12-40
+
+DBE 12-40
+
+100%
+
+80
+
+DBE 5-40
+
+70
+
+DBE 5-40
+
+40%
+
+40%
+
+0
+
+1
+
+30%
+
+10
+
+30%
+
+10
+
+2
+
+8
+
+3 4 5 6
+7
+FLOW RATE (m3/hr)
+
+9
+
+0
+
+2
+
+4
+
+6 8 10 12 14 16 18
+FLOW RATE (m3/hr)
+
+PUMP
+The Dayliff DBE Booster is a compact water boosting unit for water supply in domestic and commercial applications for single and two booster
+pump systems. The pump is fitted with an integral variable speed controller that maintains pump output at constant pressure (adjustable up to
+5bar) with varying demand. The pump is compact for simple installation, quiet with low operating noise level and of robust design for long life.
+The speed controller maintains pump performance at maximum efficiency thereby minimizing operating costs.
+Particular features include:
+• Booster output is adapted to demand by changing speed and number of pumps in operation.
+• Automatic pump alternation in multi-pump setup to ensure uniform operating periods.
+All hydraulic parts are made from AISI304 stainless steel, and the pump unit is supplied with a 5-way connector, non-return valve, integrated
+pressure sensor and appropriately sized pressure tanks, 3L being the minimum recommended size.
+MOTOR
+The pump is fitted with high efficiency IE4 Permanent Magnet variable speed motor that incorporates thermal protection against motor overload
+and dry run protection with auto-restart. The motor can be directly connected to the mains power supply through appropriately sized FUSE or
+MCB.
+Enclosure Class: IP44
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+Speed: 4200rpm(DBE5-40), 4400rpm(DBE12-40)
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean non-aggressive and non-explosive liquids without solid particles or fibres
+Liquid Temperature: 0 - 700C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 1m
+PUMP DATA
+Motor
+
+Model
+
+kW
+
+HP
+
+Current
+(A)
+
+Inlet
+(”)
+
+Outlet
+(”)
+
+Dimensions (mm)
+W
+
+L
+
+H1
+
+H2
+
+Weight
+(kg)
+
+H3
+
+DBE 5-40
+
+1.1
+
+2
+
+8.9
+
+1¼
+
+1
+
+199
+
+303
+
+277
+
+112
+
+228
+
+10
+
+DBE 12-40
+
+2.2
+
+3
+
+16
+
+2
+
+2
+
+234
+
+595
+
+350
+
+141
+
+329
+
+28
+
+H1
+
+H1
+
+H3
+H2
+
+H3
+H2
+
+L
+
+W
+DBE 5-40
+
+W
+
+L
+DBE 12-40
+
+

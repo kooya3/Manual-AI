@@ -1,0 +1,30 @@
+Motor Protection Unit
+
+The Grundfos MP204 is a state of art electronic motor protector for asynchronous motors and can be used with both single and
+three phase motors. The unit consists of an enclosure incorporating instrument transformers and electronics and a control panel
+with operating buttons and display for reading data. It offers motor protection against current and voltage irregularities, dry
+running, earth leakage, high internal motor temperature and power factor. It also monitors harmonic distortion, starting and
+running capacitances if used with a single phase motor and can be connected to an external PTC thermal cutout switch.
+Particular features include:
+• Tripping if a condition of overload, underload (dry run), high temperature, missing phase, wrong phase sequence,
+overvoltage, undervoltage, low power factor or current unbalance is detected.
+• Warning against overload, underload, high temperature, overvoltage, undervoltage, low power factor, low capacitance
+(single phase), and harmonic distortion.
+• A learning function that enables the unit to measure and store the phase sequence for three phase motors and the capacity
+of the start and running capacitors for single phase motors.
+• Accurate measurement of current and voltage by true RMS measurement sampling each cycle 256 times.
+• Use of MI301control which allows adjustment of various factory settings, carry out service and trouble shooting and read
+out data stored in the unit.
+1
+
+2
+
+0
+
+Grundfos MP204 unit is a high specification unit that provides comprehensive protection and allows monitoring and user
+interaction. It is easy to install and set up and mounting is done by means of four screws or by sliding the unit onto a DIN mounting
+rail. It handles currents up to 1000A, though at currents above 120A, current transformers must be used.
+
+100-480 VAC, 50/60Hz
+
+

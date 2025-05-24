@@ -1,0 +1,102 @@
+LUNA
+Smart Power Supply
+
+Power Module
+
+Battery
+Module
+
+5 kWh
+
+10 kWh
+
+15 kWh
+
+Sun 2000 Inverter
+
+The Huawei Luna 2000 Smart Power Supply Systems are of Grid-tie type suitable for intelligent hybrid DC PV solar/AC mains power supplies in
+residential and small scale commercial applications as well as off grid applications. The basic systems comprise an integral battery and power
+module with a separate inverter unit and is simple to install and operate. The system prioritises the PV power input, supported by surplus battery
+output that is topped up by mains power to fulfil the demand load. Particular features include:•
+•
+•
+•
+•
+•
+•
+
+Optimised PV power consumption to minimise mains power input.
+Compatible with Single and 3 Phase Huawei Sun 2000 inverters with up to 10kW PV solar input supply
+Available with an integral mains failure battery backup facility by the addition of a power status controller. This provides instant changeover
+to standby power in the event of mains power shut down.
+Advanced Lithium-iron-phosphate battery that provides long life and deep cycle discharge guaranteed for 16.45MWh per battery pack.
+Remote phone or PC monitoring that gives detailed operating information including total power consumption, PV output and mains power
+consumption on a daily, weekly or monthly basis enabling analysis of power loads to minimise mains power consumption.
+Conditioned pure sine wave AC power output suitable for all electronic devices.
+Available in three standard battery sizes of 5, 10 and 15 kW and single or three phase output supply. Systems can be paired to provide total
+30 kWh battery capacity connecting to one inverter.
+
+The Huawei Luna 2000 Power Systems are high efficiency state-of-the-art power supply solutions that provide optimised, reliable and consistent
+power control that minimises energy costs.
+TECHNICAL DATA
+Standard Energy Storage System (ESS)
+Battery Usable Energy
+
+5 kWh
+Lithium-iron Phosphate (LiFe PO4)
+
+Cell Technology
+Installation
+Scalability
+
+Floor Stand
+Max. 2 systems in parallel operation (2x15 kWh)
+
+Compatible Inverters
+
+SUN2000-2/3/3.68/4/4.6/5/6KTL-L1
+
+Power Module Dimension/weight
+
+670x150x240mm (12kg)
+
+Battery Module Dimension/weight
+
+670x150x360mm (50kg)
+Backup Boxes
+
+AC Output (On-grid Mode)
+AC Output (Backup Mode)
+Max. Output Power (Backup Mode)
+Max. Output Current
+AC Input
+Compatible Inverter
+Dimensions/weight
+
+Backup Box-B0
+
+Backup Box-B1
+
+Single Phase (240V, 50Hz)
+Single Phase (240V, 50Hz)
+
+Three Phase (415V, 50Hz)
+Single Phase (240V, 50Hz)
+
+5000VA
+
+3300VA
+
+22.7A
+Single Phase (240V, 50Hz)
+
+15.27A
+Three Phase (415V, 50Hz)
+
+SUN2000-2/3/3.68/4/4.6/5/6KTL-L1/10KTL-L1
+
+SUN2000-3/4/5/6/8/10KTL-M1
+
+400x350x130mm (11kg)
+
+

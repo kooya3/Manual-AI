@@ -1,0 +1,174 @@
+FLEN
+
+A
+FLEN 20 1400
+FLEN 30 1500
+
+B
+1300
+1600
+
+C
+1500
+1500
+
+D
+1150
+1150
+
+A
+FLEN 50 1550
+FLEN 60 1600
+
+B
+1600
+1800
+
+C
+1600
+1700
+
+D
+1150
+1250
+
+DAYLIFF FLEN packaged Fire Sets are specially designed to provide automatic water supply to fixed automatic sprinkler firefighting
+installations. Pump sets combine single duty diesel and electric powered supply main pumps to ensure serviceability in all
+conditions as well as a jockey pump to maintain system pressure. The fire sets are certified by KEBS for assembly in conformity to BS
+EN 12845 standard to ensure high reliability. Particular features include: • Individual electric motor and diesel engine powered pump sets providing standby supply in event of electrical power
+failure.
+• Separate automatic jockey pump to maintain system pressure restricting start of main pumps to at least one open sprinkler.
+• Independent control panels for each pump with EN 12845 compliant control units.
+• Double self-disabling type pressure switches providing automatic starting of the main electric and diesel pump(s)
+• Main pumps of back pull-out design and stable curves with spacer couplings to allow inspection of the hydraulic parts
+without disconnection of the piping, motor, or engine
+• Vibration dampening system on diesel engine-driven pump sets consisting of rubber anti-vibration expansion joints that
+reduce the amount of the vibrations produced by the diesel engine reaching the system.
+For all firefighting applications high levels of equipment performance and dependability are vitally important for the protection of
+both lives and property. Dayliff FLEN Fire Sets combine quality components for optimal operational efficiency with high pumping
+efficiency and competitive pricing to provide effective, reliable, and easy to install firefighting solutions certified to accepted
+insurance performance standards.
+SPECIFICATIONS
+Supply Pumps: Dayliff DE end suction bare shaft pumps featuring gland packing seal and heavy-duty cast-iron construction
+with bronze impellers. Pump models are selected to meet the design pressure and flow rates. Detail performance curves are
+available on request.
+Diesel Engine: Non overloading Dayliff DLY engine suitably rated for pump load, alternative engines being available on
+request. Includes positive suction head metallic fuel tank sized for 6hrs of continuous operation at full load.
+Electric Motor: Non overloading TEFC squirrel cage electric motors suitably rated for the pump load.
+Jockey pump: Dayliff multistage pump fitted with electric motor.
+Pressure Vessel: Low maintenance diaphragm type pressure vessel to regulate the jockey pump cycling.
+Piping: Suction is supplied with flange connection with an optional suction kit (available on request). The suction kit consists of an
+eccentric taper. Suitably sized piping to ensure low velocity suction requirements as per Standard with provisions for automatic
+pump priming.
+Control System: Electric and engine pump control panels with EN 12845 compliant control components. For engine starting,
+two separate batteries each with trickle charger are supplied providing automatic alternation of battery used for engine start.
+EQUIPMENT SPECIFICATION
+Nominal
+Flow
+(m3/hr)
+Single Duty
+
+Nominal
+Flow
+(m3/hr)
+Single Duty
+
+FLEN 20/5
+
+20
+
+Medium Pressure 5Bar
+Electric Pump Diesel Pump Wt
+Model
+Motor Engine Power (kg)
+Pump
+(kW)
+(kW)
+11 DLY40
+590 FLEN 20/10
+DE 40-20
+25
+
+FLEN 30/5
+
+30
+
+DE 50-20
+
+18.5
+
+DLY40
+
+25
+
+820 FLEN 30/10
+
+30
+
+High Pressure 10Bar
+Piping
+Electric Pump Diesel Pump Wt DIA
+Motor Engine Power (kg) (”)
+Pump
+(kW)
+(kW)
+DE40-32H 30 DLY60
+40 670
+4
+DE50-32H 45
+1520
+
+FLEN 50/5
+
+50
+
+DE 65-20
+
+30
+
+DLY60
+
+40
+
+900 FLEN 50/10
+
+50
+
+DE50-32H
+
+Model
+
+FLEN 60/5
+
+20
+
+55
+
+DLY80
+
+60
+
+6
+1540
+
+60
+
+DE 80-20
+
+45
+
+DLY80
+
+60
+
+1040 FLEN 60/10
+
+60
+
+DE62-32H
+
+55
+
+8
+
+

@@ -1,0 +1,263 @@
+DSS14
+Multistage Centrifugal
+Borehole Pump
+180
+
+70
+
+DSS 14/24
+
+160
+
+60
+
+140
+50
+
+DSS 14/18
+
+120
+
+ETA%
+
+100
+DSS 14/13
+80
+DSS 14/10
+
+40
+
+30
+
+60
+DSS 14/7
+40
+
+20
+
+DSS 14/5
+10
+
+20
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+2
+
+4
+
+6
+
+8
+
+10 12 14 16 18 20
+
+PUMP
+DAYLIFF DSS submersible pumps are designed specifically for borehole supply applications. They are of multistage centrifugal
+impeller design and all parts are made from standard AISI304 stainless steel with water lubricated rubber bearings. A submersible
+motor is fitted beneath the pump and suction is effected through a strainer between the pump and motor.
+MOTOR
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel-cage motor constructed of stainless steel. Single phase
+motors should be supplied with purpose designed Dayliff SCM control boxes for operation and protection against overload, dry
+running and over/under voltage. Three phase motors require a remote DOL starter; A DAYLIFF SCT electronic Pump Controller is
+recommended for comprehensive pump control including low level, motor overload and irregular power supply protection.
+Enclosure Class: IP68
+
+Insulation Class: F
+
+Speed: 2900 rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids with a maximum sand content of 0.25%
+Max Liquid Temperature: +500C
+Max Water Depth:200m
+Minimum Borehole Diameter: 110mm
+
+HP
+
+1X240V
+
+DSS 14/5
+
+1.5
+
+2
+
+11.5
+
+DSS 14/7
+
+2.2
+
+3
+
+15.5
+
+DSS 14/10
+DSS 14/13
+DSS 14/18
+DSS 14/24
+
+3
+4
+5.5
+7.5
+
+4
+5.5
+7.5
+10
+
+_
+_
+_
+_
+
+3X415V
+
+_
+6
+8
+10
+13
+15
+
+1X240V
+46
+62
+
+_
+_
+_
+_
+
+3X415V
+
+_
+42
+56
+70
+91
+105
+
+1X240V
+449
+554
+
+_
+_
+_
+_
+
+B
+
+3X415V
+
+_
+514
+594
+669
+788
+908
+
+C
+
+(kg)
+
+1X240V
+
+3X415V
+
+1077
+
+628
+
+628
+
+17
+
+1392
+
+1352
+
+838
+
+23
+
+1600
+
+1006
+
+26
+
+1927
+
+1258
+
+31
+
+2464
+
+1676
+
+37
+
+3090
+
+2182
+
+44
+
+_
+_
+_
+_
+
+C
+
+kW
+
+A
+
+Weight
+
+B
+
+Current(A)
+
+100mm
+2”
+
+Dimensions (mm)
+
+Start Current
+(A)
+
+A
+
+Model
+
+Full Load
+
+Motor
+
+ø95mm
+
+

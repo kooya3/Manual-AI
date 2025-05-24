@@ -1,0 +1,515 @@
+Fountain
+Jets & Nozzles
+Dayliff jets and nozzles are precision made products that transform any garden
+into a masterpiece of art. They are made from stainless steel except
+Schaumsprundler which is made from chrome. The display size is determined
+by water flow and pressure suitable pumps being available according to
+required display effect.
+
+SINGLE JET
+
+BELL JET
+
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Jet 3Flow
+(m /hr)
+
+½
+
+1-6
+
+0.3-1.5
+
+¾
+
+1-8
+
+1-3
+
+1
+
+3-12
+
+2-4
+
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Cover Dia
+(m)
+
+Pressure
+(m)
+
+Dimension
+(mm)
+90
+
+5-15
+
+120
+150
+
+Jet 3Flow
+(m /hr)
+
+Pressure
+(m)
+
+Dimension
+(mm)
+
+3-6
+
+305
+
+1
+
+0.25
+
+0.6
+
+2
+
+1.5
+
+0.3
+
+0.7
+
+3
+
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Jet 3Flow
+(m /hr)
+
+Pressure
+(m)
+
+Dimension
+(mm)
+
+1
+
+2-3
+
+8-10
+
+5-10
+
+120
+
+VULKAN MULTIJET
+
+FLOWER CALYX NOZZLE
+Pressure
+(m)
+
+Dimension
+(mm)
+
+0.5-1.0
+
+150
+
+Jet 3Flow
+(m /hr)
+
+Pressure
+(m)
+
+Dimension
+(mm)
+
+3.5
+
+7.5
+
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Cover Dia
+(m)
+
+Jet 3Flow
+(m /hr)
+
+1
+
+0.25
+
+0.6
+
+3
+
+1.5
+
+0.4
+
+1.0
+
+4
+
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Cover Dia
+(m)
+
+1
+
+3
+
+1-1.5
+
+ROTATING SPRAY JET
+
+150
+
+FINGER JET SPRAY
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Jet 3Flow
+(m /hr)
+
+Pressure
+(m)
+
+Dimension
+(mm)
+
+1
+
+2-3
+
+2-4
+
+5-7
+
+200
+
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Jet 3Flow
+(m /hr)
+
+Pressure
+(m)
+
+Dimension
+(mm)
+
+1
+
+0.3-0.8
+
+4-8
+
+3-8
+
+100
+
+FAN JET
+
+CASCADE FOAMING JET
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Jet 3Flow
+(m /hr)
+
+Pressure
+(m)
+
+¾
+
+1-4
+
+2-4
+
+4-20
+
+1
+
+1-6
+
+6-10
+
+1.5
+
+1-8
+
+8-20
+
+Dimension
+(mm)
+120
+150
+
+5-33
+
+180
+
+SCHAUMSPRUNDLER NOZZLE
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Jet 3Flow
+(m /hr)
+
+Pressure
+(m)
+
+Dimension
+(mm)
+
+1
+
+2.7
+
+4-6
+
+6-16
+
+150
+
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Jet 3Flow
+(m /hr)
+
+Pressure
+(m)
+
+Dimension
+(mm)
+
+1
+
+0.3-0.5
+
+4-8
+
+5-10
+
+100
+
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Jet 3Flow
+(m /hr)
+
+Pressure
+(m)
+
+Dimension
+(mm)
+
+1
+
+1.5-4
+
+8-15
+
+5-20
+
+150
+
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Jet 3Flow
+(m /hr)
+
+Pressure
+(m)
+
+Dimension
+(mm)
+
+1
+1.5
+
+1.5-5.5
+2.0-7.0
+
+6-12
+10-15
+
+5-20
+
+150
+180
+
+Jet Size
+(”)
+
+Jet Height
+(m)
+
+Jet 3Flow
+(m /hr)
+
+Pressure
+(m)
+
+Dimension
+(mm)
+
+1
+
+3
+
+0.2-0.5
+
+5-12
+
+150
+
+SHORT FOAMING NOZZLE
+
+LONG FOAMING NOZZLE
+
+SINGLE ADJUSTABLE NOZZLE
+
+SINGLE AERATION NOZZLE
+
+WATERFALL BLADE
+Model
+WB300
+WB600
+WB900
+WB1200
+
+Jet
+Flow
+(m3/hr)
+5-8
+8-15
+15-20
+20-25
+
+STD Model
+Dimensions (mm)
+
+with LED Light
+DN Dimensions (mm)
+(mm)
+A
+C
+D
+A
+C
+D
+B
+B
+306
+306
+606
+606
+170 140 120 50
+138 76 113
+906
+906
+1206
+1206
+
+12VDC
+Power
+(W)
+4
+8
+12
+17
+
+B
+C
+A
+G1¼
+
+D
+
+B
+
+WATER CURTAIN
+Model
+Dolphin
+Standard
+
+Jet Height
+(mm)
+
+Jet Width
+(mm)
+
+Jet Length
+(mm)
+
+410
+350
+650
+
+168
+105
+300
+
+294
+210
+
+Water Inlet
+(mm)
+210
+
+150
+
+80
+
+50
+
+32
+
+

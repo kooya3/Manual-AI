@@ -1,0 +1,266 @@
+B
+
+TANK DATA
+1
+A
+
+2
+
+3
+
+C
+
+4
+5
+
+1. Leak free, o-ring sealed air valve cap
+2. Single diaphragm design
+3. Two part polyurethane, epoxy
+primed paint finish
+4. Virgin polypropylene liner
+5. Patented stainless steel water connections
+
+Model
+
+Max.
+Pressure
+(bar)
+
+GWS24
+
+10
+
+GWS60
+
+Type
+
+Dimensions
+
+Weight
+(kg)
+
+A
+
+B
+293
+
+16
+
+Diaphragm 447
+Diaphragm 620
+
+C
+_
+
+390
+
+127
+
+GWS100
+
+16
+
+Diaphragm 804
+
+431
+
+129
+
+22
+
+GWS300
+
+16
+
+640
+
+130
+
+79
+
+GWS300
+
+10
+
+Bladder 1230
+Diaphragm 1510
+
+600
+
+130
+
+47
+
+9
+15
+
+Pressure vessels are important components in automatic booster systems, the vessels cushioning pressure surges as the pump starts
+and stops and also provide drainage supply in to the system to reduce pump cycle frequency.
+DAYLIFF Global Max pressure tanks are high specification units that are suitable for high pressure applications and include the
+following features:
+• Super thick steel construction with polyurethane and epoxy painted paint finish for corrosion protection
+• Polypropylene liner so tanks can be used for corrosive and hard waters
+• Special diaphragm and air valve design that eliminates air leaks and the need for maintenance.
+DAYLIFF Global Max pressure tanks are comprehensively tested and quality approved by a number of international standards
+organisations and are also FDA food grade approved pressure tanks. They are the ideal solution for all high specification water
+booster applications and will provide many years of maintenance free operations.
+PRESSURE TANK SIZING GUIDE
+Correct tank sizing is important and is determined by the system flow rate and pump start and stop pressure settings. Sizing must be
+based upon the system flow at which the maximum cycle frequency occurs. As a rule of thumb this can be taken as average flow
+between the cut-in and cut-out flow rates.
+
+Required drain volume is then the maximum cycle frequency flow divided by twice the specified maximum number of
+cycles per hour. Generally 60 cycles per hour is considered acceptable. Tank size selected is then that nearest to the
+volume required. Some selected examples are as follows;
+
+GWS 60 Litres
+
+17
+
+18
+
+24
+
+26
+
+26
+
+27
+
+17
+
+GWS 100 Litres
+
+28
+
+31
+
+41
+
+43
+
+43
+
+45
+
+29
+
+SELECTION EXAMPLE
+System Parameters
+Pump Start Pressure: 5 Bar
+Pump Stop Pressure: 10 Bar
+Maximum Working
+Temperature:900C
+Stop Flow: 5m3/hr
+Start Flow: 10m3/hr
+
+GWS 300 Litres
+
+84
+
+93
+
+123
+
+129
+
+179
+
+135
+
+87
+
+Required Drainage Volume:
+
+Pump Start Pressure (Bar)
+
+2.5
+
+3
+
+3
+
+4
+
+5
+
+6
+
+10
+
+Pump Stop Pressure (Bar)
+
+4
+
+5
+
+6
+
+8
+
+10
+
+12
+
+15
+
+Drainage (%)
+
+28
+
+31
+
+41
+
+43
+
+43
+
+45
+
+29
+
+GWS 24 Litres
+
+7
+
+8
+
+10
+
+11
+
+11
+
+12
+
+7
+
+Drainage Volume (Litres)
+
+Tank Model
+
+• Correct tank precharge is critical and must be 0.2 Bar below the pump start = Average Flow Rate /2 = 7500ltr/hr /2=63ltr
+start per hour
+60 starts/hr
+pressure for pressure switch systems or 65% of the pump stop pressure for
+variable speed systems. Efficiency is greatly reduced if precharge is either too Drainage % based on start/stop
+high or too low.
+pressure as per table: 43%
+• Ensure that the difference between start and stop pressure is as high as possible
+as the larger the differential the greater the tank drainage capacity.
+Required Tank Volume:
+• Ensure the pump start pressure is higher than the system static pressure or else
+Required Drainage Volume = 63 = 146ltr
+=
+the pump will not start.
+Drainage %
+0.43
+• Adjust pump stop pressure to be about 90% of the pumps closed head pressure.
+Tank Specification:
+NOTE: Oversizing tank size has many advantages including reduced energy
+Use 2x100ltrs or 3x60ltrs
+consumption, reduced cycling, extended pump life due to reduced wear and
+reduced noise. As a rule doubling the calculated size will bring substantial benefits.
+
+

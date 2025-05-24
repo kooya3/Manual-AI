@@ -1,0 +1,156 @@
+DFP
+Sanitary Pump
+
+60
+DFP75
+50
+
+40
+DFP22
+30
+
+20
+
+10
+
+0
+
+5
+
+10
+
+15
+
+25
+
+20
+
+30
+
+35
+
+40
+
+45
+
+PUMP
+Dayliff DFP sanitary pumps are of single stage centrifugal impeller specifically designed to meet the hygiene requirements of sterile
+operating processes. They are suitable for various applications including water supply systems, pressure boiler feeding, pure water
+treating systems, pharmaceutical, food and refining chemical industries. The design features optimised hydraulics for high
+efficiency and polished internal finishes to prevent fouling by bacteria and germs. Pump hydraulic end construction is AISI 316L
+stainless steel throughout with specialised mechanical seal that can handle hot pumped media.
+MOTOR
+Pumps are close coupled to reliable TEFC electric motors designed for continuous duty. Single phase motors have integral thermal
+protection and can be connected directly to the mains power through a 10A fuse or MCB. Three phase motors require a remote
+DOL starter.
+Enclosure Class: F
+
+Insulation Class:IP55
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Low viscosity fluids with a max. viscosity of 150mm²/s
+Maximum Operating Pressure:10 bar
+Maximum Temperature : 1100C
+PUMP DATA
+Motor
+Model
+
+Current
+(A)
+
+Voltage
+(V)
+
+DNA
+(mm)
+
+DNM
+(mm)
+
+kW
+
+HP
+
+DFP22
+
+2.2
+
+3
+
+13.5
+
+1x240
+
+50
+
+DFP75
+
+7.5
+
+10
+
+15
+
+3x415
+
+65
+
+D1
+
+Dimensions (mm)
+H
+
+L
+
+D2
+
+D1
+
+32
+
+244
+
+292
+
+472
+
+165
+
+140
+
+32
+
+40
+
+300
+
+340
+
+535
+
+185
+
+150
+
+67
+
+W
+
+DNA
+
+DNM
+
+D2
+
+H
+
+L
+
+Weight
+(kg)
+
+W
+
+

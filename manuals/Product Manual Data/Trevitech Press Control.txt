@@ -1,0 +1,44 @@
+MADE IN ITALY
+
+Pump
+Controllers
+
+Presscontrol
+
+Mascontrol
+
+Mondial
+
+Trevitech Pump Controllers area revolutionary integrated booster pump control units for the provision of automatic pressurised
+water supply. They incorporate a combination of hydraulic and electronic control functions, starting the pump when system pressure
+drops to the pre-set value and stopping the pump when demand drops below the cut-out flow rate. Particular features are:
+•
+•
+•
+•
+•
+•
+•
+
+Automatic pump start and stop as determined by user demand.
+Maintenance of constant output pressure.
+Pump shutdown in the event of low suction supply or suction blockage.
+Attenuates the effects of water hammer.
+Completely maintenance free; no air charging or adjustment necessary.
+LED indicator for power on, pump on and failure (except Mondial).
+Compact and simple to install.
+
+Three models are available, the Mondial, Presscontrol and Mascontrol with their application dependent upon the pump motor size
+and system flow rate. For larger flow and motor size applications, the unit can be fitted on a bypass and connected to the motor
+starter through a contactor on the control circuit.
+Trevitech Pump Controllers unique design offers many advantages over conventional expansion tank systems and also dispenses
+with the necessity for separate dry run protection. Their simplicity, reliability and effectiveness make them the ideal solution for the
+automatic control of all small pumped water supply installations.
+INSTALLATION
+Presscontrol is designed to screw directly on to the delivery outlet of the pump and accomodate the full delivery flow. As cut-in
+pressure is fixed at 1.5 Bar (15m) the system static head must be at least 0.2 Bar (2m) below this value. It can be fitted to either dry
+booster pumps with positive or negative suctions and to submersible pumps.
+
+Dimensions (mm)
+
+

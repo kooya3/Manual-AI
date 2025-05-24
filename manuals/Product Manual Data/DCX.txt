@@ -1,0 +1,159 @@
+DCX
+High Pressure
+Engine Pumps
+90
+
+DCX1-80D
+
+DCX2-50D
+
+DCX2-50P
+DCX1-50P
+
+50
+
+PUMP
+The DAYLIFF DCX range of portable high pressure pumps are of self priming closed impeller centrifugal type specially designed for
+high head water transfer, fire fighting and irrigation applications. Pumps are fitted with one or two impellers for medium or high
+pressure flow performance and are available with either petrol or diesel engines.
+Pump construction is high grade aluminium body and impellers and pumps are supplied with quick couple suction and inlet
+connectors and a strainer. A sturdy carrying and protection frame is also provided.
+ENGINE
+Engine options are available as follows:Petrol
+4-stroke OHV single cylinder air cooled design with transistorised ignition, built in oil alert and recoil start.
+Diesel
+4-stroke OHV single cylinder diesel injection air cooled design with recoil start.
+Note that performance curves for all engines relate to the engine governor set at maximum speed to achieve maximum rated power
+output. To prolong engine life pumps should only be run under maximum power conditions for short periods and for extended duty
+the throttle setting should be reduced to approximately three-quarters power. Pump performance will then be reduced accordingly.
+SPECIFICATIONS
+Fuel
+
+Dimensions (mm)
+
+Tank
+(ltr)
+
+Consumption
+(l/hr)
+
+L
+
+W
+
+H
+
+3.6
+
+1.7
+
+490
+
+400
+
+422
+
+27
+
+Engine
+Model
+
+DCX1 50P
+
+Max.
+Power
+(HP)
+
+Fuel
+
+Type
+
+Capacity
+(cc)
+
+Petrol
+
+GK210
+
+212
+
+7
+
+Weight
+(kg)
+
+DCX1 80D
+
+Diesel
+
+LA186F
+
+406
+
+10
+
+5.5
+
+2.0
+
+645
+
+475
+
+605
+
+62
+
+DCX2 50P
+
+Petrol
+
+GK210
+
+212
+
+7
+
+3.6
+
+1.7
+
+490
+
+400
+
+422
+
+28
+
+DCX2 50D
+
+Diesel
+
+LA178FP
+
+296
+
+5.4
+
+3.5
+
+1.3
+
+540
+
+440
+
+540
+
+47
+
+DCX1 80D
+Inlet:1x3” M
+Discharge:1x3”M
+
+DCX1 50P/DCX2 50P/ DCX2 50D
+Inlet:1x2” M
+Discharge:2x1½”M, 1x2”M
+
+

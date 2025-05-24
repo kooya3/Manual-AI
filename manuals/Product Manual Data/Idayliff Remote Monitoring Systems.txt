@@ -1,0 +1,47 @@
+Remote Monitoring
+
+iDAYLIFF is a high specification internet-based communication system for remote monitoring and control of all Dayliff and other Davis & Shirtliff supplied
+equipment and installations. It provides users with various information regarding the systems' operation and can also enable remote control options.
+iDAYLIFF has now been upgraded to use the latest IoT (Internet of Things) infrastructure that gives improved reliability, speed and accuracy of information
+and is scalable, flexible, robust and customer centric.
+Communication Gateway
+The heart of the system is the communication gateway fitted to the equipment that monitors various selected parameters and relays the data to the iDAYLIFF
+Internet Cloud from where the information is disseminated to selected mobile phones and internet applications. Several gateways are available with
+different communication options such as 2G/3G, WiFi and Sigfox depending on user preferences and network availability. The standard option is the
+2G/3G gateway which is typically fitted with an IoT SIM card and so the installation must have a mobile GSM network signal available to operate.
+iDAYLIFF Platform
+This forms the data terminal for the entire system that facilitates device management and functionality of applications. Data sent from various gateways are
+received, interpreted, stored and dispatched to various channels. It also issues user generated commands to the IoT gateways to action on the monitored
+equipment.
+Depending on system specification and fitted sensors, the iDAYLIFF user is able to see real time equipment operation status, alarms and parameter
+readings such as:
+• Status of pumps (on/off/trip) and equipment run hours.
+• Log of alarm conditions such as low water levels, power anomalies, process alarms and equipment alarms.
+• Water pipe pressures and flowrates.
+• Total water production.
+• Power and energy consumption.
+• Water quality as per installed instruments such as pH, ORP and TDS.
+• Water and chemical levels as per installed level switches and transmitters.
+The user is also able to perform the following:
+• Start and stop equipment.
+• Schedule equipment operations and setup alerts to be delivered via email or SMS.
+• Report emergency conditions to iDAYLIFF Field Service Team.
+Users subscribing to the complementary D&S Service Contract benefit from centralised monitoring and fast fault rectification that ensures minimum
+equipment down time.
+A lower specification iDAYLIFF option using Sigfox IoT communication network is available though is limited to remote monitoring of essential features only
+and does not facilitate equipment control.
+MULTI-PLATFORM MOBILE APPLICATION
+An iDAYLIFF App is available for popular mobile platforms – Android and iOS. The App receives information through automated Push Notifications to the
+user in real time.
+iDAYLIFF WEB PORTAL
+A web version of iDAYLIFF that can be accessed via the internet and provides a dashboard showing graphical data of equipment status and history is
+available. The web portal includes a choice to receive notifications via e-mail or SMS regarding the status of the equipment as well as equipment data
+download options for further analysis and reporting.
+USER-CONFIGURABLE ALERTS
+Alerts are delivered on an event-based frequency via Email or SMS texts to selected users. Beyond the default settings, users can configure more alerts
+based on any parameter monitored exceeding desired thresholds.
+iDAYLIFF enables equipment operators to improve operating efficiency and monitor system non-conformities that greatly enhances the reliability of water
+and energy supply, the only running cost being a platform access fee. The technology is well-proven and reliable and iDAYLIFF is an invaluable tool that
+reduces overall system operating costs and maximises operation efficiency.
+
+

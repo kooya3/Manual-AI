@@ -1,0 +1,130 @@
+DSD KIT
+Solar Pumping Systems
+
+Outdoor Enclosure
+Sunverter B2
+PV
+Disconnect
+
+Water Tank
+
+Capacitor
+Box
+
+Solar Array Array
+Low
+Water Level
+Electrodes
+Pump
+
+Solar pumping is now firmly established as an ideal solution for many water supply applications, AC motor pumps being widely
+used together with DC/AC inverters enabling hybrid PV solar/AC mains supply operation. The Dayliff DSD range of borehole
+pumps are established and reliable units and when combined with high specification Dayliff Sunverter controllers are efficient and
+cost effective applications of this technology. These are now offered as complete kits for simplified installation comprising matched
+fully compatible components and all necessary accessories as follows:• A selection of Dayliff DSD borehole pumps specified for the required duty fitted with polycarbonate impellers and diffusers, a
+stainless steel pump housing and sealed liquid cooled asynchronous motors.
+• The appropriate specification and number of Dayliff Grade 1 PV solar modules with connectors for simplified installation.
+• Control unit including a Dayliff Sunverter SVB2 controller and a PV disconnect switch installed in a weatherproof plastic
+enclosure. Sunverter SVB2 controllers enable AC/DC operation using either PV DC solar modules or mains grid or generator
+AC power and provide full motor protection, soft start and MPPT capability for maximum solar insolation efficiency.
+• Accessories including 30m drop cable where applicable, 10m PV module connection cable, HDPE pipe fittings and
+galvanised steel wellhead with accessories. Module supports and piping are not included and are supplied extra according
+to installation requirements.
+Full details of pump performance and specification is given in the Dayliff Product Manual and Dayliff SolarCalc App and should be
+referred to when selecting equipment.
+SYSTEM OPTIONS
+Pump
+
+Duty
+
+Motor Power (kW)
+
+DSD3/13
+
+3m /hr @ 65m
+
+0.75
+
+9x200W
+
+DSD3/18
+
+3m3/hr @ 90m
+
+1.1
+
+9x200W
+
+3
+
+2.2
+
+10x350W
+
+3
+
+DSD3/30
+
+3
+
+3m /hr @150m
+
+MP Voltage (VDC)
+
+Solar Module
+
+DSD5/10
+
+5m /hr @ 35m
+
+0.75
+
+DSD5/18
+
+5m3/hr @ 65m
+
+1.5
+
+10x350W
+
+DSD5/24
+
+5m3/hr @ 85m
+
+2.2
+
+10x350W
+
+DSD8/12
+
+8m3/hr @ 48m
+
+1.5
+
+10x350W
+
+2.2
+
+10x350W
+
+DSD8/17
+
+3
+
+8m /hr @ 70m
+
+310-360
+
+Note1: Greater water outputs will be available at lower heads
+Note2: Actual performance will be determined by site conditions and irradiation levels.
+
+Outlet Size (”)
+
+1¼
+
+9x200W
+1½
+
+2
+
+

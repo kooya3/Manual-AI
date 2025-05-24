@@ -1,0 +1,94 @@
+SMARTCON2
+Intelligent Pump
+Controller
+
+Voltage
+displaying
+area
+
+Current
+displaying
+area
+
+Fault
+displaying
+area
+
+Pump
+running
+status
+displaying
+area
+
+Dayliff SmartCon 2 is a high specification multifunction electronic twin-pump controller designed for a wide variety of operating
+conditions in borehole, wastewater, booster and general water supply applications. Controllers are fitted with a digital display that
+indicates both operating and fault parameters and can be programmed using panel buttons for various functions. They are
+available for single phase up to 2.2kW and three phase up to 11kW motors, configuration to a particular motor size being effected
+by adjustments to the maximum running current. Particular features include:• Inbuilt incoming mains supply MCB switch and individual contractors for each pump.
+• Multifunction LCD display indicating pump operating status, voltage, current, fault indicators and hours run.
+• An Inbuilt protection for motor current overload, phase loss, voltage imbalance, over/under voltage, phase reversal and
+pump short cycling.
+• In built dry run protection or level sensor connections for electrodes, float switch or pressure switch.
+• Pump start/stop time delay function and multiple system configuration options for duty/standby, alternate duty cycling and
+parallel operation with auto trip changeover operating cycles.
+• Pump start and stop options determined by different level and pressure settings.
+• Digital connectivity interface for BMS application (Modbus RS485 communication port)
+Dayliff SmartCon 2 is a comprehensive control solution for all pumping requirements in both submersible and surface applications
+providing exceptional levels of functionality and protection in one compact enclosure. They are the ideal solution for all twin pump
+installations.
+OPERATING CONDITIONS
+Enclosure Class: IP54
+Relative Humidity: 20% - 90%
+
+Temperature Range: -25° - +55 °C
+Power Supply: 240V ±15% 1Ph, 415V ±15% 3Ph
+
+CONTROLLER DATA
+Motor Size, kW
+Model
+Min
+
+Max
+
+SmartCon 2 1Ph/2.2kW
+
+0.37
+
+2.2
+
+SmartCon 2 3Ph/4kW
+
+2.2
+
+4
+
+SmartCon 2 3Ph/11kW
+
+5.5
+
+11
+
+Current
+Range,A
+
+2-24
+
+Dimensions,mm
+Height
+
+Width
+
+Depth
+
+302
+
+240
+
+120
+
+Weight
+(Kg)
+
+3
+
+

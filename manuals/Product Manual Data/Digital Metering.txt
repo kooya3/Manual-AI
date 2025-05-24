@@ -1,0 +1,28 @@
+Digital Water
+Metering
+
+Dayliff Smart Water Metering is an advanced metering solution consisting of connected water meters and a web
+platform allowing remote monitoring and control of water supply particularly for water service providers (WSPs) in
+commercial applications. The end-to-end solution enables digitizing of water network using wireless technologies for remote
+communication between water meters and a secure web platform accessible to WSPs. By providing accurate status
+information about a water system more frequently at a much lower cost, the solution enhances water conservation and
+delivers important benefits to WSPs such as enhanced revenue collection, leakage elimination, lower operational costs, and
+improved efficiencies.
+Smart Water Meters
+High precision and reliable smart water meters are supplied with integral wireless communication interfaces such as LoRa,
+NB IoT, Sigfox or GPRS. Communication module selection is dependent on technical suitability and network availability.
+Water meters sizes available range from DN15 to DN40 for multi jet type and DN15 to DN300 for ultrasonic type. Optional
+integrated control valve can be supplied with meter for automatic shutoff particularly required in consumer prepay or postpay
+arrangements.
+Water Meter Management Platform
+At the heart of the system is a Software as a Service (SaaS) web platform for managing water meters, analysis, and reporting.
+Data sent from various meters is received, interpreted, stored and displayed on dashboards accessible via the internet.
+Water pumps, pipe pressure sensors and water quality instruments in a water network can also be connected and monitored
+in real time. The dashboards feature key performance indicators, real time consumption analysis and reports for the water
+network. The web platform also includes an option to receive notifications of configured water network anomalies via email
+or SMS. The platform is accessible via Android and IoS mobile applications.
+Optional features available include mobile payment integration for prepaid/postpay water purchase by WSP's consumers via
+a mobile phone app. Also, the platform has an Application Programming Interface (API) for secure connection from third
+party systems .
+
+

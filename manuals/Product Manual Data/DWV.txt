@@ -1,0 +1,166 @@
+33
+DWV 75M
+
+30
+27
+DWV 50M
+
+24
+21
+
+DWV 30M
+
+18
+15
+
+DWV 10A
+
+12
+9
+6
+3
+DWV 30M/50M/75M
+
+DWV 05A
+
+80
+
+PUMP
+The Dayliff DWV range of submersible pumps are designed to handle industrial and domestic waste water and sewage and are especially
+suitable for pumping water containing a high proportion of solid particles including threads and fibres. The pumps are of heavy duty
+construction featuring cast iron vortex impeller which minimises clogging, cast iron pump casing, stainless steel motor frame double
+mechanical seal and NBR oil seal. Models up to DWV 10A are designed for free standing installation and are fitted with level switches for
+automatic operation while larger models are designed for fixed installation with discharge connection suitable for guide rail mounting. All
+pumps are supplied with 10m of H07RNF cable.
+MOTOR
+Pumps are supplied with dry-type 2-pole motors designed for continuos duty. They are provided with integral overload protection and
+require a remote DOL starter.
+Enclosure Class: F
+
+Insulation Class: IP68
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped liquids: Thin, chemically non-aggressive liquids, containing suspended particles up to the specified size.
+Max. Liquid temperature: +400C
+Max. Immersion Depth: 5m
+PUMP DATA
+Power
+Model
+
+kW
+kW
+
+HP
+
+0.37
+0.75
+
+0.5
+1.0
+
+DWV 30M
+
+2.2
+
+3.0
+
+DWV 50M
+
+3.7
+
+5.0
+
+DWV 75M
+
+5.5
+
+7.5
+
+DWV 05A
+DWV 10A
+
+DWV 05A/10A
+
+Voltage
+(V)
+
+Current
+(A)
+
+Max.
+Particle
+Size (mm)
+
+DN (”)
+
+L
+
+W
+
+H
+
+1x240
+
+3.4
+4.8
+
+35
+
+2
+
+240
+
+153
+
+406
+426
+
+18
+19
+
+3
+
+395
+
+186
+
+522
+
+37
+
+3x415
+
+7.6
+
+4.6
+10.3
+
+50
+
+Dimensions (mm)
+
+4
+
+DWV 30M
+
+428
+472
+
+227
+
+Weight
+(kg)
+
+542
+
+41
+
+680
+
+61
+
+DWV 50M/75M
+
+

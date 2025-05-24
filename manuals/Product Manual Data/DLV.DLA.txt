@@ -1,0 +1,265 @@
+DLV/DLA
+Bareshaft Engines
+
+3
+
+3
+
+2
+
+2
+Fuel Consumption
+
+1
+
+1
+
+0
+
+0
+
+5
+Power Output
+
+8
+
+4
+3
+
+6
+
+Fuel Consumption
+
+6
+
+10
+
+5
+
+8
+
+4
+
+6
+
+Fuel Consumption 3
+
+4
+
+2
+
+2
+
+1
+
+0
+Torque
+
+20
+
+DLA20D
+2000 2500 3000 3500 4000
+Speed (rpm)
+
+0
+
+Torque (N.m)
+
+25
+
+0
+
+7
+
+Torque
+
+11.5
+
+11
+
+14
+
+12
+
+0
+
+Torque
+
+9
+
+Power Output
+
+8
+
+1
+
+2
+
+10
+
+16
+
+2
+
+4
+
+DLA 20
+
+Fuel Consumption (l/hr)
+
+4
+
+20
+18
+
+Power Output (HP)
+
+4
+
+6
+
+Fuel Consumption (l/hr)
+
+DLA 10
+
+10
+
+Power Output (HP)
+
+Fuel Consumption (l/hr)
+
+Power Output
+
+5
+
+12
+
+12
+
+6
+
+Torque (N.m)
+
+DLA10D
+
+7
+
+DLV 7
+
+5
+
+Torque (N.m)
+
+DLV7P
+
+6
+
+Torque (N.m)
+
+Power Output (HP)
+
+7
+
+40
+
+35
+
+1500 2000 2500 3000 3500 4000
+Speed (rpm)
+
+0
+
+2000 2500 3000 3500 4000
+Speed (rpm)
+
+The Dayliff DL range of naturally aspirated engines are efficient and dependable designs suitable for a wide range of prime mover
+applications including pumps, generators, maize mills, chaff cutters, concrete mixers etc. Petrol and Diesel types are available as
+follows;
+DLV: Petrol engines of 4-stroke design supplied with efficient air cleaner and low oil switch for reliable and efficient performance.
+DLA: Diesel engines with direct injection combustion system for easy starting and low fuel consumption paired with a mechanical
+governor. Engine are supplied complete with paper type air cleaner exhaust silencer and engine mounted fuel tank. Extension
+shafts for attaching and coupling a pulley are also available
+.
+
+TECHNICAL DATA
+DLV7P
+6.0(4.4)@3600rpm
+12@2700rpm
+1
+208
+2.2 @3600rpm
+Recoil
+3.6
+315
+362
+335
+16
+
+DLA10D
+10(7.5)@3600rpm
+27@2500rpm
+1
+418
+2.3@3600rpm
+Recoil
+5.5
+412
+470
+494
+48
+
+DLA20D
+17(13)@3600rpm
+42@2500rpm
+2
+954
+4.2@3600rpm
+Electric
+7
+580
+475
+535
+81
+
+H
+
+H
+
+ENGINE TYPE
+Max. Power HP(kW)
+Max. Torque (Nm)
+No. of Cylinders
+Cylinder Capacity (cc)
+Fuel Consumption (l/hr)
+Starting Arrangement
+Fuel Tank Size (L)
+Length mm (A)
+Dimensions
+Width mm (B)
+&
+Height mm (H)
+Weights
+Weight (kgs)
+
+H
+
+B
+
+A
+
+DLV7P
+
+B
+
+DLA10D
+
+A
+
+B
+
+DLA20D
+
+DERATING: Given outputs are sea level ratings. Engines should be derated at 1% for every 100m higher than 100m above sea
+level, and every 2% for every 50C Temperature above 200C for naturally aspirated engines.
+
+

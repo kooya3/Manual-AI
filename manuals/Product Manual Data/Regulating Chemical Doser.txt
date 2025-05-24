@@ -1,0 +1,86 @@
+Regulating
+Chemical Dosers
+
+By-Pass
+
+Chlorine
+Doser
+
+pH
+Doser
+
+Chlorine
+Chemical Tank
+
+pH
+Chemical Tank
+
+Waste
+
+ORP
+Meter
+
+ORP
+Sensor
+
+Water Supply Line
+Dosing Point
+
+pH
+Meter
+
+pH
+Sensor
+
+Dosing Point
+
+Dayliff Regulating Chemical Dosers provide highly effective, simple to operate dosing solutions for maintaining pre-set
+concentrations for two parameters, mainly residual chlorine and pH levels in swimming pool, general water treatment and
+industrial process water applications. Temperature measurement is also possible.
+Doser components include chemical analysers of high measurement accuracy controlling Dayliff Seko DPT proportional feed
+positive displacement diaphragm dosage pumps fitted with micro-processor based magnetic solenoid motors that vary dosage by
+varying stroke frequency according to the input signals sent from the analysers. These pumps are mounted on the chemical solution
+tanks.
+Two analyser options are available:Modular Analysers provided with LCD screens for system configuration and operational monitoring that individually measure a
+parameter, usually ORP and pH measurement. Electrical input is given from separate in-line sensors mounted on the supply water
+line. The analysers are usually integrated with the main system control panel.
+Integrated Analyser complete with touch display, integral data logging and flow cell that measures Free Chlorine and pH
+parameters from a by-pass flow off the supply water line and gives greater parameter accuracy. Analysers should be mounted
+outside the main system control panel due to the water flow presence.
+All analysers include the option of remote monitoring and logging to a BMS/SCADA interface or via a Dayliff IOT App.
+Complete standalone chemical regulating kits are available to special order with both analyser options supplied complete with DPT
+doser pumps and 60L chemical tanks.
+Modular
+Dosing Pump Inlet/Outlet Hose Connections
+Measurement
+Range
+Dimensions (HxWxD)mm
+Weight (kg)
+
+Sensors: 3/4" NPT
+
+pH
+
+0-14
+
+ORP/Free Chlorine
+Water Temperature
+
+±1000mV
+
+Integrated
+Sampling Stream: 1/4" hose,
+Outlet: 1/2"hose
+2-14
+0-5ppm (default) or 0-20ppm
+0-99.90C
+
+340x822x210
+
+710x840x140
+
+7
+
+12
+
+

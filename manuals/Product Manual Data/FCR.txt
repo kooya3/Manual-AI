@@ -1,0 +1,216 @@
+FCR
+Multistage
+Pumps
+140
+
+120
+
+90
+
+80
+
+FCR 15/5
+
+FCR 30/4
+
+70
+
+3
+
+1
+
+4
+
+PUMP HEAD (m)
+
+100 FCR 15/4
+
+7
+
+2 7
+
+60 FCR 30/3
+
+80
+
+50
+
+FCR 15/3
+
+40 FCR 30/2
+
+60
+FCR 15/2
+
+30
+
+40
+20
+5
+
+1.Pump Body 3.Impellers
+2.Backplate 4.Diffusers
+
+20
+
+8
+
+6
+
+5.Motor Shaft
+6.Mechanical Seal
+
+10
+
+7.Bearings
+8.Motor
+0
+
+5
+
+10
+15
+20
+25
+FLOW RATE (m3/hr)
+
+30 0
+
+10
+
+20
+30
+40
+50
+FLOW RATE (m3/hr)
+
+60
+
+PUMP
+FCR Series pumps are non self priming multistage centrifugal pumps suitable for water supply and pressurisation in industrial and
+commercial applications, irrigation systems etc. They are particularly quiet in operation and specifically designed for automatic
+pressure supply installations using variable speed controller.
+Pump construction is stainless steel AISI304 for impellers, diffusers, pump body and graphite-ceramic-EPDM mechanical seal.
+MOTOR
+Pumps are close coupled to a TEFC brushless efficiency class IE3 induction motor designed for continuous operation. A remote
+starter with thermal overload is necessary for motor protection.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Voltage: 3X415V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without solids or fibres.
+Max. Fluid Temperature: +900C
+Max. Ambient Temperature: +400C
+Max. Suction lift: 7 m (at sea level)
+
+PUMP DATA
+Model
+FCR 15/2
+FCR 15/3
+FCR 15/4
+FCR 15/5
+FCR 30/2
+FCR 30/3
+FCR 30/4
+
+Motor
+HP
+kW
+3
+4
+4
+5.5
+7.5
+4
+5.5
+7.5
+
+5.5
+7.5
+10
+5.5
+7.5
+10
+
+Current
+(A)
+
+DN1
+(”)
+
+DN2
+(”)
+
+Dimensions (mm)
+
+6.3
+
+A
+533
+
+8.4
+10.7
+13.5
+8.4
+10.7
+13.5
+
+577
+621
+715
+533
+577
+671
+
+2½
+
+2
+
+B
+
+234
+
+C
+155
+199
+243
+286
+155
+199
+243
+
+D
+
+E
+
+H1
+
+H2
+
+Weight
+(kg)
+34
+
+96
+
+190
+
+252
+
+271
+
+H2
+
+40
+49
+59
+37
+44
+54
+
+

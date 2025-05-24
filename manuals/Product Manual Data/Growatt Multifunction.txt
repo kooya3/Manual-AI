@@ -1,0 +1,110 @@
+GROWATT
+
+TED
+A
+D
+UP
+
+Multifunction Inverter
+
+The Dayliff Growatt inverter range are versatile high specification multifunction inverters designed for various applications
+including:• Grid Tie combining mains AC and PV module DC input power sources programmable to prioritise PV supply with mains
+power used to supplement load requirements.
+• Off-Grid for stand-alone PV solar powered systems to provide AC power for various load requirements with battery back up
+for non PV availability.
+• Power backup systems for on-grid mains failure battery feed loads.
+The Dayliff Growatt inverters include the following features:• Pure sine wave output that provides filtered power for use with sensitive electronic devices.
+• LCD display for operating parameters and user configurable settings including battery charging current, AC/Solar output
+priority and input voltages.
+• Built-in smart charge controllers with automatic switching between AC and Solar power sources for optimised battery
+Application Diagrams
+performance.
+• Built-in MPPT charge controller
+• Overload and short-circuit protection.
+• Programmable supply prioritisation for PV, battery or grid supply
+• Optional WIFI/GPRS for Monitoring software for real time status display and control
+• Parallel operation for scalability available on 5000W model only
+• Compatible with lead acid and lithium battery
+SPECIFICATIONS
+MODEL
+
+GD3000TL
+
+GD5000TL
+
+Rated Output Power, VA/W
+
+3,000VA/3000W
+
+5,000VA/5000W
+
+Input AC Voltage, VAC
+
+240
+
+Maximum PV Input Power, W
+
+1500
+
+4500
+
+Maximum PV Array Open Circuit
+Voltage, VDC
+
+102
+
+145
+
+PV Array MPPT Voltage Range, VDC
+
+30-80
+
+60-115
+
+Nominal Output Voltage, VAC
+
+240VAC +-5%
+
+PV+ Generator Application
+
+Maximum Solar Charging Current, A
+
+50
+
+80
+
+Maximum AC Charging Current, A
+
+30
+
+60
+
+Nominal Battery Voltage, VDC
+
+24
+
+Peak Efficiency, %
+Parallel Capability
+Dimension (DxWxH)mm
+Net Weight, Kgs
+
+Only PV Application
+
+48
+98%
+
+None
+
+Yes, 6 units
+
+130x315x400
+
+143x420x531
+
+10
+
+16
+
+PV+ Grid Supply Application
+
+

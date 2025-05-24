@@ -1,0 +1,191 @@
+ENPURA
+Waste Water
+Treatment Plants
+
+Manhole
+
+Inlet
+
+Media
+Retention
+Screen
+
+MBBR
+Media
+
+Effluent
+Filter
+
+Chlorine
+dose point
+Outlet
+
+Sludge
+Return
+
+Sludge
+Pump
+
+Feed
+Pump
+
+Aeration Diffusers
+2. Equalisation
+Tank
+
+1. Primary Treatment Tank
+
+3. MBBR Bioreactors
+
+4.Clarifier Tank
+
+5.Contact
+Tank
+
+The ENPURA treatment system is an advanced Moving Bed Biofilm Reactor (MBBR) wastewater purification technology designed to deliver effective treatment for
+domestic, commercial and industrial applications. Enpura MBBR plants are a highly effective attached growth biological treatment system designed to treat a variety
+of pollutants from wastewater sources. COD, BOD, TSS, Nitrogen and Phosphorus are effectively removed by MBBR biofilm carriers. The Enpura MBBR system is
+engineered to provide the most energy efficient, most compact and maintenance free solution available. It utilizes SSI advanced aeration technology with optimized
+biofilm carrier engineered to provide truly superior performance. The treatment process is as follows:1. Primary Treatment: Solids are separated and settled and organic sludge is then broken down through anaerobic digestion. After primary
+separation/settlement, the liquid effluent is passed through an effluent filter to the Equalisation tank.
+2. Equalisation Tank: Holds peak flows and regulates the amount of effluent that is fed into the bioreactor tanks. Maximum efficiency is achieved when the
+effluent stream is fed to the Bioreactors at a constant rate over 24hrs.
+3. MBBR Bioreactors: Effluent enters the Bioreactor chambers where bacteria attached to the specialised MBBR carrier media breaks down the waste using
+oxygen provided by an air blower. Aeration blowers force air into the tank and through fine bubble diffusers positioned under the media in order to provide oxygen to
+the bacterial population as well as mixing the tank.
+4. Clarifier Tank: The effluent then passes to the clarifier tank where sludge and suspended solids are separated from the water and settle at the bottom. The clear
+water is carried to the contact storage tank and the sludge is returned to the primary treatment for storage and digestion.
+5. Contact Storage Tank: The treated water from the clarifier is dosed with chlorine for disinfection. The final product, a clear, odorless and sanitized effluent is
+ready for discharge either for irrigation or safely to the environment.
+Typical Enpura installations are below ground using a concrete structure, but above ground and mobile configurations are available. Alternative tank configurations
+for plastic, fiberglass & steel tanks are available on request.
+Retrofitting the Enpura technology to old wastewater facilities, septic/conservancy tanks and failed plants is also a popular solution. Features include:•
+Suited to operate in fluctuating loading, power cuts, storm water flooding, toxic shock and intermittent operation conditions.
+• Energy Efficient
+• Volumetrically Optimised - compact, space saving, reduced infrastructure cost
+• Low sludge yield - as low as 0.3kg TSS/ kg BOD
+• Low energy consumption.
+• Modular design allowing for scaling up when higher capacity is required.
+• The design and layout is flexible and can be suited to customer requirements.
+Enpura Purification results:
+BOD: <30mg/l
+
+COD: <50mg/l*
+
+TSS: <30mg/l
+
+*COD results are dependent on fraction of non-biodegradable soluble COD in wastewater. If fraction is too high then further chemo-physio process may be
+required.
+EQUIPMENT SPECIFICATION
+Model*
+Population Equivalent (PE)
+Flow, m3/day
+Organic Loading (Kg/BOD5/day)
+Nitrogen Loading (Kg/NH/day)
+Length (m)
+Width (m)
+Depth (m)
+Foot Print (m2)
+Total Tank Volume m3
+Installed Power kW**
+
+100PE
+100
+15
+6
+0.8
+9.0
+2.0
+1.8
+18
+32
+1.2
+
+200PE
+200
+30
+9
+1.6
+12.0
+2.5
+2.0
+30
+60
+1.55
+
+300PE
+300
+45
+12
+2.4
+15.0
+3.0
+2.0
+35
+90
+1.85
+
+400PE
+400
+60
+24
+3.2
+16.0
+3.3
+2.5
+53
+132
+1.85
+
+500PE
+500
+75
+30
+4.0
+16
+3.0
+3.3
+48
+158
+1.85
+
+700PE
+700
+105
+42
+5.6
+14
+2.7
+3
+38
+113
+2.4
+
+* Required system capacities not listed here can be provide on request.
+**Power saving efficiency can be achieved using VFD aeration motors and DO sensors to keep aeration energy to the exact requirement.
+
+800PE
+800
+120
+48
+64
+14
+3.2
+3
+44.8
+134
+3.7
+
+1000PE
+1000
+150
+60
+8
+16
+3.3
+3
+53
+158
+5.2
+
+

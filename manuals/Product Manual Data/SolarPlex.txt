@@ -1,0 +1,176 @@
+SOLARPLEX
+DC Solar Surface
+Booster Pumps
+80
+
+2
+Average Daily Irradiation Values (Kwhr/m)
+
+Graph 1
+
+70
+
+6.3 6.5
+
+6.5
+6.0
+
+5.6
+
+60
+
+5.8
+
+5.6 5.7 5.9
+
+5.8
+5.1 5.3
+
+PUMP HEAD(m)
+
+50
+40
+30
+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+20
+
+% Daily Output
+
+10
+EFFICIENCY(%)
+
+Graph 2
+
+13.5%
+13%
+13%
+12%
+12%
+10%
+10%
+
+40
+
+7%
+
+7%
+
+30
+2%
+
+20
+
+6
+
+10
+0
+
+2%
+
+0%
+
+1
+
+2
+3
+Flow(m3/hr)
+
+4
+
+0%
+7
+
+8
+
+9
+
+10 11 12 13 14 15 16 17 18
+Time (hrs)
+
+5
+
+PUMP
+SolarPlex is a high specification, high pressure solar powered DC booster pump principally designed for general water supply
+applications. It is of 5 stage centrifugal design with hydraulic end and impellers being constructed from AISI 304 stainless steel and is
+engineered to the highest standards to give serviceability, excellent efficiency, reliability and durability.
+MOTOR
+The pump is fitted with an air cooled continuously rated high efficiency maintenance-free permanent magnet brushless DC (BLDC) motor
+with high quality bearings and in-built temperature sensor specifically designed for maximum efficiency and durability. It should be
+powered by a solar array configured to provide the input voltage required and sized at approximately 130% of the rated motor power.
+Insulation Class:F
+
+Enclosure Class:IP56
+
+Speed:4000rpm
+
+CONTROLLER
+The pump-features an integral controller with simple direct PV connection for monitoring, control and protection with the following
+features:
+• Automatic protection from overload, overtemperature, reverse polarity & locked rotor
+• Fully automatic operation and complete protection including dry running and over/under voltage protection as well as tank full
+control
+• Integrated MPPT (Maximum Power Point Tracking) with 99% energy conversion efficiency to maximize module power output, about
++25% higher than conventional module controllers resulting in a similar increase in daily water output
+• Enhanced pump start on low sun intensity for more water output
+• Easy trouble shooting, with easy to read LED display for faults and problem solving
+PUMP OUTPUTS
+The performance curve is given at standard test conditions of 1000W/m2 solar irradiance and 250C. Output will vary throughout the year
+depending upon prevailing irradiation levels. For estimated daily outputs at continuous pumping multiply the indicated output at the duty
+point by the daily irradiation given in Graph 1. For indicative purposes factors of 1.1 can be applied for hot arid areas and 0.9 for
+temperate high-altitude areas in the Tropics. Output will vary throughout the day as a proportion of the estimated hourly irradiation as
+shown in Graph 2.
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solids or fibres
+Maximum Liquid Temperature: +500C
+Maximum Ambient Temperature: +500C
+PUMP DATA
+Model
+
+SOLARPLEX800
+
+Motor Rated Recommended Max Circuit
+Inlet/ Dimensions (mm)
+PV
+Weight
+Power Current MPP Voltage
+Voltage
+Outlet
+Conguration
+(Kgs)
+(W)
+(Voc)
+(A)
+(Vmp)
+(”)
+L
+W
+H
+800
+
+12
+
+66-100
+
+70-105
+
+2 No. 545W
+Solar Modules
+(Series connection)
+
+1
+
+380
+
+250
+
+140
+
+9
+
+H
+L
+W
+
+

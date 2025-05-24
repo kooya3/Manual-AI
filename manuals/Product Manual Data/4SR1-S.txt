@@ -1,0 +1,222 @@
+4SR1-S
+Submersible
+Borehole Pumps
+375
+
+50%
+
+350 4SR1/50-S
+45%
+
+ETA
+
+325
+300
+
+40%
+
+275 4SR1/39-S
+
+35%
+
+225
+
+30%
+
+4SR1/29-S
+
+200
+
+25%
+
+175
+150 4SR1/20-S
+125
+
+20%
+
+4SR1/15-S
+
+15%
+
+75 4SR1/10-S
+
+10%
+
+100
+
+ETA%
+
+PUMP HEAD (m)
+
+250
+
+50
+
+5%
+
+25
+
+0
+0
+
+0.2
+
+0.4
+
+0.6
+
+1
+0.8
+1.2
+FLOW RATE (m3/hr)
+
+1.4
+
+1.6
+
+1.8
+
+2
+
+PUMP
+Pedrollo 4SR1-S submersible pumps are specifically designed for water supply from boreholes, though can also be used in other
+applications in either vertical or horizontal configurations. They feature an upgraded specification with a revised floating impeller
+hydraulic design and advanced high wear resistance materials for the impellers and diffusers. This provides exceptional sand
+handling capability (up to 200g/m3) and improved operating efficiency.
+Pump impellers are made from high-strength Delrin technopolymer, diffusers from Noryl and the stage casings, top housing,
+suction interconnector, pump sleeve and shaft from AISI304 stainless steel.
+MOTOR
+Pumps are coupled to Pedrollo two pole sealed oil filled motor constructed principally from AISI 316 stainless steel. A Drytek
+controller is available for both single phase and three phase pump control which incorporates incoming mains isolator, digital
+display of motor operating status and protection against over and under voltage, motor overload and phase sequence loss. The
+controller can be connected directly to the mains power supply.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non aggressive liquids with a maximum sand content of 200gm/m3.
+Max. Liquid Temperature:+350C.
+Min. Borehole Diameter:110mm
+Max. Immersion Depth:200m
+PUMP DATA
+Motor
+
+Current (A)
+
+DN
+(”)
+
+Dimensions (mm)
+H1
+
+H2
+
+Weight
+(kg)
+
+3.4
+
+362
+
+311
+
+12
+
+0.75
+
+4.5
+
+488
+
+331
+
+14
+
+0.75
+
+1
+
+5.6
+
+588
+
+356
+
+16
+
+4SR1/29-S
+
+1.1
+
+1.5
+
+7.7
+
+3.4
+
+767
+
+371
+
+19
+
+4SR1/39-S
+
+1.5
+
+2
+
+10.4
+
+4.8
+
+992
+
+396
+
+23
+
+4SR1/50-S
+
+2.2
+
+3
+
+14.9
+
+6.1
+
+1284
+
+437
+
+30
+
+Model
+kW
+
+HP
+
+1x240V
+
+4SR1/10-S
+
+0.37
+
+0.5
+
+4SR1/15-S
+
+0.55
+
+4SR1/20-S
+
+3x415V
+
+1¼
+
+

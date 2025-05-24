@@ -1,0 +1,333 @@
+DG-D
+Portable Diesel
+Engine Generators
+
+DG3600D/DG6000D
+DG8000D/DG8000DT
+
+DG 6000DS/DG8000DS
+
+DG 12000DS
+
+The Dayliff Range of portable diesel generators are dependable, quality products specially designed for mains standby and remote site power
+supply applications. Particular features include:
+• Reliable and economical air cooled diesel engines equipped with large size exhausts for low noise levels available in both open and
+canopied configurations.
+• High efficiency square core alternators providing reliable power output.
+• Integrated control panel with voltmeter and hourmeter for operational convenience.
+• Fuseless type over current protection.
+• High capacity fuel tank for extended operation.
+• Fitted with AMF auto start facility which when combined with an optional ATS power change over panel enables fully a u t o m a t i c p o w e r
+failure operation (not open sets).
+• Strong tubular frame for protection and ease of handling(open sets)
+• Acoustic models further strengthened canopy on castors limits noise to min 70dBA @ 7m
+Dayliff generators are of compact design and their advanced features make them suitable for all small scale power supply applications.
+
+SPECIFICATIONS
+Output
+Model
+
+Voltage
+(V)
+
+DG3600D
+DG6000D
+DG6000DS*
+DG8000D
+DG8000DSM
+DG8000DT
+DG12000DSM*
+
+1x240
+
+DG12000DST*
+
+3x415
+
+Engine
+
+Rated
+(kVA)
+
+Max
+(kVA)
+
+1x240
+
+2.7
+
+1x240
+
+4.5
+
+1x240
+1x240
+1x240
+3x415
+
+Max Power
+(HP)
+
+Fuel Tank
+Capacity
+(litres)
+
+Operating
+Period
+(Hrs)
+
+Start
+Type
+
+Model
+
+Capacity
+(cc)
+
+3.0
+
+LA178FG
+
+306
+
+5.5
+
+12.5
+
+18
+
+Recoil
+
+5.0
+
+LA186FAFG
+
+418
+
+8.5
+
+12.5
+
+4
+
+Recoil/Electric
+
+4.5
+
+5.0
+
+LA186FAFG
+
+418
+
+8.5
+
+16
+
+5
+
+6.0
+
+6.5
+
+LA192F
+
+499
+
+10
+
+12.5
+
+5
+
+Recoil/Electric
+Recoil/Electric
+
+6.0
+
+6.5
+
+LA192FAG
+
+499
+
+10
+
+25
+
+8
+
+Electric
+
+7.5
+
+8.1
+
+LA192F
+
+499
+
+10
+
+12.5
+
+8
+
+Recoil/Electric
+
+10
+
+11
+
+LA290
+
+954
+
+20
+
+50
+
+12
+
+Electric
+
+12.5
+
+13.7
+
+LA290
+
+954
+
+20
+
+50
+
+12
+
+Electric
+
+*Acoustic Set with AMF, noise level: 70dBA@7m
+DERATING: Given outputs are sea level rating. Sets should be derated at 1% for every 100m higher than 100m above sea level, and 2%
+for every 50C temperature above 200C for naturally aspirated engines.
+ELECTRICAL DATA
+Alternator: Brushless, self exciting, 2 pole
+Speed: 3000rpm
+
+Power Factor: 1ph - 1, 3ph - 0.8
+Voltage Regulator: AVR
+Direct Current:12V/8.3A (not available on DG12000D)
+
+CONTROLS AND DIMENSIONS DATA
+Oil
+Breaker
+Alert
+on
+Indicator System
+
+AC Power Output
+
+L
+W
+H Weight
+(mm) (mm) (mm) (kg)
+
+DG3600D
+
+2 No. Plug Socket
+
+680
+
+DG6000D
+
+1 No. Plug Socket+1 No. CEE Socket
+
+740
+
+475
+
+590
+
+95
+
+DG6000DS
+
+1 No. Plug Socket+1 No. CEE Socket
+
+900
+
+520
+
+700
+
+150
+
+DG8000D
+
+1 No. Plug Socket+1 No. CEE Socket
+
+740
+
+475
+
+600
+
+120
+
+DG8000DT
+
+1 No. Plug Socket+1 No. CEE Socket
+
+740
+
+475
+
+600
+
+120
+
+DG8000DSM
+
+1 No. Plug Socket+1 No. CEE Socket
+
+960
+
+560
+
+710
+
+164
+
+1150
+
+670
+
+940
+
+295
+
+Model
+
+Hour
+Meter
+
+Volt
+meter
+
+Digital Multimeter DG12000DSM
+Volts, Hz & Hours
+Digital Multimeter DG12000DST
+Volts, Hz & Hours
+
+2 No. Plug Socket+1 No. AC
+Terminal Binding Post
+2 No. Plug Socket+1 No. AC
+Terminal Binding Post
+
+455
+
+545
+
+80
+
+

@@ -1,0 +1,170 @@
+3SRm1/2/4
+Submersible
+Borehole Pumps
+280
+260
+3SRm 1/62
+
+240
+220
+
+PUMP HEAD (m)
+
+200
+180
+160
+140
+120
+100
+80
+60
+3SRm 2/41
+3SRm 2/28
+3SRm 2/21
+
+40
+20
+0.5
+
+0
+
+1
+
+1.5
+
+2
+
+2.5
+
+3SRm 4/23
+
+3
+3.5
+4
+FLOW RATE (m3/hr)
+
+4.5
+
+5
+
+5.5
+
+6
+
+PUMP
+Pedrollo 3SR submersible pumps are specifically designed for domestic and small scale water supply from boreholes, though they
+can also be used in other submersible applications in either vertical or horizontal configuration. They feature a hydraulicdesign that
+incorporates floating impellers which together with resistant component materials provide high resistance to sand content in the
+pumped water.
+The pump impellers and diffusers are made from Delrin and Noyrl respectively while the stage casings, top housing, suction
+connector, pump sleeve and shaft are made of AISI 304 stainless steel. The pump is supplied with a 1.5m tail cable.
+MOTOR
+Pumps are coupled to Pedrollo two pole sealed oil filled motor constructed principally from AISI 316 stainless steel. A Drytek
+Controller is available for single phase pumps which incorporates a fused rotary switch, run indicator light, thermal overload with
+manual reset and capacitor which can be connected directly to the mains power supply.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid:Thin, clean, chemically non aggressive liquids with a maximum sand content of 150gm/m3.
+Max. Liquid Temperature:+350C.
+Min. Borehole Diameter:110mm
+Max. Immersion Depth:60m
+PUMP DATA
+HP
+
+1x240V
+
+3SRm1/62
+
+1.1
+
+1.5
+
+3SRm2/21
+
+0.55
+
+3SRm2/28
+
+0.75
+
+3SRm2/41
+3SRm4/23
+
+1.1
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+H1
+
+H2
+
+8
+
+1380
+
+488
+
+18
+
+0.75
+
+4.5
+
+625
+
+408
+
+11
+
+1
+
+6
+
+813
+
+448
+
+1.5
+
+8
+
+1
+
+1136
+915
+
+488
+
+Safety cable
+anchorage
+point
+
+13
+16
+
+H1
+
+kW
+
+DN
+(”)
+
+15
+
+H2
+
+Current (A)
+
+Motor
+
+Model
+
+

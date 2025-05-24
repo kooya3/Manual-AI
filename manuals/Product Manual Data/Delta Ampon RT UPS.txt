@@ -1,0 +1,162 @@
+Amplon RT
+UPS
+
+Delta Amplon RT series are high performance Uninterruptible Power Supplies (UPS) that provide consistent sine-wave power to critical
+equipment even when mains power fails. The UPS offers best in class efficiency and reliability, and is ideal for Industrial, Medical, Servers,
+Data center and Telecommunications applications. Salient features include:
+• True online double-conversion topology and zero transfer time to battery ensure high reliability.
+• Wide input range allows the UPS to operate in harsh electrical environments and extends battery life.
+• Hot swappable batteries ensure continuous operation even when batteries are being replaced.
+• Optional VRLA and Li-ion (RT 5-20kVA only) external battery cabinet (EBC) for easy scaling of longer backup time.
+• Up to four units' parallel capacity for RT 5-10kVA allows redundancy and load expansion
+• Power Distribution Box and Maintenance Bypass Breaker are a default on RT 5-10kVA standard runtime models.
+• Convertible rack and tower configuration in 2U size cabinet.
+• Remote emergency power off (REPO) port to shut down UPS completely or switch off inverter only (Remote turn on/off - ROO
+function).
+• Smart/Mini slots for fitting optional Modbus and SNMP communication cards for integration to external monitoring and control
+systems.
+TECHNICAL SPECIFICATIONS
+MODEL
+Power Rating
+Voltage
+Frequency
+Input
+
+RT-1K
+RT-3K
+1kVA/0.9kW
+3kVA/2.7kW
+175 ~ 280Vac (single phase)
+
+<5%
+
+Voltage
+
+<3%
+
+Efficiency
+
+Battery
+
+AC-AC
+ECO mode
+Voltage
+Backup time*
+Charge Current
+
+Audible Noise
+Communication Interfaces
+Dimensions WxDxH (mm)
+Weight (kg)
+Operating
+Temperature****
+Relative Humidity
+
+380/400/415Vac (three phase) or
+220/230/240Vac (single phase)
+
+220/230/240Vac
+
+Frequency
+Power Factor
+Voltage THD
+Overload
+Capability
+
+RT-15K3P
+RT-20K3P
+15kVA/15kW
+20kVA/20kW
+138 ~ 485Vac (three phase)
+
+40 ~ 70Hz
+>0.99 (full load)
+
+Power Factor
+Current THD
+
+Output
+
+RT-5K
+RT-10K
+5kVA/5kW
+10kVA/10kW
+100 ~ 280Vac (single phase)
+
+50/60Hz ±0.05Hz
+0.9
+
+Unity
+
+<105: continuous; 105 ~ 125%:
+1min; 125 ~ 150%: 15 sec
+Up to 94%
+90%
+Up to 97%
+96%
+
+<2% (linear load)
+≤105: continuous; 106 ~ 125%:
+≤105: continuous; 106 ~ 125%: 2min;
+1min; > 150%: 500ms
+126 ~ 150%: 30sec; > 150%: 200ms
+Up to 95.5%
+Up to 96.5%
+Up to 99%
+
+2A
+
+192Vdc
+7.5min
+1A(default)
+
+240Vdc
+6min
+1.5A(default)
+
+192 ~ 264Vdc
+Depending on different configurations.
+Up to 8A
+
+<46dB
+
+<48dB
+
+<50dB
+
+<54dB
+
+24Vdc
+6.5min
+1.5A
+
+72Vdc
+7 min
+
+<40dB
+
+SMART Slot x 1, RS-232 Port x 1,
+USB Port x 1, REPO x 1
+440x335x89
+440x610x89
+28
+
+12
+
+MINI Slot x 1, Parallel Port** x 2, USB Port x 1, RS232 Port*** x
+1, RS485 Port x 1, REPO/ROO Port x 1, Dry Contact x 4
+440x750x218
+440x730x88.2
+440x665x176
+54
+
+85.5
+
+0 ~ 50°C
+
+22.5
+0 ~ 55°C
+
+5 ~ 95% (non-condensing)
+
+

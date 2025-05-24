@@ -1,0 +1,325 @@
+Air Blowers
+AIRMAC AIR BLOWERS
+0.6
+
+Pressure (Bar)
+
+0.5
+0.4
+0.3
+
+DBMX200
+
+0.2
+DBMX100
+
+0.1
+DBMX80
+
+DBM60
+50
+
+0
+
+100
+
+150
+200
+Air Flow (L/min)
+
+250
+
+300
+
+Airmac Air blowers are linear diaphragm compressor pumps that provide aeration solutions particularly to aquaculture, environmental, industrial, medical and
+consumer applications. They are compact efficient and extremely quiet suitable for installation in sensitive environments which demand low noise operation.
+Features include;
+• Extremely quiet, low vibration operation with low power consumption and low starting current.
+• Easy maintenance, long life and robust even under difficult power supply conditions.
+• Internal safety switch system to prevent further damage while diaphragm is broken.
+• Oil-free
+Enclosure Class: IPX0
+Power: 1x240V, 50Hz
+Optimal Operating Range:0.1 to 0.25bar
+EQUIPMENT SPECIFICATIONS
+Motor
+Model
+Power
+Watts
+61
+DBM-60
+68
+DBMX-80
+
+Noise
+(dBA)
+>47
+
+18
+
+87
+186
+
+DBMX-100
+DBMX-200
+
+Dimensions (mm)
+
+Inlet/Outlet
+(mm)
+
+>48
+
+L
+
+W
+
+H
+
+Weight
+(kg)
+
+236
+
+181
+
+191
+
+7
+
+262
+
+216
+
+223
+
+9
+
+272
+
+226
+
+247
+
+12
+
+L
+
+W
+
+H
+
+GTB
+GTB40 GTB50 GTB65
+
+0.6
+
+No Vibration
+
+3Hp
+
+Vibration Reducing
+Rubber Couples
+
+Air Re-Circulated
+Chamber for
+Enhanced Cooling
+
+Pressure (Bar)
+
+Space Saving
+
+5Hp
+
+Main Blower
+
+No need to replace
+belt for good
+
+Adjustable
+anti-vibration Base
+
+15Hp
+10Hp
+
+0.4
+
+75Hp
+75Hp
+
+0.3
+3Hp
+
+2Hp
+0.2
+
+High Efficiency
+
+Protective Device
+For Reverse Rotation
+
+GTB100
+10Hp
+
+0.5
+
+Out-door Type Motor
+Two Stage Inlet Silencer
+
+GTB80
+
+5Hp
+
+2Hp
+0.1
+
+0
+
+60
+
+120
+
+180
+
+300
+240
+Air Flow (m3/hr)
+
+420
+
+360
+
+480
+
+The GTB Series are heavy duty Positive Displacement (PD) Aeration blowers in vertical configuration to save space and significantly reduce vibration. GTB blowers
+are characterised by their extremely robust construction, durability, excellent power efficiency and provide quiet and low vibration operation. Features include;
+Ÿ Air re-circulated chamber for enhanced cooling.
+Ÿ High efficiency blower.
+Ÿ Protection against reverse rotation.
+Ÿ Two stage inlet silencer, rubber couplers and adjustable anti-vibration base for low noise and vibration operation.
+Ÿ They are close coupled to a continuously rated IE3 phase enclosed fan cooled motors complying to IEC specifications.
+Speed:1450rpm
+Power: 380V/50Hz
+Enclosure: IP54
+Insulation: E
+EQUIPMENT SPECIFICATIONS
+Motor
+(kW)
+
+Motor
+(HP)
+
+Current
+(Amps)
+
+Noise
+(db)
+
+1.5
+
+2
+
+3.7
+
+GTB5022
+
+2.2
+
+3
+
+GTB6537
+
+3.7
+
+GTB8075
+
+7.5
+
+GTB10075
+
+7.5
+
+10
+
+Model
+GTB40A15
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+L
+
+W
+
+H
+
+58
+
+550
+
+480
+
+1020
+
+5.5
+
+62
+
+550
+
+480
+
+1050
+
+165
+
+5
+
+8.0
+
+67
+
+590
+
+480
+
+1130
+
+190
+
+10
+
+16.0
+
+72
+
+685
+
+620
+
+1335
+
+274
+
+16.0
+
+75
+
+755
+
+620
+
+1350
+
+300
+
+H
+
+144
+
+W
+L
+
+

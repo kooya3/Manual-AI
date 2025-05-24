@@ -1,0 +1,228 @@
+DS30
+
+0.9
+
+350
+
+0.8
+
+80
+
+300
+DS 30-26
+
+0.7
+
+ETA%
+
+250
+0.6
+
+DS 30-21
+
+200
+
+60
+
+kW
+
+0.5
+
+DS 30-17
+
+0.4
+
+150
+
+40
+
+DS 30-13
+
+0.3
+100
+
+DS 30-8
+
+0.2
+50
+
+20
+
+0.1
+
+0
+
+20
+
+10
+
+30
+
+50
+
+40
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+FLOW RATE (m3/hr)
+
+PUMP
+DAYLIFF DS submersible pumps are designed specifically for borehole supply applications. They are of multistage centrifugal impeller design and
+all parts are made from premium AISI304 stainless steel with water lubricated rubber bearings. A submersible motor is fitted beneath the pump
+and suction is effected through a strainer between the pump and motor.
+
+MOTOR
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel cage motor constructed from stainless steel. The motor
+requires a remote starter and if unstable supply voltage is likely, an additional quick tripping control relay is recommended. Note that due
+to low starting torques of submersible motors, it is recommended that DOL starters are used. A DAYLIFF SCT electronic pump controller is
+recommended for comprehensive pump control including low level motor overload and irregular power supply protection.
+Enclosure Class: IP68
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+Voltage: 3X415V
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, chemically non-aggressive without solid particles or fibres
+Max. Liquid Temperature: DS wet end-500C
+Max. Water Depth: 300m
+Min. Borelole Diameter: 200mm
+
+PUMP DATA
+Motor
+
+Model
+
+Dimensions (mm)
+
+Full Load
+Current (A)
+
+I start
+
+I
+
+A
+
+B
+
+C
+
+E*
+
+Weight
+(kg)
+
+kW
+
+HP
+
+DS 30-8
+
+7.5
+
+10
+
+18.9
+
+5
+
+1816
+
+660
+
+1038
+
+49
+
+DS 30-13
+
+11
+
+15
+
+24.2
+
+4.8
+
+2248
+
+730
+
+1518
+
+80
+
+DS 30-17
+
+15
+
+20
+
+32
+
+5
+
+2687
+
+785
+
+1902
+
+DS 30-21
+
+18.5
+
+25
+
+40
+
+5.2
+
+3146
+
+860
+
+2286
+
+107
+
+DS 30-26
+
+22
+
+30
+
+47
+
+5.1
+
+3686
+
+920
+
+2766
+
+122
+
+*E= Maximum diameter of the pump with one motor cable
+
+142
+
+93
+
+3”
+
+

@@ -1,0 +1,210 @@
+The Dayliff DGW welding generator is a dependable, quality product specially designed for welding and generating simultaneously or separately.
+Particular features include:
+•
+•
+•
+•
+•
+•
+•
+•
+•
+
+Options of reliable and economical air-cooled 4 stroke OHV petrol engine (DGW 200P)or high efficiency diesel engines (DGW200D
+and 300D) equipped with large size exhaust and air cleaner for low noise operations.
+High efficiency square core alternator providing reliable power output.
+AC auxiliary current and DC welding current can be used simultaneously
+Strong tubular frame for protection and ease of handling.
+Integrated control panel with voltmeter, hourmeter and welding current adjuster for operational convenience.
+Fuseless type over current protection for AC with breaker on indicator
+Engine oil level sensor for protection in case of low oil level.
+High capacity fuel tank for extended operation.
+Supplied complete with electrode holder and 4m cable, welding clamp and 4m cable, output plugs and separate castor wheels for
+movable applications
+
+DGW200 models are appropriate for use with welding rods up to 3.2mm while DGW300 is more suited for larger rods up to 5mm depending on
+the welding current requirement of a given application.
+The DGW welding generator is of compact design and its advanced features make it suitable for all small scale welding and power generation
+applications.
+SPECIFICATIONS
+Engine
+
+Output
+
+Model
+
+Engine
+Model
+
+Capacity
+(cc)
+
+DGW 200P
+
+GK420
+
+420
+
+DGW 200D
+
+LA186FA
+
+418
+
+Rated
+Power
+(HP)
+10.5
+
+Rated
+(kVA)
+
+Max
+(kVA)
+
+4.5
+
+5
+
+7.7
+
+Fuel
+Tank
+Capacity
+(litres)
+
+Operating
+Period
+(Hrs)
+
+25
+
+8
+
+12.5
+
+Dimensions (mm)
+Starter
+
+Electric
+
+L
+
+W
+
+H
+
+Weight
+(kg)
+
+685
+
+520
+
+625
+
+107
+
+800
+
+525
+
+600
+
+130
+
+1070
+
+578
+
+668
+
+195
+
+6
+DGW 300D
+
+LA290F
+
+954
+
+17
+
+3.0
+
+3.3
+
+25
+
+WELDING DATA
+Model
+DGW200P
+DGW200D
+DGW300D
+
+No Load
+Voltage (V)
+
+Welding Performance
+Operation
+Operating
+Voltage (V)
+Current (A)
+
+62-68
+
+22-26
+
+50-130
+
+75-80
+
+22-32
+
+50-270
+
+Welding Rod Currents (A)
+Max. Arching
+Current (A)
+200
+180
+
+2.5mmØ
+
+3.2mmØ
+
+50-100
+
+100-160
+
+300
+
+4mmØ
+
+5mmØ
+
+160-180
+
+180-300
+
+DIMENSIONS & WEIGHTS
+ELECTRICAL DATA
+Alternator: self exciting, 2 pole
+Power Output: 50Hz, 240V, single phase
+AC Power Output: 2 No. Plug Socket+ DC Terminal Bindings for Welding Cables
+Voltage Regulator: AVR
+H
+Power Factor: 1
+Speed: 3000rpm
+DERATING: Given outputs are sea level ratings. Sets should be derated at 1% for
+every 100m higher than 100m above sea level, and 2% for every 50C temperature
+above 200C.
+
+W
+
+L
+
+Weight: 100kgs
+All dimensions in mm
+
+

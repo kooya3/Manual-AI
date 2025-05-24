@@ -1,0 +1,196 @@
+DQ
+Circulator Pumps
+
+10
+
+9
+
+7
+
+DQ32/80
+
+DQ25/60
+
+DQ 15F
+
+8
+
+6
+8
+
+7
+5
+
+PUMP HEAD (m)
+
+6
+DQ 15F
+
+6
+
+4
+
+5
+4
+
+3
+
+4
+
+3
+2
+2
+
+2
+1
+Speed1
+
+DQ 25/32
+2.0
+1.5
+0.5 1.0
+FLOW RATE (m3/hr)
+
+0
+
+Speed3
+Speed2
+
+1
+
+2.5 0 0.5 1 1.5 2 2.5 3 3.5 4 0
+FLOW RATE (m3/hr)
+
+Speed1
+
+Speed2
+
+Speed3
+
+2
+8
+9
+4
+6
+FLOW RATE (m3/hr)
+
+10
+
+PUMP
+DAYLIFF DQ circulator pumps are designed for hot water circulation in heating, hot water, cooling and air conditioning applications in open or
+closed systems. They can also be used for pressure boosting in domestic dwellings and for circulation in solar hot water systems. Specifications are
+offered as follows;
+DQ15F - A single speed pump that includes a built-in flow switch which activates pump operations whenever there is supply demand. This is
+particularly applicable to domestic shower pressure boosting.
+DQ 25/32 - Pumps are provided with 3 speed settings for selection of the ideal flow to meet system requirements. No automatic switching is
+provided.
+Pump construction is cast iron pump housing, glass fibre reinforced polypropylene impeller, stainless steel rotor and ceramic bearing support. All
+pumps are supplied complete with female threaded BSP union connections.
+MOTOR
+The integral 2-pole asynchronous squirrel-cage motor is designed to operate at three speeds (except DQ15F). All motors include an inbuilt
+capacitor and overload protection and can be connected directly to mains supply through a 5A fuse or MCB.
+Enclosure Class: IP42
+
+Insulation Class: F
+
+Voltage:1x240V
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solids or fibres.
+Max Fluid Temperature:-100C -1100C.
+Max. Ambient Temperature: 100C - 500C
+Max. Operating Pressure: 6 bar
+Installation: Pumps must be installed with rotor shaft horizontal and vertical water flow.
+Note: The liquid temperature should be higher than the ambient temperature.
+PUMP DATA
+Model
+
+Motor
+(W)
+
+Current
+(A)
+
+DQ 15F
+
+120
+
+DQ 25/60
+
+93
+
+DQ 32/80
+
+245
+
+Dimensions (mm)
+
+Inlet/
+Outlet
+
+L
+
+H
+
+W
+
+0.55
+
+¾”
+
+160
+
+105.5
+
+144
+
+4
+
+0.45
+
+1½”
+
+180
+
+125
+
+90
+
+3
+
+1.1
+
+2”
+
+180
+
+175
+
+150
+
+6
+
+Weight
+(kg)
+
+H
+
+W
+
+L
+
+W
+
+L
+
+DQ 15F
+
+H
+DQ 25/60
+DQ 32/80
+
+All Dimensions in mm
+
+

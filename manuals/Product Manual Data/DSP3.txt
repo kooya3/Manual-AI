@@ -1,0 +1,241 @@
+DSP3
+Submersible
+Borehole Pump
+220
+
+0.10
+
+70
+
+kW
+200
+
+DSP 3-32
+
+0.08
+
+60
+
+180
+POWER PER STAGE (kW)
+
+PUMP HEAD (m)
+
+140
+
+DSP 3-21
+
+120
+100
+
+DSP 3-16
+
+80
+DSP 3-11
+60
+
+0.07
+
+50
+
+0.06
+
+40
+
+0.04
+
+30
+
+0.03
+
+20
+
+0.01
+
+10
+
+ETA%
+
+ETA%
+160
+
+40
+20
+1
+
+0
+
+2
+3
+FLOW RATE(m3/hr)
+
+5
+
+4
+
+1
+
+0
+
+3
+4
+2
+FLOW RATE(m3/hr)
+
+5
+
+PUMP
+The DAYLIFF DSP range of submersible multistage centrifugal pumps are specially designed for borehole supply applications.
+Material of construction include Noryl impellers, glass filled polycarbonate diffusers, stainless steel inlet and outlet chambers,
+stage casings, shaft and pump housing. These quality materials together with the floating type impeller design provide the pumps
+with efficient performance ,excellent sand handling capabilities and long life.
+MOTOR
+The pump is coupled to a two pole sealed motor constructed principally from stainless steel. Single phase motors are supplied with
+a separate control unit that incorporates an isolator, run indicator light, thermal overload protection and starting capacitor which
+can be connected directly to the mains power. The box is also provided with auxiliary terminals for control probes, pressure switch or
+float switch. Three phase motors require a remote DOL starter; DAYLIFF SCM/SCT electronic pump controllers are recommended
+for comprehensive pump control including wireless low level protection, motor overload and voltage fluctuation.
+Enclosure Class: IP68
+
+Insulation Class: F
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non aggressive liquids with a max. sand content of 50g/m3.
+Max. Water temperature: +350C
+Max. immersion depth: 200m
+Min. borehole diameter: 110mm
+DN
+
+PUMP DATA
+Model
+DSP 3-11
+DSP 3-16
+DSP 3-21
+DSP 3-32
+
+Voltage
+(V)
+1x240
+3x415
+1x240
+3x415
+1x240
+3x415
+1x240
+3x415
+
+Motor
+kW
+
+HP
+
+0.75
+
+1
+
+1.1
+
+1.5
+
+1.5
+2.2
+
+2
+3
+
+Current
+(A)
+
+Istat
+
+4.3
+
+4.7
+
+2.3
+
+3.9
+
+8.1
+
+4.0
+
+3.1
+
+3.9
+
+10.4
+
+3.7
+
+I
+
+4
+
+3.5
+
+15
+
+3.1
+
+5.6
+
+3.9
+
+DN
+(”)
+
+Dimensions (mm)
+A
+
+C
+
+342
+430
+
+1 14
+
+98
+519
+749
+
+D
+
+Weight
+(kg)
+
+722
+
+21
+
+707
+
+20
+
+835
+
+24
+
+810
+
+22
+
+959
+
+28
+
+924
+
+25
+
+1244
+
+35
+
+1189
+
+30
+
+

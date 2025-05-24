@@ -1,0 +1,161 @@
+DLIP
+
+TED
+A
+D
+P
+
+Lithium Iron
+Phosphate Battery
+
+U
+
+Discharge Performance @250C
+
+DLIP 48VDC Lithium-Ion Battery
+
+Different DoD Discharge
+Cycle Life Curve @1C
+
+DLIP 12/24VDC Lithium-Ion Battery
+
+DLIP 300AH Lithium-Ion Battery
+
+Dayliff DLIP Lithium Iron Phosphate (LiFePO4) batteries with Battery Management System control are high-performance products
+matched to the Dayliff DUV Ultraverter multifunction inverters with principal applications for solar power system storage and mains
+power supply backup. They offer many benefits including enhanced power output, considerably extended life and cooler operation
+in high temperatures and are especially suited to high specification installations. Particular benefits include:• 100% depth of discharge with a design life of up to 8000 cycles, 4 times the life of a comparable Lead Acid type for 48VDC
+batteries and 6000 cycles at 80% depth of discharge for 12/24VDC batteries.
+• Constant discharge voltage that enables the battery to deliver nearly full power until it is fully discharged. This also greatly
+simplifies voltage regulation control.
+• Lighter weight but higher energy density to similar capacity Lead Acid alternatives.
+• Low self-discharge rate of 3% per month.
+• Built in battery charge/discharge protection.
+• Excellent resistance to over and under charge with no damaging effects.
+• Maintenance free, totally safe and environmentally friendly.
+• 48VDC DLIP batteries are equipped with BMS software protection and batteries should only be connected in parallel. Series
+connection will result in battery damage.
+• 12/24VDC lithium batteries have inbuilt BMS hardware protection, series connection can be done up to 48VDC.
+In every aspect of performance Lithium Iron Phosphate batteries offer a much superior solution over the Lead Acid alternatives and
+though of higher capital cost deliver the more economical long term outcome due to their greatly increased life, consistent power
+output and better charge/discharge performance. For high specification systems where enhanced performance is demanded and
+reliability is essential they are the preferred choice.
+TECHNICAL DATA
+Model
+DLIP-10012
+
+Specification
+12VDC 100AH
+
+Storage
+Capacity
+(kWhrs)
+
+Max. Charge
+Current
+(A)
+
+Max.
+Discharge
+Current (A)
+
+50
+
+100
+
+1.2
+
+DLIP-10024
+
+24VDC 100AH
+
+2.4
+
+DLIP-05048
+
+48VDC 050AH
+
+2.4
+
+Dimensions(mm)
+Length
+
+Width
+
+339
+
+185
+
+12
+218
+
+522
+50
+
+Height
+
+Weight
+(Kgs)
+
+50
+
+23
+
+240
+
+25
+
+410
+133
+
+DLIP-10048
+
+48VDC 100AH
+
+4.8
+
+100
+
+100
+
+DLIP-15048
+
+48VDC 150AH
+
+7.2
+
+150
+
+150
+
+DLIP-30048
+
+48VDC 300AH
+
+15.4
+
+300
+
+300
+
+482
+
+733
+
+480
+
+44
+
+500
+
+222
+
+80
+
+260
+
+635
+
+120
+
+

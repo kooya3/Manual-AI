@@ -1,0 +1,79 @@
+Pump
+Switches
+
+TED
+A
+D
+UP
+SPIN FLOW SWITCH
+
+An in-line pump controller for automatic operation by flow sensing and suitable for boosting from
+header tanks. Features include:l
+l
+l
+
+Starts pump when flow is sensed (minimum 2.4litres/min) and stops when flow ceases
+Pump stop time adjustable between 10 to 180 secs
+System is un-pressured in no flow condition so eliminating pump cycling
+
+Max Motor Size: 1.5kW
+Max Operating Pressure: 10 Bar
+Max Water/Ambient Temps: 500C/550C
+Dimensions (L/W/H): 142/118/112mm
+PRESSURE SWITCH
+
+Max Current: 12A
+Connection: 1”M
+Protection: IP65
+
+Adjustable pressure switch for pressure control of pumps featuring normally closed brass alloy
+contacts and tear resistant cable glands
+Type
+PM/5
+PM/12
+
+Pressure
+Range (Bar)
+
+Factory
+Setting (Bar)
+
+Differential
+(Bar)
+
+Rated
+Current (A)
+
+1-5
+3-12
+
+1.4-2.8
+5-7
+
+0.6-2.3
+1.5-5
+
+16
+16
+
+PADDLE FLOAT SWITCH Paddle type float switch with weight and 3m PVC cable. The switch is suitable for both high level and
+
+low level control according to the wiring connections.
+Max Current: 8A
+Max Working Temp: 600C
+
+BULB FLOAT SWITCH
+
+Max Immersion:3m
+Protection:IP68
+
+Bulb float switches are suitable for dirty and waste water applications and are made from non
+corroding PVC and are supplied with 5m cable. Applications can be for high or low level control
+according to the wiring connections
+Max Current: 8A
+Max Working Temp: 500C
+
+Max Depth:40m
+Protection:IP68
+
+

@@ -1,0 +1,160 @@
+6SR27
+Submersible
+Borehole Pumps
+400
+6SR27/27
+350
+300
+
+75%
+
+ETA
+6SR27/20
+
+200
+
+50%
+
+6SR27/14
+
+ETA%
+
+250
+
+150
+6SR27/10
+25%
+
+100
+50
+
+5
+
+0
+
+10
+
+15
+
+20
+
+25
+
+30
+
+0
+40
+
+35
+
+PUMP
+Pedrollo 6SR27 submersible pumps are specifically designed for supply from boreholes, though can also be used in other
+submersible applications in either vertical or horizontal configuration. They feature a hydraulic design that incorporates floating
+impellers which together with especially resistant component materials provide high resistance to sand content in the pumped water.
+The pump impellers and diffusers are made from technopolymer while the stage casings, top housing, suction connector, pump
+sleeve and shaft are made of AISI 304 stainless steel. The pump is supplied with a 4m tail cable.
+MOTOR
+Pumps are coupled to a two pole sealed motor constructed principally from stainless steel. Motors require a remote direct in-line
+starter and if irregular electrical supply is prevalent an additional quick tripping multi function protection relay is recommended.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+Voltage: 3x415V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non aggressive liquids with a maximum sand content of 100gm/m3.
+Max. Liquid Temperature: +350C
+Max. Immersion Depth: 200m
+Min. Borehole Diameter: 200mm
+PUMP DATA
+Model
+
+Current
+(A)
+
+kW
+
+HP
+
+6SR27/10
+
+11
+
+15
+
+24
+
+6SR27/14
+
+15
+
+20
+
+32
+
+150
+
+Dimensions
+DN
+
+Weight
+(Kg)
+
+H1(mm)
+
+H2(mm)
+
+901
+
+826
+
+74
+
+1157
+
+894
+
+86
+
+DN
+
+H1
+
+Motor
+
+6SR27/20
+
+22
+
+30
+
+47
+
+1474
+
+1116
+
+123
+
+6SR27/27
+
+30
+
+40
+
+64
+
+1845
+
+1243
+
+136
+
+H2
+
+3”
+
+

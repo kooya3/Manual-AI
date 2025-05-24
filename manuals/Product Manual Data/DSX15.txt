@@ -1,0 +1,206 @@
+DSX15
+Permanent Magnet
+Borehole Pumps
+350
+
+80
+DSX15-17
+
+300
+
+ETA%
+
+70
+
+DSX15-15
+DSX15-14
+
+60
+
+250
+DSX15-12
+
+50
+200
+
+DSX15-10
+40
+DSX15-8
+
+150
+
+30
+
+DSX15-6
+DSX15-5
+
+100
+
+20
+
+50
+
+10
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+0
+
+3
+
+6
+
+9
+
+12
+
+15
+
+18
+
+21
+
+24
+
+PUMP
+DAYLIFF DSX submersible pumps featuring permanent magnet motors are specifically designed for water supply from boreholes.
+Equipped with a high specification intelligent variable frequency controller and operating at high frequency they offer unmatched
+efficiency and much reduced size. Materials of construction are engineering polymer impeller and diffuser and AISI304 stainless
+steel for top and bottom chambers, pump sleeve and shaft.
+MOTOR
+Permanent magnet synchronous motor uses special magnetised materials which generate a higher flux density that greatly
+improves efficiency and power factor. Operating at 5000 RPM the rated motor current is about 85% of an equivalent synchronous
+motor with the motor efficiencies of up to 90%.
+CONTROLLER
+The pump is provided with a remote intelligent variable frequency controller with features that include digital parameter indication,
+soft start, IoT (Internet of Things) control facility, electrical protection from high/low voltage, motor current overload and phase loss
+and dry run protection. The IoT capability provides various functionalities including remote control, real time monitoring, operating
+status recording and fault alarm record. Pumps can be monitored and controlled through GSM connected mobile phones.
+DAYLIFF DSX submersible pumps feature revolutionary motor design that provides up to 15% improvement in energy efficiency,
+about 50% reduced sized and improved reliability through enhanced motor control. They offer quite unmatched operational
+performance and are the new frontier in pumping technology.
+Enclosure Class: IP68, Controller: IP55
+Voltage: 3x380V - 415V
+
+Insulation Class: B
+Speed: 5000rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without solid particles or fibres.
+Max. Liquid Temperature: +350C
+Max. Particle Size: 2.3mm
+Max Immersion Depth: 200m
+Minimum Borehole Diameter: 110m
+
+100mm
+
+DN
+
+PUMP DATA
+Model
+DSX15-5
+DSX15-6
+DSX15-8
+DSX15-10
+DSX15-12
+DSX15-14
+DSX15-15
+DSX15-17
+
+Motor
+kW
+3
+4
+5.5
+7.5
+9.2
+11
+13
+15
+
+HP
+4
+5.5
+7.5
+10
+13
+15
+18
+20
+
+Current
+(A)
+18
+10
+13
+16
+19
+22
+25
+30
+
+DN
+(”)
+
+2
+
+A
+391
+419
+459
+509
+559
+609
+659
+709
+
+Dimensions (mm)
+C
+B
+858
+467
+928
+509
+1053
+594
+1221
+712
+1356
+797
+1490
+881
+923
+1582
+1041
+1750
+
+Weight
+(kg)
+14
+15
+18
+21
+25
+28
+30
+34
+
+95mm
+
+

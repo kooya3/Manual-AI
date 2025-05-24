@@ -1,0 +1,100 @@
+trigger:
+  branches:
+    include:
+      - develop
+      - master
+      - main
+  paths:
+    include:
+      - "*"
+
+pr:
+  branches:
+    include:
+      - master
+      - develop
+    exclude:
+      - develop/*
+  paths:
+    include:
+      - "*"
+
+pool:
+  vmImage: "ubuntu-latest"
+
+variables:
+  - group: ManualAgentVariables
+  - name: BACKEND_IMAGE_NAME
+    value: 'manualagent/backend'
+  - name: FRONTEND_IMAGE_NAME
+    value: 'manualagent/frontend'
+  - name: IMAGE_TAG
+    value: '$(Build.BuildId)'
+
+jobs:
+  - job: BuildAndDeploy
+    displayName: "Manual Agent CI/CD Pipeline"
+    steps:
+      - checkout: self
+        displayName: "Checkout Code"
+        
+      # Build Backend
+      - script: |
+          docker build \
+            --build-arg ENV_MODE=production \
+            -t $(BACKEND_IMAGE_NAME):$(IMAGE_TAG) \
+            -t $(BACKEND_IMAGE_NAME):latest \
+            ./backend
+        displayName: "Build Backend Image"
+        
+      # Build Frontend
+      - script: |
+          docker build \
+            --build-arg NODE_ENV=production \
+            -t $(FRONTEND_IMAGE_NAME):$(IMAGE_TAG) \
+            -t $(FRONTEND_IMAGE_NAME):latest \
+            ./frontend
+        displayName: "Build Frontend Image"
+
+      # Login to Docker Hub
+      - script: |
+          echo "$(DOCKERHUB_PASSWORD)" | docker login -u "$(DOCKERHUB_USERNAME)" --password-stdin
+        displayName: "Docker Hub Login"
+        condition: and(succeeded(), in(variables['Build.SourceBranch'], 'refs/heads/main', 'refs/heads/master'))
+
+      # Push Images
+      - script: |
+          docker push $(BACKEND_IMAGE_NAME):$(IMAGE_TAG)
+          docker push $(BACKEND_IMAGE_NAME):latest
+          docker push $(FRONTEND_IMAGE_NAME):$(IMAGE_TAG)
+          docker push $(FRONTEND_IMAGE_NAME):latest
+        displayName: "Push Docker Images"
+        condition: and(succeeded(), in(variables['Build.SourceBranch'], 'refs/heads/main', 'refs/heads/master'))
+
+      # Deploy to Production
+      - task: SSH@0
+        inputs:
+          sshEndpoint: "ManualAgent-Production"
+          runOptions: "commands"
+          commands: |
+            #!/bin/bash
+            
+            # Pull latest images
+            docker-compose -f /root/manual-agent/docker-compose.yaml pull
+            
+            # Stop and remove existing containers
+            docker-compose -f /root/manual-agent/docker-compose.yaml down --remove-orphans
+            
+            # Start new containers
+            docker-compose -f /root/manual-agent/docker-compose.yaml up -d
+            
+            # Clean up old images
+            docker system prune -af --filter "until=24h"
+            
+            # Verify deployment
+            docker ps
+            
+            # Check logs for any immediate errors
+            docker-compose -f /root/manual-agent/docker-compose.yaml logs --tail=100
+        displayName: "Deploy to Production"
+        condition: and(succeeded(), in(variables['Build.SourceBranch'], 'refs/heads/main', 'refs/heads/master'))

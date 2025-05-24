@@ -1,0 +1,64 @@
+MWTP
+Mobile Water
+Treatment Plants
+
+With production capacities up to 100,000 lit per day, the Dayliff Mobile Water Treatment Plants are designed to be deployed quickly wherever
+temporary or emergency potable water is needed and accommodate a wide variety of feed sources including saline, turbid or highly mineralized
+water.
+The system is fully enclosed in either standard 20 or 40ft containers or can be trailer mounted and includes raw water pumps, supply pumps,
+storage tanks and a diesel generator. Smaller solar powered versions are also available. Dayliff MWTPs are designed to withstand the most
+challenging environments with piping systems engineered to survive heavy vibrations and galvanized/powder coated frames to resist corrosion.
+Systems are frame mounted with all components conveniently accessible and are designed to provide low energy consumption and long life.
+Dayliff MWTPs are available in custom configurations and use a variety of technologies depending on the customer's feed water conditions,
+desired application and final product water quality requirements including Multi Media Sand/Activated Carbon Filtration, Ultra Filtration, Reverse
+Osmosis, Chlorination and/or Ultraviolet Light Disinfection. All offer the following features:• Diesel Generator or Solar Power with automatic control (optional)
+• Raw Water and Feed Pumps with Hoses, 100 Micron Strainer and Foot Valves
+• Electronic controller to fully automate plant operation including startup, periodic flush cycle and shut down as well as providing various
+system alarms
+• System monitoring accessories including inlet and outlet flow meters, pressure gauges and conductivity meter.
+• Corrosion resistant/vibration resistant high and low pressure pipes and pipe fittings.
+• Weather Proof, strong and rust free enclosures.
+Dayliff MWTPS are highly efficient, easy to operate and simple to maintain and offer the ideal solution for remote sites, temporary or emergency
+deployments.
+OPERATING PARAMETERS
+Operating Pressure: Ranges between 12 Bar and 20 Bar depending on raw water quality
+Raw Water Quality: Raw Water Turbidity up to 100NTU, TDS level of up to 5,000ppm. A raw water analysis should be provided to establish the
+extent of pre-treatment necessary.
+Recovery Range: 50% - 75% depending on raw water quality
+TYPICAL PLANT FLOW LAYOUT
+
+150 micron
+filter
+150 micron
+filter
+
+PH adjustment
+doser
+
+Antiscalant
+doser
+
+RO Plant
+Backwash
+Pump
+ROLP Pump
+
+Raw Water
+Pump
+
+CIP Pump
+
+Filtrate
+Tank
+
+From raw
+water source
+CIP & CEB
+Tank
+
+Treated
+Water
+
+Klorman
+
+

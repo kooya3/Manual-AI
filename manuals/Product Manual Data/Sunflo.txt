@@ -1,0 +1,210 @@
+TED
+A
+D
+UP
+
+Solar Pumping Systems
+
+Control Box (if provided)
+Water Tank
+
+DC
+Isolator
+
+Battery (if fitted)
+
+Solar Panel
+
+Pump
+
+Solar pumping is now firmly established as the technology for water supply in remote off-grid applications and also as the costs reduce increasingly for
+general pumping duties. Dayliff have been leaders in the technology since the birth of the industry and today offer a wide range of options for every solar
+pumping requirement imaginable. Particularly a range of competitive, high specification solar pumping systems have been developed for smaller scale
+applications which are based on robust submersible solar pumps specially designed for PV powered water supply from wells and boreholes.
+Together with the pump all systems include:• The appropriate specifications and number of Grade 1 PV modules with connectors for simplified installation
+• Submersible drop cable and joint together with 10m module connection cable
+• DC solar isolator with MCB control provided for module isolation
+• Safety rope and HDPE pipe connectors
+Module supports and piping are not included. The various systems offered give a wide range of duties, indicative performance being given. Full details of
+pump performance and specification is given in the Dayliff Product Manual and should be referred to when selecting equipment.
+SUNFLO-A
+
+SUNFLO-S
+Positive displacement type of three
+chamber diaphragm design. They
+are manufactured from high quality
+engineering plastics with stainless
+s t e e l c a s i n g . Pu m p s c a n b e
+connected directly to a 24V PV power
+supply for daytime only pumping or
+through a charge controller
+connected to batteries for extended
+daily operation.
+
+SUNFLO-B2
+All models are of helical
+rotary screw stainless
+steel design for high
+efficiency and feature an
+inbuilt controller that
+gives operating
+protection for direct
+connection to the PV
+modules. All models are
+of narrow 3” diameter
+specifically designed for
+boreholes.
+
+Higher specification pumps
+of both helical rotor and
+centrifugal type that are
+provided with separate
+controllers that feature
+MPPT technology to
+maximise pumping output
+as well as providing
+electrical protection and
+indicator lights giving
+operating status. Battery
+connection is also available
+for extended daily pumping.
+
+System Options
+Pump Model
+
+Indicative
+Performance
+
+SUNFLO-S 300
+
+3m3/day at 60m
+
+SUNFLO-A 150H
+
+2m3/day at 30m
+
+SUNFLO-A 270H
+
+3m3/day at 50m
+
+SUNFLO-A 600H
+
+4m3/day at 70m
+
+SUNFLO-B2 400C
+
+9m3/day at 30m
+
+SUNFLO-B2 800C
+SUNFLO-B2 1300C
+
+3
+
+10m /day at 50m
+3
+
+13m /day at 100m
+
+Input
+Voltage (V)
+24
+36
+
+Open
+Circuit
+Voltage (VoC)
+
+Motor
+Rating
+Watts
+300
+
+Peak
+Voltage
+(V)
+24
+
+2x200W
+
+Cable
+length,
+2.5mm2
+60m
+
+150
+
+≥30
+
+1x200W
+
+30m
+
+270
+
+≥45
+
+2x200W
+
+50m
+
+600
+
+4x200W
+
+70m
+
+<50
+
+<100
+
+PV
+Modules
+
+400
+
+≥60
+≥40
+
+<75
+
+1x545W
+
+30m
+
+72
+
+800
+
+≥70
+
+<110
+
+2x545W
+
+50m
+
+130
+
+1300
+
+≥130
+
+<180
+
+4x545W
+
+100m
+
+48
+
+Note1: Greater water outputs will be available at lower heads
+Note2: Actual performance will be determined by site conditions and irradiation levels.
+
+Outlet
+Size
+
+¾”
+
+1¼”
+
+

@@ -1,0 +1,105 @@
+PKSm80
+
+PUMP
+The PEDROLLO PKS range of self priming peripheral impeller booster pumps are robust, economical pumps principally used for
+domestic supply applications where there is insufficient mains water pressure available. They are fitted with an internal check valve
+on the suction inlet to assist with priming and are particularly suited for pumping from in-ground tank installations, especially when
+fitted with a 'Presscontrol' automatic control unit.
+The pump body is made from cast iron with a brass inset for improved starting performance. The impellers are made from brass.
+MOTOR
+Pumps are close coupled to a TEFC brushless induction motor designed for continuous operation. A thermal relay is provided in
+the windings to protect against electrical and mechanical overload and the pump can be connected directly to the mains power
+supply through a 10amp fuse or MCB.
+Enclosure Class: IPX4
+
+Insulation Class: B
+
+Voltage: 1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without abrasive particles or fibres.
+Max. Fluid Temperature: +600C
+Max. Ambient Temperature: +400C - PKSm80, +500C - PKSm60
+Max. Suction Lift: 9m (at sea level)
+
+Model
+
+Motor
+(kW)
+
+Max.
+Operating
+Current (A)
+
+DN1
+(”)
+
+Dimensions (mm)
+
+DN2
+(”)
+
+Weight
+(kg)
+
+L
+
+W
+
+H
+
+H1
+
+PKSm 60
+
+0.37
+
+2.5
+
+1
+
+1
+
+196
+
+148
+
+183
+
+149
+
+6
+
+PKSm 80
+
+0.6
+
+4.8
+
+1
+
+1
+
+263
+
+160
+
+198
+
+164
+
+11
+
+L
+
+W
+DN2
+DN1
+
+H1
+
+H
+
+

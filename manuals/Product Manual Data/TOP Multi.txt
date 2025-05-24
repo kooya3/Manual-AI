@@ -1,0 +1,151 @@
+TOP MULTI
+
+55
+TOP MULTI 4
+
+50
+45
+TOP MULTI 2/EVO
+
+40
+35
+30
+
+TOP MULTI 1
+
+25
+20
+15
+10
+TOP MULTI 1
+
+TOP MULTI 2/4
+
+TOP MULTI 2 EVO
+
+5
+0
+
+1
+
+2
+
+3
+
+5
+
+4
+
+6
+
+PUMP
+Pedrollo TOP MULTI are centrifugal multistage submersible pumps featuring closed impellers with a particular application for
+pumping from wells and water boosting from tanks. All MULTI models feature excellent motor cooling performance due to the
+jacketed motor design enabling the pump to operate continuously partially submerged. Other innovative features include double
+mechanical seals with intermediate oil chamber for total motor sealing and simple design for ease of maintenance. Pump
+construction is fiberglass reinforced techno plastic body and suction filter with Noryl impellers and diffusers. All pumps are fitted with
+a low level control float switch and 10m cable as standard. Models are available as follows:MULTI Standard - For basic drainage and water boosting in submerged in-tank applications
+MULTI 2 EVO - Includes all the features of the MULTI Standard though incorporates a piped suction arrangement that can either
+be connected for dry installations or as a submersible pump with an extended floating hose to provide for surface water suction.
+Pumps are supplied with a 1.5m, 30mm hose, stainless steel suction filter and float.
+MOTOR
+Pumps are provided with built-in non-overloading induction motors designed for continuous operation. A thermal cut-out is
+provided in the motor windings to protect against pump overload and the pump can be connected directly to the mains power
+supply through a 10amps fuse or MCB.
+Enclosure Class: IPX8
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive, non-abrasive liquids containing small impurities up to a max size of
+1.3mm
+Max. Fluid Temperature: +400C
+Max. Immersion Depth: Top Multi 1: 3m, Top Multi 2/4/EVO:10m
+PUMP DATA
+Current
+(A)
+
+0.37
+
+2
+
+0.55
+
+3
+
+Top Multi 2
+Top Multi 2 EVO
+Top Multi 4
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+A
+
+D
+
+H
+
+170
+
+25
+
+380
+
+7
+
+178
+
+34
+
+380
+
+9
+
+239
+
+52
+
+394
+
+1¼
+1 ¼1¼
+H
+
+10
+0.75
+
+4
+
+178
+
+35
+
+415
+
+A
+
+Min 500x500
+
+TOP MULTI 2 EVO
+
+TOP MULTI
+
+Min 500
+
+Top Multi 1
+
+Motor
+(kW)
+
+D
+
+Model
+
+

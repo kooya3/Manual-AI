@@ -1,0 +1,45 @@
+Enclosure Class: IP44
+
+Model
+
+Motor
+(kW)
+
+Insulation Class: F
+
+Current
+(A)
+
+Inlet
+BSP
+(”)
+
+Outlet
+BSP
+(”)
+
+Voltage: 1x240V
+
+Speed: 2900rpm
+
+Dimensions (mm)
+A
+
+B
+
+C
+
+F
+
+H
+
+N
+
+N1
+
+W
+
+Weight
+(kg)
+
+

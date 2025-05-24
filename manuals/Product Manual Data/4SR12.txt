@@ -1,0 +1,200 @@
+4SR12
+Submersible
+Borehole Pumps
+250
+
+80%
+4SR12/40
+
+72%
+
+ETA
+200
+
+64%
+4SR12/32
+
+150
+
+48%
+4SR12/24
+40%
+4SR12/18
+
+100
+
+32%
+24%
+
+4SR12/13
+50
+
+ETA%
+
+PUMP HEAD (m)
+
+56%
+
+16%
+
+4SR12/9
+
+8%
+2
+
+0
+
+4
+
+6
+
+8
+10
+12
+FLOW RATE (m3/hr)
+
+14
+
+16
+
+18
+
+20
+
+PUMP
+Pedrollo 4SR12 submersible pumps are specifically designed for water supply from boreholes, though can also be used in other
+submersible applications in either vertical or horizontal configuration. They feature a hydraulic design that incorporates floating
+impellers which together with especially resistant component materials provide high resistance to sand content in the pumped
+water.
+The pump impellers and diffusers are made from technopolymer while the stage casings, top housing, suction connector, pump
+sleeve and shaft are made of AISI 304 stainless steel.
+MOTOR
+Pumps are coupled to a Pedrollo two pole sealed motor constructed principally from AISI 316 stainless steel. Drytek control box is
+available for both single phase and three phase pump control which incorporates incoming mains isolator, digital display of motor
+operating status and protection against over and under voltage, motor overload and phase sequence loss. The controller can be
+connected directly to the mains power supply.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non aggressive liquids with a maximum sand content of 150gm/m3.
+Max. Liquid Temperature: +350C.
+Max. Silt Content: 150g/m3
+Min. Borehole Diameter: 110 mm
+Max. Immersion Depth:200m
+PUMP DATA
+Current (A)
+
+Motor
+Model
+
+DN
+(”)
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+kW
+
+HP
+
+1x240V
+
+3x415V
+
+4SR12/9
+
+1.5
+
+2
+
+11
+
+5
+
+738
+
+397
+
+17
+
+4SR12/13
+
+2.2
+
+3
+
+15
+
+6
+
+989
+
+437
+
+21
+
+4SR12/18
+
+3
+
+4
+
+7
+
+1302
+
+450
+
+25
+
+4SR12/24
+
+4
+
+5.5
+
+9
+
+1677
+
+505
+
+31
+
+4SR12/32
+
+5.5
+
+7.5
+
+12
+
+2178
+
+589
+
+39
+
+4SR12/40
+
+7.5
+
+10
+
+16
+
+2679
+
+800
+
+52
+
+2
+
+

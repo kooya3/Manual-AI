@@ -1,0 +1,183 @@
+120
+
+100
+
+80
+PLURIJET 80/100
+60
+6/130
+5/90
+
+40
+
+4/130
+6/200
+
+20
+PLURIJET 90/130/200
+
+3/80
+0
+
+2
+
+4
+
+3/200
+
+4/100
+
+6
+
+8
+
+10
+
+12
+
+14
+
+PUMP
+The PEDROLLO PLURIJET range of multistage centrifugal pumps are of self-priming design suitable for various water transfer
+applications. The pump and continuously rated motor unit are of monoblock construction and particular attention has been paid to
+quiet running, reliability and high efficiency.
+The pump body and impellers are constructed from AISI304 stainless steel for all models. Plurijet 80/90/100/120 diffusers are
+made from Nyrol complete with wearings. Plurijet 130/200 diffusers is in AISI304.
+MOTOR
+Pumps are close coupled to a totally enclosed, TEFC fan cooled Pedrollo motor suitable for continuous duty. The single phase
+motors include a built in thermal overload and should be connected to mains power through a fuse or MCB. Three phase motors
+should be installed with a remote starter.
+Enclosure Class: IPX4
+
+Insulation: Class F
+
+Speed: 2900 rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without abrasive particles or fibres.
+Max. Fluid Temperature: +400C
+Max. Ambient Temperature: +400C
+Max. Suction lift: 8m (at sea level)
+PUMP DATA
+Motor
+(kW)
+
+Voltage
+(V)
+
+DN1 DN2
+
+Dimensions (mm) Weight
+(kg)
+L
+H W D
+
+Plurijet 3/80
+
+0.48
+
+1x240
+
+1”
+
+1”
+
+367 182 182 87
+
+8
+
+Plurijet 4/100
+
+0.75
+
+1x240
+
+1”
+
+1”
+
+410 202 182 87
+
+12
+
+Plurijet 5/90
+
+1.1
+
+1x240
+
+1¼”
+
+1”
+
+549 228 185 243
+
+20
+
+Plurijet 3/200
+
+1.1
+
+1x240
+
+1¼”
+
+1”
+
+497 228 185 191
+
+19
+
+Plurijet 4/130
+
+1.5
+
+1x240
+
+1¼”
+
+1”
+
+523 228 185 217
+
+21
+
+Plurijet 6/130
+
+2.2
+
+3x415
+
+1¼”
+
+1”
+
+595 228 185 269
+
+25
+
+Plurijet 6/200
+
+2.2
+
+3x415
+
+1¼”
+
+1”
+
+595 228 185 269
+
+25
+
+Model
+
+144
+
+D
+
+PLURIJET 80/100
+
+PLURIJET 90/130/200
+
+

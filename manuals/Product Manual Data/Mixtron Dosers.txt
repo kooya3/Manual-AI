@@ -1,0 +1,110 @@
+MX
+Mixtron Dosers
+
+OPERATING PRINCIPLE
+
+Check
+Valve
+Liquid
+
+Liquid
++
+% Additive
+
+Manometer
+
+Filter
+
+Additive
+% Additive
+
+MX 250
+
+MX 300
+
+Mixtron proportional chemical feeders are an effective solution for accurate in-line injection of a wide range of chemicals for
+various water treatment, agricultural and industrial applications. Installed directly on the raw water supply line, a hydraulic motor
+pump uses the water flow as its energy source. This pump in turn activates the dosing piston. Particular benefits are:• Fully automatic operation with dosage directly proportional to flow.
+• Simple to install and no external power source required.
+• Highly accurate and consistent dosage with adjustable concentrate ratios between 0.2 to 10%.
+• Accommodates large dosage ranges and operating pressures.
+Mixtron is principally used for water treatment applications particularly chlorination. Installation is simple and can be in line taking
+the full water flow or on a bypass for larger flow rates. Specialized application products are available on request.
+Built principally from high quality engineering plastics and incorporating simple mechanical components, Mixtron feeders are
+designed for long-term reliability and durability, and are on excellent solution whenever consistent and accurate chemical dosage is
+an essential requirement for any production or environmental process.
+OPERATING CONDITIONS
+Feed Water: Thin, clean non aggressive liquids without fibres or particles pre-filtered to atleast 300 micron (50mesh). Pretreatment is required for feed water with higher levels of suspended solids.
+Chemical Concentrate: Thin, clean chemicals including most acids, alkalis and polymers for standard units. Special models are
+available for aggressive and viscous chemicals and can be specified on request.
+Operating Water Temp: Min 50C – Max 400C
+Average Dosage Accuracy: +/-5%
+Repeatability: +/-3% (API standard)
+Suction Performance: Self-priming, max4m
+Viscosity: PV kit required above 200 cSt at 200C and max with PV kit 400 cSt
+MODEL DATA
+Model
+
+Operating
+Flow
+(m3/hr)
+
+MX 250
+
+0.01-2.5
+
+MX 300
+
+0.01-3
+
+%
+
+Ratio
+
+Pressure
+Range
+(Bar)
+
+0.2-2
+
+1:500-1:50
+
+0.3-6
+
+Dosage Range
+
+Pressure
+Loss
+(Bar)
+
+Stroke
+Volume
+(L)
+
+0.1-0.7
+
+0.45
+
+0.1-1
+
+0.53
+
+Inlet/
+Outlet
+¾” BSP
+
+Dimensions (mm)
+H
+
+W
+
+Weight
+(kg)
+
+455
+
+165
+
+2
+
+

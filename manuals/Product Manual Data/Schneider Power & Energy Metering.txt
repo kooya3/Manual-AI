@@ -1,0 +1,127 @@
+Power &
+Energy Meters
+
+PM2220
+
+PM5320
+
+PM8240
+
+Schneider Electric Power Meters are high quality proven and tested instruments that offer simple to advanced power and energy monitoring. They can function
+independently or be integrated into a Schneider Power Monitoring Expert (PME) software platform to enable extended data recording, advanced visualization,
+analytics, power quality assessment, and compliance reporting.
+The meters are designed to cater for a wide range of applications including buildings, industries, datacenters and healthcare. They are well suited for power quality
+monitoring, energy conservation tracking, cost management, and cost allocation. They accurately measure key parameters like voltage, current, frequency, power
+factor, all aspects of power and energy (active, apparent, reactive), harmonic distortion, and individual harmonics. They are supplied loose for panel-mounting or
+optionally on request complete with wall-mount enclosure and accessories.
+PM2220: A power meter for general energy usage analysis, bill verification and sub billing. It features a monochrome LCD display with essential energy and power
+quality measurements up to 15th harmonic and Modbus RTU communication port.
+PM5320: A multi-tariff power meter for energy monitoring and cost management applications in industrial and commercial facilities. It features a monochrome
+graphical LCD display with configurable passwords, power and energy measurements with revenue grade accuracy, fundamental power quality measurements up
+to 31st harmonic, compliance to international metering standards and BACnet/Modbus TCP/IP communication port. Onboard memory supports logging of 2
+parameters for 60 days with 15minutes interval (active & reactive energy) and 40 records of user-defined alarms.
+Pm8240: A multi-function power meter with advanced power quality analysis up to 63rd harmonic and energy measurement for reliability and efficiency of powercritical facilities. It reveals complex power quality conditions enabling action to be taken to mitigate any issue. It features patented Disturbance Direction Detection,
+sags and swells detection, revenue grade accuracy, multiple communication ports, onboard power quality analysis, web interface and a colour graphical LCD
+display with configurable passwords. The meter complies with the most stringent international metering standards with an optional MID variant available on order.
+Cybersecurity features include secure protocols (HTTPS, SFTP) and security event logging. Its integral 512 MB of memory supports 50 data logs, 50+ user-defined
+alarms with email notifications, high resolution waveform captures, ½ cycle RMS logging, custom web pages, min/max logs, energy trends and Time-of-Use
+metering with network synchronization.
+SPECIFICATIONS
+Accuracy
+Measurement Voltage &
+Frequency
+CT/Rated Current
+Meter Supply Voltage &
+Frequency
+
+PM2220
+Class 1
+20-277 Vac 42-69Hz L-N
+35-480 Vac 42-69Hz L-L
+
+PM5320
+Class 0.5S
+20-440 Vac 42-69Hz L-N
+35-760 Vac 42-69Hz L-L
+1A, 5A
+
+0
+
+90-450 Vac 45-65Hz,
+100-300Vdc
+2 Digital Input,
+2 Digital Output
+
+Modbus RTU
+
+Modbus TCP/IP, BACnet IP
+
+Data Recording
+
+Time stamping, Min/Max for
+8 parameters
+
+Maintenance logs, Alarm logs,
+Min/Max of instantaneous values,
+Event logs, Time stamping,
+Data Logs
+
+Web Services
+
+-
+
+-
+
+Communication Service
+
+-
+
+-
+
+96 x 96 x 77
+300
+
+256kB
+96 x 96 x 72
+430
+
+Inputs & Output Ports
+Communication
+Port Protocol
+
+Memory Capacity
+Size: HxWxD (mm)
+Weight(g)
+
+44-277 Vac 45-65Hz ±10%,
+44-277Vdc ±10%
+
+PM8240
+Class 0.2S
+57-400 Vac 42-69Hz L-N
+100-690 Vac 42-69Hz L-L
+1A, 5A, 10A
+90-415 Vac 45-65Hz ±10%,
+110-415Vdc ±10%
+3 Digital Input, 1 Relay output,
+1 Pulse output,Optional cards for
+Digital/Analog Input/Output
+Modbus RTU, Modbus TCP/IP,
+BACnet IP, ION, DNP3,
+IEC 61850
+Min/Max of instantaneous values,
+waveform logs, Event logs, Time
+stamping, Alarm logs, Trending/
+Forecasting, Sag and swell logs,
+Harmonic logs, Data logs
+HTTP/HTTPS Web server, Alarm
+notification by email, File upload/
+download via FTP/SFTP, Viewing
+of captured waveform (FTP/web)
+SMTP e-mail notification, RSTP
+& DHCP Support, NTP/PTP time sync
+512 MB
+96 x 96 x 78
+531
+
+

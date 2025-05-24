@@ -1,0 +1,507 @@
+Variable Speed
+Booster Sets
+
+VDI
+
+VDB
+
+Variable Speed control is a widely used technology for pump control and works by varying the pump speed to provide system water output at a
+constant pressure. This provides the following benefits:
+• Constant pressure providing consistent, even supply to the consumer.
+• Large energy cost savings as systems are always operating at peak efficiency for the demand conditions.
+• Extended pump life due to reduced electrical and mechanical operating loads.
+• Silent operation with no pressure shocks.
+• Simplified installation due to compact dimensions and integral pump control - no separate panel is required.
+Principle system components include the controller, which is mounted on the pump motor or
+on the pump skid, a quality Dayliff pump, a pressure sensor and a small surge tank to smooth
+the operating cycle. Controllers offer the following features:• Varies pump speed to maintain pre-set system pressure.
+• Over voltage, under voltage, single phasing and electrical overload protection.
+• Dry run protection with auto restart.
+• Integral soft start/soft stop function which extends pump life, reduces system pressure
+loads and reduces mains power loadings on start up.
+• One controller can control additional pumps and multiple controller systems can be
+synchronised for sequenced pump operation.
+• Balanced pump operation ensuring equalised operating periods for each system pump.
+
+50Hz
+40Hz
+
+45Hz
+
+All Dayliff booster sets use the latest technology controllers coupled to quality Dayliff pumps
+and are supplied complete frame mounted with inlet and outlet manifolds and valves for
+simple installation. Nominal system sizes are 2.5, 4 and 6 Bar, though pressures can be set to
+suit site conditions and the option of two and three pump configurations are available.
+Three pump systems can be specified with three controllers or two controllers/1 DOL start unit. In all systems pump operation is sequenced with
+the number of pumps operating increasing with system demand.
+Variable speed drive is now accepted as the most efficient way to provide on-demand water supply in all sorts of industrial commercial and
+domestic applications. Dayliff booster sets are the ideal solution in the application of this efficient technology.
+
+SPECIFICATIONS
+2.5Bar Systems
+Pumps - Dayliff DB or equivalent horizontal multistage high efficiency centrifugal pumps with stainless steel impellers and impeller
+housings.
+Controllers - Dayliff Pumpverter drives that provide pump control system using variable frequency drive technology (VFD) to
+provide constant pressure regardless of the demand flow requirements.
+
+4.0 and 6.0Bar Systems
+Pumps - Dayliff DIN or equivalent in-line vertical multistage pumps with stainless steel impellers and impeller housings.
+Controllers - Options of pump mounted Dayliff Pumpverter to provide constant pressure control. Also available is integrated
+control panel that includes Schneider Electric Altivar for the large motors. They are high specification VSDs suitable for use in
+residential and industrial applications. Drives are air-cooled and installed on motor or remote mounted with complete pump
+protection against overloading and over/under voltage, sleep and wake up function and pump dry run protection via installed
+pressure sensor.
+Schneider Electric Altivar Drives are premium VSDs with advanced application functions dedicated for water pumping
+applications in industrial and commercial applications including embedded services such as energy and pump efficiency
+monitoring dashboards without additional softwares, and integral Modbus protocol connectivity interfaces allowing seamless
+integration to BMS systems. Control panel specification includes IP55 enclosure with thermal management fans, Incoming Isolator,
+individual pump fuses/breakers, ATV630 VFD Starters, ‘On’ and ‘Trip’ indicators, Start-Stop push button, Emergency push button
+and Auto-Off-Hand Selector Switch.
+Pedrollo PRO-DG drives are premium VSDs with inverter based electronic control device compatible with both surface and
+submersible pumps for constant pressure water pumping applications in residential, commercial and industrial applications
+providing huge energy savings and longevity. The units are skid or wall mounted and provide digital connectivity interfaces for multipump configurations and optional expansion board for monitoring systems with ModBus connections.
+DAYLIFF PUMP MODEL
+
+Dayliff DB 2-50 0.7x1ph
+
+VDB2-6/25
+
+Dayliff DB 4-40
+
+1x1ph
+
+VDB2-10/25
+
+Dayliff DB 8-50 1.7x3ph
+
+VDB2-20/25
+
+6
+
+1.5
+
+1.5
+
+45
+
+VDB3-10/25
+
+67
+
+2
+
+1.5
+
+50
+
+VDB3-15/25
+
+73
+
+2
+
+85
+
+VDB3-30/25
+
+124
+
+Inlet/
+Outlet
+(”)
+
+Inlet/
+Outlet
+(”)
+
+Dimensions
+LxH(mm)
+
+Dayliff DIN 3-10
+
+0.75x3ph VDI2-7/40
+
+80
+
+600x927
+
+VDI3-10/40
+
+Dayliff DIN 5-10
+
+1.5x3ph VDI2-15/40
+
+102
+
+600x1083
+
+VDI3-20/40
+
+Dayliff DIN 10-6
+
+2.2x3ph VDI2-25/40
+
+650
+
+133
+
+900x1130
+
+Dayliff DIN 15-5
+
+4x3ph
+
+VDI2-40/40
+
+650
+
+178
+
+900x1235
+
+Dayliff DIN 32-3
+
+5.5x3ph VDI2-60/40
+
+650
+
+271
+
+Dayliff DIN 45-2
+
+7.5x3ph VDI2-80/40
+
+650
+
+318
+
+2.5
+
+Dimensions
+LxH(mm)
+121
+
+900x927
+
+154
+
+900x1083
+
+VDI3-40/40
+
+194
+
+1200x1130
+
+VDI3-60/40
+
+272
+
+1300x1235
+
+1500x1276
+
+VDI3-100/40
+
+422
+
+1800x1645
+
+1500x1645
+
+VDI3-120/40
+
+440
+
+1800x1645
+
+3
+
+6 BAR SYSTEMS
+Inlet/
+Outlet
+(”)
+
+Inlet/
+Outlet
+(”)
+
+Dimensions
+LxH(mm)
+
+Dayliff DIN 3-15
+
+1.1x3ph
+
+VDI2-7/60
+
+82
+
+600x1016
+
+VDI3-10/60
+
+Dayliff DIN 5-16
+
+2.2x3ph VDI2-15/60
+
+110
+
+600x1285
+
+VDI3-20/60
+
+Dayliff DIN 10-9
+
+3x3ph
+
+650
+
+151
+
+900x1198
+
+Dayliff DIN 20-5
+
+5.5x3ph VDI2-40/60
+
+650
+
+219
+
+Dayliff DIN 32-4
+
+7.5x3ph VDI2-60/60
+
+650
+
+295
+
+Dayliff DIN 45-3
+
+11x3ph VDI2-100/60
+
+424
+
+1500x1645
+
+VDI3-150/60
+
+2.5
+
+VDI2-25/60
+
+650
+
+Dimensions
+LxH(mm)
+600
+
+124
+
+600
+
+170
+
+900x1285
+
+VDI3-40/60
+
+650
+
+221
+
+1200x1198
+
+900x1218
+
+VDI3-60/60
+
+650
+
+337
+
+1300x1218
+
+1500x1346
+
+VDI3-90/60
+
+650
+
+458
+
+1800x1645
+
+650
+
+599
+
+1800x1645
+
+3
+
+20
+
+150
+
+900x1016
+
+PEDROLLO PUMP MODEL
+6 BAR SYSTEMS
+Inlet/
+Outlet
+(”)
+Pedrollo HT 10/5
+
+2.2x3ph VHT2-10/60
+
+10
+
+Pedrollo HT 10/7
+
+3.0x3ph VHT2-20/60
+
+20
+
+Pedrollo HT 10/9
+
+4.0x3ph VHT2-35/60
+
+35
+
+Pedrollo HT 15/4
+
+5.5x3ph VHT2-40/60
+
+40
+
+Pedrollo HT 30/5
+
+9.2x3ph VHT2-70/60
+
+70
+
+Pedrollo HT 30/6
+
+11x3ph
+
+VHT2-75/60
+
+75
+
+Pedrollo HT 30/8
+
+15x3ph
+
+VHT2-85/60
+
+85
+
+2
+24
+
+3
+4
+
+60
+
+6
+
+Inlet/
+Outlet
+(”)
+
+Dimensions
+LxWxH(mm)
+110
+
+900x600x664
+
+VHT3-15/60
+
+15
+
+130
+
+900x600x665
+
+VHT3-30/60
+
+30
+
+140
+
+900x600x765
+
+VHT3-55/60
+
+55
+
+160
+
+900x600x680
+
+VHT3-60/60
+
+60
+
+275
+
+900x600x875
+
+VHT3-105/60
+
+105
+
+280
+
+1100x650x915 VHT3-115/60
+
+115
+
+310
+
+1100x650x1005 VHT3-130/60
+
+130
+
+24
+
+3
+4
+
+60
+6
+
+Dimensions
+LxWxH(mm)
+150
+
+900x600x664
+
+180
+
+1100x600x665
+
+190
+
+1100x600x765
+
+195
+
+1100x600x680
+
+405
+
+1500x600x875
+
+410
+
+1500x650x915
+
+450
+
+1500x650x1005
+
+

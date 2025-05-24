@@ -1,0 +1,103 @@
+PME
+Electrical Power
+Monitoring Software
+EcoStruxure Power Monitoring Expert (PME) is a purpose-built software platform deployed at customers servers that simplifies
+power management providing rich energy visualization and power event analysis for more efficient and reliable operations. It is particularly
+ideal for mitigation of energy wastage and service disruptions due to power outages and electrical disruptions in large buildings and critical
+facilities. It features a comprehensive set of web-based applications including dashboards, diagrams, trends, alarms and reports to deliver
+deep insights into electrical system performance, energy efficiency and power quality. PME is powerful, scalable, easy to use and designed
+to integrate into other management systems.
+APPLICATION
+
+FUNCTION
+
+Alarms
+Dashboards
+Diagrams
+Reports
+
+View and analyze incidents, Alarms, and Events; Acknowledge alarms
+View high level, historical and real-time data in dashboards and devices
+View low level, historical and real-time data in one-line and graphics diagrams
+Run reports on demand or scheduled
+
+Trends
+
+View trends for real-time and historical data
+
+Salient software system features include:
+• Certified Energy Data Management System in accordance with ISO5001, ISO5002 and ISO5006 standards sections that include
+energy baseline, data collection, performance indicators, analysis, audit reporting and review.
+• Certified to Cybersecurity standard at the component level (IEC62443-4-1 and IEC62443-4-2 SL1) ensuring data in transit is
+protected through encryption and certificate validation between PME and connected devices.
+• Reports for multiple Power Quality compliance standards including EN50160, IEC61000-2-4 and IEEE 519.
+• Native support for multiple power devices including power meters, uninterruptible power supplies (UPS), active harmonic filters,
+capacitor bank controllers, variable speed drives and EV chargers.
+• Support for devices with standard industry communication protocols such as Modbus TCP/RTU, ION and OPC DA.
+• Optional Software Assurance to allow PME upgrades to the latest released PME version.
+PME deployment is carried out on computers/servers appropriately sized and provisioned with Windows Server/Pro/Enterprise operating
+systems and SQL Server databases as per PME IT guide. The system requires Base License (Standard or Express) and Device Licenses as a
+minimum to operate.
+LICENSE
+
+DETAILS
+
+PME Standard
+Base License
+
+Required license that includes two Client Access licenses, one of which is assigned to the system as supervisor user.
+Suitable for both standalone and distributed database systems.
+
+PME Express
+Base License
+
+Alternative to Standard Base license but with reduced functionality suitable for pilot systems. It includes 10 device
+licenses though does not include any Power Quality reports. Upgradeable to Standard License
+
+Device Licenses
+
+Required license to enable monitoring devices in PME. Individual licenses for entry level, mid-range and highend device types. Third party devices with Modbus interface require mid-range licenses.
+
+Client Access
+License
+
+Assigned to system users. Required if there are additional users who should access system.
+
+Software
+Module
+License
+
+Optional licenses that enable additional reports and dashboard functionality:
+•Backup Power Management Module
+•Breaker Performance Module
+•Capacity Management Module
+•Energy Analysis Dashboard Module
+•Energy Analysis Reports Module
+•Energy Billing Module
+•Event Notification Module
+•Insulation Monitoring Module
+•Power Quality Performance Module
+
+Data Exchange
+Module
+
+Optional license that enables data exchange with external systems with PME as OPC DA server or Modbus Slave.
+
+Software
+Assurance
+
+1 year or 3-year options available. Ordered using credits calculated based on system devices and modules. Must
+be selected if an upgrade of software to the latest version is required.
+
+SQL Server
+License
+
+Optional license for Microsoft SQL Database Server. Free SQL Server Express version included with PME
+installation though with database size limitation of up to 10GB.
+
+The Base Licenses include Energy Management reports such as Calender Trend Reports, Consumption Ranking Report, Energy Cost
+Report, Load Profile Report and Energy Usage Report based on Shift and Time of Use(TOU) schedule. The Standard base license also
+features power quality reports such as EN50160-2000 compliance Reports, IEEE519-1992 Harmonic Compliance Reports, Reports
+showing severity of voltage sags, swells and transients, waveform signatures and CBEMA susceptibility curve plots.
+
+

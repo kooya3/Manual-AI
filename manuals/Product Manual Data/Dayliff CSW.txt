@@ -1,0 +1,165 @@
+CSW
+Centralised Hot
+Water Systems
+
+Re-Circulation Line
+Main Hot Water Line
+Outlets
+Pump
+Manometer
+Pump
+
+Expansion Tank
+Safety Valve
+Cold
+Water
+Non-return Valve
+Filter Inlet
+
+Drain
+
+SCHEMATIC INSTALLATION LAYOUT
+
+DAYLIFF CSW pumped circulation hot water systems are applicable in centralised distribution installations
+where the tank is mounted remotely from the solar collectors instead of the integral thermosyphon alternative.
+They can be used in small scale domestic systems and are also particularly applicable for larger systems
+installed in institutions like schools, hotels and hospitals. Key features include:
+• High efficiency Ultrasun Premium solar collectors which incorporate full area copper absorption plates
+ultrasonically welded to copper circulation tubes, advanced specification insulation and tempered
+security glass to provide energy absorption of up to 95%.
+• Long life eco friendly Ultrasun Premium indirect single coil water storage tank made from low carbon steel with double enamel
+internal coating and cathodic protection for exceptional corrosion protection. Tanks are also provided with powder coated steel
+external casings with soft foam insulation and thermostat controlled heating elements (1x2kW up to 500L and 2x2kW for 1000L
+to 2000L respectively) .
+• High performance Grundfos Alpha2 25-60 speed controlled circulator pump available on request.
+• An advanced programmable differential temperature controller manages operation of forced circulation solar systems. The
+controller incorporates inputs from sensors that monitor temperature at various points in the system and relays signals to control the
+circulation pump and thermostats to optimize hot water availability. It also includes a digital display indicator indicating the system
+layout, hour counter for the circulator pump and system temperatures.
+DAYLIFF CSW Hot Water system are available in various tank sizes and collector configurations to suit most
+residential and institution applications and provide an efficient and effective solution to all pumped solar hot
+water heating requirements.
+OPERATING CONDITIONS
+Water Quality: Water outside the following limits should be appropriately pre-treated: Clarity: Clear, TDS:>600mg/l, Hardness:
+>200mg/l CaCO3.
+Saturation Index:>0.8
+Max Operating Pressure: 10 Bar
+EQUIPMENT SPECIFICATIONS
+MODEL
+
+CSW300
+
+CSW500
+
+CSW1000
+
+CSW1500
+
+No of People
+
+6
+
+10
+
+20
+
+30
+
+40
+
+System Tank size (Litres)
+
+300
+
+500
+
+1000
+
+1500
+
+2000
+
+Tank Dimensions (DxH)
+
+700x1210
+
+740x1800
+
+1006x2072
+
+1120x2300
+
+1460x2200
+
+Pipe Connection Size
+Empty Tank Weight (kgs)
+
+CSW2000
+
+1¼”
+
+1”
+
+118
+
+189
+
+269
+
+366
+
+570
+
+3xST230
+
+5XST230
+
+7xST230
+
+10xST230
+
+17xST230
+
+Collector Area (m2)
+
+6.9
+
+11.5
+
+16.1
+
+23
+
+39.1
+
+Collector Weight (kgs)
+
+108
+
+180
+
+252
+
+360
+
+600
+
+Max. /Min. Heat Output/Day
+(kWhrs)
+
+41/28
+
+69/46
+
+97/64
+
+138/92
+
+235/156
+
+Collector Model
+
+Note: Maximum heating output is based on average irradiation levels of 6000W/m/day prevailing in September - March and minimum Heating output is based on
+average irradiation levels of 4000W/m/ day prevailing in June/ July and are for indicative purposes only.
+
+

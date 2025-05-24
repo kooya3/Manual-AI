@@ -1,0 +1,284 @@
+DSS5
+Multistage Centrifugal
+Borehole Pump
+450
+400
+
+70
+DSS 5/58
+
+60
+
+350
+300
+
+50
+DSS 5/44
+
+ETA%
+
+250
+DSS 5/33
+200
+150
+100
+
+DSS 5/25
+
+40
+
+30
+
+20
+
+DSS 5/18
+DSS 5/12
+
+50 DSS 5/8
+
+10
+
+2
+
+1
+
+3
+
+4
+
+5
+
+7
+
+6
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+PUMP
+DAYLIFF DSS submersible pumps are designed specifically for borehole supply applications. They are of multistage centrifugal
+impeller design and all parts are made from standard AISI304 stainless steel with water lubricated rubber bearings. A submersible
+motor is fitted beneath the pump and suction is effected through a strainer between the pump and motor.
+MOTOR
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel-cage motor constructed of stainless steel. Single phase
+motors should be supplied with purpose designed Dayliff SCM control boxes for operation and protection against overload, dry
+running and over/under voltage. Three phase motors require a remote DOL starter; A DAYLIFF SCT electronic Pump Controller is
+recommended for comprehensive pump control including low level, motor overload and irregular power supply protection.
+Enclosure Class: IP68
+
+Insulation Class: F
+
+Speed: 2900 rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids with a maximum sand content of 0.25%
+Max Liquid Temperature: +500C
+Max Water Depth:200m
+Minimum Borehole Diameter: 110mm
+
+DSS 5/12
+
+kW
+
+HP
+
+1X240V
+
+0.75
+
+1
+
+6.2
+
+1.1
+
+1.5
+
+8
+
+DSS 5/18
+
+1.5
+
+2
+
+11.5
+
+DSS 5/25
+
+2.2
+
+3
+
+15.5
+
+DSS 5/33
+
+3
+
+4
+
+DSS 5/44
+
+4
+
+5.5
+
+DSS 5/58
+
+5.5
+
+7.5
+
+_
+_
+–
+
+3X415V
+
+_
+_
+_
+6
+8
+10
+13
+
+1X240V
+25
+32
+46
+62
+
+_
+_
+–
+
+3X415V
+
+_
+_
+_
+42
+56
+70
+91
+
+A
+1X240V
+359
+399
+449
+542
+
+_
+_
+–
+
+B
+3X415V
+
+_
+_
+_
+514
+594
+698
+788
+
+1X240V
+706
+842
+1012
+1297
+
+_
+_
+–
+
+C
+
+Weight
+
+100mm
+1½”
+
+(kg)
+
+3X415V
+
+_
+_
+_
+
+347
+
+12
+
+443
+
+15
+
+563
+
+18
+
+C
+
+Current(A)
+
+Dimensions (mm)
+
+Start Current
+(A)
+
+1296
+
+755
+
+25
+
+1541
+
+947
+
+29
+
+1906
+
+1208
+
+35
+
+2326
+
+1538
+
+43
+
+B
+
+DSS 5/8
+
+Full Load
+
+A
+
+Model
+
+Motor
+
+ø95mm
+
+

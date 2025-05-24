@@ -1,0 +1,104 @@
+DDT
+Plastic Centrifugal
+Booster Pumps
+55
+50
+
+DDT 10
+
+45
+
+PUMP HEAD (m)
+
+40
+35
+30
+25
+20
+15
+10
+5
+0
+
+0.5
+
+1.5
+
+1.0
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+FLOW RATE (m3/hr)
+
+PUMP
+The DAYLIFF DDT pump is of single stage centrifugal impeller self priming design suitable for small scale irrigation, water boosting
+and water transfer applications. Material of construction are stainless shaft, UV-proof composite material for the pump body and all
+hydraulic components in contact with water are made of engineering plastic.
+MOTOR
+Pumps are close coupled to reliable TEFC electric motors designed for continuous operation and are provided with a thermal cut
+out to protect against electrical overload. They can be connected directly to the mains power supply through a 10A fuse or MCB.
+Enclosure Class: IPX4
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+Speed:2850rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solids or fibres
+Max. Fluid Temperature: +600C
+Max Ambient Temperature: +400 C
+Max. Suction Lift: 9m at sea level
+PUMP DATA
+Motor
+Model
+DDT 10
+
+kW
+
+HP
+
+0.75
+
+1
+
+Current
+(A)
+
+DNA
+(”)
+
+DNM
+(”)
+
+5.2
+
+1
+
+1
+
+Dimensions (mm)
+W
+
+H
+
+L
+
+194
+
+198
+
+388
+
+Weight
+(kg)
+10.4
+
+

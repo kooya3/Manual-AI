@@ -1,0 +1,71 @@
+Power Protection
+Controllers
+Dayliff power controllers are quality products used in various applications. This includes monitoring the incoming power supply and
+when outside pre-set limits disconnect the equipment, reconnecting on return of normal power after a start-up delay to protect
+against damaging power-back surges. The controllers are fitted with LED lights indicating the power status and installation couldn't
+be simpler. All controllers offer complete and reliable protection against the damage caused by fluctuating power and are essential
+accessories for all environments where there is a risk of inconsistent power supply.
+
+AUTOMATIC VOLTAGE
+SWITCHER (AVS 13&15)
+
+AVS 13
+
+Max Load:13A/15A , Single Phase
+Reconnection Time:User adjustable up to 3mins
+Protection: High Voltage, Low Voltage, Power Back Surges,
+Spikes/Surges, Lightning
+Applications: All electrical and electronic appliances, 15A particularly
+suitable for AC's.
+Physical Data: Weight 500gms, Dimensions 230x134x54mm
+
+AUTOMATIC VOLTAGE
+SWITCHER (AVS 30)
+
+Max Load: 30A, Single Phase
+Reconnection Time: User adjustable up to 10mins
+Protection: High Voltage, Low Voltage, Power Back Surges,
+Spikes/Surges, Lightning
+Applications: All electrical and electronic equipment, complete office
+and home circuits. direct wire connected.
+Physical Data: Weight 600gms, Dimensions 230x134x54mm
+
+AUTOMATIC VOLTAGE
+SWITCHER (AVS 3P)
+
+Max Load: 9A relay contact wired through control circuits or contactors
+for three phase loads of any size.
+Reconnection Time: User adjustable up to 10mins.
+Protection: High Voltage (user adjustable), Low Voltage (user
+adjustable), Power Back Surges, Spikes/Surges, Lightning, Single
+Phasing.
+Applications: All electrical devices.
+Physical Data: Weight 600gms, Dimensions 205x135x54mm
+
+SOLLATEK HI VOLT GUARD
+Max Load: 6A, Single Phase
+Reconnection Time:30secs
+Protection: Overvoltage, Spikes/Surges, Power Back Surges, Lightning
+Applications: TV, Hi-fi, Video, PABX, Computers
+Physical Data: Weight 250gms, Dimensions 250x130x95mm
+
+SOLLATEK FRIDGE GUARD
+
+SOLLATEK LIGHTNING
+GUARD
+
+Max Load: 6A, Single Phase
+Reconnection Time:90secs
+Protection: Under voltage, Spikes/Surges, Power Back Surges,
+Lightning
+Applications: Fridges, Freezers and Compressors
+Physical Data:Weight 250gms, Dimensions 250x150x95mm
+Max Load: 6A, Single Phase
+Reconnection Time: 30secs
+Protection:High Voltage, Spikes/Surges, Power Back Surges, Lightning.
+Prevents Lightning, Surges and Spikes entering data/ telephone circuits.
+Applications: Modem, Fax, Telephone, Internet Router, TV. An RJ11
+phone socket is provided.
+Physical Data:Weight 300gms, Dimensions 180x90x95mm
+
+

@@ -1,0 +1,142 @@
+FLA NF
+
+PUMP
+NM FIRE UL/FM approved packaged Fire Sets are specially designed to provide automatic water supply to fixed automatic sprinkler firefighting
+installations. Fire Pump sets combine single duty diesel and electric powered supply main pumps to ensure serviceability in all conditions as well
+as a jockey pump to maintain system pressure. The fire sets have UL/FM approved component certificate of compliance and with the unit
+assembled in conformity to NFPA20 standard to ensure reliability of the assembly. Particular features include: • UL/FM approved individual electric motor and diesel engine powered pump sets providing standby supply in event of electrical power
+failure.
+• Separate automatic jockey pump to maintain system pressure restricting start of main pumps to at least one open sprinkler.
+• UL/FM approved independent pump controllers for each pump in conformity with NFPA20 fire standards.
+• Main pumps of split casing design with Spacer couplings to allow inspection of the hydraulic parts without disconnection of the piping,
+motor, or engine.
+• Vibration dampening system on diesel engine-driven pump set(s) consisting of rubber anti-vibration expansion joints that reduce the
+amount of vibrations produced by the diesel engine reaching the system.
+For all firefighting applications high levels of equipment performance and dependability are vitally important for the protection of both lives and
+property. NM FIRE fire pumps combine quality UL/FM approved components for optimal operational efficiency to provide competitive pricing for
+effective, reliable, and easy to install firefighting solutions. Capacities outside the listed range can be provided on request.
+SPECIFICATIONS
+Supply Pumps: UL/FM approved split casing pumps featuring gland packing seal and heavy-duty ductile cast-iron construction with stainless
+steel impellers. Pump models are selected to meet the design pressure and flow rates.
+Diesel Engine: UL/FM approved NM FIRE non overloading engine suitably rated for pump load fitted with residential type silencer for noise
+cancellation. Alternatives engines are available on request. Includes positive suction head metallic fuel tank to improve on reliability.
+Electric Motor: Non overloading TEFC squirrel cage 2 POLE 2900rpm electric motors suitably rated for the pump load.
+Jockey pump: Option of horizontal or vertical multistage pumps fitted with electric motor.
+Pressure Vessel: Low maintenance diaphragm type pressure vessel to regulate the jockey pump cycling.
+Piping: The suction consists of an eccentric taper and concentric expanders for the delivery line together with suitably sized piping to ensure low
+velocity suction requirements as per NFPA20 standards. Provisions for pump priming.
+Control System: UL/FM approved Tornatech electric and engine pump controllers that are NEMA2 enclosure complaint.
+EQUIPMENT SPECIFICATION
+
+Model
+
+FLA NF
+110/10
+FLA NF
+170/10
+FLA NF
+225/10
+
+Nominal Flow
+(m3/hr)
+Parallel
+Duty
+
+Single
+Duty
+
+226
+
+113
+
+340
+
+170
+
+552
+
+227
+
+High Pressure 10Bar
+Electric Pump
+Pump
+SCF125100-300
+SCF125100-300
+SCF150-1
+25-250
+
+Motor
+(kW)
+
+High Pressure 15Bar
+
+Diesel Pump
+Engine
+Engine
+Power (kW),
+(UL/FM)
+
+66
+
+NM4-108
+
+70
+
+72
+
+NM4-108B
+
+90/87
+
+100 NM6-110B
+
+114/110
+
+Model
+
+FLA NF
+110/15
+FLA NF
+170/15
+FLA NF
+225/15
+
+Electric Pump
+
+Diesel Pump
+Engine
+Engine
+Power (kW),
+(UL/FM)
+
+Pump/Impeller
+Dia
+
+Motor
+(kW)
+
+SCF125-80-350
+
+107
+
+NM6-110B
+
+110/114
+
+SCF125-80-350
+
+118
+
+NM6-110E
+
+143
+
+SCF125-80-350
+
+137
+
+NM6-110D
+
+200/178
+
+

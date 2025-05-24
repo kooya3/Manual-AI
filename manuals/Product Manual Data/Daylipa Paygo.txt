@@ -1,0 +1,24 @@
+DAYLIPA
+PayGo
+
+Daylipa PAYGO is a product financing service aimed at accelerating access to green energy solutions by providing solar pumping
+solutions on an easy Pay-as-you go platform.
+Flexible Repayment
+Daylipa PAYGO offers customers a 2 year financing facility payable with an initial deposit and flexible regular monthly repayment
+installments that are computed by a calculation of final and variable charge based on usage. The payments are made by
+purchasing water pumping units via Mobile Money.
+Remote Monitoring & Support
+The heart of the system is a smart controller that monitors the operation of the pump and communicates with the Daylipa PAYGO
+system. This enables the Daylipa team to identify any operation issues immediately they happen, and remotely resolve them or
+deploy a technician from a network of service personnel nearest to the user. The smart controller also enables real time crediting of
+water pumping units purchased to ensure uninterrupted pump operation providing due charges are paid.
+Customer Mobile Application
+Once onboarded onto the Daylipa platform, customers have access to a Daylipa PAYGO mobile Android app that allows users to:
+• Monitor their solar water pump condition.
+• Buy solar water pumping units.
+• Control their pump by turning it On/Off at any time.
+• View their financing balance and review payment transactions.
+Wide Application Range
+Daylipa PAYGO is available for a wide range of solar water pumps that can be chosen according to customer requirements.
+
+

@@ -1,0 +1,271 @@
+DG-P
+Portable Petrol
+Engine Generators
+
+DG3800ST/6500ST/7500ST
+
+DG1200S/3000S
+
+DG9000PT
+
+DG7500PS
+
+DG4000PSi
+
+The Dayliff range of portable petrol generators are dependable quality products specially designed for mains standby and remote site power
+supply applications. Particular features are:• Reliable and economic air cooled OHV petrol engines equipped with large size exhausts and air cleaners for low noise operation.
+• High efficiency square core alternators providing consistent AC power output.
+• Integrated control panel with selection of different controls for operational convenience.
+• Fuseless type over current protection.
+• Oil alert system to stop engine in the event of low oil level (not DG1200S).
+• High capacity fuel tank for extended operation.
+Hybrid LPG powered models are available that can also be petrol powered. LPG fueling is from a domestic gas tank with a standard regulator that
+is fed into the generator carburetor. LPG benefits include savings of up to 50% on fuel costs and reduced harmful emissions.
+Also available is the high specification DG4000PSi model that includes inverter technology with the following features:• High specification petrol engine incorporating automatic speed control that adjusts engine speed to load leading to reduced operating
+fuel consumption, reduced emissions and quieter operation.
+• Square core alternator fitted with a digital inverter that gives regulated 50Hz frequency and perfect sine wave output suitable for all types
+of sensitive electronic equipment.
+Dayliff DG generators are of compact design and their advanced features, reliability and economy of operation make them the ideal solution for
+all small scale power supply requirements.
+SPECIFICATIONS
+Output
+Rated (kVA)
+Max (kVA)
+
+Model
+
+Engine
+Capacity (cc)
+
+Fuel Tank
+Max Power (HP) Capacity (litres)
+
+Operating
+Period (Hrs)
+
+96
+
+3.5
+
+6
+
+7
+
+SW170F,4T
+
+225
+
+7.5
+
+15
+
+10
+
+5.5
+
+SW190F, 4T
+
+420
+
+15
+
+6.5
+4
+
+SW192F, 4T
+GK225, Vi
+
+440
+223
+
+17
+7.5
+
+25
+
+6
+
+10
+
+5
+
+DG 1200S
+
+1
+
+1.1
+
+DG 3000S/LPG
+
+2.5
+
+2.7
+
+DG 3800ST**
+
+2.8
+
+3
+
+DG 6500ST**
+
+5
+
+DG 7500ST**/LPG
+
+6
+3.6
+
+DG 4000PSi***
+
+Model
+SW156F,4T
+
+DG 7500PS*
+
+5.5
+
+6
+
+Gk420, 4T
+
+420
+
+16
+
+15
+
+4
+
+DG 9000PT**
+
+6.5
+
+7
+
+GK460, 4T
+
+460
+
+18
+
+28
+
+6.2
+
+Starter
+
+Recoil
+
+Electric/Recoil
+
+*Acoustic Set with AMF, noise level: 70dBA@7m, ** T Suffix indicates Trolley Mount, ***I denotes inverter set
+
+DERATING: Given outputs are sea level ratings. Sets should be derated at 1% for every 100m higher than 100m above sea level, and 2% for
+every 50C temperature above 200C for naturally aspirated engines
+ELECTRICAL DATA
+Alternator: Self exciting, 2 pole
+Power Factor: 1
+
+Power Output: 50Hz, 240V, single phase
+Speed:3000rpm
+
+Voltage Regulator: AVR
+Direct Current:12V/8.3A
+
+GENERAL DATA
+Model
+
+Hour
+Meter
+
+Voltmeter
+
+DG1200S
+DG3000S/LPG
+DG3800ST
+DG6500ST
+DG7500ST/LPG
+DG4000PSi
+DG7500PS
+DG9000PT
+
+Breaker
+on
+Indicator
+
+Oil
+Alert
+System
+
+AC Power
+Output
+
+W
+(mm)
+
+H
+(mm)
+
+378
+
+1 No. Plug Socket
+
+465
+
+365
+
+2 No. Plug Socket
+
+600
+710
+
+440
+460
+
+460
+
+1 No. Plug Socket+
+1 No. CEE Socket
+
+810
+
+560
+
+600
+
+685
+1 No. Plug Socket+ 1000
+1 No. CEE Socket
+720
+
+460
+520
+
+525
+740
+
+530
+
+610
+
+2 No. Plug Socket
+
+Digital Multimeter-Volts,Hz & Hrs
+
+L
+(mm)
+
+Weight
+(kg)
+
+25
+57
+58
+95
+96
+42
+126
+85
+
+

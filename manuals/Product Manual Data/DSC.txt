@@ -1,0 +1,366 @@
+DSC
+Split Casing
+Pumps
+200
+
+1450rpm
+300-700
+
+200-670
+
+250-600
+150-605
+200-520
+
+125-500
+
+50
+40
+
+125-365
+80-370
+
+30
+20
+
+100-250
+
+5
+
+350-360
+300-300
+
+150-290
+125-230
+
+50
+
+36
+
+350-430
+
+200-320
+125-290
+
+80-210
+
+300-435
+250-370
+
+150-360
+
+80-270
+
+10
+
+250-480
+200-420
+
+100-310
+
+-575
+
+350-510
+
+150-460
+
+100-375
+
+350
+
+300-560
+
+0
+25
+020
+
+PUMP HEAD(m)
+
+100
+
+100 200 300 4003
+FLOW RATE (m /h)
+
+500
+
+1000 2000 3000
+
+PUMP
+DAYLIFF DSC split casing pumps are for high flow applications in municipal water supply, irrigation, industry and air conditioning.
+Features include a double suction arrangement, stiffened pump casing, compact shaft for extended service life and internal cooling
+to the inner seal housing, the option of gland packing or mechanical seal being available. Materials of construction are cast iron
+pump body and bronze impeller, other materials of construction being available as may be required for special applications. Pumps
+are available to special order only and the standard impeller can be trimmed to provide the exact duty required. Details of individual
+pump performance is available on provision of the duty requirements.
+OPERATING PARAMETERS
+Pumped Liquid: Thin, clean, chemically non aggressive liquids without solids or fibres
+Max Operation Pressure: 16 bar
+Max Temperature: 1050C
+PUMP DATA
+Model
+
+Max
+HP
+
+Flange (mm)
+DN1
+
+Dimensions (mm)
+
+DN2
+
+a
+
+h
+
+h1
+
+m
+
+n
+
+l
+
+Weight
+(kg)
+
+DSC 80-270
+
+30
+
+125
+
+80
+
+660
+
+540
+
+315
+
+320
+
+410
+
+685
+
+209
+
+DSC 100-375
+
+55
+
+150
+
+100
+
+740
+
+640
+
+355
+
+320
+
+470
+
+685
+
+245
+
+DSC 125-500
+
+110
+
+200
+
+125
+
+900
+
+715
+
+400
+
+390
+
+640
+
+850
+
+414
+
+DSC 150-605
+
+250
+
+200
+
+150
+
+1100
+
+885
+
+500
+
+480
+
+780
+
+920
+
+755
+
+DSC 200-670
+
+500
+
+250
+
+200
+
+1200
+
+920
+
+600
+
+500
+
+800
+
+1078
+
+1218
+
+DSC 250-600
+
+630
+
+300
+
+250
+
+1200
+
+1050
+
+630
+
+600
+
+800
+
+1210
+
+1116
+
+DSC 300-700
+
+1100
+
+400
+
+300
+
+1400
+
+1235
+
+750
+
+620
+
+1060
+
+1350
+
+1640
+
+DSC 350-660
+
+1100
+
+450
+
+350
+
+1400
+
+1255
+
+780
+
+620
+
+1060
+
+1350
+
+1900
+
+12
+
+3 4
+
+5
+
+8
+910
+11 13
+12
+
+6
+
+7
+
+14 15 16
+
+Pump details are given for maximum impeller diameter
+
+h
+h1
+
+DN2
+
+DN1
+
+n
+
+17 18 19 20
+
+l
+
+a
+
+m
+
+1. Casing
+2. Casing Cover
+3. Wear Ring
+4. Impeller
+5. Seal Housing
+6. Bearing Cover
+7. Drive End
+Bearing Housing
+8. Non-drive End
+Bearing Housing
+9. Lock Nut
+10. Bearing Baffle
+11. Seal Plate
+
+12. Seal Cover
+13. Mechanical
+Seal
+14. Shaft
+15. Shaft Sleeve
+16. Bearing
+Pressing Ring
+17. Packing
+Pressing Ring
+18. Seal Cage
+19. Gland Packing
+20. Gland Cover
+
+

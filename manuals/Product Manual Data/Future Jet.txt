@@ -1,0 +1,134 @@
+Future Jet
+Self Priming
+Centrifugal Jet Pumps
+70
+
+60
+
+50
+
+40
+
+30
+
+20
+
+JETm 2A
+10
+
+JETm 1A
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+PUMP
+PEDROLLO FUTURE JET pumps are of centrifugal self-priming with improved jet design to provide highly efficient suction performance in
+various domestic, small scale water boosting and irrigation applications. The integral ejector design enables the pump to handle water
+with air without damaging the pump. They are particularly suited for in-ground installations, especially when fitted to an automatic control
+unit. Material of construction is cast iron pump body with epoxy electro coating treatment for JSW1 and Cast Iron for JSW2, noryl ejectors
+and AISI 304SS impeller.
+FUTURE JET, is an innovative development of the classic jet pumps capable of developing the same pressure at double the capacity of its
+predecessor with up to 50% reduction in energy consumption .
+MOTOR
+Pumps are close coupled to TEFC brushless induction motors designed for continuous operation. A thermal relay is provided in the
+windings to protect against electrical and mechanical overload. Motors can be connected directly to the mains power supply through a
+10A fuse or MCB.
+Enclosure Class: IPX4
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without abrasive particles or fibres
+Max. Fluid Temperature: +400C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 9m
+PUMP DATA
+Model
+
+Motor
+
+Current
+(A)
+
+KW
+
+HP
+
+JETm1A
+
+0.55
+
+0.75
+
+3.9
+
+JETm 2AX
+
+1.1
+
+1.5
+
+6.5
+
+DN1
+(”)
+
+DN2
+(”)
+
+1
+
+1
+
+L
+
+Dimensions(mm)
+L
+
+H
+
+Weight
+(kg)
+
+357
+
+171
+
+158
+
+11
+
+389
+
+200
+
+180
+
+15
+
+W
+
+H
+
+W
+
+

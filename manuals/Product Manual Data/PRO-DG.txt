@@ -1,0 +1,100 @@
+PRO-DG
+Inverter
+
+1. Manual Swith-off Button
+2. Networking LED
+3. Running LEDs
+4. Alarm LED
+
+5. Display
+6. Scroll Arrows
+7. Function Keys
+
+Pedrollo PRO-DG is a inverter-based electronic controller for surface and submersible pumps of up to 11kW for commercial, industrial
+and agricultural applications and can be installed in either wall or frame mounted configuration. It provides extended system lifespan and
+significant energy savings while protecting pumps from dry running, overcurrent, overheating, phase loss and motor faults. It can work
+simultaneously with other controllers and manage up to 8 pumps in a cascade sequence, with RS485 communication. A display and
+keypad enables an easy and intuitive configuration of basic operating parameters, including system pressure, operating frequency,
+absorbed current and alarm messages through a start-up wizard consisting of a few simple steps. Features include:
+• Easy Programming and adjustment
+• Constant pressure in the system
+• Energy conservation
+• Reduced noise operation
+• Communication of up to eight devices
+• Intelligent intervention management in case of anomalies
+• Model TT 3-30 includes motor temperature probe input, 0-10V input and Modbus communication
+• Compatible with a wide variety of pumps
+OPERATIONAL CONDITIONS
+Frequency: 50 - 60 Hz
+Permissible Voltage Variation: +/- 10%
+Protection:IP54
+Ambient Temperature: - 100C to 400C
+SPECIFICATIONS
+Power
+Model
+
+Max Motor
+(kW)
+
+Supply
+Voltage(V)
+
+Output
+Voltage(V)
+
+PRO-DG MT 2-11A
+
+2.2
+
+1x240
+
+3x240
+
+PRO-DG TT 3-11A
+
+4
+
+PRO-DG TT 3-30A
+
+11
+
+3x415
+
+Dimensions(mm)
+
+Max.
+Current
+(A)
+
+L
+
+H
+
+W
+
+Weight
+(kg)
+
+11
+
+183
+
+149
+
+230
+
+2.8
+
+30
+
+276
+
+198
+
+316
+
+6.4
+
+3x415
+
+

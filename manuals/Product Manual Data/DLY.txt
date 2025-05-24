@@ -1,0 +1,116 @@
+DLY
+Diesel Engines
+
+Dayliff DLY prime mover diesel engines are of 4-stroke, direct injection, water cooled design suitable for a wide range of stationary
+industrial and agricultural applications including water pumps, firesets and generators. All models are naturally aspirated cooled
+by forced water circulation and settable for fixed speeds between 1500 to 3000rpm.
+Engines feature cast iron crankcases for durability with a mechanical governor and are supplied complete with integral radiator,
+cartridge type air, oil and fuel cleaner elements, exhaust silencer, frame mounted fuel tank and electric start with a 12V electric
+system. All engines are supplied with an SAE specification housing and drilled flywheel for power take off. Extension shafts are
+available to order.
+Dayliff engines are powerful, efficient and robust assuring a long life and ease of maintenance. They are the ideal solution for all
+stationary diesel power requirements.
+TECHNICAL DATA
+Engine Type
+Power Output
+kW (BHP)
+
+Fuel
+Consumption
+(L/hr)
+
+1500rpm
+2000rpm
+2600rpm
+3000rpm
+1500rpm
+2000rpm
+2600rpm
+3000rpm
+
+Induction System
+No. of Cylinders
+Cylinder Capacity (L)
+Compression Ration
+Lube Oil Capacity (L)
+Radiator Capacity (L)
+Direction of Rotation
+Flanging
+Fuel Tank Size (L)
+Cooling Medium
+Length mm(A)
+Width mm(B)
+Dimensions &
+Weights
+Height mm(C)
+Weight (kg)
+
+DLY40
+14(18.8)
+18(24.1)
+24(32.2)
+29(38.9)
+
+DLY60
+21(28.2)
+28(37.5)
+36(48.3)
+42(56.3)
+
+DLY80
+33(44.2)
+44(59)
+54(72.4)
+62(83.1)
+
+4
+5.3
+7.2
+
+6
+8.3
+10.9
+13.2
+Naturally Aspirated
+
+9.6
+13
+16.3
+19.5
+
+9.1
+
+4 In-line
+1.809
+3.857
+2.543
+18
+6.2
+8.5
+9.8
+7.5
+8.5
+8.5
+Anti-clockwise viewed on flywheel
+SAE 3-10
+SAE 4-7.5”
+60
+80
+Water
+732
+767
+867
+559
+595
+613
+722
+632
+684
+255
+340
+420
+
+Derating: Given outputs are sea level ratings. Sets should be derated at 1% for every 100m higher than 100m above sea level and 2% for every
+50C temperature above 200C for naturally aspirated engines.
+
+

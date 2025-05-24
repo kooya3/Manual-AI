@@ -1,0 +1,218 @@
+SUNFLEX
+Hybrid AC/DC
+Solar Pump
+200
+180
+SUNFLEX1100C3
+
+160
+SWITCH CONTROLLER
+
+PUMP HEAD (m)
+
+140
+
+% Daily Output
+
+12%
+
+13%
+
+13.5%
+13%
+
+10%
+
+120
+SUNFLEX2200C9
+
+100
+80
+
+12%
+60
+
+10%
+
+7%
+
+7%
+
+40
+SUNFLEX1100C8
+
+2%
+0%
+6
+
+7
+
+2%
+
+8
+
+9
+
+10
+
+11 12 13 14 15
+Time (hrs)
+
+20
+
+0%
+16 17 18
+
+SUNFLEX750C2
+
+0
+
+2
+
+SUNFLEX1500C5
+
+4
+
+6
+8
+Flow(m3/hr)
+
+10
+
+12
+
+14
+
+PUMP
+Dayliff Sunflex is a multistage centrifugal submersible pump designed for water supply from boreholes and wells. A particular feature is hybrid capability with the option of
+running the pump on DC solar or AC mains supply or generator power with an external intelligent MPPT controller incorporating a frequency converter automatically
+configuring to the connected input power source. Other features include:•
+Pump construction is of hard-wearing stainless steel throughout including impellers and stages with water lubricated bearings.
+•
+External motor controller incorporating MPPT capability for DC power input and Power Factor Correction for AC power input to maximise power input efficiency with
+DC power automatically prioritized.
+•
+Wide voltage range and flexibility for both AC and DC power sources.
+•
+Built-in dry running protection.
+•
+Soft start operation to extend motor and pump life.
+•
+Motor protection including overload/underload and overvoltage/undervoltage sensing.
+Dayliff Sunflex is a cost-effective and reliable solution for hybrid water supply where both solar and mains power supplies are available. The pump incorporates a number of
+innovative technology features to optimize system efficiency and minimize operating costs and provides unbeatable flexibility for all borehole applications.
+MOTOR
+The pump is coupled to a canned type water filled brushless permanent magnet variable speed motor that can be powered either by AC or DC power supply. The motor is
+provided with an external control module which uses MPPT technology to continuously optimize DC input efficiency and provides protection against over and under voltage
+and electrical and mechanical overload.
+For optimal performance it is recommended to size the PV solar module array with a nominal output about 30% greater than the specified motor size and ensure that the input
+voltage is between the specified limits.
+EXTERNAL PUMP CONTROLLER
+An external controller is available to enhance pump functionality which primarily provides for power source selection of either DC only, AC only or Auto which prioritizes the use
+of DC solar over mains/generator AC power and switches to AC when DC solar power is insufficient or unavailable. It also provides for on/off switching, digital VAC and VDC
+values, connection for a high-level control switch with 'Full' indication, 'Low' warning for low borehole water level and system Error warning. Other added Functions and features
+of the external controller:
+• Protection against low and high voltage, over current , over temperature, high and low water level (15min recovery) and over load
+• Displays voltage, current, power, rotation speed, error code, running time
+Enclosure Class: IP68
+
+Insulation Class: F
+
+Max DC Input Voltage: 430VDC
+
+Speed Range: 500–4,500rpm
+
+PUMP OUTPUTS
+Performance curves are given at standard test conditions of 1000W/m2 solar irradiance and 250C temperature. Output will vary throughout the year depending upon
+prevailing irradiation levels. For estimated daily outputs at continuous pumping multiply the indicated output at the duty point by the daily irradiation given in the graph. For
+indicative purposes, factors of 1.1 can be applied for hot arid areas and 0.9 for temperate high altitude areas in the tropics.
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, non-aggressive liquids without fibres or particles with a sediment concentration not exceeding 50gms/m3
+Max. Liquid Temperature: 400C
+Max Immersion Depth: 100m
+Installation: Pump should be installed vertically
+
+DN
+
+PUMP DATA
+
+Model
+SUNFLEX 750C2
+SUNFLEX 1100C3
+SUNFLEX 1100C8
+SUNFLEX 1500C5
+SUNFLEX 2200C9
+
+Power
+(kW)
+
+Current
+(A)
+
+0.75
+
+7.4
+
+1.1
+
+6.6
+
+1.5
+2.2
+
+11
+
+Input
+AC
+Voltage
+
+90-260
+
+Input
+DC
+Voltage
+
+80-380
+
+Max
+Input
+VOC
+
+430
+
+Outlet Dimensions
+(mm)
+DN
+Total Watt
+(”)
+H
+1250
+1200W
+1.25
+1360
+1600W
+1.5
+1100
+2000W
+760
+2
+3200W
+
+Panels
+No.
+6x200W
+8x200W
+10x200W
+16x200W
+
+Weight
+(kg)
+
+H
+
+28
+30
+29
+Ø95
+
+

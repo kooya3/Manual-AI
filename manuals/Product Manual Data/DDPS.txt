@@ -1,0 +1,171 @@
+DDPS
+DC Solar Pump
+
+35
+
+2
+Average Daily Irradiation Values (Kwhr/m)
+
+Graph 1
+
+30
+
+6.3 6.5
+
+DDPS60
+
+6.5
+6.0
+
+5.6
+
+5.8
+
+5.6 5.7 5.9
+
+5.8
+5.1 5.3
+
+PUMP HEAD(m)
+
+25
+
+20
+
+DDPS50
+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+% Daily Output
+
+15
+
+Graph 2
+
+13.5%
+13%
+13%
+12%
+12%
+10%
+10%
+
+10
+7%
+
+2%
+
+5
+
+2%
+
+0%
+6
+
+0
+
+7%
+
+0.5
+
+1.5
+1.0
+Flow(m3/hr)
+
+2.0
+
+0%
+7
+
+8
+
+9
+
+10 11 12 13 14 15 16 17 18
+Time (hrs)
+
+2.5
+
+PUMP
+The Dayliff DDPS range of solar powered booster pump are suitable for water transfer in small scale applications where grid power is unavailable.
+Consturction is cast iron pump body, aluminium motor body, peripheral brass impeller and silicon carbide mechanical seal.
+Pumps feature an inbuilt controller that provides thermal and over voltage protection and can be connected directly to a DC PV power supply.
+They are supplied complete with 1m long PV cable with MC4 connection for quick and easy installation.
+MOTOR
+The pump is coupled to high efficiency permanent magnet brushless DC motor rated for continuous operation.
+Enclosure Class: IP54
+
+Insulation Class:B
+
+Speed:2900rpm
+
+POWER OUTPUTS
+Pump output curves are given at standard test conditions of 1000W/m2 solar irradiance and 250C. Output will vary throughout the year
+depending upon prevailing irradiation levels. For estimated daily outputs at continuous pumping, multiply the indicated output at the duty point by
+the daily irradiation given in Graph 1. For indicative purposes, factors of 1.1 can be applied for hot arid areas and 0.9 for temperate high altitude
+areas in the Tropics . Output will vary throughout the day as a proportion of the estimated hourly irradiation as shown in Graph 2.
+OPERATING CONDITIONS
+Pumped Liquid: Thin clean chemically non-aggressive liquid without solids or fibres.
+Max. Ambient Temperature: +350C
+Max. Liquid Temperature: +400C
+PUMP DATA
+Model
+
+DDPS50
+
+DDPS60
+
+Motor
+Input Power (W)
+
+Voltage
+(V)
+
+PV
+Modules (W)
+
+Open Circuit
+Voltage (VOC)
+
+220
+
+12
+
+3x125W
+(3 No. Parallel
+Strings)
+
+<20V
+
+24
+
+2x350W
+(2 No. Parallel
+Strings)
+
+370
+
+Inlet/
+Outlet (”)
+
+1”
+<50V
+
+Dimensions (mm)
+L
+
+W
+
+H
+
+265
+
+120
+
+150
+
+Weight
+(kg)
+
+6
+
+

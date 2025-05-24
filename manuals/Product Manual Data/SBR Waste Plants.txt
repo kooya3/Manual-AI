@@ -1,0 +1,164 @@
+SBR
+Waste Water
+Treatment Plants
+
+Primary Treatment
+
+Secondary Treatment
+
+Storage
+
+Bioliff SBR wastewater treatment plants use the Sequential Batch Reactor process to provide effective treatment of sewage water in various
+applications in scale from residential to large communities. The SBR process provides for full Carbon and Nitrogen removal and produces
+high quality effluent that is odour free and suitable for re-use including irrigation and toilet flushing. Due to its high quality it may also be
+discharged into sensitive water courses.
+SBR systems are constructed in-ground or above ground from concrete or other tank materials such as paneltim plastics with ancillary
+equipment including aerators and pumps centrally installed and controlled in an adjacent machinery housing room. The purification process
+includes:Primary Treatment: Raw sewage and grey water is first processed in a two stage Primary Treatment chamber where liquids and solids are
+separated and some sedimentation takes place. The resultant settled fluid is then pumped to the main reactor tank in a batch of about 25% of
+daily treatment load.
+Secondary Treatment: Secondary treatment occurs in a four phase process that includes aeration, biodegradrading and settlement,
+sludge settling to the bottom of the chamber while clarified water rises to the surface. This process takes about six hours after which the treated
+water is transferred to the final stage chamber and a new batch of raw water is introduced.
+Storage: Chlorine dosage is introduced in the storage chamber after which the water is either utilised for irrigation, wash down etc or safely
+discharged to waste.
+A feature of the design is an intelligent programmable controller that monitors chamber water level and controls the batch pumping and
+aeration without float switch control. Other functionalities including level alarms and plant malfunction are also included.
+Reliable Pedrollo submersible sewage pumps are used for water transfer between cycles and aeration is provided by separate blower unit.
+Bioliff SBR plants are of modular design and are specified according to particular population size, treatment requirements and site conditions,
+full details being provided for each installation.
+
+SBR Purification results:
+BOD: <30mg/l
+
+COD: <50mg/l*
+
+TSS: <30mg/l
+
+TN: <20mg/l
+
+EQUIPMENT SPECIFICATION
+Model
+Population Equivalent (PE)
+Flow (m3/day)
+Organic Loading (kg/BOD5/day)
+Nitrogen Loading (kg/NH/day)
+Length (m)
+Width (m)
+Depth (m)
+Foot Print (m2)
+Total Tank Volume (m3)
+Installed Power (kWh/month)
+
+100PE
+100
+15
+6
+0.8
+6.5
+4
+2
+26
+52
+
+150PE
+150
+23
+9
+1.2
+8
+5
+2
+40
+80
+
+200PE
+200
+30
+12
+1.6
+7.5
+4.7
+3.5
+35
+123
+
+350PE
+350
+53
+21
+2.8
+14
+3.7
+3.5
+52
+181
+
+500PE
+500
+75
+30
+4
+8
+6
+4
+48
+192
+
+650PE
+650
+98
+39
+5.2
+8.5
+3.5
+5
+30
+149
+
+800PE
+800
+120
+48
+6.4
+9.5
+4
+5
+38
+190
+
+1000PE
+1000
+150
+60
+8
+11
+4.5
+5
+50
+248
+
+2.1
+
+2.1
+
+2.6
+
+3.02
+
+4
+
+6
+
+6
+
+7.5
+
+* The design and layout is very flexible. For alternative layouts, smaller foot prints, or different depths please enquire.
+** Due to the intelligent controller and SBR cycle process the actual power consumption is lower than the installed power would suggest.
+*
+
+COD results are dependent on the proportion of non-biodegradable soluble COD in wastewater. If the proportion is too high then further chemo-physio process
+may be required.
+
+

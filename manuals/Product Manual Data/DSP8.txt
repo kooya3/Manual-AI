@@ -1,0 +1,254 @@
+DSP8
+Submersible
+Borehole Pump
+0.28
+
+220
+DSP 8-32
+
+ETA%
+0.24
+
+60
+
+180
+DSP 8-23
+
+140
+120
+
+DSP 8-17
+
+100
+80
+60
+
+0.20
+
+50
+
+0.16
+
+40
+
+0.12
+
+30
+
+0.08
+
+20
+
+0.04
+
+10
+
+POWER PER STAGE (kW)
+
+PUMP HEAD (m)
+
+160
+
+kW
+
+DSP 8-13
+
+DSP 8-08
+
+ETA (%)
+
+200
+
+70
+
+40
+20
+0
+2
+
+8
+10
+4
+6
+FLOW RATE(m3/hr)
+
+12
+
+0
+
+2
+
+8
+10
+4
+6
+FLOW RATE(m3/hr)
+
+12
+
+PUMP
+The DAYLIFF DSP range of submersible multistage centrifugal pumps are specially designed for borehole supply applications.
+Material of construction include noryl impellers, glass filled polycarbonate diffusers, stainless steel inlet and outlet chambers, stage
+casings, shaft and pump housing. These quality materials together with the floating type impeller design provide the pumps with
+efficient performance ,excellent sand handling capabilities and long life.
+MOTOR
+The pump is coupled to a two pole sealed motor constructed principally from stainless steel. Single phase motors are supplied with
+a separate control unit that incorporates an isolator, run indicator light, thermal overload protection and starting capacitor which
+can be connected directly to the mains power. The box is also provided with auxiliary terminals for control probes, pressure switch or
+float switch. Three phase motors require a remote DOL starter; DAYLIFF SCM/SCT electronic pump controllers are recommended
+for comprehensive pump control including wireless low level protection, motor overload and voltage fluctuation.
+Enclosure Class: IP68
+
+Insulation Class: F
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non aggressive liquids with a max. sand content of 50g/m3.
+Max. Water temperature: +350C
+Max. immersion depth: 200m
+Min. borehole diameter: 110mm
+PUMP DATA
+Model
+
+Motor
+
+Voltage
+(V)
+
+Current
+(A)
+
+kW
+
+HP
+
+1.5
+
+2
+
+1x240
+DSP 8-08
+
+1x240
+DSP 8-13
+
+2.2
+
+A
+
+C
+
+3.7
+
+Weight
+(kg)
+D
+
+DN
+
+858
+
+27
+
+823
+
+24
+
+1068
+
+34
+
+1013
+
+29
+
+418
+4
+
+3.5
+
+15
+
+3.1
+573
+
+3
+
+3x415
+
+Dimensions (mm)
+
+DN
+(”)
+
+I
+10.4
+
+3x415
+
+Istat
+
+5.6
+
+3.9
+
+98
+
+2
+
+DSP 8-17
+
+3x415
+
+3
+
+4
+
+7.4
+
+5.8
+
+697
+
+1213
+
+37
+
+DSP 8-23
+
+3x415
+
+4
+
+5.5
+
+9.8
+
+5.0
+
+959
+
+1528
+
+47
+
+DSP 8-32
+
+3x415
+
+5.5
+
+7.5
+
+13.7
+
+4.7
+
+1276
+
+1921
+
+57
+
+

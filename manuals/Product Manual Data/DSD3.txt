@@ -1,0 +1,255 @@
+DSD3
+Submersible
+Borehole Pump
+400
+
+70
+DSD 3/52
+
+350
+
+60
+
+300
+
+DSD 3/40
+
+ETA%
+
+50
+
+250
+DSD 3/30
+
+40
+
+DSD 3/22
+
+30
+
+200
+150
+
+DSD 3/18
+
+100
+
+DSD 3/13
+
+50
+
+DSD 3/7
+
+0
+
+1
+
+20
+
+DSD 3/10
+
+10
+
+2
+
+3
+
+4
+
+5
+
+1
+
+0
+
+2
+
+3
+
+4
+
+5
+
+PUMP
+Dayliff DSD range of Submersible Multistage centrifugal pumps are specially designed for domestic and small scale water supply from wells and
+boreholes. Material of construction include plastic impellers and diffusers, AISI 201 stainless steel delivery and suction chambers and AISI 304
+stainless steel pump housing, shaft and shaft coupling. These corrosion resistant materials together with the advanced hydraulic design provide
+the pumps with excellent sand handling capabilities for a longer life and operational efficiency . DSD 3/7, 3/10, 3/13 and 3/18 are supplied
+complete with 30m cable and control box.
+MOTOR
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel-cage motor constructed of stainless steel. Motors are supplied
+complete with purpose designed control boxes that include the capacitor and electrical overload protection. Three phase motors require a remote
+DOL starter;A DAYLIFF electronic Pump Controller is recommended for comprehensive pump control including wireless low level, motor
+overload and irregular power supply protection.
+Enclosure Class: IP68
+
+Insulation Class: B
+
+Speed: 2850 rpm
+
+PUMP KITS
+Pump Kits are available for the indicated* models including pump, quick connection fittings, cast aluminium well head cover, Safety rope and
+Dayliff SCM/SCT Controller. DSD 3/7 is supplied with 60m cable, DSD 3/10 and DSD 3/13 are supplied with 80m cable, DSD 3/18with 100m,
+DSD3/30 Kit with 135m for single phase and 150m for three phase.
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean and chemically non-aggressive liquids
+Max. Water temperature: +350C
+Max. immersion depth: 150m
+Min. borehole diameter: 110m
+Max Particle Size: 2.4mm
+PUMP DATA
+Model
+
+Motor
+
+Voltage
+(V)
+
+Current
+(A)
+
+Istat
+I
+
+DN
+(”)
+
+Dimensions
+A
+
+D
+
+Weight
+(kg)
+
+405
+
+709
+
+10
+
+kW
+
+HP
+
+DSD3/7*
+
+0.37
+
+0.5
+
+DSD3/10*
+
+0.55
+
+0.75
+
+5.2
+
+482
+
+801
+
+11
+
+DSD3/13*
+
+0.75
+
+1
+
+6.4
+
+559
+
+908
+
+13
+
+DSD3/18*
+
+1.1
+
+1.5
+
+661
+
+1050
+
+15
+
+DSD 3/22
+
+1.5
+
+2
+
+821
+
+1260
+
+19
+
+DSD3/30*
+
+2.2
+
+3
+
+1594
+
+25
+
+1554
+
+23
+
+DSD3/40
+
+3
+
+4
+
+1385
+
+1939
+
+30
+
+DSD3/52
+
+4
+
+5.5
+
+1745
+
+2374
+
+36
+
+3.7
+
+1x240
+
+8.8
+
+4
+
+10.8
+
+1¼
+
+15.7
+
+1080
+
+6
+3x415
+
+8
+10.7
+
+7
+
+

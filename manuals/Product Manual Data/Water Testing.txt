@@ -1,0 +1,194 @@
+TED
+A
+D
+UP
+
+WATER TESTING
+Parameters Analysed
+
+Testing Application
+
+Sample
+Required
+
+Sample
+Volume
+(Litres)
+
+Reverse Osmosis/
+Comprehensive
+Drinking /
+Physiochemical
+Water test
+
+pH, TDS, TSS,Colour,Salinity, Electrical Conductivity(EC), Turbidity, Iron, Manganese, Copper,
+Fluoride, Phosphate, Ammonia, Aluminium, Nitrate, Nitrite, Nitrate -N, Nitrite-N, Ammonical
+Nitrrogen,Ammonium, Ammonia, Phosphate, Silicon , Silica, Calcium hardness, Calcium Ions,
+Magnesium hardness,Magnesium Ions, Total hardness, Chloride, Sulphate, Phenolphthalein
+Alkalinitiy, Total Alkalinity, Bicarbonates, Carbonate, Barium, Sodium & Potassium ( 39
+parameters).
+
+1No. Raw Water
+
+1.5
+
+Reverse Osmosis
+Performance Test
+
+pH, TDS, TSS, Colour, Salinity, Electrical Conductivity(EC),Iron, Manganese, Sodium, Calcium
+ions, Magnesium ions, Calcium hardness, Magnesium hardness, Total hardness, Chloride,
+Total Alkalinity, Bicarbonate and Carbonate (17 parameters).
+
+2No. Before and After
+the RO plant
+
+1.5
+
+Water Filtration /
+Pre-Treatment
+Performance Test
+
+pH, TDS, TSS, Salinity, Electrical Conductivity(EC), Turbidity, Color, Iron and Manganese.
+
+2No. Before and After
+the filtration units.
+
+1.5
+
+Water Softener
+Performance Test
+
+pH, TDS, TSS, Salinity, Electrical Conductivity(EC), Turbidity, Color, Calcium ions, Magnesium
+ions, Calcium hardness, Magnesium hardness, Total hardness, Chlorides, Sodium, Iron &
+Manganese.
+
+2No. Before and After
+the softener.
+
+1.5
+
+Boiler Water Test
+
+pH, TDS, Turbidity, P-Alkalinity, M-Alkalinity, Iron, Phosphate, Silica, Calcium hardness,
+Chlorides, Sulphite / CFA.
+
+3 N o . Fe e d w a t e r,
+Boiler water and
+Condensate. *Onsite
+analysis is an option*.
+
+1.5
+
+pH, TDS, Turbidity, Iron, Copper, & Nitrite / CFA.
+
+2No. Make-up water
+and Recirculating
+cooling water *Onsite
+analysis is an option*.
+
+1.5
+
+2No. Make-up water
+and Recirculating
+cooling water *Onsite
+analysis is an option*.
+
+1.5
+
+Varies
+
+20
+
+Closed Cooling
+Water System Test
+
+Open Cooling Water
+pH, TDS, M-Alkalinity, Iron, Silica, Calcium hardness, Phosphate / Zinc
+Sysatem Test
+
+Jar Test
+
+pH, TDS, TSS, Turbidity, Color, Iron, Optimum Coagulant/ flocculants and Chlorine dosages.
+
+Legionella Test
+
+Legionella Bacteria
+
+1No. Raw Water
+
+1.5
+
+Microbiological
+Water Test
+
+Total Coliforms, E. Coli and Total Viable Count at 37°C
+
+1No. Raw Water
+
+1.5
+
+Itemized Water Test
+
+Test of Individual Parameters
+
+1No. Raw Water
+
+1
+
+Comprehensive
+Wastewater Test
+
+pH, Electrical Conductivity, TDS, TSS, Turbidity, Colour, Oil & Grease, B.O.D, C.O.D,
+Ammonium, Nitrate N, Nitrite N, Total N, Phosphorus, Chloride, Fluoride, Boron, Copper,
+Sulphur, Zinc, Arsenic, Cadmium, Chromium, Lead, Nickel, Mercury, Selenium, Aluminium,
+Faecal E.Coli, Faecal Coliforms
+
+1No. Raw Water
+
+2
+
+Basic Wastewater
+Test
+
+pH, Electrical Conductivity, TDS, TSS, Oil & Grease, Colour, B.O.D, C.O.D, Ammonium,
+Nitrate N, Nitrite N, Total N, Chloride, Fluoride, Faecal E. Coli, Faecal Colif
+
+1No. Raw Water
+
+2
+
+Vendors
+Physiochemical &
+Bacteriological
+
+pH, Electrical Conductivity, TDS,Colour, TSS,Colour,Ammonia, Turbidity Calcium, Magnesium,
+Total Hardness, Potassium, Sodium, Nitrate N, Nitrate, Nitrite, Aluminium, Phosphorus,
+Sulphur, Sulphate, Iron, Manganese, Zinc, Copper, Boron, Chloride, Bicarbonate, Fluoride,
+Total Coliforms, E.Coli, TBC 37degrees
+
+1No. Raw Water
+
+1.5
+
+Drillers
+
+pH, Electrical Conductivity, TDS, TSS,Turbidity Ammonium, Calcium, Magnesium, Total
+Hardness, Potassium, Sodium, Nitrite, Nitrate,Ammonia, Phosphorus, Sulphate, Sulphate, Iron,
+Manganese, Zinc, Chloride, Bicarbonate, Fluoride, Total Alkalinity
+
+1No. Raw Water
+
+1.5
+
+WT Equipment
+Design (MM5/WAVE)
+
+pH, Electrical Conductivity, TDS, Ammonium, Calcium, Magnesium, Potassium, Barium, Silica,
+Phosphate, Aluminium, Sulphate, Sodium, Nitrate, Sulphate, Iron, Manganese,, Zinc, Chloride,
+Bicarbonate, Carbonate Fluoride,
+
+1No. Raw Water
+
+1.5
+
+

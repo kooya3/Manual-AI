@@ -1,0 +1,132 @@
+TOP VORTEX
+
+TOP 5
+
+TOP 3
+TOP 2
+
+PUMP
+The PEDROLLO TOP range are centrifugal submersible pumps with particular applications for light emptying and drainage duties,
+water transfer and fountains. Two specifications are available, TOP with an open centrifugal impeller for water containing light silt
+loads and TOP VORTEX with a vortex impeller suitable for dirty waters containing higher levels of suspended solids. Other
+innovative features include double mechanical seals with intermediate oil chamber for total motor protection and simple design for
+ease of maintenance.
+Pump construction is fibreglass reinforced technoplastic external casing, suction base and NORYL impeller and an external float
+with built-in switch is provided to automatically control pump starting and stopping.
+Top 2, 3 and Vortex pumps are supplied with a standard 5m cable, while Top 5 is supplied with a 10m.
+MOTOR
+Pumps are provided with built-in liquid cooled non-overloading induction motors designed for continuous operation. A thermal
+cut-out is provided in the motor windings to protect against pump overload and the pump can be connected directly to the mains
+power supply through a 10amp fuse or MCB.
+Enclosure Class: IPX68
+
+Insulation Class: F
+
+Voltage:1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive, non-abrasive liquids containing small impurities. For maximum particle
+size see Pump Data.
+Max. Fluid Temperature: +400C
+Max. Operating Depth: TOP 2,3 & Vortex - 3m; TOP5 - 5m
+Dimensions (mm)
+
+DN
+(”)
+
+A
+
+D
+(min)
+
+1¼
+
+152
+
+14
+
+H
+
+Top 2
+
+0.37
+
+2.0
+
+Top 3
+
+0.55
+
+3.2
+
+Top 5
+
+0.92
+
+5.5
+
+1½
+
+204
+
+21
+
+337
+
+Top Vortex
+
+0.37
+
+1.9
+
+1¼
+
+152
+
+25
+
+288
+
+Max.
+Particle
+Size
+
+Weight
+(kg)
+
+260
+
+5
+
+290
+
+7
+
+10
+
+11
+25
+
+5
+
+H
+D
+
+H
+
+D
+
+Motor
+Size
+Max
+Current
+(kW)
+(A)
+
+Min 400
+
+Model
+
+

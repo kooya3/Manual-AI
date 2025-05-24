@@ -1,0 +1,121 @@
+D3SP1
+Submersible
+Borehole Pump
+120
+D3SP1-27
+
+110
+100
+90
+80
+70
+60
+
+D3SP1-14
+
+50
+40
+30
+20
+10
+0
+
+0.4
+
+0.8
+
+1.2
+
+1.6
+
+2
+
+2.8
+
+2.4
+
+3.2
+
+PUMP
+DAYLIFF D3SP pumps are compact 3” diameter submersible multistage centrifugal pumps specifically designed for small scale
+water supplies from boreholes and wells. Material of construction is polycarbonate impellers and diffusers, brass inlet and outlet
+chambers and stainless steel pump sleeve. All pumps are provided with 20m cable and a control unit.
+MOTOR
+The pump is coupled to a two pole sealed motor with copper windings and constructed principally from stainless steel. A separate
+control unit is included which incorporates an isolator, run indicator light, thermal overload protection and start capacitor which
+can be connected directly to mains power. Additional protection by a Dayliff AVS or similar power protection controller is
+recommended.
+Enclosure Class: IP68
+
+Insulation Class: B
+
+Voltage:1X240V
+
+Speed:2900rpm
+
+OPERATING PARAMETERS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids
+Max. Liquid Temperature: 400C
+Max. Ambient Temperature: 500C
+Max. Immersion Depth: 35m
+Min. Borehole Dia: 100mm
+
+PUMP DATA
+
+kW
+
+HP
+
+Max
+Current
+(A)
+
+0.37
+
+0.55
+
+3.3
+
+Motor
+Model
+
+D3SP1-14
+
+Outlet
+DN
+(“)
+
+1
+D3SP1-27
+
+0.75
+
+1.0
+
+6.3
+
+Dimensions (mm)
+D
+
+H
+
+D
+
+Weight
+(kg)
+
+85
+
+12
+
+106
+
+14
+
+DN
+
+76
+
+H
+
+

@@ -1,0 +1,288 @@
+D
+D
+
+FC 310
+FC 409
+STANDARD
+BED
+
+DEEP BED
+
+D
+
+FC 106
+FC 111
+FC 210
+
+H
+
+FC 508
+FC 604
+FC 708
+
+H
+
+H
+
+1 Standard filter specification. Greater pressure capacities are available if required.
+2. Maximum capacity is rated at 40m/hr, standard capacity at 20m/hr and minimum
+capacity at10m/hr filtration velocities. Equipment flow rates should be set on the
+basis of medium specification and raw water quality. Advice should be taken from the
+equipment supplier.
+3. Operating weight includes media and water.
+
+The DAYLIFF 'FC' range of pressure sand filters are proven and reliable designs for general water treatment and swimming pool
+applications. They are available in standard capacities up to 170m3/hr, though greater capacities can be provided by the
+installation of a number of filters in parallel. Features include:• A selection of eight standard models available in different diameters, the smaller diameters being supplied in standard and
+deep bed configurations.
+• Mild steel plate construction with domed ends for enhanced pressure capacity with optional heavier gauge steel plate being
+offered for high-pressure applications. Stainless steel is also available for specialised food grade installations.
+• Suitable for various medias including silica sand for sediment removal activated carbon for taste, odour and chlorine
+removal, activated carbon for fluoride removal and anion resin for softening.
+• 400mm diameter bolted access cover for easy media charging and removal. Deep bed filters also feature a low-level side
+cover to facilitate media removal and general internal maintenance.
+• Standard internal bitumised coating for corrosion protection and long life. A GRP lining is optional for aggressive liquids.
+• High efficiency internal distribution and collection manifolds to ensure even filtration throughout the filter area and effective
+backwash flows.
+• The option of 'Novasfer' ball type manifold mounted valves or 'Midas' single lever multi-port (up to 2'') control valve
+arrangements.
+Multiple connection installation options are available including series connection for increased filtration performance and parallel
+connection for high flow rates.
+For the successful application of pressure filters it is important to match media and flow rate to the quality of the incoming water.
+Technical advice is available on correct specifications for individual applications.
+The DAYLIFF range of pressure filters are established products which have been progressively upgraded over many years of
+production. They are robust, reliable and effective and offer the ideal solution for a wide range of water treatment requirements.
+
+Model
+FC 106S
+FC 106D
+FC 111S
+FC 111D
+FC 210S
+FC 210D
+FC 310S
+FC 310D
+FC 409S
+FC 409D
+
+D (mm)
+450
+575
+875
+1150
+1450
+
+H (mm)
+1000
+1900
+1000
+1900
+1050
+
+Filter
+Area
+(m2)
+
+Inlet &
+Outlet
+size
+
+Working
+
+Test
+
+Minimum
+
+Std
+
+Max
+
+0.16
+
+1”
+
+4
+
+5.5
+
+1.5
+
+3
+
+6
+
+0.26
+0.6
+
+2175
+1600
+2200
+
+4
+
+5.5
+
+Capacities (m3/hr)2
+
+2.5
+
+5
+
+10
+
+11/2”
+
+4
+
+5.5
+
+6
+
+12
+
+24
+
+1.0
+
+2”
+
+4
+
+5.5
+
+10
+
+20
+
+40
+
+1.7
+
+1
+
+2 /2”
+
+4
+
+5.5
+
+17
+
+34
+
+68
+
+1950
+1575
+
+11/4”
+
+Pressure (Atm)1
+
+Cylinder Weight (Kg)3
+Empty
+Operating1
+35
+
+200
+
+70
+
+450
+
+50
+
+300
+
+90
+
+700
+
+80
+
+660
+
+150
+
+1600
+
+220
+
+1700
+
+300
+
+2800
+
+300
+
+2700
+
+400
+
+4400
+
+FC 508
+
+1725
+
+1950
+
+2.3
+
+3”
+
+3.5
+
+5
+
+23
+
+46
+
+92
+
+450
+
+5000
+
+FC 604
+FC 708
+
+1925
+
+2025
+2075
+
+2.9
+
+4”
+4”
+
+3.5
+3.5
+
+5
+5
+
+29
+
+58
+84
+
+116
+170
+
+700
+950
+
+6500
+9000
+
+2300
+
+4.2
+
+42
+
+

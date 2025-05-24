@@ -1,0 +1,213 @@
+DIX
+Smart Inverter
+Multistage Pumps
+250
+
+8
+
+100% Speed at 3500rpm
+
+80
+DIX10 ETA %
+
+7
+200
+
+DIX5 ETA %
+DIX5-15
+
+DIX10-8
+
+150
+
+70
+
+DIX20 ETA %
+
+6
+
+60
+
+5
+
+50
+
+4
+
+40
+
+DIX5-11
+DIX20-5
+
+DIX10 NSPH
+
+DIX10-6
+
+100
+
+3
+DIX20-5
+
+30
+DIX5 NSPH
+
+2
+
+20
+
+DIX20 NSPH
+
+50
+
+Controller Display
+
+1
+
+0
+
+10
+
+5
+
+15
+
+20
+
+25
+
+30
+
+35
+
+0
+
+10
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+PUMP
+The Dayliff DIX range of pumps are of non self-priming vertical multistage in-line centrifugal design incorporating inverter controllers suitable for a wide
+range of water supply, irrigation, liquid transfer and pressure boosting applications. The pumps are of heavy-duty construction designed for continuous duty
+in commercial and industrial applications and are quiet in operation. Pumps feature AISI 316 stainless steel for all hydraulic components in contact with
+water and are water lubricated with a standard cartridge type mechanical seal. They are supplied complete with BSP internally threaded counter flanges.
+Particular features include:• Integrated pressure set variable frequency inverter drive regulated by system demand that minimises energy consumption, reduces mechanical load
+and reduces operating cost
+• Smart touch screen providing visual presentation of operating data, fault indication and set-up options
+• In-built pump protection including high and low voltage, phase failure, overcurrent and motor overload, dry running and low flow cutoff with
+operator permission setting.
+• Supplied with a pressure sensor to monitor and maintain pump's output at set constant pressure point
+• Can be installed individually or with up to 4no pumps connected in parallel for Booster set applications
+• Automatic pump alternation in multi-pump booster systems to ensure automatic and uniform master to slave transfer and continuous operation in
+the event of pump failure
+• Digital connectivity interface for BMS applications (Modbus RS485 communication port)
+MOTOR
+Pumps are coupled to IE5 permanent magnet variable high-speed motors complying with IEC standards and giving exceptional operating efficiency. The
+integral controller provides for soft start eliminating water hammer and other protection features enabling the motor to be directly connected to the mains
+power supply through an appropriately sized Fuse or MCB. This gives high levels of motor protection for long life and saves the cost of a supplementary
+motor control panel.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Voltage:3X415V
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean, non-aggressive and non-explosive liquids without solid particles or fibres.
+Liquid Temperature Range: -150C to 1050C
+Maximum Ambient Temperature: +400C
+Maximum Suction Lift: According to the NPSH curve plus a safety margin of 1m
+Maximum Inlet Pressure: 6Bar.
+PUMP DATA
+Model
+DIX5-11
+
+Max
+Current
+kW HP
+(A)
+
+B1 B2 D1 D2 D3 W1 W2 W3 W4 Od
+
+4
+
+553
+
+Dimensions
+
+Power
+
+5.5
+
+8.6
+
+DIX5-15
+
+681
+5.5 7.5
+
+56
+250 30
+
+DIX10-8
+
+575
+
+280 50
+
+80 110 150 18
+
+DN40
+69
+
+16
+476
+
+DIX20-3
+
+300 65
+11 15
+
+DN32
+61
+
+515 420 270 160
+
+DIX20-5
+
+60 100 140
+
+11.8
+
+DIX10-6
+7.5 10
+
+Flange Weight
+(kg)
+Size
+
+23.4
+
+654 520 320 190
+
+90 125 165
+
+DN450
+
+66
+84
+
+Speed:3500rpm
+
+

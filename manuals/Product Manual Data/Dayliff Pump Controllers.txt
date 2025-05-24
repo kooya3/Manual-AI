@@ -1,0 +1,117 @@
+Pump
+Controllers
+
+TED
+A
+D
+UP
+PRESSCON
+CONTROLLERS
+
+In-line electronic pump controllers for automatic operation of pressurised water supplies. Features include:• Starts pump on pressure (fixed at 1.5Bar) stops on low flow.
+• Dry run protection provided. Standard models require manual reset, Automatic models restart when
+supply returns (positive suction)
+• Incorporates a spring activated hydraulic accumulator to control pump cycling
+• LED power on, pump run and run dry indicators
+
+Manual
+
+Max Motor size: 0.75kW (Auto), 1.1kW/1ph (Manual) Max Current: 10A
+Max Operating Pressure:10 Bar
+Connection: 1''M
+Protection: IP54(Auto), IP65 (Manual)
+Max Delivery Height: 10m(Auto), 100m(Manual)
+Dimensions (L/W/H): 227x1305x168mm(Manual), 210x110x100 (Auto)
+
+Auto
+
+SUPERPRESS
+CONTROLLER
+
+High specification in-line electronic pump controllers for automatic operation of pressurised water supplies.
+Features include:• Starts pump on pressure or through the flow sensor (minimum 1.5litres/min)and stops on low flow. The
+controller automatically senses the pipe pressure and regulates the starting pressure
+• Dry run protection provided and restart when supply returns (positive suction)
+• Incorporates a spring activated hydraulic accumulator to control pump cycling
+• LED power on, pump run, dry run indicators and delay timer
+• Settable delay timer for tank filling (P)
+• Built in pressure gauge for pressure monitoring (P)
+
+Superpress S
+
+Superpress P
+
+MAXCON PUMP
+CONTROL
+
+Max Motor size: 2.2kW/1ph
+Max Operating Pressure:10 Bar
+Dimensions (L/W/H): 192x140x90mm
+
+Max Current: 10A
+Connection: 1''M
+
+Protection: IP65
+Voltage: 90-260V
+
+Multi functional electronic controllers for operation and running of single and three phase pumps. Features
+include: overload protection, dry-run protection, over/under voltage protection, phase loss protection (3
+phase units) and transient surge protection.
+The Controllers have LCD display including running status and error conditions that can hold memory fo upto
+last five failure events.
+
+SCM2
+
+SCT7
+
+SCT15
+
+SCM2: 0.37 - 1.5kW, 1ph, 220-240V,
+SCT15: 7.5-15kW, 3ph, 380-415V
+Temperature: 250-550C
+
+SCT7: 1.1-7.5kW, 3ph, 380-415V,
+Enclosure Class: IP22, IP54 (SCT15)
+Protection: IP68
+
+An in-line electronic pump controller for automatic operation of pressurised pump supplies. Features include:Starts pump on pressure and stops on low flow. The start pressure is adjustable between 1.3 - 5 Bar
+l
+Inbuilt timer delays pump starting and controls pump cycling in low flow conditions eliminating the need
+for a separate pressure vessel
+l
+Dry run protection with automatic reset
+l
+LED power and run dry indicators
+l
+Built in pressure gauge
+l
+
+Max Motor Size: 1.5kW/1ph
+Connection: 1” M
+
+Max Current: 12A
+Protection: IP65
+
+Max Operating Pressure:10 Bar
+Dimensions (L/W/H): 190/105/96mm
+
+A high specification in-line electronic pump controller that starts on pressure and stops on either low flow or a
+settable pressure. It completely replaces the traditional pressure tank/pressure switch systems whilst providing
+a number of additional control features. These include:• Simple start and stop pressure setting with digital pressure display.
+• Dry run protection
+• Motor over current providing protection against overload and blocked water conditions.
+• Options of master/slave configuration in twin booster set application and auto change-over.
+• Operating/error status indicator via LED’s and display alerts.
+• Input and output terminals for remote connection.
+• Rotor anti-blocking function used to prevent seizure of mechanical parts during prolonged periods of
+pump inactivity.
+Max. Motor Size: 2.2kW/1ph
+Connection: 1'' M
+Start Pressure Range: 0.5-8 Bar
+Max. Rated Current: 16A
+Dimensions (L/W/H): 225/150/115mm
+
+Max. Stop Pressure: 10 Bar
+Protection: IP65
+
+

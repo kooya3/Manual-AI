@@ -1,0 +1,187 @@
+MAPRO
+Air Blowers
+
+0.5
+
+PRESSURE (Bar)
+
+0.4
+
+CL40/50/60HS
+
+CL2R4/
+420HS
+
+CL2RS
+
+CL2R7
+
+0.3
+
+0.2
+
+40HS 50HS
+60HS
+
+0.1
+
+CL420HS/CL2R4/CL2R5/CL2R7
+
+0
+
+50
+
+100
+
+150
+200
+AIR FLOW (m3/hr)
+
+250
+
+300
+
+350
+
+The performance curves are based on air at 200C and sea level conditions
+COMPRESSOR
+Mapro air blowers are high specification machines of side channel type fitted with centrifugal vane type impellers for applications
+that require consistent high air flow at medium pressures. The rotating parts are not in contact with the casing and the compressed
+air is therefore totally contaminant free. Other benefits include low noise levels, no vibration and pulsation free discharge. Material
+of construction for the compressor is aluminium alloy for both the casing and the impellers and units are close coupled to flange
+mounted electric motors.
+MOTOR
+Totally enclosed fan cooled motors complying to IEC specifications. Three phase motors must be connected to an effective motor
+starter in accordance with local regulations. Single phase can be connected to a suitably rate MCB.
+Enclosure Class: F (up to 3kW), H(4kW and above)
+
+Protection Class: IP55
+
+Speed: 2900rpm
+
+EQUIPMENT SPECIFICATIONS
+Model
+
+Power
+(kW)
+
+CL40HS
+
+1.1
+
+CL50HS
+
+1.5
+
+CL60HS
+
+2.2
+
+CL420HS
+
+1.5
+
+CL2R4
+
+2.2
+
+CL2R5
+
+3.0
+
+CL2R7
+
+4.3
+
+Voltage
+(V)
+
+3x415
+
+1x240
+
+3x415
+
+A
+
+A
+
+B
+
+C
+
+270
+
+286
+
+305
+
+315
+
+333
+
+335
+
+395
+
+382
+
+385
+
+401
+
+356
+
+315
+
+499
+
+410
+
+361
+
+526
+
+470
+
+410
+B
+
+Inlet /
+Outlet (”)
+
+Weight
+(kg)
+
+1½”
+
+18
+26
+
+2”
+
+42
+27
+
+1½”
+
+39
+
+2”
+
+53
+A
+
+C
+
+C
+
+B
+
+Dimensions (mm)
+
+CL 40/50/60HS
+
+CL420HS/CL2R4/CL2R5/CL2R7
+
+

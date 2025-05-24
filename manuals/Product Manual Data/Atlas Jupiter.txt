@@ -1,0 +1,114 @@
+JUPITER
+Water Softeners
+
+By-pass Valve
+Water Inlet
+
+Non Return Valve
+
+Users
+
+Pre-Filter
+
+240V Plug
+
+Brine Tank
+
+Drain
+
+SCHEMATIC INSTALLATION LAYOUT
+
+Atlas 'Jupiter' water softeners use the ion exchange principal for the removal of hardness in water exchanging the Calcium and
+Magnesium ions, which cause the hardness condition, with Sodium ions using the medium of a strong cationic resin bed. The filter
+bed is regenerated at regular intervals using Sodium Chloride (Brine) solution by a backwash process during which the removal
+hardness ions are flushed to waste. All softeners include the following:l Strong GRP reinforced polyethylene resin tank designed for long life.
+l Polyethylene brine tank with drain piping.
+l Control valve that automatically cycles the regeneration process on either a volume or time elapsed basis depending upon
+
+parameter specifications. Regeneration can be programmed according to operating conditions.
+l A filter charge of cationic ion exchange resin.
+
+Atlas 'Jupiter' water softeners are quality units designed for continuous operation in small flow requirements including domestic,
+process and industrial applications. The combined features of simplicity of operation and robust design make them an ideal
+solution for all softening requirements.
+SOFTENER SIZING
+Softeners are rated by their exchange capacity, which is in the quantity of Calcium that is removable between regenerations and is
+determined by the resin performance and resin capacity. Equipment sizing is then computed on the basis of the raw water hardness
+and the required brine regeneration period, 24hrs being the minimum.
+For example the Jupiter 30AVL has an exchange capacity of 2250mg CaCO3and for water of 200ppm CaCO3 hardness the
+treatment volume is 2250/200 =11.25m3 between regenerations. Assuming a 10 hour operating period/day and daily
+regeneration the required flow rate is 1m3/hr.
+Note that softening performance is reduced by increased TDS levels and it is necessary to compute compensated hardness when
+TDS levels exceed 400ppm as follows:- Compensated Hardness (ppmCaCO3) - Measured Hardness (ppmCaCO3) x 9000
+9000 - TDS level (ppm)
+OPERATING CONDITIONS
+Raw Water Appearance: Clear
+Iron: <0.1ppm
+Chlorine: <0.5ppm
+Temperature Range: 50-400
+Min Inlet Pressure: 2Bar
+Max Operating Pressure:6 Bar
+EQUIPMENT SPECIFICATIONS
+Model
+
+Recommended
+Resin
+Brine
+Dimensions (mm) Weight
+Exchange
+Capacity
+Consumption Max. Flow Rate Outlet
+(kg)
+Capacity*
+3
+(m /hr)
+(ltr)
+(kg)
+L
+D
+H W
+
+JUPITER 30AVL
+
+30
+
+2250
+
+4.5
+
+1.8
+
+¾”
+
+1087 264 790 380
+
+40
+
+JUPITER 70AVL
+
+70
+
+5250
+
+13
+
+3
+
+1”
+
+1588 338 825 565
+
+82
+
+L
+
+H
+
+* Exchange capacities may vary depending on resin used
+W
+
+W
+
+D
+
+

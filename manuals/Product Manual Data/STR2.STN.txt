@@ -1,0 +1,136 @@
+STR2/STN
+Twin Shower Pump
+
+45
+40
+
+STN 4B
+
+35
+30
+STR2
+
+25
+20
+STR2 2C
+15
+10
+5
+
+STN
+
+STR2 1.5C
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+FLOW RATE (l/min)
+
+PUMP
+GRUNDFOS STR2/STN twin impeller pumps have been specifically designed for boosting performance of low pressure gravity
+feed shower installations to provide increased water flows at consistent pressure and temperature. The pumps incorporate a single
+motor powering two pump heads, one each for hot water and cold water and are fitted with an inbuilt flow sensor for STR2 and both
+pressure switch and flow switch for STN to automatically start operation on demand.
+The pumps incorporate a number of innovative design features including: • Non corrosive engineering plastic for STR2 and heavy duty brass impeller and body for STN
+• Low noise motor with anti-vibration feet for quiet operation
+• Fully automatic switching by an integral flow switch for STR2 and combination of pressure switch and flow switch for STN
+• Supplied complete with braided stainless steel hoses suitable for either ½” or ¾” pipe connections complete with push fit
+fittings
+• Integral easy clean inlet filters to remove suspended particles
+• Auto re-setting safety thermal cut-out for motor protection
+• Regenerative impeller design to overcome air pockets
+All Grundfos STR2 and STN pumps undergo a rigorous 3 stage testing process to give assured quality, performance and safety.
+They also conform to prevailing UK and EU standards and provide an effective and economical solution to all domestic shower
+boosting requirements.
+OPERATING DATA
+MODEL
+
+STR2-1.5C
+
+STR2-2.0C
+
+STN-4.0B
+
+Maximum Output Pressure, Bar
+
+1.5
+
+2
+
+4
+
+Maximum Operating Pressure, Bar
+
+3
+
+6
+1m min, 8m max
+
+Inlet Head
+
+0.5l/min
+
+Minimum Start Flow
+Cut-in/ Cut Out Pressure
+
+N/A
+
+2Bar/2.5Bar
+
+Maximum Liquid Temperature
+
+600C
+
+Motor Specification
+
+340Watts,240V,50Hz
+
+420Watts,240V,50Hz
+
+790Watts,240V,50Hz
+
+Maximum Current
+
+1.5A
+
+1.8A
+
+3.6A
+
+IPX2
+
+Enclosure
+Electrical Connection
+Noise Level
+Dimensions(mm)LxWxH
+Weight (Kgs)
+
+Through 5A fuse, earthing must be provided
+
+10A fuse
+
+<55-65dB (A) at 1m
+
+<55 to 70dB (A) at 1m
+
+235x150x165
+
+353x232x287
+
+5
+
+12
+
+INSTALLATION LAYOUT
+
+

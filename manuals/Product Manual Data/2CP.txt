@@ -1,0 +1,131 @@
+2CP
+Horizontal Two Stage
+Centrifugal Pumps
+120
+
+2CP 32/210A
+100
+
+PUMP HEAD (m)
+
+2CP 32/200B
+80
+
+2CP 40/180A
+
+60
+
+2CP 32/210B
+40
+
+2CP 32/200C
+
+2CP 40/180C
+
+20
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10 12 14 16 18
+FLOW RATE (m3/hr)
+
+20
+
+22
+
+24
+
+26
+
+28
+
+PUMP
+The PEDROLLO 2CP pump range are twin impeller centrifugal pumps with close coupled motors. They are suitable for higher
+pressure domestic and industrial applications and are specially designed for continuos heavy duty use. A special feature of the
+design is a 'back-to-back' impeller configuration which balances radial loads and prolongs motor bearing life.
+The pump body is constructed from cast iron and the impellers from brass alloy.
+MOTOR
+The close coupled fan cooled TEFC three-phase induction motors are non overloading and designed for continuous duty. A remote
+starter with thermal overload is necessary for motor protection.
+Enclosure Class: IP44
+
+Insulation Class: F
+
+Voltage: 3x415V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without abrasive particles or fibres .
+Max. Fluid Temperature: +900C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 7m (at sea level)
+
+Model
+
+Motor
+(kW)
+
+Current
+(A)
+
+DN1
+
+DN2
+
+L
+
+39
+
+10.2
+
+42
+
+2CP 40/180A
+
+55
+
+541
+
+15
+4
+
+60
+
+9.8
+
+496
+
+49
+
+15.4
+
+542
+
+59
+
+W
+L
+DN2
+
+H
+DN1
+
+W
+
+7.1
+
+11.5
+2CP 40/180C
+
+H
+
+

@@ -1,0 +1,247 @@
+DIN10
+
+250
+
+0.35
+0.3
+
+DIN 10-22
+
+0.25
+0.2
+
+200
+
+0.15
+0.1
+
+DIN 10-16
+
+0.05
+
+150
+DIN 10-12
+
+4.0
+
+80
+
+ETA%
+
+70
+
+3.5
+100
+
+60
+
+DIN 10-9
+
+50
+40
+
+DIN 10-6
+50
+
+30
+
+DIN 10-4
+
+NPSH
+
+20
+10
+
+5
+
+0
+
+5
+
+15
+
+10
+
+10
+
+15
+
+PUMP
+The DAYLIFF DIN pump range are of non self priming vertical multistage in-line centrifugal design suitable for a wide range of
+water supply, irrigation, liquid transfer and boosting applications. The pumps are of heavy duty construction and designed for
+continuous duty in commercial and industrial installations. All DIN pumps feature AISI 316 stainless steel vital components in
+contact with water including the impellers, intermediate chambers, shaft and top and bottom housings and are suitable for
+pumping highly mineralised corrosive water. All pumps are water lubricated and are provided with a standard cartridge type
+mechanical seal. They are supplied complete with BSP internally threaded counter flanges.
+MOTOR
+The pumps are coupled to high efficiency IE3 totally enclosed fan cooled 2-pole motor complying with IEC standards and must be
+connected to an effective motor starter in accordance with local regulations.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean, non-aggressive and non-explosive liquids without solid particles or fibres.
+Liquid Temperature Range: -150C to +1200C
+Maximum Ambient Temperature: +500C
+Maximum Suction Lift: According to the NPSH curve plus a safety margin of 1m
+Maximum Operating Pressure: Up to 5.5kW - 16 bar, 7.5 kW - 25bar
+Maximum Inlet Pressure: DIN10-4-6-8bar, DIN 10-9 to 22 - 10bar
+PUMP DATA
+Model
+
+DIN10-4
+
+Voltage
+(V)
+1x240
+
+DIN10-6
+DIN10-9
+DIN10-12
+
+3x415
+
+Motor
+
+Full Load I Start
+Current
+I
+(A)
+
+kW
+
+HP
+
+1.5
+
+2.0
+
+2.2
+
+3.0
+
+3.0
+
+4.0
+
+6.5
+
+4.0
+
+5.5
+
+8.7
+
+Dimensions (mm)
+H1
+
+H2
+
+433
+
+728
+
+493
+
+788
+
+6.5
+
+588
+
+904
+
+197
+
+147
+
+-
+
+63
+
+7.5
+
+678 1004
+
+220
+
+161
+
+-
+
+70
+
+235
+
+197
+
+300
+
+8.9
+
+1.6
+
+3.5
+
+7.1
+
+4.8
+
+6.8
+
+DIN10-16
+
+5.5
+
+7.5
+
+11.2
+
+7
+
+830 1192
+
+DIN10-22
+
+7.5
+
+10.0
+
+14.7
+
+8.7
+
+1010 1415
+
+D1
+
+D2
+
+177
+
+141
+
+D3
+
+Weight
+(Kg)
+
+-
+
+48
+
+-
+
+51
+
+PN16-25/DN40
+
+102
+115
+
+All dimensions in mm
+
+

@@ -1,0 +1,28 @@
+Enclosure Class: IP68
+
+Insulation Class: B
+
+Voltage: 1x240V
+
+Model
+
+Motor (kW)
+
+Outlet (”)
+
+Weight
+(kg)
+
+DDV60
+
+0.25
+
+½
+
+4
+
+Speed: 2900rpm
+
+100mm
+
+

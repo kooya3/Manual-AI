@@ -1,0 +1,209 @@
+Reverse Osmosis
+Plant
+Source Water Low
+Inlet Pressure Pressure
+Switch
+Gauge
+
+Prefilter
+Pressure
+Gauge
+
+High Feed Water
+Pressure Pressure
+Gauge
+Switch
+
+RO Permeate
+TDS Meter
+
+RO Vessles and Membranes
+
+Feed Inlet
+
+RO Permeate
+Flow Meter
+High Pressure
+Pump
+
+Pre-Filters
+
+RO Concentrate
+Pressure Gauge
+
+Recycle Valve
+RO Vessels and Membranes Configurations
+
+DRO4/0.25
+
+DRO4/0.5
+
+RO
+Concentrate
+Flow Meter
+
+Concentrate Valve
+
+DRO4/1
+
+DRO4/1.5
+
+DRO4/2
+Autoflush Solenoid Valve
+
+Reverse Osmosis is a proven technology to remove dissolved solids in water. At the heart of the system is the membrane, though the
+effectiveness of treatment relies on the correct matching of all components to provide an efficient treatment process, DAYLIFF plants being
+carefully engineered to provide reliability with the highest treated water quality.
+Systems are frame mounted with all components conveniently accessible and are designed to provide low energy consumption and long
+life. Standard models are suitable for low (up to 2000ppm) and medium (up to 5000ppm) brackish water applications though systems for
+treating higher salinity levels and sea water are available to special order. All offer the following features:•
+•
+•
+•
+•
+
+High efficiency 4” RO membranes specified to suit water quality housed in strong, corrosion proof FRP pressure vessels.
+High treatment performance with up to 98% salts rejection
+High pressure in line multi stage stainless steel feed pump
+System monitoring accessories including inlet and outlet flow meters, pressure gauges and conductivity meter
+Electronic controller for fully automated plant operation including startup, periodic flush cycle and shut down as well as providing
+various system alarms
+• Sediment removal and Carbon cartridge pre-filters
+• Skid mounted for simple installation
+• Corrosion resistant stainless steel high pressure and plastic low pressure pipes and pipe fittings.
+DAYLIFF RO plants are highly efficient, easy to operate and simple to maintain and offer the ideal solution for small and medium scale
+Reverse Osmosis requirements.
+Solar Power Option is available on request.
+OPERATING PARAMETERS
+Raw Water Quality: TDS level of up to 2,000ppm for the Low Brackish Water and up to 5,000ppm for the Medium Brackish Water
+Plant, Chloride level should be less than 350ppm, no chlorine, total hardness <200ppm and no suspended solids. A raw water analysis
+should be provided to establish the extent of pre-treatment necessary.
+Normal Rejection: 95%-98%
+Water Temperature: 5-350C, Design Temperature 250C
+Minimum Inlet Pressure: 3bar
+L
+Operating Pressure: Ranges between 4 bar and 20 bar depending on raw water quality
+Recovery Range : 35% - 75% depending on raw water quality. System recovery is entirely dependent on
+water quality; higher TDS or silt content will reduce the recovery rate and flow rates.
+EQUIPMENT SPECIFICATION
+DRO4/1
+
+DRO4/1.5
+
+0.5
+
+1
+
+1.5
+
+2
+
+1
+
+2
+
+2.5
+
+3.3
+
+1
+
+2
+
+4
+
+6
+
+8
+
+Stages
+
+1
+
+1-1
+
+1-1-1-1
+
+1-1-1
+
+3-1
+
+High Pressure Pump (2000ppm TDS)
+
+kW
+
+1.5
+
+1.5
+
+2.2
+
+2.2
+
+4
+
+High Pressure Pump (5000ppm TDS)
+
+kW
+
+2.2
+
+2.2
+
+3.0
+
+4
+
+Flow (m3/hr)
+
+Membranes
+
+DRO4/0.25
+
+DRO4/0.5
+
+Permeate
+
+0.25
+
+Feed
+
+0.7
+
+Quantity
+
+L
+Dimensions, mm
+
+Weight
+
+1800
+860
+
+H
+
+1375
+100
+
+156
+
+5.5
+2700
+
+W
+
+kg
+
+DRO4/2
+
+169
+
+230
+
+243
+
+W
+
+H
+
+

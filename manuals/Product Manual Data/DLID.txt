@@ -1,0 +1,72 @@
+DLID
+Lithium Iron
+Phosphate Battery
+
+Dayliff DLID Lithium Iron Phosphate (LiFePO4) batteries with Battery Management System control are high performance products
+matched to the Dayliff Ultraverter and Growatt multifunction inverters with principal applications for solar power system storage
+and mains power supply backup. They offer considerable benefits including enhanced power output, considerably extended life
+and cooler operation in high temperatures and are especially suited to high specification installations. Particular benefits include:• Design life of up to 3000 cycles at 80% DOD, greater than 4 times the life of a comparable Lead Acid type.
+• Lighter weight but higher energy density to similar capacity Lead Acid alternatives.
+• Constant discharge voltage that enables the battery to deliver nearly full power until it is fully discharged.
+• Low self-discharge rate of 3% per month.
+• Built in battery charge/discharge protection.
+• Excellent resistance to over and under charge with no damaging effects.
+• Maintenance free, totally safe and environmentally friendly.
+• Batteries can be connected in parallel (up to 8No) to provide higher capacity.
+•Also offered with a flexible pay-per-use payment plan suited for productive use of energy (PUE) applications.
+In every aspect of performance Lithium Iron Phosphate batteries offer a much superior solution over the Lead Acid alternatives and
+though of higher capital cost deliver the more economical long-term outcome due to their greatly increased life, consistent power
+output and better charge/discharge performance. For high specification systems where enhanced performance is demanded and
+reliability is essential, they are the optimal choice.
+TECHNICAL DATA
+Model
+
+Specification
+
+Storage
+Capacity
+(kWh)
+
+DLID-5024
+
+24VDC 50AH
+
+1.2
+
+DLID-5048
+
+48VDC 50AH
+
+2.4
+
+Max. Charge
+Current
+(A)
+
+Max.
+Discharge
+Current (A)
+
+50
+
+50
+
+Dimensions(mm)
+Length
+375
+500
+
+Width
+
+Height
+
+485
+
+180
+
+Weight
+(Kgs)
+20
+28
+
+

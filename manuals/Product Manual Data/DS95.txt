@@ -1,0 +1,239 @@
+DS95
+
+8
+
+300
+275
+
+80
+ETA%
+
+DS 95-12
+
+250
+225 DS 95-10
+
+60
+
+6
+
+200
+175 DS 95-8
+150
+125
+100
+
+4
+
+40
+
+kW
+
+DS 95-6
+
+DS 95-4
+
+75
+
+2
+
+20
+
+50 DS 95-2
+25
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+20
+
+40
+
+60
+
+80
+
+100 120 140
+
+PUMP
+DAYLIFF DS submersible pumps are designed specifically for borehole supply applications. They are of multistage centrifugal
+impeller design and all parts are made from premium AISI304 stainless steel with water lubricated rubber bearings. A submersible
+motor is fitted beneath the pump and suction is effected through a strainer between the pump and motor.
+MOTOR
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel cage motor constructed from stainless steel. The
+motor requires a remote starter and if unstable supply voltage is likely, an additional quick tripping control relay is recommended.
+Note that due to low starting torques of submersible motors, it is recommended that DOL starters are used. A DAYLIFF SCT
+electronic pump controller is recommended for comprehensive pump control including low level motor overload and irregular
+power supply protection.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Voltage:3x415V
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean chemically non-aggressive liquids without solid particles or fibres.
+Max. Liquid Temperature: DS wet end-500C
+Max. Water Depth: 300m
+Min. Borehole Diameter: 200mm - 6” motor
+254mm - 8” motor
+PUMP DATA
+Model
+
+Motor
+Size (”)
+
+HP
+
+Full Load
+Current
+(A)
+
+Motor
+kW
+
+I start
+I
+
+Dimensions (mm)
+A
+
+B
+
+C
+
+E*
+
+Weight
+(Kg)
+
+9.2
+
+13
+
+21.5
+
+4.2
+
+1631
+
+867
+
+746
+
+84
+
+18.5
+
+25
+
+40
+
+5.5
+
+2060
+
+1057
+
+1003
+
+115
+
+DS 95-6
+
+26
+
+35
+
+57
+
+4.9
+
+2416
+
+1157
+
+1259
+
+DS 95-8
+
+37
+
+50
+
+78.5
+
+5.7
+
+2827
+
+1312
+
+1515
+
+45
+
+60
+
+96.5
+
+6.0
+
+3053
+
+1270
+
+1783
+
+55
+
+75
+
+114
+
+5.9
+
+3389
+
+1350
+
+2039
+
+DS 95-2
+DS 95-4
+
+DS 95-10
+DS 95-12
+
+6
+
+8
+
+E*=Maximum diameter of the pump inclusive of cable guard and motor
+
+178
+
+177
+206
+
+200
+
+234
+258
+
+E*
+Rp5"
+
+

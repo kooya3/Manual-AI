@@ -1,0 +1,165 @@
+AQUASTRONG
+SMART45
+Water Boosting Systems
+FIXED PRESSURE PERFORMANCE
+
+55
+
+50 PUMP FULL SPEED
+
+50
+
+4.5 BAR
+
+45
+
+4 BAR
+
+40
+
+PUMP HEAD (m)
+
+PUMP HEAD (m)
+
+45
+
+3.5 BAR
+
+35
+30
+
+DEFAULT SET
+
+25
+
+2.5 BAR
+
+35
+4500RPM
+
+30
+
+15
+
+15
+
+10
+
+10
+
+5
+
+5
+2
+3
+4
+FLOW RATE (m3/hr)
+
+5
+
+6
+
+4000RPM
+
+25
+20
+
+1
+
+5200RPM
+
+40
+
+20
+
+0
+
+FIXED SPEED PERFORMANCE
+
+55
+
+3500RPM
+
+3000RPM
+
+2500RPM
+
+0
+
+1
+
+2
+3
+4
+FLOW RATE (m3/hr)
+
+5
+
+6
+
+PUMP
+Dayliff Aquastrong SMART45 is a highly innovative smart variable speed water boosting pump ideal for automatic pressurised water supply
+for houses, apartments, offices and other small-scale applications where reliable water supply is demanded, the variable speed technology
+providing constant pressure at varying water demand. Particular features include:• Innovative inverter controlled variable speed technology that minimises energy consumption.
+• Optimised self-priming hydraulic design with that includes four-stage AISI304 stainless steel impellers, high-spec mechanical seal
+that accommodates dry-running and integral pressure and flow sensors.
+• Permanent magnet air cooled DC motor that features high efficiency with quiet (60dB) operation and inbuilt thermal overload and
+dry run protection.
+• Fully automatic operation with option of adjustable constant pressure settings that matches flow with demand and constant speed
+function that varies pressure with demand.
+• Easy to use LED control panel with display for operating mode, motor speed, operating pressure and various fault indicators.
+• Convenience features including adjustable inlet and outlet connectors for installation flexibility, inbuilt non-return valve and integral
+maintenance free 1L pressure tank.
+• Parallel capability up to 2 pumps
+• 2-year guarantee.
+• GS certification in accordance with the EU Uniform EN and the German Industrial DIN Standards.
+Dayliff Aquastrong SMART45 is an exceptionally advanced product that uses state of the art inverter technology to provide the perfect
+solution for a complete water supply system in all domestic and residential water supply applications. Pumps can be connected in parallel upto two
+pumps
+Insulation: F
+
+Enclosure Class:IPX5
+
+Power: 750W, 1x240V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solid particles
+or fibres
+Max. Ambient Temp: 4-550C
+Max. Liquid Temp: 800C
+Max Suction Depth:8m
+
+Max Speed: 5200rpm
+Set Pressure
+
+Operating Pressure
+
+DIMENSIONS AND APPLICATIONS
+Installation Arrangement
+Warning
+Indicator Lights
+
+Weight:17kg
+
+Permanent
+Magnet
+Motor High
+Efficiency
+
+Variable
+Speed
+Pressure
+Constant
+
+Hot
+Water
+Handling
+to 800C
+
+Ecofriendly
+
+Low
+Noise
+(60dB)
+
+

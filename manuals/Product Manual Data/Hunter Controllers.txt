@@ -1,0 +1,84 @@
+TED
+A
+D
+UP
+
+Controllers
+
+Hunter's range of Controllers are high quality proven and tested designs that offer simple to advanced automatic watering with an
+abundance of user-friendly features. They are designed to efficiently manage and monitor irrigation by minimising wastage and
+adjusting operation with weather changes to ensure optimum use and conservation of water. Hydrawise intelligence is built into
+selected controllers to provide remote management of the irrigation system via a smart device or web browser. Features of Hydrawise
+include predictive watering adjusting schedules based on forecast temperature, rainfall probability, wind and humidity to provide
+maximum water savings while keeping landscapes healthy and beautiful. Optional flow meters may be installed to provide automatic
+notifications in case of leaking pipes or sprinklers.
+Hunter X2 Controllers The X2 is a simple controller capable of managing 4,6,8 &14stations including the master valve for
+
+pump control. It has optional connection to bluetooth and Wi-Fi that is compatible with the Hydrawise
+software for online irrigation management with controller status and faulty wiring alerts.
+Basic controller program consists of 3 flexible options, each with 4 start times and a maximum of 6 hour
+run times. The inbuilt QuickCheck technology provides simple diagnostic of faulty field wiring and skips
+the station without system damage in case of a short-circuit. The program allows for suspension of
+irrigation for up to 99 days during off-season.
+Other salient features include: easy retrieve memory back-ups to the full irrigation schedule, delay
+between slow-closing valves and seasonal adjustment without changing run times.
+Transformer Input/Output: 230VAC, 24VAC, 1A
+Station Output: 24VAC, 0.56A
+Pump/Master Valve: 24VAC, 0.28A
+Sensor inputs: 1
+Compatible Sensors: Mini-Clik, Hydrawise Software, Flow-Clik, Soil-Clik, Wind-Clik, mini weather
+station.
+Hunter Soil Clik
+
+Hunter Soil Clik is a moisture sensor that shuts down irrigation when desired moisture level is attained.
+The probe is installed approximately 15cm below ground in the root zone. It comes with a low voltage
+outdoor enclosure powered by host controller with probe installed up to 300m away. It works with all
+Hunter controllers.
+Maximum distance, controller to control module: 2m
+Maximum distance, control module to sensor probe: 300m
+Input power: 24VAC, 100mA max.
+
+Hunter Flow Clik
+
+Hunter Flow Clik is a leak detection device that shuts down systems if an overflow condition occurs. It
+comes with a control module and works with most Hunter and non-Hunter controllers.
+Flow-Clik interface panel: 90cm leads provided for easy wiring to controller
+Current draw: 24 VAC, 0.025A
+Maximum distance between interface panel and sensor: 300m
+Programmable start up delay: 0 to 300 seconds.
+Programmable interrupt period: 0 to 60 minutes.
+Pipe Diameter, mm
+3
+
+Operating Range, m /hr
+
+Hunter Solar Sync
+
+25
+
+40
+
+50
+
+90
+
+110
+
+0.5-4
+
+1-8
+
+2-12
+
+6-27
+
+8-45
+
+Hunter Solar Sync automatically adjusts irrigation run times based on weather conditions using on-site
+solar radiation and air temperature. It comes in 2 models; wireless or with a 7m cable and features;
+Quick response technology that triggers rain shut-off., adjustable vent ring to allow for shorter or longer
+reset periods and wireless sensor kit for simplified installation.
+Switch rating: 24VAC, 3A
+Wireless models range: 243m line of sight from sensor to receiver; 433 MHz frequency.
+
+

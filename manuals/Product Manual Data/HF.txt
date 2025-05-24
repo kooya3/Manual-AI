@@ -1,0 +1,108 @@
+24
+20
+HF 30A
+
+19
+18
+16
+
+HF 30B
+
+14
+12
+
+HF 20A
+
+10
+8
+HF 60A
+
+6
+
+HF 20B
+
+HF 60B
+
+4
+2
+25
+
+50
+
+75
+
+100
+
+125
+
+150
+
+PUMP
+The PEDROLLO HF series are non self-priming closed impeller pumps with close coupled motors for high flow applications. They
+are specifically designed for heavy duty industrial and agricultural use and feature adequate passageways in the volute and
+impeller to allow pumping of water with a light silt load. The pumps are of back pullout design allowing dismantling without
+disconnection of the pump casing from the pipework. The pump body is constructed from cast iron and the impeller from brass
+alloy.
+MOTOR
+Pumps are close coupled to Pedrollo brushless TEFC induction motors designed for continuous operation. Single phase motors are
+provided with a thermal cutout in the windings to protect against electric and mechanical overload and can be connected directly
+to the mains power supply through a 10Amp fuse or MCB. Three phase motors require remote DOL starter protection according to
+local regulations.
+Enclosure Class: IP44
+
+Insulation Class: F
+
+Speed: 2900 rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without solids or fibres.
+Max. Fluid Temperature: +60oC
+Max. Ambient Temperature: +40oC
+Max. Suction lift: 7 m (at sea level)
+
+Motor
+(kW)
+
+DN1 DN2
+(”) (”)
+9.4
+5.0
+7.2
+8.5
+
+HF 30B
+
+5.5
+
+429
+
+479
+
+12.3
+
+497
+
+15.9
+
+547
+
+310
+
+240
+
+312
+
+255
+
+370
+
+292
+
+27
+30
+38
+41
+52
+58
+
+

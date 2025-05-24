@@ -1,0 +1,139 @@
+ECO 1024
+Power Pack
+
+LCD Display
+
+a. Battery Power Percentage
+b. High Temperature Indicator
+c. Low Temperature Indicator
+d. Estimated Remaining Service Time
+e. Estimated Remaining Charge Time
+f. Input Power
+g. Output Power
+h PV Icon
+i. DC Icon
+
+j. AC Output Icon
+k. AC Input Icon
+l. USB -A Output Icon
+m. USB -C Output Icon
+n. Fan Icon
+o. Frequency
+p. Overload Icon
+q. Switch Icon
+
+The Dayliff ECO1024 Power Pack is a highly effective hybrid portable power supply solution for off-grid applications or use as an
+automatic domestic mains power backup system with the selectable options of both AC and DC charging and power outputs. Features
+include:•
+•
+•
+•
+•
+
+Electrical energy storage in a high-capacity Lithium-Ion battery rechargeable either from mains AC power supply, PV solar
+modules or a DC car charger.
+Power output from either twin AC output sockets or pure sine wave DC output sockets or USB ports suitable for use with laptop
+computers and other sensitive DC powered equipment.
+LCD display presenting various operational data including available battery power charge, input charging rate, output discharge
+rate and various system indicators and warnings.
+In-built input and output overload protection.
+Supplied complete with all accessories for the various charging options.
+
+The Dayliff ECO 1024 Power Pack is the ideal solution to all recreational and worksite applications and emergency situations where
+electric power is required. It gives many benefits over an alternative engine power generator including no expensive fuel required, silent in
+operation, fumeless and maintenance free. It provides output power on demand without system losses and is a highly cost-effective power
+supply solution.
+TECHNICAL SPECIFICATIONS
+Nominal Battery Voltage
+
+24VDC
+
+Inverter Output
+
+Nominal Output Rated Power
+Output Voltage Waveform
+Output Voltage Regulation
+Output Frequency
+Peak Efficiency
+
+1000W
+Pure Sive Wave
+230V+/-5%
+50Hz (+/-0.2Hz)
+2000W (max)
+
+PV Input
+
+Max Solar Power Input
+PV Max Charging Current
+Max Efficiency
+PV Array Open Circuit Voltage
+PV Array MPPT Voltage Range
+
+600W (1x545W PV Modules)
+25A
+95%
+60V (max)
+12-60V
+
+AC Input
+
+AC Input Voltage
+Nominal Input Frequency
+Transfer Time
+Charging Current @Nominal Input Voltage
+Charging Algorithm
+
+240VAC
+50Hz
+<15ms
+600W @ 240VAC
+Equalize - Trickle charge
+
+Output
+
+AC Output
+Car Charger Output (cigarette lighter)
+DC Output (DC5521)
+USB-C (Type-C)
+LED (white light)
+
+240VAC (2No. Sockets)
+120W
+60W x 2
+PD18Wx1 + PD60Wx2
+2W
+
+Lithium Battery
+
+Energy
+Nominal Voltage
+Battery Capacity
+
+1113Whrs
+25.6V
+43.5Ah
+
+Protection Board
+
+100A
+Charging @25A:
+Discharge@50A
+
+Standard Charging & Discharge Current
+Operation Temperature
+
+Charge 00C to 450C
+Discharge -100C- to 600C
+
+Specifications
+
+Dimensions (WxHxD)
+Packaging Dimensions (WxHxD)
+Gross Weight
+
+440.0x233.2x263.3mm
+504.0x314.5x345.0mm
+17.9kg
+
+

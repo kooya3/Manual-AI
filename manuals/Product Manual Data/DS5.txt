@@ -1,0 +1,300 @@
+DS5
+
+500
+
+70
+DS 5/75
+
+400
+
+ETA%
+
+0.014
+
+DS 5/60
+
+60
+
+350
+50
+300
+DS 5/44
+
+250
+
+40
+
+kW
+
+0.08
+DS 5/33
+
+200
+
+30
+DS 5/25
+
+150
+DS 5/17
+
+100
+
+20
+
+0.04
+
+DS 5/12
+DS 5/8
+
+10
+
+50
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+PUMP
+DAYLIFF DS submersible pumps are designed specifically for borehole supply applications. They are of multistage centrifugal
+impeller design and all parts are made from premium AISI304 stainless steel with water lubricated rubber bearings. A submersible
+motor is fitted beneath the pump and suction is effected through a strainer between the pump and motor.
+MOTOR
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel-cage motor constructed of stainless steel. Single
+phase motors should be supplied with purpose designed Dayliff SCM control boxes for operation and protection against overload,
+dry running and over/under voltage. Three phase motors require a remote DOL starter; A DAYLIFF SCT electronic Pump Controller
+is recommended for comprehensive pump control including low level, motor overload and irregular power supply protection.
+Enclosure Class: IP68
+
+Insulation Class: F
+
+Speed: 2900 rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solid particles or fibres.
+Max. Liquid Temperature: DS wet end-500C
+Max Water Depth: 300m-6”, 200m-4”
+Minimum Borehole Diameter: 110mm
+PUMP DATA
+Motor
+Model
+
+Full Load
+Current (A)
+
+Dimensions (mm)
+
+Start Current
+(A)
+
+kW
+
+HP
+
+DS 5/8
+
+0.75
+
+1.0
+
+6.2
+
+DS 5/12
+
+1.1
+
+1.5
+
+8.1
+
+3.1
+
+32
+
+DS 5/17
+
+1.5
+
+2.0
+
+10.1
+
+4.0
+
+DS 5/25
+
+2.2
+
+3.0
+
+15
+
+5.6
+
+DS 5/33
+
+3.0
+
+4.0
+
+DS 5/44
+
+4.0
+
+DS 5/60
+
+DS 5/75
+
+1x240V 3x415V 1x240V 3x415V
+
+B
+
+C
+
+Weight
+A
+
+(kg)
+
+1x240V 3x415V 1x240V 3x415V
+335
+
+375
+
+16
+
+419
+
+395
+
+375
+
+814
+
+794
+
+13.2
+
+35
+
+20
+
+524
+
+440
+
+395
+
+964
+
+919
+
+16
+
+45
+
+22
+
+692
+
+558
+
+440
+
+1250
+
+1132
+
+21.8
+
+7.4
+
+45
+
+868
+
+558
+
+1426
+
+27.2
+
+5.5
+
+9.5
+
+55
+
+1099
+
+614
+
+1713
+
+35.4
+
+5.5
+
+7.5
+
+13.7
+
+70
+
+1460
+
+684
+
+2144
+
+60
+
+7.5
+
+10
+
+84
+
+2171
+
+2935
+
+20
+
+16.5
+
+710
+
+764
+
+11.5
+
+69
+
+

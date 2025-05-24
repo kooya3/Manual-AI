@@ -1,0 +1,191 @@
+Pump Control
+Panels
+
+The DAYLIFF range of pump control panels have been specially designed to provide effective protection and reliable control of all electric pumps.
+Standard panels are available for one and two pump installation in all sizes up to 90kW for both manual and automatic installations operation. In
+addition various optional accessories are offered so panels can be customised to suit site requirements. Panels for multi pump, large motors and
+specialised control applications can also be supplied, these being individually designed to suit the particular installation.
+All panels utilise quality components and are supplied completely pre-wired with terminals for control accessories (where applicable) as well as
+incoming and outgoing power connections. Comprehensive wiring diagrams are provided with all panels.
+Enclosures are manufactured of mild steel and finished with a hard baked non-chip dry powder epoxy finish. The degree of ingress protection is
+IP54 or higher. As a standard, the enclosures are wall mounted type with hinged lockable door fronts. Free standing enclosures can be provided on
+order.
+All panels are manufactured to exacting standards and are quality products which complement the wide range of pumps available from DAVIS &
+SHIRTLIFF to provide cost effective, reliable and efficient water installations.
+STANDARD PANELS
+Standard panels are categorized based on the Starting Methods of the motor. Motor Manufacturers usually specify the starting methods and
+voltage on the motor name plates.
+Generally panels are fitted with quality Schneider components though other premium brands including Lovato, Siemens and ABB are available on
+request.
+Type 1PM (one pump) and 2PM (two pumps):
+Manual panel for small single-phase pumps. Specification includes Incoming isolator, MCB, ‘ON’ indicator and (motor sizes> 1.1kW), Relay and
+Auto/Hand selector switch. Two pump panels have paired component sets with a 102 Changeover switch. These are suitable for use with single
+phase borehole motors where control box is provided complete with capacitors.
+Type 1PD (one pump) and 2PD (two pumps):
+Standard panels for Direct-On-Line (DOL) start. Specification includes Incoming Isolator, individual pump MCB’s, DOL Starter (Contactor &
+Overload relay), ‘On’ and ‘Trip’ indicators and Auto-Off-Hand Selector Switch. Two pump panels have paired component sets and a 102
+Changeover when CCA (Auto Cycle & Auto Trip Changeover) is specified and individual Auto-Off-Hand Selector Switches when independent
+pump operation is specified.
+Type 1PY (one pump) and 2PY (two pumps):
+Standard panels for Star-Delta start. Specification is as for type 1&2PD with the alternative fitting of a Star-Delta Starter(s) with three Contactors,
+Overload Relay and Timer.
+Type 1PS (one pump) and 2PS (two pumps):
+Standard panels for Soft starters. Specification includes Incoming Isolator, individual pump MCB’s, SOFT-STARTER, Line and Bypass Contactors,
+‘On’ and ‘Trip’ indicators, Start-Stop push button, Reset push button and Auto-Off-Hand Selector Switch. The advantage of these panels is that
+they reduce mechanical stress on the motor and shafts for extended motor life. They also lower starting current and system electrical load reduce
+water hammer effect and check valve slamming.
+
+Type 1PV (one pump) and 2PV (two pumps):
+Standard control panels for Variable Frequency Drive (VFD) starters using premium Schneider Electric Altivar Process Drives. Altivar process drives
+have advanced application functions dedicated for water pumping in industrial and commercial applications, embedded services such as energy and
+pump efficiency monitoring dashboards without additional softwares and integral Modbust/Ethernet protocol connectivity interfaces allowing
+seamless integration to BMS systems.
+Control panel specification includes incoming isolator, individual pump fuses/breakers, ATV630 VFD starters, enclosure thermal management fans
+and thermostat, ‘On’ and ‘Trip’ indicators, Start-Stop push button, emergency push button and Auto-Off-Hand Selector Switch.
+Main advantages is that the drives modulate actual motor speed according to demand providing energy cost savings particularly in applications with
+less than 50% static head, reduce mechanical stress on the motor and shaft, lower starting (in rush) current, reduce water hammer effect and check
+valve slamming.
+NOMENCLATURE
+Panels are referenced as follows:
+1 or 2: No of pumps
+P: Pump Control Panel
+M, D, Y, S, V: Starting specification
+1xx, 3xx : Rating
+Example: 1PDS304 – One pump, DOL start Standard panel, three phase 4kW
+2PYP345 – Two pump, YD start, Premium panel, three phase 45kW
+PANEL SIZES
+
+SINGLE PHASE
+
+THREE PHASE
+
+TYPE
+
+PREFIX
+
+RATING
+
+MOTOR
+
+M
+
+1
+
+1
+
+0.37 - 0.75kW
+
+M or D
+
+1
+
+2
+
+1.1 - 1.5kW
+
+D
+
+1
+
+3
+
+2.2kW
+
+3
+
+4
+
+1.1 - 4kW
+
+3
+
+6
+
+5.5kW
+
+3
+
+8
+
+7.5kW
+
+3
+
+11
+
+9.2 - 11kW
+
+3
+
+15
+
+13 - 15kW
+
+3
+
+18
+
+18.5kW
+
+3
+
+22
+
+22kW
+
+3
+
+30
+
+26 - 30kW
+
+3
+
+45
+
+37 - 45kW
+
+3
+
+55
+
+55kW
+
+3
+
+75
+
+75kW
+
+D|Y|S|V
+
+STANDARD OPTIONS
+Analog Ammeter (MA): Indication of current on one phase. As an option, a phase selection switch can be provided for three phase control
+panels.
+Analog Voltmeter (PV): Indication of voltage on one phase and all phases for single-phase and three-phase respectively. A phase selection
+switch is included for three phase control panels.
+Voltage Relay (PP): Protects against over/under voltage, phase sequence, phase asymmetry and phase failure.
+Surge Protection Device (SPD): Protects equipment against indirect power surges.
+Lightning & Surge Protection Device (LSPD): Protects equipment against high current surges arising from lightning strikes in addition to
+indirect power surges. Required for protection of equipment in buildings with Lightning Protection System.
+Liquid Level Control (CL): For control of low water levels using electrodes.
+Analog Frequency Meter (FF): Indication of power frequency.
+Analog Hour meter (MH): Indication of running hours.
+Digital Multi-Function Monitor (MD): Includes selectable amps, volts, cos φ
+Timer (CT): Delay timer for automatic control, especially when using pressure switches.
+Timer Switch (CS): 24hrs time switch to set the desired time for pump operation.
+Level Alarm (CA): Activates an alarm to indicate high or low water levels. The alarm can be Audio (Siren) or Visual (Flasher) which should be
+specified during order placement.
+Grundfos MP204 Controller (MP204): Includes the Grundfos MP204 integral pump controller unit and necessary fuse protection. The
+MP204 controller digitally monitors current consumption and asymmetry, supply voltage, phase sequence, motor temperature and insulating
+resistance and protects installation against dry running, mechanical motor defects and high temperature.
+Note: Temperature monitoring and protection is only available for Grundfos motors with tempcon.
+Auto Cycle & Auto Trip Changeover (CCA): For two pump Duty Standby operation only. Balances operating time through alternating the duty
+pump at each call of pressure switch/floatswitch.
+Duty-Standby-Assist configuration is also available and should be specified during order placement.
+Power Factor Correction Capacitors (PFC): For Reactive Energy Management, capacitors are used to improve the power factor (PF) hence
+power quality. Size (kvar) depends on motor load (kW), existing PF and desired PF.
+Note: SPD , LSPD and PFC options are provided in separate enclosures. The can also be fitted in the pump control panel. This should be specified
+during order placement.
+
+

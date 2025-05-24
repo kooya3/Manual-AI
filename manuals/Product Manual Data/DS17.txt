@@ -1,0 +1,171 @@
+DS17
+
+0.6
+
+600
+
+78
+ETA%
+
+DS 17/48
+
+500
+
+0.5
+
+65
+
+0.4
+
+52
+
+DS 17/40
+
+400
+
+DS 17/34
+
+300 DS 17/27
+
+kW
+
+0.3
+
+39
+
+DS 17/24
+DS 17/20
+
+200 DS 17/17
+
+0.2
+
+26
+
+0.1
+
+13
+
+DS 17/13
+DS 17/10
+
+100 DS 17/7
+
+PUMP
+DAYLIFF DS submersible pumps are designed specifically for borehole supply applications. They are of multistage centrifugal impeller design and
+all parts are made from premium AISI304 stainless steel with water lubricated rubber bearings. A submersible motor is fitted beneath the pump
+and suction is effected through a strainer between the pump and motor.
+MOTOR
+
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel-cage motor constructed of stainless steel. Single phase
+motors should be supplied with purpose designed Dayliff SCM control boxes for operation and protection against overload, dry
+running and over/under voltage. Three phase motors require a remote DOL starter; A DAYLIFF SCT electronic Pump Controller is
+recommended for comprehensive pump control including low level, motor overload and irregular power supply protection.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Voltage: 3X415V
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean chemically non-aggressive liquids without solid particles or fibres.
+0
+Max. Liquid Temperature: DS wet end-50 C
+Max. Water Depth: 300 m
+Min. Borehole Diameter: 150 mm
+
+kW
+
+HP
+
+A
+
+B
+
+C
+
+“
+
+E*
+37
+45
+53
+77
+86
+
+13
+
+17.5
+
+28.9
+
+2538
+
+102
+
+804
+
+102
+DS 17-34
+
+18.5
+
+25
+
+40
+
+2.5
+
+3196
+
+857
+
+2339
+
+142
+
+128
+
+DS 17-40
+
+22
+
+30
+
+47
+
+3.0
+
+3609
+
+907
+
+2702
+
+142
+
+142
+
+DS 17-48
+
+26
+
+35
+
+56
+
+3.5
+
+4652
+
+1094
+
+3558
+
+178
+
+235
+
+

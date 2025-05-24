@@ -1,0 +1,980 @@
+DAYLIFF Pressure Booster Sets are the effective way to provide continuous water supply to multiple consumer outlets and offer many
+advantages over gravity supply systems including:• Higher line pressures
+• Reduced risk of water contamination
+• Compact design requires little space
+• Elimination of tank structure improves site architecture
+• Substantial capital cost savings
+Considering these advantages DAYLIFF Booster Sets have been carefully specified for local conditions and are suitable for all applications
+from domestic to large institutional size. Particular features are:• Pedrollo and Dayliff pumps provide optimal operating performance.
+• Easy maintenance diaphragm type pressure vessels.
+• Comprehensive control panels complete with mains isolator, pump overload protection and run indicator lights. Optional extras
+include ammeters, hour meters and current control relays.
+• Bellows operated pressure switches easily adjustable for cut-in and differential operating pressures.
+• Compact frame mounted design incorporating necessary valves and piping for simple site installation.
+SYSTEMS OPTIONS
+Two basic types of systems offered, either for Single or Parallel pump operation. The parallel pump systems can also be configured to
+duty/standby, duty assist configurations or alternatively be fitted with variable frequency drives depending on the use case.
+Single pump systems provide for only one 100% duty pump. This arrangement can be provided with either one or two pumps, two pump
+systems operating on a duty/standby basis. Pump changeover can be manual or automatically alternating after each duty cycle. Parallel
+pump systems provide for sequential pump operation including two 50% duty pumps with the second pump operating only at higher
+demand levels. This arrangement has the advantage of reduced energy consumption and reduced capital cost for a given capacity
+requirement, though continuity of supply is provided in the event of one pump breakdown. For particular applications special designs
+incorporating more than two pumps or pumps of different size available.
+Properly engineered booster systems provide very considerable advantages over more traditional gravity systems and they are now widely
+accepted as the most efficient and cost effective method of water distribution. By combining the best quality components and many years
+experience of system design the DAYLIFF range of booster sets provide performance, reliability and value. With the assured service support
+of Davis & Shirtliff there is no better solution to water distribution available.
+SPECIFICATIONS
+All DAYLIFF Booster sets include the following:
+Pumps(s):Pedrollo and Dayliff centrifugal pumps fitted with
+motors rated for continuous operation.
+Pressure Vessel(s):Vertical fabricated steel pressure vessels with
+standard rubber diaphragm.
+Piping:Suitably sized piping and fittings are provided for direct
+suction and delivery line connections including necessary isolating
+gate valves and non- return valves on the system outlet. The limit of
+piping is shown in the schematic drawing.
+Control Panel: Panel specification is selected according to pump rating and system configuration. Dayliff Smart2 electronic controllers
+are specified for two pump sets, settable for both single and parallel operation, which feature automatic pump changeover, level alarm
+connections and adjustable motor overload protection. Other panels specifications vary with system model depending upon motor size.
+Mounting Frame:All equipment are mounted on Stainless steel or Galvanised frame to simplify site installation.
+
+PRESSFLO P - PEDROLLO PUMPS MODEL
+2.5 BAR SYSTEMS SPECIFICATIONS
+POWER
+(kW)
+0.75x1ph PP1 05/25A
+CPm158
+PLURIJETm 4/100 0.75x1ph PP1 05/25B
+1.1xph
+PP1 06/25
+5CRm100
+
+5
+
+1x24L
+
+5.5
+
+1x24L
+1x60L
+
+PLURIJETm 3/200
+
+1.1x1ph
+
+PP1 09/25
+
+6
+9
+
+DIMENSIONS CONNECTIONS(“) WEIGHT
+LxWxH
+SUCTION/
+(KG)
+(mm)
+DELIVERY
+1½
+45
+1000x650x1000
+1½
+45
+1000x650x1000
+
+PP2 10/25A
+PP2 10/25B
+
+10
+11
+
+1x60L
+
+PP2 12/25
+
+12
+18
+
+1x60L
+1x100L
+
+1000x650x1000
+
+1½
+
+1000x650x1000
+
+1x60L
+1x100L
+
+PP2 18/25
+
+1x60L
+
+60
+95
+
+FCR 15/2
+
+3x3ph
+
+PP1 20/25
+
+20
+
+1x300L
+
+1200x1000x1400
+
+FC32/160A
+FCR 30/2
+
+3x3ph
+
+26
+33
+
+1x300L
+
+PP2 52/25
+
+1x300L
+
+1200x1000x1400
+
+3
+
+4x3ph
+
+PP1 26/25
+PP1 33/25
+
+40
+52
+
+2
+2½
+
+1x300L
+
+1200x1000x1400
+
+4
+
+165
+180
+
+5.5x3ph
+
+PP1 41/25
+
+41
+
+1x300L
+
+66
+82
+
+1x300L
+
+FCR 30/3
+
+PP2 66/25
+PP2 82/25
+
+2x300L
+
+1200x1000x1400
+
+4
+
+180
+
+PP2 40/25
+
+120
+
+Single operation: Cut-out pressure 3bar, Cut-in pressure 1.8Bar, Parallel Operation: Pump 1: Cut-out pressure 3Bar, Cut-in pressure 1.8Bar, Pump 2: Cut-out
+pressure 2.5Bar, Cut-in pressure 1.5bar
+
+4 BAR SYSTEMS SPECIFICATIONS
+DIMENSIONS CONNECTIONS(“) WEIGHT
+LxWxH
+SUCTION/
+(KG)
+(mm)
+DELIVERY
+
+POWER
+(kW)
+
+5CRm100
+
+0.6x1ph PP1 01/40
+0.75x1ph PP1 02/40
+1.5x1ph PP1 04/40
+1.1x1ph PP1 05/40
+
+Plurijet 6/200
+
+2.2x3ph
+
+PP1 10/40
+
+4.5
+10
+
+2CP 32/200C
+
+3x3ph
+
+PP1 12/40
+
+12
+
+PKSm70
+Pkm80
+CPm190
+
+1.5
+1.8
+4
+
+1x24L
+1x24L
+1x24L
+
+PP2 03/40
+PP2 04/40
+
+3
+3.6
+
+PP2 08/40
+
+1x24L
+
+PP2 09/40
+
+1x60L
+1x100L
+
+1000x650x900
+1000x650x900
+
+1½
+1½
+
+8
+
+1x24L
+1x24L
+1x60L
+
+1000x650x1000
+
+2
+
+45
+85
+90
+
+9
+
+1x60L
+
+1000x650x1000
+
+2
+
+110
+
+PP2 20/40
+
+20
+
+1x100L
+
+1000x650x1000
+
+2
+
+185
+
+24
+40
+
+1x300L
+
+1000x650x1400
+
+2
+
+160
+
+1x300L
+
+1000x650x1400
+
+50
+60
+
+1x300L
+1x300L
+
+1000x650x1400
+1000x650x1400
+
+2½
+4
+
+175
+190
+190
+
+FCR15/3
+
+4x3ph
+
+PP1 20/40
+
+20
+
+1x100L
+
+PP2 24/40
+PP2 40/40
+
+F40/200B
+
+5.5x3ph
+
+PP1 25/40
+
+25
+
+1x300L
+
+PP2 50/40
+
+FCR30/3
+
+5.5x3ph
+
+PP1 30/40
+
+30
+
+1x300L
+
+PP2 60/40
+
+4
+
+Single operation: Cut-out pressure 4.5bar, Cut-in pressure 2.5Bar, Parallel Operation: Pump 1: Cut-out pressure 4.5Bar, Cut-in pressure 2.5Bar, Pump 2: Cut-out
+pressure 4Bar, Cut-in pressure 2bar
+
+6 BAR SYSTEMS SPECIFICATIONS
+DIMENSIONS CONNECTIONS(“) WEIGHT
+LxWxH
+SUCTION/
+(KG)
+(mm)
+DELIVERY
+
+POWER
+(kW)
+
+11
+18
+
+1x24L
+1x60L
+1x60L
+1x100L
+
+PP2 03/60
+PP2 13/60
+PP2 22/60
+PP2 36/60
+
+3
+13
+22
+36
+
+1x24L
+1x60L
+1x300L
+1x300L
+
+1000x650x900
+1000x650x1000
+1000x650x1400
+1000x650x1400
+
+1½
+2
+2
+2
+
+90
+160
+200
+190
+
+22
+25
+35
+
+1x300L
+1x300L
+1x300L
+
+PP2 44/60
+PP2 50/60
+PP2 70/60
+
+44
+50
+70
+
+1x300L
+1x300L
+1x300L
+
+1000x650x1400
+1200x650x1400
+1200x650x1400
+
+2½
+4
+4
+
+190
+190
+190
+
+PP1 02/60
+PP1 06/60
+
+1.5
+6.5
+
+PP1 11/60
+
+FCR 15/4
+
+1.1x1ph
+2.2x3ph
+4x3ph
+5.5x3ph
+
+FCR 15/5
+FCR 30/4
+F40/250B
+
+7.5x3ph
+7.5x3ph
+11x3ph
+
+PP1 22/60
+
+Pkm100
+PLURIJET 6/130
+2CP 32/200B
+
+PP1 18/60
+PP1 25/60
+PP1 35/60
+
+Single operation: Cut-out pressure 6.5bar, Cut-in pressure 4.5Bar, Parallel Operation: Pump 1: Cut-out pressure 6.5Bar, Cut-in pressure 4.5Bar, Pump 2: Cut-out
+pressure 6Bar, Cut-in pressure 4bar
+
+PRESSFLO D - DAYLIFF PUMPS MODEL
+2.5 BAR SYSTEMS SPECIFICATIONS
+POWER
+(kW)
+
+Dayliff DB 2-50
+Dayliff DB 4-40
+Dayliff DB 8-30
+Dayliff DB 12-30
+Dayliff DB 16-30
+Dayliff DB 20-30
+Dayliff DIN 10-4
+Dayliff DIN 15-3
+Dayliff DIN 20-3
+Dayliff DIN 32-2
+Dayliff DIN 45-2
+Dayliff DE 32-16
+Dayliff DE 40-16
+Dayliff DE 50-16
+
+0.7x1ph
+1.0x1ph
+1.1x1ph
+1.7x1ph
+3x3ph
+4x3ph
+1.5x3ph
+3x3ph
+4x3ph
+4x3ph
+7.5x3ph
+4.5x3ph
+5.5x3ph
+11x3ph
+
+PDB1 03/25
+PDB1 05/25
+PDB1 06/25
+PDB1 10/25
+PDB1 20/25
+PDB1 24/25
+PDI1 10/25
+PDI115/25
+PDI1 25/25
+PDI130/25
+PDI1 50/25
+PDE1 20/25
+PDE130/25
+PDE1 50/25
+
+3
+5
+6
+10
+20
+24
+10
+15
+25
+30
+50
+20
+30
+50
+
+1x24L
+1x24L
+1x60L
+1x60L
+1x100L
+1x100L
+1x60L
+1x60L
+1x300L
+1x300L
+1x300L
+1x100L
+1x300L
+2x300L
+
+PDB2 06/25
+PDB2 10/25
+PDB2 12/25
+PDB2 20/25
+PDB2 40/25
+PDB2 48/25
+PDI2 20/25
+PDI2 30/25
+PDI2 50/25
+PDI2 60/25
+PDI2 100/25
+PDE2 40/25
+PDE2 60/25
+PDE2 100/25
+
+6
+10
+12
+20
+40
+48
+20
+30
+50
+60
+100
+40
+60
+100
+
+1x24L
+1x60L
+1x60L
+1x100L
+1x300L
+1x300L
+1x100L
+1x300L
+2x300L
+2x300L
+1x300L
+1x300L
+1x300L
+2x300L
+
+DIMENSIONS
+LxWxH
+(mm)
+
+SUCTION/DELIVERY
+
+1000x650x900
+1000x650x1000
+1000x650x1400
+1000x650x1400
+1000x650x900
+1000x650x1400
+1000x650x1400
+1200x650x1400
+1200x650x1400
+1200x650x1400
+1400x800x1500
+1200x650x1400
+1200x650x1400
+1400x800x1500
+
+1½
+2
+2½
+2½
+3
+3
+2½
+3
+3
+6
+6
+4
+4
+4
+
+CONNECTIONS (“) WEIGHT
+(KG)
+
+45
+57
+97
+102
+110
+135
+166
+251
+265
+298
+381
+192
+190
+259
+
+4 BAR SYSTEMS SPECIFICATIONS
+DIMENSIONS CONNECTIONS(“) WEIGHT
+LxWxH
+(KG)
+SUCTION/
+(mm)
+DELIVERY
+
+POWER
+(kW)
+1.5x1ph
+Dayliff DB 4-60
+1.8x3ph
+Dayliff DB 8-50
+Dayliff DB 12-50 2.8x3ph
+4x3ph
+Dayliff DB 16-40
+Dayliff DB 20-40 4.4x3ph
+Dayliff DIN 10-60 2.2x3ph
+4x3ph
+Dayliff DIN 15-5
+Dayliff DIN 32-3 5.5x3ph
+Dayliff DIN 45-2 7.5x3ph
+9x3ph
+Dayliff DE 32-20
+Dayliff DE 40-20 9.2x3ph
+Dayliff DE 50-20 18x3ph
+
+PDB1 04/40
+PDB1 06/40
+PDB1 10/40
+PDB1 18/40
+PDB1 24/40
+PDI1 10/40
+PDI1 20/40
+PDI1 30/40
+PDI1 40/40
+PDE1 15/40
+PDE1 25/40
+PDE1 50/40
+
+4
+6
+10
+18
+24
+10
+20
+30
+40
+15
+25
+50
+
+1x24L
+1x24L
+1x60L
+1x100L
+1x300L
+1x60L
+1x100L
+1x300L
+1x300L
+1x100L
+1x300L
+2x300L
+
+PDB2 08/40
+PDB2 12/40
+PDB2 20/40
+PDB2 36/40
+PDB2 48/40
+PDI2 20/40
+PDI2 40/40
+PDI2 60/40
+PDI2 80/40
+PDE2 30/40
+PDE2 50/40
+PDE2 100/40
+
+8
+12
+20
+36
+48
+20
+40
+60
+80
+30
+50
+100
+
+1x60L
+1x60L
+1x100L
+1x300L
+1x300L
+1x100L
+1x300L
+2x300L
+2x300L
+1x300L
+2x300L
+2x300L
+
+1000x650x900
+1000x650x1400
+1000x650x1400
+
+1½
+1½
+1½
+
+62
+127
+120
+
+1000x650x1400
+1000x650x1400
+1000x650x1400
+1000x650x1400
+1200x650x1400
+1200x650x1400
+1200x650x1400
+1400x650x1400
+1200x650x400
+
+3
+3
+2½
+3
+4
+6
+4
+4
+4
+
+118
+140
+173
+273
+335
+381
+192
+190
+259
+
+6 BAR SYSTEMS SPECIFICATIONS
+DIMENSIONS CONNECTIONS (“) WEIGHT
+LxWxH
+(KG)
+SUCTION/
+(mm)
+DELIVERY
+
+POWER
+(kW)
+Dayliff DIN 3-15
+Dayliff DIN 5-16
+Dayliff DIN 10-9
+Dayliff DIN 15-7
+Dayliff DIN 20-7
+Dayliff DIN 32-4
+Dayliff DIN 45-3
+
+1.1x3ph
+2.2x3ph
+3x3ph
+5.5x3ph
+7.5x3ph
+7.5x3ph
+11x3ph
+
+PDI1 03/60
+PDI1 06/60
+PDI112/60
+PDI1 20/60
+PDI125/60
+PDI1 30/60
+PDI145/60
+
+3
+6
+12
+20
+25
+30
+45
+
+1x24L
+1x160L
+1x60L
+1x100L
+1x300L
+1x300L
+1x300L
+
+PDI2 06/60
+PDI2 12/60
+PDI2 24/60
+PDI2 40/60
+PDI2 50/60
+PDI2 60/60
+PDI2 90/60
+
+6
+12
+24
+40
+50
+60
+90
+
+1½
+2
+2½
+3
+3
+4
+6
+
+1x100L
+1x100L
+1x300L
+1x300L
+1x300L
+1x300L
+2x300L
+
+1000x650x900
+1000x650x1000
+1000x650x1400
+1000x650x1400
+1000x650x1400
+1200x650x1400
+1200x650x1400
+
+1x100L
+1x60L
+1x100L
+2x300L
+2x300L
+
+DIMENSIONS CONNECTIONS(“) WEIGHT
+SUCTION/
+LxWxH
+(KG)
+(mm)
+DELIVERY
+185
+1000x700x1500
+2
+1000x700x1500
+285
+2½
+1000x700x1500
+3
+430
+1000x700x1500
+3
+560
+
+97
+38
+193
+322
+342
+417
+523
+
+10 BAR SYSTEMS SPECIFICATIONS
+POWER
+(kW)
+3x3ph
+Dayliff DIN 5-20
+4x3ph
+Dayliff DIN 10-12
+Dayliff DIN 20-10 11x3ph
+Dayliff DIN 32-10 18.5x3ph
+
+PDI1 05/10
+PDI1 09/10
+PDI1 20/10
+PDI1 30/10
+
+5
+9
+20
+30
+
+1x24L
+1x60L
+1x100L
+1x300L
+
+PDI2 10/100
+PDI2 18/100
+PDI2 40/100
+PDI2 60/100
+
+10
+18
+40
+60
+
+Single operation: Cut-out pressure 10.5Bar, Cut-in pressure 8.5Bar, Parallel Operation: Pump 1: Cut-out pressure 10.5Bar, Cut-in pressure 8.5Bar, Pump 2: Cutout pressure 10Bar,Cut-in pressure Bar
+
+

@@ -1,0 +1,135 @@
+Ultratreatment
+Membranes
+REVERSE OSMOSIS MEMBRANE
+Dayliff MRO Reverse Osmosis Membranes are the key components in reverse osmosis
+water treatment plants used for removal of dissolved salts in low turbidity waters. They
+are of ultra low-pressure design that provides high energy efficiency giving reduced
+operating costs together with high salt rejection performance and a high quality
+specification for operating durability and long life. Two basic specifications are
+available for brackish and high salt level feed waters in both 4” and 8” sizes to
+accommodate the majority of RO applications.
+MRO Membranes output is split between treated Permeate flow and high TDS Reject
+flow. Recovery rates (% Permeate to feed flow) depends on water quality and site
+operating conditions though is typically between 50-70% for brackish water and 2050% for Sea Water. Membranes periodically require flushing and anti-scalant dosing.
+OPERATING PARAMETERS
+Maximum Feed Water SDI: <5
+Maximum Feed Water Temperature: 450C
+Maximum Membrane Pressure Drop: 1 Bar
+Feed Water Free Chlorine: Zero
+Feed Water pH: 3-10
+EQUIPMENT SPECIFICATION
+
+Permeate Flow (m3/hr)
+Feed Flow (m3/hr)
+
+Brackish Water
+MRO-4040HF
+MRO-8040HF
+0.25
+1
+0.4
+1.8
+
+High Salt Water
+MRO-4040HR
+MRO-8040HR
+0.1
+0.5
+0.3
+1.4
+
+99.5
+50-70
+1,500
+3-8
+
+99.8
+20-50
+32,000
+18-35
+
+Stable Rejection Rate (%)
+Recovery Rate (%)
+Max. Feed Water TDS (ppm)
+Operating Pressure Range (Bar)
+Dia Size mm (inches)
+Length mm (inches)
+Weight (kg)
+
+99 (3.9)
+
+201 (7.9)
+
+99 (3.9)
+
+201 (7.9)
+
+5
+
+15
+
+1016 (40)
+5
+
+15
+
+*Indicative flow, actual flow will depend on site conditions
+
+ULTRAFILTRATION MEMBRANES
+Dayliff MUF Ultra Filtration membranes are the filtering medium in ultrafiltration treatment plants for the removal of small size
+suspended solids and colloidal pores in raw waters including macromolecular pollutants, bacteria, viruses and
+microorganisms. The membranes are designed to be installed in standard pressure vessels that provide ease of operation and
+maintenance.
+The special membrane design is of hollow fiber type structure that provides enhanced water quality, high backwash flow for
+greater flushing of trapped pollutants and tolerance to high levels of chlorine and pH levels. These features provide enhanced
+quality water with extended life.
+MUF Membranes operate at full input flow output though require periodic backwashing, frequency depending on site
+conditions, though every hour is usual.
+MUF membranes are designed for installation in standard pressure vessels. IUF membranes are for larger capacities plants
+and are provided with integral membrane housing.
+OPERATING PARAMETERS
+Feed Water Quality: Turbidity <0.2, SDI<3
+Operating Pressure: 0.2-2Bar
+Operating pH Range: 2-11
+Operating Temperature Range: 5-45°C
+Backwash Frequency: Every 20-60mins
+Maximum Trans Membrane Pressure (TMP): 2Bar
+EQUIPMENT SPECIFICATIONS
+Parameter
+Flow Rate (m3/h)
+Maximum Feed Pressure (Bar)
+Membrane Area (m2)
+Continuous Operation Chlorine Tolerance (ppm)
+Length (mm)
+Diameter (mm)
+Dry Weight (kg)
+
+MUF -4
+0.35
+3
+4
+100
+1016
+99
+4
+
+IUF-51
+2
+
+IUF-77
+4
+6.25
+77
+
+51
+200
+1952
+
+2452
+225
+
+53
+
+66
+
+

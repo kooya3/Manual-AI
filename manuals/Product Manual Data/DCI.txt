@@ -1,0 +1,93 @@
+DCI
+Cast Iron
+Engine Pumps
+70
+60
+
+DCI 80D
+
+50
+40
+30
+20
+10
+
+PUMP
+The DAYLIFF DCI pump is of non-self priming closed impeller centrifugal type designed for continuous duty in high flow
+dewatering, irrigation, water transfer and emergency water supply applications. It is diesel engine powered and material of pump
+construction is cast iron throughout. Pumps are supplied with quick couple suction and inlet connections, a strainer and a sturdy
+carrying and protection frame is also provided.
+ENGINE
+Reliable and economical DAYLIFF air cooled 4-stroke OHV single cylinder, direct injection diesel engine with recoil start and low oil
+alert.
+Note that performance curves for all engines relate to the engine governor set at maximum speed to achieve maximum rated power
+output. To prolong engine life pumps should only be run under maximum power conditions for short periods and for extended duty
+the throttle setting should be reduced to approximately three-quarters power. Pump performance will then be reduced accordingly.
+SPECIFICATIONS
+Model
+
+DCI 80D
+
+Inlet
+&
+Outlet
+3”
+
+Engine
+
+Fuel
+
+Dimensions(mm)
+
+Type
+
+Capacity
+(cc)
+
+Max
+Power(HP)
+
+Type
+
+Tank
+(ltr)
+
+Consumption
+(l/hr)
+
+L
+
+W
+
+H
+
+LA186
+
+406
+
+10
+
+Diesel
+
+5.5
+
+2.5
+
+545
+
+475
+
+605
+
+H
+
+W
+
+L
+
+Weight
+(kg)
+
+73
+
+

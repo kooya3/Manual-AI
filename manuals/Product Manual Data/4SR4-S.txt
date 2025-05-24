@@ -1,0 +1,262 @@
+4SR4-S
+Submersible
+Borehole Pumps
+650
+
+70%
+
+600
+
+63%
+
+550
+
+ETA
+
+500
+
+56%
+
+4SR4/72-S
+49%
+
+400
+
+42%
+
+4SR4/54-S
+
+350
+
+35%
+
+300
+
+4SR4/40-S
+28%
+
+250
+
+4SR4/30-S
+
+200
+
+21%
+
+4SR4/22-S
+
+150
+
+14%
+
+4SR4/15-S
+4SR4/12-S
+4SR4/8-S
+4SR4/6-S
+
+100
+50
+
+1
+
+0
+
+2
+
+ETA%
+
+PUMP HEAD (m)
+
+450
+
+7%
+5
+
+3
+4
+FLOW RATE (m3/hr)
+
+6
+
+7
+
+PUMP
+Pedrollo 4SR4-S submersible pumps are specifically designed for water supply from boreholes, though can also be used in other
+applications in either vertical or horizontal configurations. They feature an upgraded specification with a revised floating impeller
+hydraulic design and advanced high wear resistance materials for the impellers and diffusers. This provides exceptional sand
+handling capability (up to 200g/m3) and improved operating efficiency.
+Pump impellers are made from high-strength Delrin technopolymer, diffusers from Noryl and the stage casings, top housing,
+suction interconnector, pump sleeve and shaft from AISI304 stainless steel.
+MOTOR
+Pumps are coupled to Pedrollo two pole sealed oil filled motor constructed principally from AISI 316 stainless steel. Drytek control
+box is available for both single phase and three phase pump control which incorporates incoming mains isolator, digital display of
+motor operating status and protection against over and under voltage, motor overload and phase sequence loss. The controller
+can be connected directly to the mains power supply.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non aggressive liquids with a maximum sand content of 200gm/m3.
+Max. Liquid Temperature:+350C.
+Min. Borehole Diameter:110mm
+Max. Immersion Depth:200m
+PUMP DATA
+Current (A)
+
+Motor
+Model
+
+3x415V
+
+DN
+(”)
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+kW
+
+HP
+
+1x240V
+
+4SR4/6-S
+
+0.55
+
+0.75
+
+5
+
+313
+
+331
+
+11
+
+4SR4/8-S
+
+0.75
+
+1
+
+6
+
+363
+
+356
+
+13
+
+4SR4/12-S
+
+1.1
+
+1.5
+
+8
+
+3
+
+462
+
+396
+
+16
+
+4SR4/15-S
+
+1.5
+
+2
+
+11
+
+5
+
+563
+
+437
+
+20
+
+4SR4/22-S
+
+2.2
+
+3
+
+15
+
+4SR4/30-S
+
+3
+
+4SR4/40-S
+
+1¼
+
+737
+
+492
+
+26
+
+4
+
+7
+
+963
+
+450
+
+24
+
+4
+
+5.5
+
+9
+
+1284
+
+505
+
+32
+
+4SR4/54-S
+
+5.5
+
+7.5
+
+12
+
+1684
+
+590
+
+39
+
+4SR4/72-S
+
+7.5
+
+10
+
+16.4
+
+2134
+
+800
+
+52
+
+6
+
+

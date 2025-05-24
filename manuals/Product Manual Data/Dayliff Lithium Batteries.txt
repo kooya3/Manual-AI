@@ -1,0 +1,168 @@
+CHAMPION
+Lithium Iron
+Phosphate Battery
+
+DISCHARGE PERFORMANCE @250C
+
+Voltage
+
+58
+56
+54
+52
+50
+48
+46
+44
+42
+40
+38
+
+0
+
+20
+
+0.3C
+
+0.2C
+
+40
+60
+80
+Discharge Capacity Ratio (%)
+
+100
+
+DIFFERENT DOD DISCHARGE CYCLE LIFE CURVE @1C
+Remaining Capacity (%)
+
+INTERFACE DESCRIPTIONS
+
+0.5C
+1C
+
+90
+80
+80
+
+100%
+
+80%
+
+30%
+
+50%
+
+70
+60
+0
+
+1000
+
+2000
+
+3000
+4000
+5000
+Number of Cycles
+
+6000
+
+7000
+
+8000
+
+Lithium Iron Phosphate (LiFePO4) batteries with Battery Management System control are high-performance alternatives to the
+conventional Lead Acid VRLA type with principal applications for solar power system storage and mains power supply backup. They
+offer considerable benefits including enhanced power output, considerably extended life and cooler operation in high
+temperatures and are especially suited to high specification installations. Particular benefits include:• 100% depth of discharge with a design life of up to 8000 cycles, 4 times the life of a comparable Lead Acid type
+• Constant discharge voltage that enables the battery to deliver nearly full power until it is fully discharged. This also greatly
+simplifies voltage regulation control.
+• Lighter weight but higher energy density to similar capacity Lead Acid alternatives.
+• Low self-discharge rate of 3% per month.
+• Built in battery charge/discharge protection.
+• Excellent resistance to over and under charge with no damaging effects.
+• Maintenance free, totally safe and environmentally friendly.
+• Batteries should only be connected in parallel. Series connection will result in battery damage.
+In every aspect of performance Lithium Iron Phosphate batteries offer a much superior solution over the Lead Acid alternatives and
+though of higher capital cost deliver the more economical long term outcome due to their greatly increased life, consistent power
+output and better charge/discharge performance. For high specification systems where enhanced performance is demanded and
+reliability is essential they are the optical choice.
+TECHNICAL DATA
+Storage
+Capacity
+(kWhrs)
+
+Max. Charge
+Current
+(A)
+
+Max.
+Discharge
+Current (A)
+
+48VDC 75AH
+
+3.6
+
+75
+
+75
+
+CPLI-48100
+
+48VDC 100AH
+
+4.8
+
+100
+
+100
+
+CPLI-48150
+
+48VDC 150AH
+
+7.2
+
+150
+
+150
+
+Model
+
+Specification
+
+CPLI-4875
+
+Dimensions(mm)
+Length
+
+482
+
+Width
+
+Height
+
+Weight
+(Kgs)
+
+570
+
+132
+
+38
+
+480
+
+221
+
+69
+
+680
+
+178
+
+105
+
+

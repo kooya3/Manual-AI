@@ -1,0 +1,95 @@
+SMART 2 PRO
+
+The DAYLIFF Smart 2 is a high specification integrated electronic controller available in single and three phase for the automatic operation of two
+pump systems. It includes an electronic circuit board that provides the control functionality as well as terminals for incoming power and removable
+terminals for pump operating auxiliaries all mounted in an ABS enclosure to give a complete control solution. Features include:• Incoming mains isolator and door interlock.
+• Incoming mains current overload protection and individual contactors for each pump (three phase only)
+• Adjustable motor overload protection for each pump as well as phase loss and sequence sensing (three phase only).
+• Selectable filling and emptying configuration with three external control floats and separate alarm connection.
+• Normally open contacts for the connection of low and high level pressure switch control input for each pump and alarm.
+• Duty/Standby function can be disabled
+• Immediate motor changeover in the event of a fault
+• Selectable parallel or duty/standby pump operation with auto cycle changeover and delay relay.
+• Multiple system configuration options through dip switch selection
+• Selectable auto/manual operation with Run and Auto operation indicator lights.
+• Fault indicators for low level and motor overload conditions.
+• Dry run protection using minimum current setting with automatic reset
+• Additional dry run protection using level probes or float switches
+• Optional digital connectivity through modular expansion modules fitted to order for BMS dry contacts, RS485 Modbus, bluetooth/wifi
+connectivity for App PRO-XPS.
+
+SMART2
+
+PRO
+
+Smart 2 is a highly effective fully integrated controller that includes all the functionality for pump control and operation in one compact unit. It is
+simple, effective and reliable with the added benefit of lower cost than conventional alternatives and is the most complete control system for
+sewage and water boosting systems available.
+
+Temperature Alarm Pump 1
+
+DANGER/HATARI
+SHOCK HAZARD
+
+2
+
+ISOLATE PANEL BEFORE OPENING COVER
+
+IP55
+
+Temperature Alarm Pump 2
+
+5
+
+DOUBLE PUMP CONTROLLER
+
+Motor Size
+Controller Model
+
+Min
+
+Max
+
+SMART 2 - 1Ph/2.2kW
+
+0.37kW
+
+2.2kW
+
+SMART 2 - 3Ph/7.5kW
+
+0.55kW
+
+7.5kW
+
+Enclosure Class: IP55
+Relative humidity: 50% @ 400C (condensate free)
+
+Current
+Range
+2-18Amps
+
+Dimensions (mm)
+Height
+
+Width
+
+Depth
+
+310
+
+240
+
+185
+
+Temperature Range: -50C -+400C
+
+Weight
+(kg)
+1.5
+2.5
+
+Power Supply: 220V-240V, ±10% 1Ph
+380V-415V, ± 10% 3Ph
+
+

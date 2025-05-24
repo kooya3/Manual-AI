@@ -1,0 +1,33 @@
+PUMPS
+DAB EUROSWIM pool pump are specially designed using the latest technology, materials and components for all domestic and
+small size institutional swimming pool applications. Features include a large pre-filter with see through lid, an ultra silent (67dBA)
+high efficiency motor and reinforced inlet and outlet ports. All pump components are made from corrosion resistant technopolymer
+plastic reinforced with glass fibre for long life and durability.
+MOTOR
+The pump incorporates a TEFC motor with in-built thermal overload protection. The motor can be connected directly to mains
+power supply through a fuse or MCB.
+Enclosure Class: IP55
+
+Voltage: 1x240V
+
+Insulation Class: F
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non aggressive liquids without solids or fibres.
+Maximum Fluid Temperature: +600C
+Maximum Ambient Temperature: +500C
+Maximum Operating Pressure: 10 bar
+
+Model
+
+Power
+(kW)
+
+Current
+(A)
+
+DN (”)
+
+Speed: 2800rpm
+
+

@@ -1,0 +1,217 @@
+OPTIVERTER
+Multifunction Inverter
+
+Application Diagram
+
+DO1200-2500
+
+DO3000-11000
+
+DO20000-30000
+
+The Dayliff Optiverter AC/DC inverter range are versatile high specification multifunction hybrid inverters designed for various applications
+including:• Grid Tie combining mains AC and PV module DC input power sources, programmable to prioritise PV supply with mains power used to
+supplement load requirements.
+• Off-Grid for stand-alone PV solar powered systems to provide AC power for various load requirements with battery backup for non PV
+availability
+• Power backup systems for on-grid mains failure battery fed loads
+Dayliff Optiverter include the following features:• Pure sine wave output that provides filtered power suitable for sensitive electronic devices.
+• LCD display for operating parameters and user configurable settings including battery charging current, AC/Solar output priority and
+input voltages.
+• Built-in smart MPPT charge controllers with automatic switching between AC and Solar power sources for optimised battery
+performance.
+• Overload and short-circuit protection.
+• Programmable supply prioritisation for PV, battery or grid supply
+• Optional monitoring software for real time status display and control
+• Compatible with Lithium Iron Phosphate batteries Optiverter >DO3000
+• Parallel operation for larger system installations Optiverter >DO6000
+The combination of selectable hybrid operation options, exceptional specifications, robust construction with various protective functions and
+excellent value make Dayliff Optiverter the ideal solution for all PV and power back up management applications.
+
+TECHNICAL SPECIFICATIONS
+Model
+Rated Output Power
+
+Optiverter
+DO1200
+
+Optiverter
+DO2500
+
+Optiverter
+DO3000
+
+Optiverter
+DO4000
+
+Optiverter
+DO6000
+
+Optiverter
+DO8000
+
+Optiverter
+DO11000
+
+1200W
+
+2500W
+
+3000W
+
+3500W
+230VAC
+5000W
+
+5500W
+
+8000W
+
+Input AC Voltage
+Maximum PV Input Power
+Maximum PV Array Open
+Circuit Voltage
+PV Array MPPT Voltage
+Range
+
+2000W
+
+4000W
+
+120-380VDC
+
+Number of MPPT
+Trackers/Maximum Solar
+Charging Current
+
+1/60A
+40A
+60A
+12VDC
+
+60-450
+VDC
+230VAC+-5%
+
+90-430VDC
+
+20000W
+
+30000W
+
+11000W
+
+170-280VAC Per Phase
+30000W
+45000W
+
+1/80A
+
+1/100A
+
+1/120A
+
+90-450VDC
+
+400-800VDC
+230VAC* (P/N) /
+400VAC (P-P)
+
+60A
+
+120A
+
+80A
+
+120A
+
+24VDC
+
+1/50A
+
+1/48A
+
+1/72A
+
+150A
+
+29A Per
+Phase
+50A
+
+44A Per
+Phase
+80A
+
+150A
+48VDC
+
+384VDC
+
+93%
+
+95%
+Yes
+
+None
+
+Parallel Capability
+
+Net Weight
+
+11000W
+
+900VDC
+
+120-450
+VDC
+
+Peak Efciency
+
+Dimensions (DxWxH)
+
+8000W
+
+Optiverter
+DO30000
+
+500VDC
+
+400DVDC
+
+Nominal Output Voltage
+
+Maximum AC Charging
+Current
+Maximum Charging
+Current
+Nominal Battery Voltage
+
+6000W
+
+Optiverter
+DO20000
+
+90x288x368mm
+6.5kg
+
+115x300x
+400mm
+
+115x300x485mm
+9kg
+
+10kg
+
+148x432x554mm
+18kg
+
+599x320
+x909mm
+120kg
+
+715x430
+x1021mm
+223kg
+
+

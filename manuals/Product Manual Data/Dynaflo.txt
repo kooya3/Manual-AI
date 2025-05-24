@@ -1,0 +1,33 @@
+PUMP
+The DAVEY Dynaflo pump range are heavy duty non self-priming horizontal end suction centrifugal pumps with integral electric
+motors. They are particularly suited to water transfer and general boosting applications in horticulture, farming and industrial
+situations due to their high grade construction and continuously rated motors.
+Pump bodies are constructed from glass filled noryl for the 6210 model and cast iron for the 6220 and 6230 models. Impellers are
+non-corrosive glass filled polycarbonate. The 6220 & 6230 models are also available in 316 stainless steel for the transfer of
+seawater, they are widely used in marine industry, seaside resorts, RO plants and fish farming applications.
+MOTOR
+The pump is fitted with an integral DAVEY ‘large frame’ TEFC heavy duty motor specifically designed to match the pump output.
+Features include front mounted fan for improved cooling and motor protection in the event of seal leakage, heavy duty bearings
+and a corrosion protected aluminium casing. Single phase motors are provided with an in-built automatic re-start thermal overload
+for protection against electrical and mechanical overload and can be connected directly to a power supply through a 13 amp fuse
+or MCB. Three phase motors require remote DOL starter protection.
+Enclosure Class: IP56
+
+Insulation Class: F
+
+OPERATING CONDITIONS
+Pumped liquid:Thin, chemically non aggressive liquids without solids or fibres.
+Max Water Temperature:+500C
+Max Ambient Temperature: +550C
+Max Suction Lift: 7m (at sea level)
+Max Pump Body Pressure: 6210 - 3.7 Bar
+6220/6230 - 15 Bar
+
+Model
+
+Motor
+(kW)
+
+Speed: 2900rpm
+
+

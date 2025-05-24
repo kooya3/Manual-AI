@@ -1,0 +1,195 @@
+DWX
+Submersible
+Drainage Pumps
+20
+
+PUMP HEAD (m)
+
+15
+DWXD 15A
+
+10
+DWXV 15A
+DWXD 07A
+5
+DWXV 07A
+
+DWXV
+
+DWXD
+5
+
+0
+
+15
+10
+20
+FLOW RATE(m3/hr)
+
+25
+
+30
+
+PUMP
+The DAYLIFF DWX range of waste water pumps are high specification products for use in various drainage applications. Versions
+are available with open (DWXD) and vortex (DWXV) impellers. The DWXD model features a jacketed motor casing with top mounted
+outlet suitable for lightly silted water and can operate partially submerged. The DWXV model features a side outlet and is suitable for
+heavily polluted waters. Material of construction for both models is AISI 304 stainless steel construction throughout. Other features
+include single mechanical seals, a low level switch and 10m of power cable for all but DWXV07A which is supplied with 5m cable.
+MOTOR
+Pumps are provided with dry type two pole motors designed for continuous duty. They are fitted with integral thermal protectors and
+can be connected directly to mains power supply through a suitably rated fuse or MCB, though additional protection is
+recommended where there is risk of voltage fluctuation.
+Enclosure Class: IP68
+
+Insulation Class :F
+
+Voltage: 1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, chemically non-aggressive liquids, containing suspended particles up to the specified size.
+Max. Liquid temperature: + 350C
+Max. Immersion Depth: 5m
+PUMP DATA
+Motor
+
+Current
+(A)
+
+Model
+DWXD 07A
+
+kW
+
+HP
+
+0.5
+
+0.75
+
+3.6
+
+DWXD 15A
+
+1.1
+
+1.5
+
+7.2
+
+DWXV 07A
+
+0.55
+
+0.75
+
+3.6
+
+DWXV 15A
+
+1.5
+
+1.1
+
+7.2
+
+W
+
+Particle
+Size
+(mm)
+
+178
+
+8
+
+193
+
+35
+
+11
+
+198
+
+50
+
+15
+
+Dimensions (mm)
+
+Outlet
+(”)
+
+1.5
+1.5
+2.0
+
+H1
+
+H2
+
+H3
+
+L
+
+437
+
+357
+
+85
+
+459
+
+497
+
+407
+
+85
+
+483
+
+403
+
+185
+
+566
+
+486
+
+514
+433
+
+268
+
+Weight
+(kg)
+12
+17
+
+ON
+L
+
+L
+H2
+
+H1
+
+H1
+
+H2
+OFF
+
+H3
+
+H3
+W
+
+W
+
+DWXV
+
+DWXD
+
+

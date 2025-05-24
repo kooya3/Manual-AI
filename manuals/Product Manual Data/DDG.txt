@@ -1,0 +1,134 @@
+DDG
+Centrifugal
+Booster Pump
+40
+DDG 1000
+
+35
+
+PUMP HEAD (m)
+
+30
+25
+
+20
+
+Operating Range
+DDG1000 AutoPress
+
+15
+
+10
+5
+
+0.5
+
+0
+
+1
+
+1.5
+2
+FLOW RATE(m3/hr)
+
+2.5
+
+3
+
+3.5
+
+PUMP
+The DAYLIFF DDG pump is of single stage centrifugal impeller self priming design suitable for small scale irrigation, water boosting
+and water transfer applications. Materials of construction are AISI304 stainless steel for the pump body, shaft and back plate with
+the impeller made from polypropylene. The pump is provided with a handle for easy portability, priming screw and a drain plug.
+Also available is the ‘AutoPress’ automatic booster system which incorporates a 19L horizontal diaphragm tank, pressure switch
+and pressure gauge for automatic pump operation.
+MOTOR
+Pumps incorporate a TEFC motor with built-in thermal overload protection. The motor can be connected to mains electrical supply
+through a 10A fuse or MCB, though additional protection is recommended where there is risk of voltage fluctuation.
+Enclosure Class: X4
+
+Insulation Class: B
+
+Voltage: 1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, slightly aggressive liquids without solids or fibres
+Max. Liquid temperature: +350C
+Max. Ambient temperature:+400C
+Max. Suction Lift: 6m at sea level
+AutoPress: Cut-in Pressure - 1.5 bar, Cut-out Pressure 3 bar
+PUMP DATA
+
+kW
+
+HP
+
+0.8
+
+1
+
+Current
+(A)
+
+DN1
+(”)
+
+DN2
+(”)
+
+2.5
+
+1
+
+1
+
+DDG 1000
+DDG 1000 AutoPress
+
+Dimensions (mm)
+H
+
+L
+
+W
+
+Weight
+(kg)
+
+244
+
+336
+
+201
+
+7
+
+463
+
+570
+
+280
+
+12
+
+DN2
+
+DN1
+
+DN2
+
+H
+
+L
+
+L
+
+DN1
+
+Motor
+Model
+
+

@@ -1,0 +1,111 @@
+TOP MULTI TECH
+Automatic
+Submersible Pumps
+60
+TOP MULTI TECH 4
+50
+
+40
+
+TOP MULTI TECH 2
+
+30
+
+20
+
+10
+
+0
+
+2
+
+1
+
+3
+
+5
+
+4
+
+6
+
+PUMP
+Pedrollo TOP MULTI-TECH are centrifugal multistage submersible pumps featuring closed impellers with a particular application for pumping
+from wells and water boosting from tanks. They feature excellent motor cooling performance due to the jacketed motor design enabling the pump
+to operate continuously partially submerged. Other innovative features include double mechanical seals with intermediate oil chamber for total
+motor sealing and simple design for ease of maintenance. Pump construction is fiberglass reinforced technopolymer pump body and suction filter
+with Noryl impellers and diffusers.
+TOP MULTI-TECH also feature a built in automatic Electronic Controller to provide water on demand with the following features;
+• Starts on pressure below 1.5Bar for Multi-Tech 2 and 2.5bar for Multi-Tech 4 and stops on flow (<3 l/min).
+• Protects against dry run with auto restart. In the event of dry running the pump will make 3 ON/OFF tests as a confirmation before stopping to
+prevent damage. The pump will then re-start after 3 minutes and, if there is still no water will make further attempts at double time intervals up
+to 50 hours. After this the pump will stop completely and must be manually reset by disconnecting the power and re-connecting.
+• To avoid seizure during long periods of inactivity, the pump will start and run for approximately 10 seconds every 48 hours.
+• The maximum vertical distance between the pump and the highest outlet point (tap) is 10m for Top Multi-Tech 2 and 20m for Top Multi-Tech
+4. Exceeding this limit will prevent the system from operating efficiently.
+For optimal performance and prevention of auto cycling, it is advisable to fit 1 litre pressure tank on the delivery line, before the first tap, with a precharge pressure of 1.2Bar (Multi-Tech 2) and 2.2Bar (Multi-Tech 4). A non-return valve should not be installed on the pipes.
+MOTOR
+Pumps are provided with built-in non overloading induction motors designed for continuous operation. A thermal cut-out is provided in the motor
+windings to protect against pump overload. Pumps can be connected directly to the mains power supply through a 10Amps fuse or MCB.
+Enclosure Class: IPX8
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive, non-abrasive liquids containing small impurities up to a maximum size of 1.3mm
+Max. Fluid Temperature: +400C
+Max. Immersion Depth: 5m
+PUMP DATA
+Motor
+Model
+kW
+
+HP
+
+Top Multi-Tech 2 0.55 0.75
+
+Current DN
+(”)
+(A)
+
+1.0
+
+A
+
+D
+
+178
+
+35
+
+3
+1 ¼"
+
+Top Multi-Tech 4 0.75
+
+Dimensions (mm) Weight
+
+4
+
+H
+
+(kg)
+
+428
+
+9
+
+463
+
+10
+
+H
+
+D
+A
+
+

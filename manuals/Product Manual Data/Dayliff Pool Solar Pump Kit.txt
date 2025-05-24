@@ -1,0 +1,103 @@
+Pool Solar
+Pump Kit
+Sunverter B2
+PV
+Disconnect
+
+Filter
+
+Solar Panel
+
+Generator
+
+Grid
+
+Pump
+
+Solar pumping is now firmly established as the technology for water supply applications. Dayliff have been leaders in the
+technology since the birth of the industry and today offer a huge range of options for every solar pumping requirement imaginable.
+This technology is now being extended to Pool pumps which are easily powered through solar. The systems will use well designed
+Inverter controller coupled to an array of PV panels for maximum application during the sunny hours which are adequate for pool
+maintenance. A PV disconnect should be installed between PV and inverter for isolation of solar when not in use. An alternative
+mains socket should be installed in the pumproom for optional use of mains power.
+The pump performances as per the curves will largely apply though is advisable to take an 80-90% deviation which is normally
+compensated by having the pump run for longer hours. During backwash, it is advisable to use mains power to get full speed on the
+pump for a better filter clean up.
+
+PUMP DATA
+Model
+
+Power
+(kW)
+
+DPL550
+
+0.55
+
+DPL750
+
+0.75
+
+DPL1100
+
+1.1
+
+DPL1500
+
+1.5
+
+DPX2200
+
+2.2
+
+DPX3000
+
+3
+
+DPX4000
+
+4
+
+Voltage
+
+Controller
+(kW)
+
+PV
+Panels
+
+SVB2/1.5M
+
+9X160W
+
+Max Voltage
+(V)
+
+Max
+Current
+
+7
+1x240
+SVB2/2.2M
+SVB2/4M
+3x415
+
+SVB2/3.7T
+SVB2/5.5T
+
+9X200W
+
+440
+
+10X350W
+
+17X350W
+
+10
+
+780
+
+9
+13
+
+

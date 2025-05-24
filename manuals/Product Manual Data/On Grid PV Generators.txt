@@ -1,0 +1,167 @@
+On-Grid
+PV Generators
+
+TED
+A
+D
+UP
+
+HUAWEI SUN2000
+Series Inverter
+
+Export/Import
+Metering
+
+DC
+Isolator
+
+Grid
+
+Circuit Protection
+Generation Meter
+
+PV Array
+
+AC Isolator
+
+All loads 230V/415VAC
+
+With the economic costs of PV modules and advanced inverter technology, PV power generation in on-grid installations for domestic
+and commercial applications is a practical and cost effective proposition. The key is efficient system controllers and by using the latest
+technology inverters Dayliff offers unbeatable systems, the PV power output being synchronised with the mains grid power supply to
+provide an efficient hybrid system that directly utilises all the PV power being generated with the balance of the network requirement
+being provided from the grid. Capacity is determined by the output of the solar array and by the specification of the inverter, systems up
+to 100kW being available. Basic systems provide no battery back-up and are dependent upon mains supply availability, though backup batteries and a separate control inverter can also be specified that will provide power in all conditions. System components
+include:• A PV module array mounted on a roof or at ground level depending on space availability. The individual module size is
+specified according to customer preference and system size.
+• A Huawei inverter/controller that inverts and synchronises the DC PV output into the local power network. All Huawei inverters
+use state-of-the-art intelligent technology and can also be used to control hybrid systems incorporating battery back-up and
+generators. A range of Huawei accessories are also available to tailor systems to individual customer requirements.
+PV Power Generation is becoming increasingly popular due to its efficiency, the cost savings available and its eco-friendliness and
+investment cost is now very competitive. This combined with the reliability and advanced technology of Huawei controllers make PV
+power generation a most practical solution to supplement power in all on-grid power networks.
+Systems are individually specified according to site conditions, size and installation requirements. Packages suitable for home or small
+commercial sites have been specified in the table below though larger systems can be designed on request.
+EQUIPMENT SPECIFICATION
+Panels
+
+Panel
+Area
+
+Grid Tie
+Inverter
+
+Rated Power
+Frequency/
+Rated Grid
+Voltage
+
+20kWh
+
+12No, 350W
+
+23m2
+
+SUN3KTL-L1
+
+50Hz/230V
+
+34kWh
+
+20No, 350W
+
+39m
+
+2
+
+SUN5KTL-M1
+
+67kWh
+
+40No, 350W
+
+2
+
+SUN10KTL-M1
+
+100kWh
+
+60No, 350W
+
+117m
+
+2
+
+SUN15KTL-M2
+
+134kWh
+
+80No, 350W
+
+156m
+
+2
+
+SUN20KTL-M3
+
+67kWp
+
+335kWh
+
+200No, 350W
+
+389m2
+
+SUN50KTL-M0
+
+134kWp
+
+670kWh
+
+400No, 350W
+
+2
+
+SUN100KTL-M0
+
+Model Name
+
+Array
+Size (STC)
+
+Max
+Daily
+Output
+
+DAYLIFF 3kW Grid Connect
+
+4kWp
+
+DAYLIFF 5kW Grid Connect
+
+7kWp
+
+DAYLIFF 10kW Grid Connect
+
+13kWp
+
+DAYLIFF 15kW Grid Connect
+
+20kWp
+
+DAYLIFF 20kW Grid Connect
+
+27kWp
+
+DAYLIFF 50kW Grid Connect
+DAYLIFF 100kW Grid Connect
+
+* Daily output will flactuate and be determined by the prevailing radiation levels
+
+78m
+
+778m
+
+50Hz/415V
+
+

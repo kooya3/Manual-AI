@@ -1,0 +1,181 @@
+20
+
+PUMP HEAD (m)
+
+15
+
+DZ80-400
+
+10
+
+DZ50-220
+DZ40-110
+
+5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+55
+
+60
+
+65
+
+70
+
+FLOW RATE (m3/hr)
+
+PUMP
+Dayliff DZ self-priming waste water pumps are of semi-open impeller axial flow type designed for pumping water containing high
+solid levels with particular application for site drainage, sewage and general effluent duties. They are of heavy duty design and
+feature a non-return valve on the suction, easy opening cleaning ports and a mechanical seal. Construction is of cast iron
+throughout.
+MOTOR
+Pumps are close coupled to non-overloading TEFC motor designed for continuous duty. A remote DOL starter with thermal
+overload is necessary for motor control.
+Enclosure Class: IP56
+
+Insulation Class: F
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, chemically non aggressive liquids with a viscosity of up to 50mm2/s containing suspended solids and
+particles up to the size indicated.
+Working Liquid Temperature: - 100C to +800C
+Maximum Working Pressure: 6 Bar
+Maximum Particle Size: DZ40-20mm, DZ50-25mm and DZ80-40mm
+PUMP DATA
+
+Model
+
+Voltage
+(V)
+
+Motor
+kW
+
+HP
+
+Speed
+(rpm)
+
+Max
+Current
+(A)
+
+Inlet/
+Outlet
+(”)
+
+H1
+
+H2
+
+L
+
+W
+
+7.2
+
+1.5
+
+242
+
+168
+
+485
+
+173
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+DZ 40-110
+
+1 X 240
+
+1.1
+
+1.5
+
+2900
+
+DZ 50-220
+
+3 X 415
+
+2.2
+
+3.0
+
+2900
+
+4.9
+
+2
+
+321
+
+201
+
+595
+
+210
+
+75
+
+DZ 80-400
+
+3 X 415
+
+4.0
+
+5.4
+
+1450
+
+5.1
+
+3
+
+410
+
+310
+
+735
+
+302
+
+121
+
+L
+
+H1
+H2
+
+W
+
+57
+
+

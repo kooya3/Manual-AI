@@ -1,0 +1,114 @@
+EXPRESS
+
+Dayliff EXPRESS is a high specification multi-function electronic controller suitable for allborehole, waste water, sewage and
+general water supply pump applications. Controllers arefitted with a digital display that indicates both operating and fault
+parameters and can be programmed using fascia mounted panel buttons. A range of specifications are available for
+single and three phase motors, configuration to a particular motor size being effected by adjustments of the maximum running
+current. Particular features include:
+• Incoming mains isolator and door interlock
+• Multifunction LCD display of voltage, current, power factor (cosφ), operating status and system faults
+• In built protection for overcurrent, over or under voltage, phase sequence and phase failure.
+• In built power factor dry run protection or connections for remote low level float switch/probes provided.
+• Connections for various analogue (eg pressure and float switch) or digital (eg PLC's and transducers) signal inputs provided.
+• Large enclosure with space for capacitors in single phase pump installations.
+• Adjustable maximum operating current and voltage limit settings.
+• Twin pump controllers provide for selection of duty/standby, alternate duty cycling with auto trip changeover and parallel
+operation configurations.
+Single and twin pump EXPRESS controllers for DOL start are available as standard while panels for 3 and 4pump operation and
+Star-Delta start can be suppled on request.
+Dayliff EXPRESS is a fully integrated controller that is adaptable to almost any pump control requirement as well as giving full motor
+protection and operating and fault status indications. It is compact, simple to install and exceptional value for the functionality
+provided and the ultimate control solution for all booster pumping
+requirements.
+
+EXPRESS D1-1ph
+
+Dimensions
+(mm)
+H
+
+W
+
+L
+
+Weight
+(kg)
+
+Motor
+Size
+
+Max
+Current(A)
+
+Controller
+Data
+
+Start
+Method
+
+CONTROLLER FUNCTIONS
+
+DOL 0.37-2.2kW
+
+18
+
+2
+
+EXPRESS D1-3ph/7.5 DOL 0.55-7.5kW
+
+16
+
+2.5
+
+EXPRESS D1-3ph/15 DOL 0.55-15kW
+
+32
+
+EXPRESS D2-1ph
+
+DOL 0.37-2.2kW
+
+18
+
+2.5
+
+EXPRESS D2-3ph/7.5 DOL 0.55-7.5kW
+
+16
+
+3.5
+
+320
+
+240 190
+
+230V 7.0At 1.0b Display of Analogue Signals expressed as
+PL (L) P2(L) P3 (0) a percentage, in meters or Bar
+DAYLIFF
+www.dayliff.com
+
+230V 7.0At Ot
+Display of Motor Operating Parameters
+PL (L) P2(L) P3 (0)
+230V 0.0A 1.0
+Display of Motor Operating Status
+MAN () AUR(*) PL (L)
+
+W
+
+L
+
+2.5
+H
+
+Express D1/D2 - 1ph
+
+Enclosure Class: IP55
+
+Express D1 - 3ph
+
+Express D2 - 3ph
+
+Power Supply: 110V-240V/+10% 1ph, 310V - 450V/+10%, 3ph
+
+

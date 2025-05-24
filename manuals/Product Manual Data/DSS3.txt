@@ -1,0 +1,288 @@
+DSS3
+Multistage Centrifugal
+Borehole Pump
+400
+
+70
+DSS 3/60
+
+350
+
+60
+
+300
+
+50
+
+DSS 3/45
+250
+
+40
+200 DSS 3/33
+30
+
+150 DSS 3/25
+
+20
+
+100 DSS 3/18
+DSS 3/12
+DSS 3/9
+
+50
+
+0.5
+
+1
+
+10
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+4
+
+4.5
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+4
+
+4.5
+
+PUMP
+DAYLIFF DSS submersible pumps are designed specifically for borehole supply applications. They are of multistage centrifugal
+impeller design and all parts are made from standard AISI304 stainless steel with water lubricated rubber bearings. A submersible
+motor is fitted beneath the pump and suction is effected through a strainer between the pump and motor.
+MOTOR
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel-cage motor constructed of stainless steel. Single phase
+motors should be supplied with purpose designed Dayliff SCM control boxes for operation and protection against overload, dry
+running and over/under voltage. Three phase motors require a remote DOL starter; A DAYLIFF SCT electronic Pump Controller is
+recommended for comprehensive pump control including low level, motor overload and irregular power supply protection.
+Enclosure Class: IP68
+
+Insulation Class: F
+
+Speed: 2900 rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids with a maximum sand content of 0.25%
+Max Liquid Temperature: +500C
+Max Water Depth:200m
+Minimum Borehole Diameter: 110mm
+
+kW
+
+HP
+
+DSS 3/9
+
+0.55
+
+0.75
+
+DSS 3/12
+
+0.75
+
+1
+
+DSS 3/18
+
+1.1
+
+1.5
+
+1.5
+
+2
+
+2.2
+
+3
+
+DSS 3/45
+
+3
+
+4
+
+DSS 3/60
+
+4
+
+5.5
+
+Current(A)
+1X240V 3X415V
+_
+4.7
+_
+6.2
+_
+8
+–
+11.5
+
+Dimensions (mm)
+A
+B
+
+Start Current
+(A)
+1X240V
+19
+25
+32
+
+3X415V
+_
+_
+_
+
+46
+
+–
+
+62
+_
+
+42
+
+1X240V
+329
+359
+399
+
+3X415V
+_
+_
+_
+
+449
+
+–
+
+542
+_
+
+514
+
+–
+
+698
+
+1X240V
+673
+766
+932
+
+C
+
+3X415V
+_
+_
+_
+
+Weight
+
+100mm
+1¼”
+
+(kg)
+
+344
+
+11
+
+407
+
+13
+
+533
+
+16
+
+1129
+
+–
+
+680
+
+20
+
+1390
+_
+
+1362
+
+848
+
+26
+
+1694
+
+1100
+
+31
+
+–
+
+2113
+
+1415
+
+38
+
+A
+
+DSS 3/25
+DSS 3/33
+
+Full Load
+
+C
+
+Motor
+
+B
+
+Model
+
+15.5
+_
+–
+
+6
+8
+10
+
+–
+
+56
+70
+
+594
+
+ø95mm
+
+

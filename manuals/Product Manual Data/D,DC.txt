@@ -1,0 +1,179 @@
+D/DC
+Submersible
+Drainage Pumps
+
+40
+
+DC44
+
+35
+DCm42
+30
+
+Open Impeller
+
+Dm30
+25
+20
+Dm10
+15
+10
+5
+DCm42
+
+Dm
+
+DC44
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+PUMP
+PEDROLLO D/DC range of submersible drainage pumps are specifically designed to operate in waste water containing limited
+amounts of floating impurities of up to 10mm diameter. They are fitted with open impellers for lighter duties and are most suitable
+for draining flooded areas.
+Construction is epoxy electrocoated cast iron pump body, stainless steel AISI 304 motor casing for D series and cast iron for DC
+series. They are fitted with Noryl plastic impellers for D series and AISI304 stainless steel for DC. Both have Stainless steel intake
+screens and single phase models feature built in floatswitch for automatiac control of pump start and stop. All pumps are supplied
+with Neopreme cable as a standards, 5m for D models and 10m for DC.
+MOTOR
+Pumps are provided with a built-in cooled non-overloading induction motors with Graphite-Silcon carbide double mechanical
+seals in oil chamber for continuous operation. A thermal cut-out is provided in the motor windings to protect against pump
+overload. Single phase pumps can be connected directly to the mains power supply through a 10amp fuse or MCB. DCm are
+supplied with a standard electrical control panel
+Enclosure Class: IPX8
+
+Enclosure Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, Clean, non-aggressive liquids containing some impurities of upto 10mm diameter and fibres.
+Max. Fluid Temperature: +400C
+Max. Immersion Depth: Dm - 5m, DC - 10m
+Min. Immersion Depth: Dm 10 - 210mm, Dm 30 - 250mm, DC 300mm
+PUMP DATA
+Max
+Current Particle DN
+Size
+(”)
+(A)
+kW HP
+(mm)
+
+Dimensions (mm)
+
+Motor
+
+Model
+
+A
+
+B
+
+C
+
+D
+
+H
+
+H1
+
+Weight
+(kg)
+
+Typical Installation
+
+A
+
+1 1
+
+Dm10
+
+0.75
+
+Dm30
+
+1.1 1.5
+
+7
+
+DCm42
+
+1.5
+
+2
+
+13
+
+DC44
+
+3
+
+4
+
+5
+
+1½ 115
+10
+2
+
+7
+
+85
+93
+
+147 17
+
+150 112 190
+
+353 73
+
+13
+
+390 84
+
+18
+
+434
+
+43
+
+25
+
+H
+
+125
+460
+
+47
+
+DN
+
+500
+
+H1
+
+17
+
+D
+
+C
+
+B
+
+500
+
+

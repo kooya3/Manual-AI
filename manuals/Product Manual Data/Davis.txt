@@ -1,0 +1,39 @@
+PUMP
+Pedrollo DAVIS peripheral impeller submersible pumps are designed for pumping clean water in domestic applications from
+boreholes and wells. They are based on the established 4SKm design though are much improved featuring a cast stainless steel
+pump housing with special anti-seize design, double mechanical seals to prevent water leakage in to the motor and built in thermal
+overload for motor protection.
+All components in contact with water are manufactured from stainless steel with the impeller being made of brass. The motor
+capacitor is integral with the pump and no separate control unit is required. Pumps are supplied with 20m or 40m of drop cable to
+customer choice.
+MOTOR
+All pumps are fitted with hermetically sealed re-windable liquid cooled induction motors designed for continuous duty provided the
+pump is fully submerged. They should be connected directly to mains supply through a 10A MCB or switch fuse.
+Enclosure Class: IPX68
+Voltage: 1x 240V
+
+Insulation Class: F
+Power: 0.75kW
+
+Speed: 2900 rpm
+Max. Current: 5.5A
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, chemically non-aggressive liquids, without solid particles.
+Max. Fluid Temperature: +400C
+Max. Operating Depth: 40m
+DIMENSIONS & WEIGHTS
+
+min. 0.5m
+
+1”
+
+min. 1m
+
+470mm
+
+101mm
+
+Weight:12.6kgs
+
+

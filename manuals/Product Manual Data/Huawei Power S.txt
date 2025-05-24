@@ -1,0 +1,147 @@
+POWER-S
+Intelligent Hybrid
+Power Solution
+
+Power
+Cabinet
+
+Battery
+Cabinet
+
+Generator
+
+Huawei Power-S is an integrated hybrid solar power supply & backup solution providing reliable and consistent power supply from 10kW
+to 60kW in various commercial and industrial applications. Systems optimize solar power generation feeding directly into the site load
+whilst also charging the battery pack for night time, supplementary and back-up supply. External power from either mains supply or
+generator is also fed into the system to top up for the demand load as necessary. Features include:• Seamless uninterrupted power with <10mS switchover from energy sources.
+• All-in-one integrated systems of battery, inverter, solar MPPT controller and hybrid energy management system.
+• Modular design with 10kW inverters scalable to 60kW, 30kWh Lithium batteries scalable to 120kWh and solar power PV input of up
+to 144kW. Systems can be specified to suit individual site conditions and requirements.
+• Cabinet mounted including all components for simple site installation
+• Centralised monitoring and control on remote App
+• Intelligent generator control (when fitted) enabling reduced generator sizing
+Huawei Power S provides continuous and seamless power from the optimal supply source at minimum cost and maximum efficiency
+ensuring uninterrupted power in all power supply conditions.
+POWER-S INDOOR CONFIGURATION
+10kW+20kWh
+
+15kW+30kWh
+
+30kW+60kWh
+
+40kW+80kWh
+
+60kW+80kWh
+
+60kW+120kWh
+
+Inverter Size, kW
+
+10
+
+15
+
+30
+
+40
+
+60
+
+60
+
+Max PV Input, kWp
+
+15
+
+17
+
+35
+
+DETAILS
+
+52
+
+DC PV Input Voltage
+AC Input/Output
+Rectifier, kW
+
+Single/Three Phase, 240/415VAC
+16
+
+8
+
+Solar MPPT Charger, kW
+Battery Size
+Battery Capacity, kWh
+
+Protection Level
+
+64
+
+2x200AH, 48VDC
+
+3x200AH, 48VDC
+
+6x200AH, 48VDC
+
+8x200AH, 48VDC
+
+20
+
+30
+
+60
+
+80
+
+1
+
+Battery Cabinet
+Weight, Kgs
+
+64
+48
+
+32
+
+16
+
+Power Cabinet
+Dimensions, LxWxH (mm)
+
+70
+
+90-440VDC
+
+120
+2
+
+0
+
+1
+
+600x600x2100
+400
+
+12x200AH, 48VDC
+
+1200x600x2100
+521
+
+976
+
+1406
+
+1800x600x2100
+1441
+
+1814
+
+IP20(Indoors)/IP55(Outdoor)
+
+Notes:
+1. Components: Battery, Inverter Charger, Solar MPPT, Bypass, AC SPD, EMS, Generator Controller, Internal Cables, Communications Module
+2. Common C&I: Typical Average Load PF> 0.83; Data Centre Equipment: Typical Average Load PF - 1
+3. Optional: Power-S Systems for outdoor applications also available on request
+
+

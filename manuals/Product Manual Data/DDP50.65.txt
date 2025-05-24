@@ -1,0 +1,118 @@
+DDP
+
+DDP65A
+
+DDP50A
+
+DDP65A
+OPERATING RANGE
+
+DDP50A
+OPERATING RANGE
+
+DDP50A
+
+DDP65A
+
+PUMP
+The DAYLIFF DDP range of pumps are robust and efficient automatic pressure controlled peripheral impeller booster pumps suitable for
+domestic and small scale applications where on-demand water supply is required. The pumps are self priming and are equipped with a
+diaphragm type pressure vessel and pressure control to provide fully automatic operation. DDP50A incorporates mechanical pressure
+control start and stop while DDP65A incorporates an electronic microprocessor that starts and stops the pump automatically, provides dry
+running protection, auto re-start and controls cycling.
+Pump construction is a cast iron body with stainless steel insert on the wearing surface and brass impeller.
+MOTOR
+The pump is close-coupled to a single-phase motor designed for continuous operation and is provided with a thermal cutout to protect
+against electrical overload. It can be connected directly to the mains power supply through a 5A fuse or MCB.
+Enclosure Class: IP44
+
+Insulation Class: B
+
+Voltage : 1X 240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solid particles or fibres
+Max. Fluid Temperature: +600C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 7m at sea level
+Cut In Pressure: 1.2 bar DDP50A, 1.5Bar DDP65A
+Cut Out Pressure: 1.8 bar DDP50A, 3Bar DDP65A
+Pressure Vessel Pre-charge Pressure: 0.95 bar
+PUMP DATA
+Motor
+kW
+
+HP
+
+Current
+(A)
+
+0.25
+
+0.32
+
+2
+
+Model
+DDP50A
+DDP65A
+
+0.37
+
+0.5
+
+Dimensions (mm)
+DN1
+
+DN2
+
+25
+
+25
+
+A
+
+B
+
+C
+
+H
+
+265
+
+200
+
+72
+
+256
+
+268
+
+121
+
+65
+
+240
+
+9
+
+2.1
+
+DN2
+
+DN1
+
+H
+
+C
+
+A
+
+Weight
+(kg)
+
+B
+
+

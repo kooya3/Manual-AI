@@ -1,0 +1,215 @@
+TED
+A
+D
+UP
+
+DC Solar
+Submersible Pump
+110
+
+2
+Average Daily Irradiation Values (Kwhr/m)
+
+Graph 1
+
+100
+
+6.3 6.5
+
+6.5
+6.0
+
+5.6
+
+90
+
+5.8
+
+5.8
+
+5.6 5.7 5.9
+
+5.1 5.3
+
+PUMP HEAD(m)
+
+80
+70
+60
+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+50
+
+% Daily Output
+
+SUNFLO-A 600H
+
+40
+30
+
+Graph 2
+
+13.5%
+13%
+13%
+12%
+12%
+10%
+10%
+
+SUNFLO-A 270H
+
+7%
+
+7%
+
+20
+2%
+
+SUNFLO-A 150H
+
+10
+0
+
+6
+
+0.2
+
+0.4
+
+0.6
+0.8
+Flow(m3/hr)
+
+2%
+
+0%
+
+1.2
+
+1.4
+
+0%
+7
+
+8
+
+9
+
+10 11 12 13 14 15 16 17 18
+Time (hrs)
+
+1.6
+
+PUMP
+DAYLIFF SUNFLO-A pumps are specifically designed for PV solar powered water supply from wells and boreholes. They are of
+rotary screw design and material of construction for the rotary screw is stainless steel with a rubber stator. Pumps are of simple
+structure and feature an inbuilt controller.
+MOTOR
+Permanent magnet, oil filled, brushless, DC motor specifically designed for maximum efficiency from solar module power source. It
+should be powered by solar array configured to provide the input voltage and sized at approximately 130% of the rated motor
+power.
+PUMP OUTPUTS
+Performance curves are given at standard test conditions of 1000W/m2 solar irradiance and 250C. Output will vary throughout the
+year depending upon prevailing irradiation levels. For estimated daily outputs at continuous pumping, multiply the indicated
+output at the duty point by the daily irradiation given in Graph 1. For indicative purposes, factors of 1.1 can be applied for hot arid
+areas and 0.9 for temperature high altitude areas in the Tropics. Output will vary throughout the day as a proportion of the
+estimated hourly irradiation as shown in Graph 2.
+Enclosure Class: IP68
+
+Insulation Class: B
+
+Speed: 2900rpm
+
+OPERATING PARAMETERS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids with a sand content of less than 0.1%.
+Max. Liquid Temperature: +400C
+Ambient Temperature: +400C
+Min. Immersion Depth: 0.5m
+Max Immersion Depth: 20m
+Min. Borehole Diameter: 100mm
+
+DN
+
+PUMP DATA
+Model
+
+Input
+Voltage
+(V)
+
+Motor
+Rating
+(W)
+
+Peak
+Voltage
+(V)
+
+Open
+Cicrcuit
+Voltage
+(VOC)
+
+SUNFLO-A 150H
+
+24
+
+150
+
+≥20
+
+<50
+
+SUNFLO-A 270H
+
+36
+
+270
+
+<60
+≥30
+
+SUNFLO-A 600H
+
+48
+
+600
+
+<125
+
+PV Modules
+(W)
+
+DN
+(”)
+
+Dimensions
+Weight
+(mm)
+(kg)
+H
+W
+
+H
+
+1x 200W
+2 x 200W, Parallel
+Connection
+4 x 200W,
+2 Series, 2 Parallel
+Connections
+
+515
+¾
+
+76
+
+9.0
+
+520
+
+W
+
+

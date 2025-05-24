@@ -1,0 +1,58 @@
+Prepaid Power
+Metering
+
+Dayliff Prepaid Power Metering System is a comprehensive solution that offers effective power submetering for apartment and
+commercial facility owners. The high-quality system consists of industry-standard compliant smart prepaid power meters and a webbased vending platform for power credit token generation. The meter recharge process is facilitated by 20-digit tokens delivered to
+power consumers through SMS or mobile app. Automated recharge option is possible with installation of Data Concentrator Unit
+(DCU) that enables wireless communication between the vending system and the smart prepaid meters.
+The system enforces prepayment of electricity and provides real-time information on power purchases thereby enabling defaulter
+management and promoting power conservation. Also, it offers numerous other benefits for facility management including reduced
+operational costs and improved overall service efficiencies. The key features of the product:
+• STS compliant power meters with integrated keypad, built in relay control and wireless communication as a standard.
+Options available include customer interface unit (CIU) and power line communication (PLC).
+• Active energy measurement with class 1 accuracy (IEC62053) and detection of significant reverse power.
+• Programmable load limit and low credit warning with disconnection on overload and power credit depletion.
+• Detection and record of tamper events including opening cover, reverse connection and blackout.
+• Replaceable meter battery with a long lifetime of up to 7 years.
+• Dual source meter option available with automated switching to diesel generator tariff.
+• Web-based vending platform for kiosk vending with user rights management and vending reports.
+• Integration with mobile money systems for direct payment to service providers' accounts by consumers.
+PERFORMANCE DATA
+MODEL
+
+SINGLE PHASE
+
+THREE PHASE
+
+Nominal Voltage (Un)
+
+230V (-30% ~ +20%)
+
+3 x 230/400V (-30% ~ +20%)
+
+Nominal current (In)
+
+5A
+
+10A
+
+Maximum Current (Imax)
+
+80A
+
+100A
+
+Nominal Frequency (Fn)
+
+50/60Hz
+
+50/60Hz
+
+Temperature range: -25°C ~ +70°C
+IEC Protection Class: Class II
+Voltage Impulse withstand: 8kV, 1.2/50µs
+
+Ingress Protection Rating: IP54
+Insulation Level: 4kV, 1min
+
+

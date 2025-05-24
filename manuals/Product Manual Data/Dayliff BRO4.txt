@@ -1,0 +1,114 @@
+BRO4
+Reverse Osmosis
+Plant
+
+Feed
+Pump
+Raw
+Water
+
+Inlet Valve
+
+Pump
+Controller
+
+5 Mic
+
+P1
+
+Dayliff RO Membranes
+Permeate
+Recycle Line
+
+P1
+
+Concentrate Out
+
+Drain
+Valve
+
+Drain
+
+DAYLIFF BRO4 Reverse Osmosis water treatment plants are simplified specification versions of the well-established Dayliff DRO
+range specifically designed for removal of lighter concentrations of dissolved salts at lower cost. The heart of the system remains
+efficient low energy Dayliff membranes though control and component specifications are adapted for less arduous operating
+conditions with the plants being thoroughly engineered to provide reliability with the highest treated water standards. They offer the
+following features:• High efficiency low energy brackish water membranes housed in strong corrosion resistant FRP pressure vessels
+• Pre filtration through 5mic sediment filter
+• High efficiency Dayliff Feed /Cleaning pump
+• Pump controller providing automatic and dry running protection
+• Corrosion proof U-PVC high pressure piping
+• System monitoring instruments including flow meter and pressure gauges
+• Semi-automated plant operation including RO feed water flushing cycle and CIP facility
+• Compact skid mounted design for simple installation and transportation
+All DAYLIFF RO plants are highly efficient, easy to operate and simple to maintain and offer the ideal solution for small and medium
+scale reverse osmosis requirements.
+Solar power option is available on request.
+OPERATING PARAMETERS
+Raw Water Quality: TDS level of up to 500ppm, Chloride level <50ppm, Turbidity <1NTU, Iron <0.1ppm, No free chlorine
+Normal Rejection: 95%-98%
+Water Temperature: 5-350C, Design Temperature 250C
+Operating Pressure: 3- 6bar
+Recovery Range: 30-60% depending on raw water quality. System recovery is entirely dependent on water quality; higher TDS or
+silt content will reduce the maximum possible recovery and flow rates
+Treated Water Quality: TDS level of below 100ppm
+EQUIPMENT SPECIFICATIONS
+3
+
+Flow Rates (m /hr)
+
+Permeate
+Feed
+
+BRO4/0.25
+0.25
+0.5
+
+BRO4/0.5
+0.5
+1.0
+Sediment 5 mic
+4” Low Energy Membrane
+
+BRO4/1
+1
+2.0
+
+1
+1
+PKm65
+
+2
+1-1
+PKm80
+
+4
+1-1-1-1
+PKm100
+
+0.5
+
+0.75
+1200x700x1700
+80
+
+1.1
+
+Pre-treatment
+Type
+Membrane
+
+Pump
+Dimensions (LxWxH)mm
+Weight, Kg
+
+Modules
+Staging
+Type
+kW
+
+75
+
+90
+
+

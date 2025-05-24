@@ -1,0 +1,208 @@
+Water Testing
+Equipment
+
+TED
+A
+D
+UP
+
+Hach is the world-leading supplier of water quality monitoring equipment, accessories and reagents that are designed to make water analysis accurate, efficient, and
+easy to conduct. From the lab to the field and factory, Hach equipment and reagents provide total confidence in the measurement of the many water analysis
+parameters for various applications such as drinking, process water and discharge of effluent into the environment.
+Hach offers an enormous range of products suitable for every testing, analysis, and monitoring application imaginable, all supported by local specialists as well as
+direct access to the Hach Service network for more specific advice. A limited range of the more commonly demanded products are detailed, though specifications of
+equipment for more specialized applications are available on request.
+
+LAB INSTRUMENTS
+Equipment
+
+Description
+
+Spectrophotometers
+
+Dr6000 - Benchtop spectrophotometer with the capability to scan across UV/Vis spectrum at 190 - 1100 nm suitable for lab
+operations.
+DR3900 - Benchtop visible spectrum, split beam spectrophotometer suitable for lab operations. Wavelength range: 320 - 1100 nm
+DR1900 – Portable and field-suitable spectrophotometer. Wavelength range: 340 - 800 nm.
+All Spectrophotometers are equipped with up to 220 in-built programs for testing a variety of parameters and are equipped with USB
+ports for data transfer. Mostly used in Drinking and Industrial water, Power, and Beverages sectors
+
+Calorimeters
+
+DR900 - Portable field-durable colorimeter able to perform up to 90 tests with an intuitive user interface, data storage for up to 500
+tests and a built-in USB port for data transfer. Wavelength Range: 420 nm, 520 nm, 560 nm, 610 nm.
+DR300 – single parameter or wavelength specific portable pocket colorimeter able to perform up to 20 tests with USB ports for data
+transfer.
+Applications: Boiler Water | Cooling Water | Power | Water Treater | Drinking Water | Wastewater | Food and Beverage | Clean
+in Place (CIP) | Pool and Spa | Pulp and Paper.
+
+Turbidity Meters
+
+TU52 – For drinking water and other clean water applications. Range: 0 – 700NTU.
+TU5 series is equipped with the latest 3600 x 900 Detection Technology, resulting in the most sensitive and accurate readings possible.
+TL23 – For high turbidity range applications up to 10,000NTU such as wastewater applications
+2100Q – Portable turbidity meters testing a range of 0 – 1,000NTU.
+
+Titration Systems
+
+Manual Titrator - High resolution (125µL/digit) and high accuracy (±1%) titration equipment. Applicable in titration for more
+than 40 parameters with interchangeable cartridges.
+Automatic/ Potentiometric Titrators - Titralab AT1000 & KF1000 Series - Used with different application packages and
+designed to test unique parameters to ensure accurate and reproducible measurements immediately.
+AT1000 Series – Consists of the application package and the Titrator which make it quick and easy to use in the lab. Used in highcapacity testing laboratories.
+Titration systems application areas: Drinking Water / Wastewater, Food / Beverage, Petrochemical, Biogas
+
+BODTrak II
+Apparatus
+
+DRB200 Digital
+Reactor
+
+Simplified BOD analysis with the BODTrak™II Respirometric BOD Apparatus, control unit and stirrer with pressure sensors for 6
+bottles. Low Temperature BOD Incubator sold separately.
+The apparatus automatically ends the test and stores the results after the chosen BOD measurement programme of 5, 7 or 10 days.
+Measuring range 0-700 mg/L O2, variable.
+The DRB200 dry thermostat reactor offers effortless operation using Hach's preset digestion methods. It rapidly heats from 200 to
+1500C within 10 minutes, suitable for metal and nutrient analysis or biological sample digestion. Precise temperature control (37 to
+1650C) and adjustable time settings (1-480 minutes) are available. It accommodates 13mm, 16mm, and 20mm round vials,
+supporting simultaneous digestions via dual block models.
+
+PORTABLE FIELD INSTRUMENTS
+Equipment
+
+Description
+
+HQ / HQD Meters /
+Intellical Probes
+
+Handheld multiparameter meters using Intellical probes featuring automatic parameter and buffer or standard recognition in the
+laboratory and field applications.
+Wide variety of probes available for measuring pH, Dissolved Oxygen, Conductivity, Total Dissolved Solids, Ammonia, Ammonium,
+Chloride, Fluoride, Nitrate, Sodium, Biochemical Oxygen Demand and RedOx (ORP).
+
+Pocket Testers
+
+Pocket Pro Testers - Portable, convenient solutions for pH, ORP, conductivity, TDS, salinity, and temperature, delivering accurate
+results with replaceable sensors.
+Pocket Dissolved Oxygen (DO) Meter - Measures Dissolved Oxygen (DO) to determine water quality in a variety of
+applications including wastewater, aquariums, and fish hatcheries. Simultaneously displays DO and temperature readings
+
+SL000 Portable
+Parallel Analyzer
+(PPA)/ Chemkeys
+
+SL1000 Portable Parallel Analyzer (PPA) performs the colorimetric water tests 75% faster by using Chemkey reagents instead of
+powder pillows. Get highly accurate results, with less opportunity for errors, in a fraction of the time, Up to 6 parameters tested
+simultaneously.
+Chemkey reagents are available for measuring for the following: Colorimetric tests: Monochloramine, Free & Total Ammonia, Free & Total Chlorine, Nitrite, Copper, HR & LR Orthophosphate,
+HR & LR Hardness, HR & LR Alkalinity, Dissolved Iron, Peracetic Acid.
+Probe-based tests: pH, Conductivity, ORP, Dissolved Oxygen, Nitrate, Chloride, Sodium, Ammonia, Fluoride.
+
+ON-SITE ANALYZERS
+Equipment
+
+Description
+
+Turbidity Analyzers/
+Sensors
+
+TU5300 and TU5400 are either ISO 7027-1 or EPA 10258 compliant designed for drinking water and clean water. Feature an
+auto-cleaning module, Prognosys an advanced diagnostic system and employs 3600 x 900 Detection Technology for highly precise
+and sensitive measurements. Analysis range of 0 to 700 NTU/FNU/FTU with lower limit of detection (LOD) and repeatability: 0.002
+NTU (TU5300) and 0.0001 & 0.0006 NTU (Tu5400).
+Solitax sc Sensors are DIN EN ISO 7027 and DIN 38414 compliant high-precision process turbidity probe for clear to strongly
+turbid liquids. Feature automatic wiper cleaning system, Prognosys compatible and analysis range of Turbidity: 0.001 - 4000 NTU
+and up to 0.001 - 500 g/L TSS content.
+
+Chlorine Analyzer
+
+CL17sc Colorimetric Chlorine Analyzer uses colorimetric DPD technology to measure free & total chlorine for real time process
+control. Feature DPD Reagent Replacement, programmable maintenance alerts and step by step maintenance instructions and EPA
+Method 4500-CL G and 334.0 Compliant. Analysis Range of Range of 0 - 10 ppm Cl with Lower Limit of Detection (LOD) and
+repeatability of 30 ppb (0.03 ppm).
+CLF10sc/CLT10sc Amperometric Chlorine Analyzer uses amperometric technology to measure free & total chlorine
+continuously for real time process control. Feature No Reagent Replacement, No Waste Stream and EPA Method 334.0 Compliant.
+Analysis Range of Range of 0 - 20 ppm Cl with Lower Limit of Detection (LOD) and repeatability of 0.03 ppm.
+
+pH, ORP &
+Conductivity Sensors
+
+pH Sensors: -2.0 to 14.0 pH, Temperature Ranges between -5 0C -110 0C
+ORP Sensors: -2000 to 2000 mV, Operating Temperature Ranges between -5 to 110 0C
+Conductivity sensors: 0.01S/cm to 2000 mS/cm, Operating Temperature Range of -10 0C to 200 0C
+Application Areas: power, wastewater, high purity samples, municipal, industrial, pharmaceutical
+
+EZ Series Analyzer
+
+The EZ Series are Designed for unique range of parameters using 5 measurement technologies; colorimetry, titration, ion-selective
+electrode, voltammetry, and chemiluminescence in drinking water, wastewater, or industrial applications to optimize wide range of
+treatment processes.
+Features variety of measuring ranges, multi-stream capabilities (up to 8 channels), multiple parameter options and digital (Modbus
+RS485 & TCP) and up to 8 mA Outputs
+Parameters Analyzed
+Metals: Aluminum, Arsenic, Boron, Chromium, Copper, Iron, Manganese, Zinc
+Inorganics: Chloride, Chlorine (high range), Cyanide, Fluoride, Hydrogen Peroxide, Silica, Sulfate, Sulfide
+Nutrients: Ammonium, Nitrate, Nitrite, Phosphate, Total Nitrogen, Total Phosphorus
+Special Parameters: Adenosine Triphosphate , Microbial Activity, Toxicity, Color
+Organics: COD, TOC, Phenol, Volatile Fatty Acids (VFA), Hardness & Alkalinity, Hardness (Total / Ca / Mg), Alkalinity (Free / Total)
+
+Controllers
+
+SC4500: Controller feature a wide range of up to 2 analog and/ or digital connectivity options for Hach Sensors and analyzers,
+Prognosys predictive diagnostic software and data management features.
+SC1000: Controller consists of a Display Module and at least one Probe Module. SC1000 Probe Modules feature connectivity of up
+to 8 sensors or analyzers but can be networked together to accommodate up to 32 digital sensors or analyzers. Both Controllers are
+iDAYLIFF and BMS products compatible with one or a combination of the following outputs: 0/4-20 mA Analog Output, Relays,
+Modbus TCP/RS485, Profinet IO module, Ethernet IP module, Profibus DPV1 module,
+
+Orbisphere 410/510
+Controllers
+
+• Depending on the version, the Orbisphere controllers can be combined with LDO oxygen sensors, EC oxygen, ozone & low-level
+hydrogen sensors and thermal conductivity carbon dioxide, nitrogen & hydrogen sensors.
+• Easy to use, intuitive software using clear, full color touchscreen which acts as display and keyboard. Continuously displays real
+time process readings, graphed sensor trends, alarm limits, temperature and event occurrence.
+• Internal diagnostics and reminders for maintenance, calibration and System alarms transmitted through analog output.
+• Communication combination options among Modbus RS485, 0/4-20 mA, system & measurement alarm relays, USB, Ethernet,
+Profibus DP
+• Data storage of up to 10,000 measurements, the last 1000 operator actions and details of the last 50 calibrations
+
+LABORATORIES AND TEST KITS
+Equipment
+
+Description
+
+Multi-Parameter
+Test Kits
+
+Application-specific single or multi-parameter test kits categorized either by type of application, mode of analysis or measured
+parameter sets. Each kit includes a rugged carrying case with reagents, apparatus, and user manual.
+Application Type: Soil and Irrigation, Aquaculture, Nitrification control, Stormwater, Surface water and Wastewater treatment
+plants, Professional Boiler and Cooling tests Includes:Hardness, iron, and pH test kit,Iron and manganese / pH test kit, Chlorine,
+Hardness, Iron, pH Test Kit, Boiler Water Test Kit, Fish Farming Test Kit, Ecology, surface water & Stream Survey Test Kits, Pool
+Master Test Kit, Professional Boiler and Cooling Water Test Kit
+
+Microbiological
+Environmental
+Laboratory (mel)
+
+MEL Laboratory is designed for portable or small-scale microbiology testing capabilities for potable water, recreational water,
+wastewater, and non-potable water. Includes sampling/filtration consumables, vacuum filtration apparatus & consumables*,
+portable incubator*, microbiological analysis accessories, Colorimeter, Pocket Testers, Color discs and up to 8 key physio-chemical
+water quality parameters for drinking water tests.
+Microbiology Tests Kits Only:
+• MEL/m-ColiBlue24® Field Filtration Laboratory - Coliform and E. coli Field Filtration Kit
+• MEL/MPN Total Coliform and E. coli Laboratory (can be used for other microbial tests)
+• MEL/MF Total Coliform Laboratory (can be used for other microbial tests)
+• Combined Test Kits (Microbiology + Physiochemical Tests):
+• MEL Potable Water Laboratory – P/A microbiological analysis accessories, DR900, 8 physio-chemical reagents & pocket testers
+• MEL/P-A safe drinking water lab - P/A microbiological analysis accessories, Color discs, 3 physio-chemical reagents & pocket
+testers.
+
+Test Strips
+
+High-quality accurate, portable, low-cost, and easy-to-use test strips. Simply dip the strip in sample and read by comparing with
+colors printed on the bottle. Applicable in drinking water, wastewater, pool and spa, industrial process water, etc.
+Available as single parameter test strips for chlorine, nitrate, nitrite, hardness, alkalinity, chloride, ammonia, etc. or multiparameter 5in-1 test strips, which measures free & total chlorine, hardness, alkalinity and pH.
+
+

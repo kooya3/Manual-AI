@@ -1,0 +1,189 @@
+MC
+
+30
+
+25
+
+20
+
+15
+
+MC
+
+MC4
+
+MC4 55/55
+
+10
+
+MC 40/65 (-F)
+5
+
+MC-F
+
+MC40/50
+
+Double Channel
+Impeller
+
+0
+
+20
+
+40
+
+80
+
+60
+
+100
+
+120
+
+140
+
+160
+
+PUMP
+The Pedrollo MC range of submersible drainage pumps are designed to handle industrial waste water and sewage. The double
+channel type impellers make the pumps especially suitable for pumping water containing a high proportion of solid particles
+including threads and fibres.
+Material of construction is heavy duty cast iron for motor housing and pump body. All pumps are supplied with 10m neoprene
+cable. Two configurations are available; MC for either portable or fixed sump applications and MC-F for sewage installations with
+discharge connection and guide bars required.
+MOTOR
+Hermetically sealed induction motor designed for continuous duty provided the pump remains partially submerged (min 350mm) .
+All three phase models requires a remote DOL starter.
+Enclosure Class: IPX8
+
+Insulation Class: F
+
+Voltage: 3x415V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, chemically non-aggressive liquids, containing suspended particles up to the specified size .
+Max. Fluid Temperature: +400C
+Max. Immersion Depth: 10m
+Min. Immersion Depth: 430mm
+PUMP DATA
+Max
+Motor Current Particle
+Impeller
+(kW)
+(A) Size(mm)
+Type
+
+DN
+(”)
+
+Dimensions (mm)
+B
+
+E
+
+H
+
+H1
+
+D
+
+P
+
+Ø
+
+Guide tubes)D
+Ø external 27mm maximum
+Ø internal 19.5=21.5mm
+DN
+
+Weight
+(kg)
+
+DN
+H
+
+Model
+
+4
+
+8
+
+55
+
+B
+
+52
+136
+
+H1
+B
+
+E
+MC
+
+(P)MC
+
+E
+
+DN
+
+E
+
+MC4 55/55
+
+65
+
+E
+
+D
+
+MC40/65(-F)
+
+H
+
+50
+
+P (minimum)
+
+6
+
+48
+
+H1
+
+3
+
+Stainless steel 2½ 212 331 513 167 75
+AISI 304
+240 360 547 201
+800 800
+Double
+85
+Channel
+210 330 547 123
+3
+Cast Iron
+Double
+248 320 792 228 140 10001000
+Channel
+
+H1
+
+MC 40/65
+
+50
+
+H
+
+MC 40/50
+
+B
+
+MC4
+
+Ø(minimum)
+Typical Installation
+
+

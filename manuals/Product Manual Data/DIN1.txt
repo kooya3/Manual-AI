@@ -1,0 +1,141 @@
+DIN1
+
+DIN1-36
+
+DIN1-30
+
+DIN1-23
+
+PUMP
+The DAYLIFF DIN pump range are of non self priming vertical multistage in-line centrifugal design suitable for a wide range of
+water supply, irrigation, liquid transfer and boosting applications. The pumps are of heavy duty construction and designed for
+continuous duty in commercial and industrial installations. All DIN pumps feature AISI 316 stainless steel vital components in
+contact with water including the impellers, intermediate chambers, shaft and top and bottom housings and are suitable for pumping
+highly mineralised corrosive water. All pumps are water lubricated and are provided with a standard cartridge type mechanical seal.
+They are supplied complete with BSP internally threaded counter flanges.
+MOTOR
+The pumps are coupled to high efficiency IE3 totally enclosed fan cooled 2-pole motor complying with IEC standards and must be
+connected to an effective motor starter in accordance with local regulations.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean, non-explosive liquids without solid particles or fibres.
+Liquid Temperature Range: -150C to +1200C
+Maximum Ambient Temperature: +500C
+Maximum Suction Lift: According to the NPSH curve plus a safety margin of 1m
+Maximum Operating Pressure: 25bar
+Maximum Inlet Pressure: 10bar
+
+Motor
+Model
+
+Voltage
+(V)
+
+kW
+
+HP
+
+1.1
+
+1.5
+
+1x240
+DIN1-23
+3x415
+1x240
+DIN1-30
+
+1.5
+1x240
+2.2
+3x415
+
+6.9
+
+2
+
+2.2
+
+6.3
+
+8.9
+
+3
+
+2.0
+
+3x415
+DIN1-36
+
+Full
+Load I Start
+Current
+I
+(A)
+
+3.5
+
+7
+
+12.7
+
+2.6
+
+4.8
+
+7
+
+3.0
+
+Dimensions (mm)
+H1
+
+Weight
+(Kg)
+
+H2
+
+D1
+
+D2
+
+648
+
+879
+
+141
+
+109
+
+34
+
+790
+
+1065
+
+175
+
+140
+
+43
+
+898
+
+1173
+
+175
+
+140
+
+47
+
+PN25/DN32
+
+All dimensions in mm
+
+

@@ -1,0 +1,54 @@
+POWER-M
+Off-Grid Backup
+
+Power Module
+
+Status Indicator
+
+Battery Module
+
+5kWh
+
+10kWh
+
+15kWh
+
+Huawei Power-M is an intelligent integrated power supply system with a back-up facility. It includes a power module with inverter and
+a high-capacity lithium-iron phosphate battery and is compatible with either or both off-grid PV Solar or on-grid mains power supply
+all fitted in a compact IP65 enclosure suitable for indoor or outdoor installations. In hybrid PV/mains supply mode power input is
+principally provided from the PV source supplemented by the battery which is charged from the mains and during periods of non PV
+output the system automatically switches to mains power. Conditioned pure sine wave output power is provided in every output
+mode that is suitable for small electronic equipment. The systems are applicable in all residential and small scale applications and
+are the ideal solution for reliable and consistent power supply. Systems are scalable upto 45kWh battery capacity through
+connection of multiple units.
+TECHNICAL DATA
+Huawei Power-M
+AC Input/Output Power
+Maximum Output Current/Phase
+Phase
+Battery Module Energy
+
+6KVA/5kW
+30Amps/ Single Phase 240VAC
+Single Phase, 240VAC
+5 kWh per module
+
+Battery Life
+
+6000 cycles @ 25°C, 80% DOD
+
+Overload Capacity
+
+102%< load <125% - 30Sec
+
+Installation
+
+Wall-mounted/ground-mounted
+
+Dimensions (LxHxD), mm
+Power Module/Battery Weight (kg)
+
+700x691x158
+17/50
+
+

@@ -1,0 +1,123 @@
+BUF4
+Ultrafiltration
+Treatment Plant
+
+Filtrate
+
+B/Wash CIP
+Tank 100LT
+Flush Valve
+Raw
+Water
+
+120 Microns
+Strainer
+Pump
+controller
+
+Inlet Valve
+
+PI
+
+PI
+
+Dayliff UF Membrane
+
+Drain
+Valve
+Drain
+
+DAYLIFF BUF4 Ultrafiltration plants are highly effective, easy to operate and simple to maintain systems that offer the ideal solution for small and
+medium scale water treatment requirements. Their particular application is for the removal of particles, colloidal material, sand, organic and
+inorganic polymeric particles. They are particularly suitable for the treatment of polluted surface waters from dams, rivers, reservoirs etc. as well as
+wastewater recovery. The process will not remove dissolved salts including sodium, calcium and chlorides and so is not suited to the treatment of
+groundwater with high TDS levels. Standard models are suitable for low turbidity (up to 15NTU) raw water applications.
+Systems are frame mounted and supplied as complete units with all necessary accessories and controls for simple integration with the flow process.
+They offer the following features:•
+•
+•
+•
+•
+•
+
+Fully automated plant operation including normal filtration and backwash cycle with solenoid valve activation.
+High efficiency single Dayliff feed/backwash/cleaning pump with integral Brio pump controller for auto switching and dry run protection.
+120-micron pre-filter.
+Integrated CIP/Cleaning/Backwash/Flushing tank.
+System monitoring instruments including product flow meter and pressure gauges.
+Skid mounted for simple installation.
+
+DAYLIFF BUF4 systems provide a high performance, high efficiency treatment process that produces fully potable water without chemical additions.
+The process uses low energy consumption and provides consistent quality without frequent operational intervention. Due to the efficiency of the
+membranes, it also offers considerable savings over conventional systems and is the ideal solution where potable water is required.
+OPERATING PARAMETERS
+Operating Pressure: 0.2 - 2bar
+Maximum Feed Pressure: 3 Bar
+Maximum Operating Trans Membrane Pressure (TMP): 2 Bar
+Chlorine Tolerance: 100 ppm
+Max Operating Temp: 450 C
+Operating pH Range: 2-12
+Raw Water Quality: Turbidity <15 NTU, Oil/Grease 0 mg/l
+Treated Water Quality: <0.2μm
+Recovery Range: 95-98% depending on raw water quality.
+Backwash Frequency: Every 20-60mins
+A raw water analysis should be provided to establish the extent of pre-treatment necessary.
+
+EQUIPMENT SPECIFICATIONS
+Flow Rate(m3/hr)
+No. Membrane Modules
+Pump
+
+BUF4/40
+
+BUF4/70
+
+BUF4/100
+
+BUF4/140
+
+0.35
+
+0.7
+
+1.0
+
+1.4
+
+1
+
+2
+
+3
+
+4
+
+DDP60
+
+DDP65
+
+0.37
+
+0.75
+
+Type
+
+DDP50A
+
+kW
+
+0.25
+
+Dimensions (LxWxH)mm
+Weight, Kg
+
+1200x1100x1700
+80
+
+90
+
+100
+
+110
+
+

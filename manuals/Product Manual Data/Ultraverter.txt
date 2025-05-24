@@ -1,0 +1,154 @@
+ULTRAVERTER
+
+TED
+A
+D
+UP
+
+Multifunction Inverter
+
+Application Diagram
+Solar Panels
+
+Laptop
+AC
+Output
+
+Lighting
+Printer
+
+Ultraverter
+
+TV
+
+AC Input
+1-3kVA
+
+5.2kVA
+
+Fans
+
+Generator
+
+Battery
+
+The Dayliff DUV Ultraverter High Frequency inverter range are versatile high specification multifunction inverters designed for various
+applications including:• Grid Tie combining mains AC and PV module DC input power sources programmable to prioritise PV supply with mains power used to
+supplement load requirements upto rated inverter power output.
+• Off-Grid for stand-alone PV solar powered systems to provide AC power for various load requirements with battery back up for non PV
+availability.
+• Power backup systems for on-grid mains failure battery feed loads.
+The inverters include the following features:• Pure sine wave output that provides filtered power for use with sensitive electronic devices.
+• LCD display for operating parameters and user configurable settings including battery charging current, AC/Solar output priority and
+input voltages.
+• Built-in smart battery charger with automatic switching between AC and Solar power sources for optimised battery performance.
+• Built-in MPPT solar charger
+• Overload short-circuit protection and deep discharge protection
+• Programmable supply prioritisation for PV, battery or grid supply
+• Optional WIFI/GPRS for Monitoring software for real time status display and control
+• Parallel operation for scalability available on 5200W model only, up to 3 units
+• Compatible with lead acid and lithium battery
+• Inverters require battery to operate
+
+TECHNICAL SPECIFICATIONS
+MODEL
+Rated Output Power, VA/W
+
+DAYLIFF SOLAR PV MULTIFUNCTION INVERTERS
+DUV-1012
+
+DUV-2024
+
+DUV-3024
+
+DUV-5248P
+
+1,000VA/1000W
+
+2,000VA/2000W
+
+3,000VA/3000W
+
+5,200VA/5,200W
+
+Input AC Voltage, VAC
+
+240
+
+Maximum PV Input Power, W
+
+720
+
+1500
+
+5,000
+
+Maximum PV Array Open Circuit Voltage, VDC
+
+105
+
+145
+
+450
+
+15-105
+
+30-120
+
+150-430
+
+PV Array MPPT Voltage Range, VDC
+Nominal Output Voltage, VAC
+
+240VAC +-5%
+
+Maximum Solar Charging Current, A
+
+80
+
+60
+
+Maximum AC Charging Current, A
+
+20
+
+30
+
+80
+
+Nominal Battery Voltage, VDC
+
+12
+
+24
+
+48
+
+Max. Peak Efficiency, %
+
+98%
+
+90%
+
+Parallel Capability
+
+None
+
+Yes, 3 units
+
+Dimension (DxWxH)mm
+Weight, Kgs
+
+224x337x98
+
+290x342x125
+
+309x505x147
+
+6
+
+8
+
+14
+
+

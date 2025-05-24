@@ -1,0 +1,279 @@
+DQB
+Circulator Pumps
+
+15
+
+DQB40/10
+
+DQB50/12
+
+DQB65/15
+
+CP - Constant Pressure
+PP - Proportional Pressure
+
+CP - Constant Pressure
+PP - Proportional Pressure
+
+CP - Constant Pressure
+PP - Proportional Pressure
+
+13
+
+14
+
+10
+PUMP HEAD (m)
+
+PUMP HEAD (m)
+
+9 CP5
+8
+CP4
+
+6 CP3
+
+9
+8
+7
+6
+5
+4
+
+CP2
+
+4
+3
+
+3
+
+CP1
+
+2
+
+2
+
+0
+
+11
+
+CP8
+
+PP
+
+CP7
+CP6
+CP5
+CP4
+
+2
+
+4
+
+6 8 10 12 14 16 18 20
+FLOW RATE (m3/hr)
+
+0
+
+CP8
+
+10
+CP7
+
+9
+8
+7
+6
+
+CP3
+
+5
+
+CP2
+
+4
+
+CP6
+CP5
+CP4
+CP3
+CP2
+
+3
+
+CP1
+
+CP1
+
+2
+
+1
+
+1
+
+CP9
+
+12
+
+CP9
+
+PUMP HEAD (m)
+
+PP
+
+CP7
+
+10 CP6
+
+5
+
+13
+
+11
+
+11
+
+7
+
+14
+
+12
+
+13 CP8
+12
+
+15
+
+1
+2 4 6 8 10 12 14 16 18 20 22 24
+FLOW RATE (m3/hr)
+
+0
+
+4 8 12 16 20 24 28 32 36 40 44 48
+FLOW RATE (m3/hr)
+
+PUMP
+The DAYLIFF DQB is a revolutionary variable speed controlled circulator pump designed for hot water circulation in heating, cooling and solar
+applications. Particular features include:
+• Variable Speed inverter technology that enables the pump to selectively operate on a constant curve, proportional pressure where
+pressure is adjusted according to heat demand and constant pressure where pressure remains constant irrespective of system demand.
+• Efficient liquid cooled and leak proof motor ensuring longevity and quiet operation
+• Intelligent pump with various operating modes adaptable to different applications and with comprehensive motor protection
+• Display indicating power consumption and flow as well as alarm and warning conditions.
+Pump construction is Aluminum motor housing, cast iron pump body, stainless steel rotor and Polyethersulfone impeller. Pumps are supplied
+complete with flanges
+MOTOR
+The pump is fitted with an integral 4-pole asynchronous permanent-magnet high efficiency inverter controlled motor. The pump should be
+connected to a suitably rated MCB or fuse.
+Enclosure Class: IP42
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solid particles or fibres
+Liquid Temperature: +20C -+1100C
+Max. Ambient Temperature: 00C - +400C
+Max Operating Pressure: 1.5bar
+Installation: Pumps must be installed with the rotor shaft horizontal and vertical water flow
+PUMP DATA
+L
+
+D
+
+Weight
+(kg)
+
+200
+
+388
+
+150
+
+20
+
+50
+
+280
+
+395
+
+165
+
+23
+
+65
+
+340
+
+403
+
+185
+
+26
+
+Power
+(W)
+
+DQB40/10
+
+340
+
+1.6
+
+40
+
+DQB50/12
+
+560
+
+2.7
+
+DQB65/15
+
+1300
+
+6
+
+D
+
+Dimensions (mm)
+W
+
+Model
+
+Current
+Inlet/
+(A)
+Outlet (mm)
+
+DQB40/10
+
+MODEL
+
+SPEED LED
+
+L
+
+NIGHT MODE
+CONSTANT
+PRESSURE
+PROPORTIONAL
+PRESSURE
+
+W
+
+LOGO
+
+POWER
+
+AUTOMATIC
+NIGHT MODE LED
+
+INCREASED SPEED
+SWITCH MODE
+REDUCE SPEED
+
+

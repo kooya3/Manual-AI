@@ -1,0 +1,123 @@
+Monoblock
+Submersible Pumps
+160
+
+PUMP HEAD (m)
+
+140
+
+120
+
+100
+
+80
+
+60
+
+4BLOCK 2/18
+
+40
+
+4BLOCK 2/10
+20
+
+0
+
+4BLOCK 4/7
+1
+
+5
+3
+4
+FLOW RATE (m3/hr)
+
+2
+
+6
+
+7
+
+PUMP
+The Pedrollo 4BLOCK is an innovative adaptation of the conventional 4SR borehole submersible pump design incorporating an
+integral pump/motor unit in one compact unit. Hydraulic and motor components are the same, though they are encased in a onepiece housing thus providing a more economic alternative to the traditional borehole pump. Particular features include:• High resistance independently floating delrin impellers providing the pump with a light silt passing capability.
+• Integrated design incorporating a built-in capacitor so no separate control unit is required.
+• 20m drop cable supplied as standard
+The 4BLOCK range is particularly suitable to all small-scale domestic installations particularly for boreholes, though they can also
+be used in wells in either vertical or horizontal configuration. All pump components other than engineering delrin impellers and
+noryl diffusers are manufactured from AISI304 grade stainless steel.
+MOTOR
+Pumps are fitted with integral two-pole Pedrollo motors constructed principally from stainless steel. A built-in thermal overload for
+motor protection is provided so the pump can be connected directly to the mains power supply through a 10A fuse or MCB.
+Enclosure Class: IPX68
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean chemically non-aggressive liquids with maximum sand content of 200gm/m3
+Max Liquid Temp: +350C
+Max Submersion Depth: 4Block:100m
+Min Borehole Diameter: 110mm
+
+Model
+
+Motor
+kW
+
+HP
+
+Current
+(A)
+
+4BLOCKm 2/10
+
+0.55
+
+0.75
+
+4
+
+4BLOCKm 2/18
+
+1.1
+
+1.5
+
+8
+
+4BLOCKm 4/7
+
+0.55
+
+0.75
+
+4
+
+Dimensions (mm)
+DN
+
+H
+
+Ø
+
+657
+1 ¼”
+
+907
+652
+
+Weight
+(kg)
+12.3
+
+100
+
+17
+12.1
+
+H
+
+

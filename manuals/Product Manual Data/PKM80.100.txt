@@ -1,0 +1,67 @@
+The PEDROLLO PK range of peripheral impeller booster pumps are robust, reliable and economical and used principally for water
+boosting in domestic and small scale water transfer applications where there is insufficient mains pressure available. The pump
+body is made from cast iron with a brass insert set into the front housing for improved starting performance and protection from
+jamming.
+MOTOR
+Pumps are close coupled to a TEFC brushless induction motor designed for continuous operation. A thermal relay is provided in the
+windings to protect against electrical and mechanical overload and the pump can be connected directly to the mains power supply
+through a 10amp fuse or MCB.
+Enclosure: IPX4
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non aggressive liquids without abrasive particles or fibres.
+Max. Fluid Temperature: +600C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 8m (at sea level)
+
+Motor
+(kW)
+
+Current
+(A)
+
+8.2
+
+DN1
+(”)
+
+DN1
+(”)
+
+1
+
+1
+
+1
+
+1
+
+L
+
+H
+179
+
+356
+
+H1
+
+W
+
+Weight
+(kg)
+
+140
+
+10
+
+152
+
+14
+
+

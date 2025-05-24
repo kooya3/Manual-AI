@@ -1,0 +1,305 @@
+DSS8
+Multistage Centrifugal
+Borehole Pump
+350
+
+70
+DSS 5/60
+
+300
+
+60
+
+DSS 8/50
+DSS 8/44
+
+250
+
+50
+
+DSS 5/44
+
+DSS 8/36
+
+ETA%
+
+200
+DSS
+DSS5/33
+8/32
+
+DSS 8/25
+
+150
+
+DSS 5/25
+
+100 DSS
+DSS5/17
+8/16
+
+40
+
+30
+
+20
+
+DSS 5/12
+
+DSS 8/11
+
+DSS 5/8
+
+50
+
+10
+
+4
+
+2
+
+6
+
+8
+
+10
+
+12
+
+4
+
+2
+
+6
+
+8
+
+10
+
+12
+
+PUMP
+DAYLIFF DSS submersible pumps are designed specifically for borehole supply applications. They are of multistage centrifugal
+impeller design and all parts are made from standard AISI304 stainless steel with water lubricated rubber bearings. A submersible
+motor is fitted beneath the pump and suction is effected through a strainer between the pump and motor.
+MOTOR
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel-cage motor constructed of stainless steel. Single phase
+motors should be supplied with purpose designed Dayliff SCM control boxes for operation and protection against overload, dry
+running and over/under voltage. Three phase motors require a remote DOL starter; A DAYLIFF SCT electronic Pump Controller is
+recommended for comprehensive pump control including low level, motor overload and irregular power supply protection.
+Enclosure Class: IP68
+
+Insulation Class: F
+
+Speed: 2900 rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids with a maximum sand content of 0.25%
+Max Liquid Temperature: +500C
+Max Water Depth:200m
+Minimum Borehole Diameter: 110mm
+
+Current(A)
+
+HP
+
+1X240V
+
+DSS 8/11
+
+1.5
+
+2
+
+11.5
+
+DSS 8/16
+
+2.2
+
+3
+
+15.5
+
+DSS 8/32
+DSS 8/36
+DSS 8/44
+DSS 8/50
+
+_
+
+1X240V
+46
+
+3X415V
+
+_
+
+1X240V
+449
+
+B
+
+3X415V
+
+_
+
+1X240V
+
+C
+
+3X415V
+
+100mm
+2”
+
+(kg)
+
+4
+
+5.5
+
+_
+
+6
+10
+
+_
+5.5
+
+7.5
+
+_
+
+10
+
+–
+
+_
+
+42
+70
+
+_
+13
+
+_
+7.5
+
+62
+
+_
+
+–
+
+_
+_
+
+91
+
+_
+15
+
+542
+
+_
+
+514
+
+1074
+
+625
+
+625
+
+19
+
+1377
+
+1349
+
+835
+
+25
+
+622
+
+1835
+
+1835
+
+34
+
+678
+
+2203
+
+1465
+
+38
+
+718
+
+_
+
+2143
+
+1717
+
+43
+
+2632
+
+1864
+
+47
+
+105
+
+–
+
+2758
+
+1990
+
+53
+
+_
+_
+_
+_
+
+768
+
+–
+
+B
+
+DSS 8/25
+
+3X415V
+
+A
+
+Weight
+
+C
+
+kW
+
+Dimensions (mm)
+
+Start Current
+(A)
+
+A
+
+Model
+
+Full Load
+
+Motor
+
+ø95mm
+
+

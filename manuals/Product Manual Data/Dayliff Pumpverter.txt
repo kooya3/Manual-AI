@@ -1,0 +1,98 @@
+PUMPVERTER
+Pump Controller
+
+DAYLIFF Pumpverter drives are high specification VSD's suitable for use in residential and industrial applications. They are compact and versatile
+and can be installed in either motor or wall mounted configuration. The inverter varies pump motor speed with demand thus regulating pump
+output to a preset outlet pressure. Particular features include:
+• Maintains constant system pressure when water demand changes by use of pressure transducers
+• Can work simultaneously with other units and control up to 6 pumps in cascade sequence.
+• Sleep mode when there is no water consumption for increased energy savings
+• Provides complete pump protection against pump overload, low voltage, high voltage, phase failure, electronics overheating and dry
+running (when using float switch).
+• Pumpverter 2 allows inclusion of small pilot pump in cascade operation and has special duty-standby operation mode for 2 pump
+systems.
+• Pumpverter 2 additionally features multiple Control modes including Constant Pressure, Constant Differential Pressure, Constant
+Temperature and Constant Temperature Difference
+Pumpverter range of inverters are proven and dependable designs using the latest technology to give exceptional levels of performance, economy
+and reliability.
+OPERATIONAL CONDITIONS
+Frequency: 50-60Hz
+Supply Voltage Tolerance: -15% - +10%
+Max Ambient Temperature: 400C
+Enclosure Class: IP54
+SPECIFICATIONS
+Power
+Model
+Pvm015
+PVm022
+PV/075
+PV/150
+
+Motor (kW)
+
+Supply Voltage (V)
+
+Output Voltage
+
+1x240
+
+1x240
+3x240
+3x415
+
+1.5
+2.2
+7.5
+15
+
+3x415
+
+Max
+Current (A)
+
+Dimensions (mm)
+H
+
+W
+
+D
+
+9.6
+
+216
+
+195
+
+154
+
+18
+32
+
+235
+220
+
+235
+290
+
+120
+150
+
+H
+
+H
+
+W
+
+D
+
+W
+
+D
+
+Weight
+(Kg)
+
+3
+6
+
+

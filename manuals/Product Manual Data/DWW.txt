@@ -1,0 +1,59 @@
+DWW 50M
+DWW 30M
+
+DWW 20A
+DWW 10A
+
+DWW 05A
+
+PUMP
+The Dayliff DWW range of open impeller portable submersible pumps are designed for pumping waste water containing particles
+and impurities in industrial and domestic applications. They feature cast iron impellers and pump bodies, double mechanical seals,
+NBR oil seals and stainless steel strainers and are supplied with 10m of cable. Single phase pumps up to 1.5kW are supplied with
+level switches for automatic operation while 3 phase pumps require external switching control.
+MOTOR
+Pumps are supplied with dry-type 2-pole motors designed for continuos duty. Single phase motors have integral thermal protection
+and can be connected directly to the mains power through a 10A fuse or MCB. Three phase motors require a remote DOL starter.
+Enclosure Class: IP68
+
+Insulation Class: F
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped liquids: Thin, chemically non-aggressive liquids, containing some impurities and fibres
+Max. Liquid temperature: +400C
+Max. Immersion Depth: 5m
+PUMP DATA
+Motor
+
+kW
+
+HP
+
+W
+
+W
+
+DN
+(”)
+
+L
+
+L
+
+L
+
+W
+
+H
+
+H1
+
+H
+
+H1
+
+H1
+
+

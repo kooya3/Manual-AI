@@ -1,0 +1,137 @@
+WR
+In-Line Close Coupled
+Centrifugal Pumps
+30
+
+25
+
+20
+
+15
+
+10
+
+50/125A
+
+50/125B
+
+40/125-SA
+5
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+PUMP
+The PEDROLLO WR series are in-line close-coupled centrifugal pumps with flanged inlet and outlet connections. They are
+designed to work with heating, air conditioning, cooling and circulation systems in civil and heavy industrial applications. The
+pump body and cover are constructed from cast iron with cataphoresis treatment while the impeller and diffuser is made from AISI
+304 stainless steel.
+MOTOR
+Pumps are close coupled to a TEFC brushless induction motor designed for continuous operation and three phase IE3 version
+optimised to work with inverters for efficient and quiet operation. Single phase IE2 motorshave intergrated thermal protection with a
+cpacitor and can be connected directly to the mains power supply through a 10Amp fuse or MCB. A remote starter with thermal
+oveload should be fitted for three phase versions.
+Enclosure Class: IPX4
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+
+Pumped Liquid: Thin, Clean, chemically non-aggressive liquids without solids or fibres.
+Max. Fluid Temperature: -10 to +1100
+Ambient Temperature: -10 to +400
+Max. Suction Lift: 7m (at sea level)
+PUMP DATA
+Dimensions(mm)
+
+Model
+
+Voltage
+(V)
+
+Motor
+(kW)
+
+Current
+(A)
+
+DN1
+(”)
+
+DN2
+(”)
+
+H
+
+B
+
+A
+
+H1
+
+Weight
+(kg)
+
+WRm 40/125-SA
+
+1x240
+
+0.75
+
+6.0
+
+1½
+
+1½
+
+350
+
+320
+
+195
+
+81
+
+21.1
+
+1.5
+
+4.5
+
+2.2
+
+5.2
+
+340
+
+220
+
+90
+
+WR 50/125B
+WR 50/125A
+
+3x415
+
+2
+
+3
+
+432
+452
+
+30
+32
+
+

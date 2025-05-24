@@ -1,0 +1,103 @@
+Schematic Layout of the
+treatment Process
+
+SITA UV
+50 Mic Hydra
+Self Cleaning
+or
+Media Filter
+
+5 Mic
+Carbon
+Filtration
+
+1 Mic
+0.5Mic
+Cartridge Cartridge
+
+Dayliff Pure Water treatment plants are specially designed for the production of totally pure water from the majority of natural or municipal sources,
+typical applications being bottled water production, institutional, commercial food processing facilities and manufacturing facilities requiring pure
+water in the production process. They eliminate most conditions of impurity including sediment, unappetizing taste or odour, and bacteriological
+contamination, the treated water output being to the highest consumption standards. Particular features include;
+• Five stage treatment that uses no chemicals providing simple operations and consistent pure water output at low operating cost.
+• Three sizes available - 500, 1000 and 2000l/h.
+• Supplied complete with all components as well as necessary auxillary accessories frame mounted to provide a compact, easy to install unit.
+Though the main application is for bottled water production, the plants are also suitable for in-line filtration for a distributed supply and also bespoke
+plants can be designed and manufactured to suit specialized treatment requirements. With benefits of simplicity , economy and, most
+importantly, effectiveness, Dayliff Pure Water treatment plants are the ideal solution for the production of totally pure water from the majority of semitreated water sources.
+APPLICATION
+Dayliff Pure Water treatment Plants are designed to purify sweet, low conductivity, soft and neutral raw waters as is typically provided from low turbidity
+natural and semi-treated municipal sources. They do not treat for dissolved trace elements, including salinity , or change hardness levels or pH. Prior
+analysis of the raw water to assess its suitability to this treatment process is important as there are some conditions for which it will not provide WHO
+standard potable water.
+THE TREATMENT PROCESS
+1st Stage - Filtration : Raw water is passed through a 50 mic self-cleaning filter screen or media filters to remove sludge and large particles.
+2nd Stage - Carbon : The process water is passed through a 5 mic Carbon Block filter for the removal of trace chlorine, organic chemicals,
+insecticides, pesticides and herbicides as well as unpleasant taste and odours.
+3rd and 4th Stage - Micro Filtration: The process water is passed in series through two progressively finer polypropylene yarn element filter
+cartridges of 1 and 0.5 micron mesh sizes to remove most suspended solids.
+5th Stage Ultra Violet Disinfection: The final step is the treatment process is disinfection using an Ultra Violet sterilizer . Ultra-Violet kills all known
+bacteria and provides totally disinfected water.
+EQUIPMENT SPECIFICATION
+Pre-Filter: Manually operated media filter or self-cleaning Hydra filter with 50 micron pleated plastic net cartridge. The filter incorporates high
+efficiency of self-cleaning operation, by means of a counter-current which maximises particle removal from the filter cartridge. The cleaning operation
+with back-wash is simply operated by the opening of the discharge valve at the filter base.
+Carbon: Carbon Block 5 mic catridge. This is made out of modified moulded block which creates a unique filter media by attaching powdered
+activated carbon onto a cellulose-free synthetic fibre matrix.
+The result is a single cartridge that combines the benefits of both a sediment filter and a carbon filtration.
+UV Unit: Sita UV made out of stainless Steel 304, characterized by compactness and ease in installation/servicing. The UV is supplied with or without a
+control unit with LCD display, which indicates working hour of the lamp, lamp faults, the irradiance and the temperature. The UV gives a dose of 300
+J/m².
+Booster Pump: DAYLIFF DDG 1000 pump close coupled to a 0.8kW electric motor pressure controlled by Brio pump controller to operate on
+demand.
+Monitoring Equipment: A flow meter and pressure gauge are provided.
+Mounting: All components are mounted on a stainless steel frame. All necessary fittings including stainless steel piping, stainless steel valves, electric
+wiring and switches are provided from the raw water inlet and no other items are necessary for installation other than a 5Amp single phase power supply.
+Filling station is provided as an option.
+SYSTEM DATA
+PW500
+0.5m3/hr
+1
+1
+
+Model
+Flow
+Atlas 50 micron pleated hydra cartridge or media lter
+10” 1mic wound sediment cartridge
+20” 1mic wound sediment cartridge
+20” 1mic jumbo sediment cartridge
+Carbon block 5 Micron 20''
+Carbon block 5 Micron 20'' big blue
+Pump
+Dimensions (mm)
+
+PW1000
+1m3/hr
+1
+
+PW2000
+2m3/hr
+1
+
+1
+1
+1
+
+L
+W
+H
+
+1
+2
+DAYLIFF DDG1000 0.8kW Pump
+1120
+1120
+1120
+480
+480
+480
+950
+950
+950
+
+

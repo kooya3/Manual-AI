@@ -1,0 +1,166 @@
+SUNVERTER B2
+
+TED
+A
+D
+UP
+
+AC Solar
+Pump Controllers
+
+Sunverter B2
+
+Solar Panel
+
+Water Tank
+
+Generator
+
+Grid
+Pump
+
+Dayliff SunVerter B2 is an AC/DC inverter specially designed for solar powering AC motors in various water pumping applications and
+is suitable for retro fitting to existing AC supply installations. It is enclosed in a plastic casing with IP20 protection grade suitable for indoor
+installations or can be supplied with an additional enclosure for outdoor applications. The unit is primarily designed for PV DC power input
+though it can be connected to an alternative AC supply and manually switched. Particular features include.
+• Fully automatic operation, the inverter powers the pump to work from sunrise to sunset.
+• Advanced MPPT (Maximum Power Point Tracking) capability providing fast response, good stability and up to 99% efficiency
+• Provides for pump soft start and full motor protection.
+• Connections provided for high water level control and dry running protection using float switches and well probes.
+• User friendly LED display interface with comprehensive display information
+• Optional automatic power supply switching function to support grid/generator back-up to enable 24-hour operation.
+• Optional remote monitoring and control capability using the unique iDayliff Service.
+CONTROLLER FUNCTIONALITY
+• Settable minimum and maximum frequency and open circuit voltage.
+• Display of operating parameters including frequency, voltage, amperage, input power and pump speed.
+• Protection against over and under voltage, over current, system overload and module over temperature.
+• Fault detection with error code display.
+INSTALLATION
+Dayliff SunVerter B2 controllers are surface mounted and should be provided with an enclosure for water and heat protection. Due to the
+high operating voltages proper earthing is essential, which must be carried out by a qualified electrician.
+As a rule all PV powered solar pumping systems should be provided with a PV solar module array with a nominal output about 30% greater
+than the motor size. The arrays should be wired in a combination of series and parallel connections to ensure that the correct voltage is
+available into the inverter with appropriately sized PV Disconnect Circuit Breaker and a Surge protector if applicable. It is important that the
+connection arrangement is approved by the pump supplier.
+OPERATING CONDITIONS
+Enclosure Class: IP20
+Relative Humidity: 0-95%
+
+Ambient Temperature: -100 C to +500 C
+Frequency: 0-60Hz
+
+CONTROLLER DATA
+Motor
+Rated
+Power
+(kW)
+
+SVB2/1.5M
+
+1.1
+
+SVB2/2.2M
+
+1.5
+
+SVB2/4M
+
+2.2
+
+SVB2/4T
+
+4
+
+SVB2/5.5T
+
+5.5
+
+SVB2/7.5T
+
+7.5
+
+Rated
+Voltage
+(V)
+
+1x240
+
+Max
+Input
+Power
+(kWp)
+
+Output
+Current
+(A)
+
+2.2
+
+7
+
+3.3
+
+10
+
+5
+
+Max DC
+Input
+Voltage
+(VDC)
+
+440
+
+MP
+Dimensions
+Weight
+Voltage
+(mm)
+(kg)
+(VDC)
+H W D
+
+310-360
+
+16
+9.5
+
+3x415
+
+8
+
+14
+
+11
+
+17.5
+
+780
+
+500-600
+
+186 126 155
+
+1.7
+
+230 140 172
+
+3.1
+
+186 126 155
+
+2.0
+
+230 140 172
+
+3.1
+
+W
+
+D
+
+H
+
+Model
+
+

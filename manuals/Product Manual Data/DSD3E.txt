@@ -1,0 +1,139 @@
+DSD3E
+Submersible
+Borehole Pump
+100
+
+70
+
+DSD3E/13
+
+60
+80
+50
+60
+
+40
+DSD3E/7
+
+30
+
+40
+
+20
+20
+10
+
+0
+
+1
+
+0.5
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+PUMP
+Dayliff DSD3E submersible Multistage centrifugal pumps are specially designed for domestic and small scale water supply from
+wells and boreholes. Material of construction include composite impellers and diffusers, cast iron delivery and suction chambers
+and AISI 304 stainless steel pump sleeve, shaft and shaft coupling. These corrosion resistant materials together with the advanced
+hydraulic design provide the pumps with excellent sand handling capabilities for a longer life and operational efficiency. The
+pumps are supplied complete with 30m cable.
+MOTOR
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel-cage motor constructed of stainless steel. Motors are
+supplied complete with inbuilt capacitor and electrical overload protection. They can be connected directly to mains power supply
+through fused insulation or MCB.
+Enclosure Class: IP68
+
+Insulation Class: B
+
+Voltage:1x240V
+
+Speed: 2850 rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean and chemically non-aggressive liquids
+Max. Water temperature: +350C
+Max. immersion depth: 150m
+Min. borehole diameter: 110m
+Max Particle Size: 2.4mm
+PUMP DATA
+Motor
+kW
+
+HP
+
+Current
+(A)
+
+DSD3E/7
+
+0.37
+
+0.5
+
+2.7
+
+DSD3E/13
+
+0.75
+
+1
+
+5
+
+Model
+
+Istat
+I
+
+DN
+(”)
+
+4
+
+1¼
+
+Dimensions
+A
+
+D
+
+Weight
+(kg)
+
+396
+
+685
+
+9
+
+518
+
+837
+
+12
+
+

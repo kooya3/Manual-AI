@@ -1,0 +1,180 @@
+SITA
+
+D
+
+1000
+MIN
+
+D
+
+D
+
+1000
+MIN
+
+500 MIN
+
+UV Purifiers
+
+OUT
+OUT
+
+OUT
+
+H
+
+H
+
+W
+
+DRAIN
+
+DRAIN
+IN
+
+IN
+
+H
+IN
+L
+
+AL Series
+
+AL Series
+
+LCD Series
+
+LCD Series
+
+RACK Series
+
+Controller
+
+RACK Series
+
+Pure water is an essential requirement for healthy living and there is ever increasing awareness of the dangers from contaminated supply. Treatment by Ultra
+Violet light is a proven and highly effective method of eliminating harmful bacteria from drinking water supplies using Ultraviolet light rays. The process has
+many advantages including no chemical additions to the water, negligible operating costs and security being both inherently safe and impossible to
+overdose. It works on the principal that UV light at a specific wavelength emit UV-C rays which are lethal to infectious micro-organisms as they destroys their
+ability to reproduce and thus renders them harmless. The process protects against most types of bacteria including legionella, salmonella, faecal coliform,
+e-coli, influenza, hepatitis and dysentery bacilli and is one of the safest and easiest ways to provide pure, sanitised drinking water.
+Using this effective technology DAYLIFF Sita UV Purifiers have been carefully designed to incorporate all the benefits of the process into reliable and
+effective treatment packages particularly applicable for smaller commercial, institutional and domestic applications. Design UV-C dosage at the rated
+flows is approximately between 300J/m2 – 400J/m2, a rate of 300J/m2 being sufficient to destroy most common forms of bacteria. Particular features
+include:• AISI 304 stainless steel treatment chamber with an effective sleeve sealing arrangement that is simple to disassemble for sleeve cleaning and lamp
+maintenance.
+• High purity quartz lamp sleeve.
+• High efficiency 254nm wavelength UV mercury vapour quartz lamps.
+• Domestic AL series purifiers include an in-built controller for direct mains supply connection that features a fault/working LED indicator.
+• LCD and Rack series purifiers include a separate microprocessor controller that features an LCD display of lamp working hours, operating status
+and faults, countdown hour meter, alarm indicator and relay for remote monitoring, remote on/off relay and timer.
+DAYLIFF Sita UV Purifiers provide all the benefits of the UV treatment process in effective, economical treatment units that can be relied on for years of
+trouble free operation. Whenever there is a requirement for clean, pure water there is no other better solution than a Sita UV Purifier.
+RAW WATER QUALITY
+The effectiveness of UV treatment is determined by the clarity of the incoming water as suspended particles and discolouration can shield the micro
+organisms from the UV light. It is therefore of the greatest importance that the incoming supply is adequately pre-treated to ensure effective treatment, the
+following criteria being required:
+Clarity: <5NTU
+
+Suspended Solids: <10ppm, Magnesium <0.05ppm, Iron<0.3ppm
+
+pH: 6.5-9.5
+
+LAMP LIFE
+UV lamps lose approx 6% intensity every 1000hrs operation so to maintain effective dosage lamps must be changed after a maximum of 9000hrs
+operation (approximately one year of continuous usage).
+OPERATING CONDITIONS
+Max Operating Pressure: 9 bar (AL),10 bar (LCD, Rack)
+Max Water Temp: 400C
+
+Max Ambient Temp: 450C
+Controller Rating: IP54
+
+EQUIPMENT SPECIFICATION
+Model
+
+Max
+Flow Rate
+(l/hr)
+
+Lamp
+Specification
+(Watts)
+
+Power
+Consumption
+(Watts)
+
+UV 403AL
+UV 405AL
+UV 440LCD
+UV 550LCD
+UV 80/2LCD
+UV 80/3RACK
+
+600
+1200
+3600
+6000
+12000
+20000
+
+1x16
+1x30
+1x40
+2x40
+2x80
+3x80
+
+16
+30
+40
+80
+160
+240
+
+Controller
+LxHxW
+_
+_
+
+Dimensions (mm)
+UV Chamber
+
+215x215x90
+400x300x200
+
+H
+394
+524
+880
+985
+988
+988
+
+D
+90
+90
+200
+215
+214
+254
+
+IN/OUT
+½”
+¾”
+1”
+1½”
+1½”
+2”
+
+Weight
+(kg)
+
+1.5
+6
+8
+8
+12
+
+

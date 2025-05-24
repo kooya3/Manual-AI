@@ -1,0 +1,130 @@
+DDW
+Drainage
+Pumps
+
+10
+
+PUMP HEAD (m)
+
+8
+
+6
+DDW 1000V
+
+4
+
+DDW 400S
+
+2
+DDW400/750S
+
+DDW750/1000V
+
+DDW 750S
+
+0
+
+2
+
+4
+
+6
+8
+10
+12
+3
+FLOW RATE (m/hr)
+
+DDW 750V
+
+14
+
+16
+
+PUMPS
+The DAYLIFF DDW submersible pump range are centrifugal submersible pumps designed for small scale drainage, irrigation,
+fountain and water transfer applications. Two versions are available, the standard S version with open impeller for lightly turbid
+water and the vortex V version for water with higher silt loads.
+Pump construction is of high strength engineering plastic for the pump casing, suction base and impeller and an external float switch
+is provided for automatic pump control. All pumps are supplied with 10m of waterproof power cable and a union connected outlet
+suitable for threaded or hose connection.
+MOTORS
+Pumps are provided with integral non-overloading induction motors designed for continuous operation. A thermal cut-out is
+provided in the motor winding to protect against pump overload and the pump can be connected directly to the mains power supply
+through a 10A fuse or MCB.
+Enclosure Class: IPX8
+
+Insulation Class: F
+
+Voltage:1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquid containing some particles and fibres
+Max Fluid Temperature: +350C
+Max Immersion Depth: 5m
+PUMP DATA
+
+DDW 400S
+DDW 750S
+DDW 750V
+DDW 1000V
+
+Dimensions (mm)
+
+Motor
+kW
+
+Current (A)
+
+0.4
+
+1.7
+
+0.75
+
+3.1
+
+1
+
+4.2
+
+W
+
+Max. Particle
+Size (mm)
+
+370
+
+5
+
+385
+
+35
+
+220
+
+H
+
+W
+
+H
+
+Min 400
+
+Model
+
+Min 350x350
+
+Outlet
+(”)
+
+Weight
+(kg)
+5
+7
+6
+7
+
+

@@ -1,0 +1,76 @@
+SKR
+Centrifugal Irrigation
+& Booster Pumps
+30
+
+20
+
+10
+
+0
+
+5
+
+10
+
+15
+
+20
+
+PUMP
+The PEDROLLO SKR is a self priming centrifugal pump designed for pumping water in general water distribution and is particularly
+suited to irrigation applications.
+Pump body is constructed from cast iron with an epoxy electrocoating treatment for corrosion protection while the impellers are
+made from Noryl.
+MOTOR
+Pumps are close coupled to TEFC brushless induction motor designed for continuous operation. A thermal relay is provided in the
+windings to protect against electrical and mechanical overload and the pump can be connected directly to the mains power supply
+through a 10amp fuse or MCB.
+Enclosure Class: IPX4
+Speed: 2900 rpm
+
+Insulation Class: F
+Voltage: 1x 240V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without abrasive particles or fibres
+Max. Fluid Temperature: +400C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 9m (at sea level)
+PUMP DATA
+Model
+SKRm
+
+Motor
+(kW)
+1.5
+
+Current
+(A)
+10.3
+
+DN
+(”)
+1½
+
+Dimensions (mm) Weight
+C
+A
+B
+(Kg)
+223
+27
+465
+241
+
+A
+DN
+
+B
+
+DN
+C
+
+Dimensions in mm
+
+

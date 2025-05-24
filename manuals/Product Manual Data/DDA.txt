@@ -1,0 +1,157 @@
+DDA
+Submersible
+Well Pumps
+70
+
+60
+
+PUMP HEAD (m)
+
+50
+
+40
+
+30
+DDA 1200C2
+
+20
+
+DDA 1000P
+
+DDA 900C
+
+DDA 600C/1200C2
+
+DDA 600C
+
+10
+DDA 900C DDA 1000P
+
+7
+FLOW RATE (m3/hr)
+
+PUMP
+DAYLIFF DDA submersible multistage centrifugal pumps are designed for pumping clean, non-aggressive water in various
+domestic and light duty applications. They are particularly suitable for wells and boreholes, though can also be used for water
+transfer from tanks, irrigation and pressure boosting applications as an alternative to a conventional dry mounted pump. A design
+feature is the jacketed motor arrangement which provides excellent cooling and allows the pump to work semi-submerged. The
+pumps also feature mechanical seals (twin on DDA600C & DDA1200C2) in an intermediate oil chamber for greater pump
+reliability and pump construction is Polypropylene impellers and diffusers and stainless steel pump casing.
+Pumps can be fitted with a pressure controller for automatic operation. All pumps are supplied complete with 20m cable.
+DDA1000P, DDA600C & DDA1200C2 are fitted with a low level float switch with adjustment clamp and an inbuilt capacitor for
+simplified installation and are particularly suitable to well and tank applications.
+DDA900C is particularly suited to borehole applications and is supplied with an external control box which incorporates an isolator,
+run indicator light, thermal overload protection and starting capacitor which can be connected directly to mains power. The box is
+also provided with auxiliary terminals for control probes, pressure switch or float switch.
+MOTOR
+Enclosed and rewindable liquid cooled, non-overloading induction motor designed for continuous operations incorporating a
+thermal cut-out in the windings to protect against overloading. Pumps can be connected directly to the mains power supply through
+a 10A fuse or MCB.
+Enclosure Class: X8
+
+Insulation Class: B
+
+Voltage: 1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, chemically non aggressive liquids without solids or fibres
+Max. Liquid temperature: 350C
+Max. Immersion Depth: DDA1000P-6m, DDA600C & DDA1200C2-20m;
+DDA900C-16m
+PUMP DATA
+Model
+
+H
+
+Motor
+
+Max.
+Particle
+Size, mm
+
+Max.
+Current
+(A)
+
+kW
+
+HP
+
+DDA 600C
+DDA 1200C2
+DDA 1000P
+
+0.55
+0.92
+1.0
+
+0.75
+1.2
+1.3
+
+1.5
+
+5.9
+6.5
+5
+
+DDA 900C
+
+0.9
+
+1.2
+
+1
+
+1.5
+
+1
+
+Outlet
+(”)
+
+1¼
+1
+
+Dimensions (mm)
+H
+
+499
+577
+440
+645
+
+W
+
+150
+
+15
+18
+9.4
+
+w
+
+245
+
+26
+
+DDA 900C
+
+130
+
+H
+
+H
+
+Weight
+(kg)
+
+w
+DDA 1000P
+
+w
+DDA 600C/1200C2
+
+

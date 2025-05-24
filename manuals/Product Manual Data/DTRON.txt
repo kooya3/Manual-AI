@@ -1,0 +1,118 @@
+DTRON/
+ESYBOX DIVER
+Submersible Pumps
+60
+55
+
+ESYBOX DIVER
+
+50
+
+PUMP HEAD (m)
+
+45
+40 DTRON3 35/120
+35
+30
+25
+20
+15
+10
+5
+
+DTRON2 35/90
+1
+
+0
+
+2
+
+5
+3
+4
+FLOW RATE (m3/hr)
+
+6
+
+7
+
+8
+
+PUMP
+DAB DTRON/ESYBOX DIVER pumps are advanced technology smart submersible boosters especially designed for in tank water supply
+applications. All models feature an integral electronic controller providing for fully automatic operation as follows:DTRON features a fixed speed motor that stops on pressure set at 2.4Bar fixed for DTRON2 and settable for DTRON3 and starts on flow
+ESYBOX DIVER is fitted with a variable speed permanent magnet motor that maintains a constant system pressure pre-set at 3Bar though
+adjustable from 1 to 5.5Bar.
+All pumps include the following features:• Pump design incorporates a double mechanical seal, non-return valve and bleed valve for reliable priming
+• Integral expansion vessel to minimise cycling and protect against water hammer for extended life. A separate pressure vessel is not
+necessary
+• Adjustable suction height up to 8 centimetres
+• Can be configured for horizontal, vertical, external (with additional suction chamber), submerged, semi submerged and for
+surface suction (with additional float kit) installation arrangements
+• Integral high efficiency motors incorporating dry run and motor overload protection
+• Incorporate a remote DCONNECT controller that provides for wireless level control and pump operation monitoring through WiFi smartphone connection
+Materials of construction and non-corroding Technopolymer throughout and 15 metres of cable with quick coupling is included.
+DAB DTRON/ESYBOX DIVER pumps are complete water boosting systems and require no further accessories. The submersible design
+ensures simplicity of installation, reliability, quiet operation and security and they are an optimal solution for all small scale water supply
+applications.
+Enclosure Class:IP68
+
+Insulation Class: F
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, Clean, chemically non-aggressive liquids with
+Maximum particle size:<2mm
+Max, Immersion Depth: 12m
+Max. Ambient Temperature: +500C
+Max. Liquid Temperature: +500C
+
+Voltage:1x240V
+Installation Options
+
+Tank Installation
+Surface Installation
+
+PUMP DATA
+Model
+
+kW
+
+Motor
+Outlet
+Current
+(”)
+HP
+( A)
+
+DTRON2 35/90
+0.5 0.7
+DTRON3 35/120 0.6 0.8
+ESYBOX DIVER 0.95 1.3
+
+3.4
+4
+5.5
+
+1¼
+
+Dimensions (mm)
+DIA
+185
+
+Height
+
+Weight
+(kg)
+
+611
+
+11
+
+651
+
+12
+17
+
+Well Installation
+
+

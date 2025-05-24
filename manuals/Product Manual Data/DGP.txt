@@ -1,0 +1,578 @@
+DGP
+Prime Power
+Diesel Generators
+
+Dayliff DGP Perkins powered generators are robust, high quality units designed for continuous duty in a wide range of power supply
+applications. All sets offer the following features:• Powered by dependable and efficient Perkins water cooled diesel engines.
+• Close coupled at 1500rpm to a brushless single bearing high efficiency alternator with solid state AVR regulation.
+• Base frame mounted on anti-vibration mounts and including a high capacity base mounted fuel tank for extended operation
+time.
+• Powder coated sound and weather proof canopies with residential silencer for extremely low noise operation.
+• Integral DSE digital control module that provides selectable readout of electrical voltage, phase current, output frequency
+and battery voltage and engine speed, hours run, oil pressure and coolant temperature. Remote monitoring is available as an
+option.
+• Automatic shut down protection in the event of low engine oil pressure, high engine temperature and over and under speed
+with warning indicators provided for each condition.
+• Digital automatic mains failure provision for starting the generator. An additional automatic transfer switch is also required
+for mains/generator power transfer.
+Dayliff Perkins diesel generators are reliable economical and high specification products that are the ideal solution for all continuous
+duty and standby power generating requirements.
+TECHNICAL DATA
+DGP07
+
+DGP12
+
+DGP16
+
+DGP24
+
+kVA
+
+9/10
+
+kW
+
+7/8
+
+15/16.5
+
+20/22
+
+30/33
+
+45/50
+
+12/13.2
+
+16/18
+
+24/26
+
+36/40
+
+Perkins Model
+
+403A11G1
+
+403A15G2
+
+404A22G1
+
+1103A33G
+
+1103A33TG1
+
+Power @
+1500rpm (kW)
+
+9
+
+14
+
+19
+
+29
+
+42
+
+GENERATOR MODEL
+
+*Dimensions
+& Weights
+
+Alternator Data
+
+Engine Data
+
+Power Output
+Prime/Standby
+
+Aspiration
+
+DGP36
+
+DGP48
+
+DGP64
+
+DGP80
+
+DGP108
+
+60/66
+
+80/88
+
+100/110
+
+135/150
+
+48/52.8
+
+64/70.4
+
+80/88
+
+108/120
+
+1103A33TG2
+
+1104A44TG2
+
+1104C44TAG2
+
+1106A70TG1
+
+55
+
+73
+
+94
+
+123
+
+Natural
+
+Turbocharged
+
+No. of cylinders
+
+3
+
+3
+
+4
+
+3
+
+4
+
+6
+
+Displacement (L)
+
+1.1
+
+1.5
+
+2.2
+
+3.3
+
+4.4
+
+7
+
+2
+
+3.1
+
+4
+
+5
+
+8
+
+10
+
+14
+
+17
+
+23
+
+3
+
+4
+
+5.3
+
+7
+
+11
+
+14
+
+19
+
+236
+
+30
+
+2300/2600
+
+2770/2600
+
+3520/3200
+
+Fuel
+Consumption
+(litres/hr)
+
+75%
+load
+100%
+load
+
+Alternator Type
+
+Self excited 4 pole (1500rpm) single bearing, brushless
+
+Output Voltage
+
+3x415V
+
+Voltage Regulation
+
+AVR±0.5% with 4% engine governing
+
+Insulation Class
+
+H
+
+Protection Rating
+
+IP23
+
+Length, A (mm)
+
+1910/1800
+
+1910/2000
+
+2220/2150
+
+2220/2300
+
+Width, B (mm)
+
+860/900
+
+970/1100
+
+Height, C (mm)
+
+1270/1180
+
+1490/1240
+
+Fuel Tank Size(L)
+Dry Weight (kg)
+
+51/100
+740/670
+
+750
+
+51/70
+
+85/100
+
+820/850
+
+1080/1120
+
+1110
+1590/1290
+
+85/120
+1250/1270
+
+1340/1290
+
+1590/1370
+
+1870/1470
+
+110/160
+
+110/170
+
+260/230
+
+1440/1520
+
+1630/1620
+
+2300/2100
+
+DGP120
+
+DGP144
+
+DGP160
+
+DGP200
+
+DGP240
+
+DGP320
+
+DGP400
+
+DGP600
+
+DGP800
+
+Power Output
+Prime/Standby
+
+kVA
+
+150/165
+
+180/200
+
+200/220
+
+250/275
+
+300/330
+
+400/450
+
+500/550
+
+750/825
+
+1000/1100
+
+kW
+
+120/132
+
+144/160
+
+160/176
+
+200/220
+
+240/264
+
+320/360
+
+400/440
+
+600/660
+
+800/880
+
+Perkins Model
+
+1106A70TAG2
+
+1106A70TAG3
+
+1106A70TAG4
+
+1206AE70TTAG2
+
+1606AE93TAG5
+
+2206AE13TAG3
+
+2506AE15TAG2
+
+400623TAG2A
+
+4008TAG2A
+
+Power @
+1500rpm (kW)
+
+136
+
+162
+
+179
+
+236
+
+281
+
+368
+
+451
+
+658
+
+900
+
+12.5
+
+15.2
+
+22.9
+
+30.6
+
+*Dimensions
+& Weights
+
+Alternator Data
+
+Engine Data
+
+GENERATOR MODEL
+
+Aspiration
+
+Turbocharged
+
+No. of cylinders
+
+6
+
+Displacement (L)
+Fuel
+Consumption
+(litres/hr)
+
+75%
+load
+100%
+load
+
+7
+
+8.8
+
+25
+
+32
+
+35
+
+42
+
+48
+
+62
+
+76
+
+122
+
+160
+
+33
+
+42
+
+46
+
+56
+
+65
+
+81
+
+100
+
+161
+
+213
+
+Alternator Type
+
+Self excited 4 pole (1500rpm) single bearing, brushless
+
+Output Voltage
+
+3x415V
+
+Voltage Regulation
+
+AVR±1.0% with 4% engine governing
+
+Insulation Class
+
+H
+
+Protection Rating
+
+IP23
+
+Length, A (mm)
+
+3520/3200
+
+3900/3200
+
+4700/3800
+
+Width, B (mm)
+
+1110
+
+1430/1400
+
+Height, C (mm)
+
+1870/1800
+
+2020/2100
+
+Fuel Tank Size (L)
+Dry Weight (kg)
+
+260/400
+2350/2250
+
+2310/2340
+
+2360/2390
+
+4700/4200
+
+4900/4200
+
+1630/1500
+2020/2200
+
+2190/2200
+
+5190/4800
+
+6000/5800
+
+12000/5800
+
+1630/2000
+
+2320/2150
+
+2320/2250
+
+2190/2430
+
+2600/2540
+
+2900/2540
+
+460/670
+
+505/720
+
+538/730
+
+680/1000
+
+3730/3750
+
+3800/4200
+
+4770/4740
+
+5060/6710
+
+NA/1000
+8830/8050
+
+11550/9300
+
+*NOTE: Dimensions & Weights: Jubaili/Yanan
+DERATING: Given outputs are sea level ratings. Sets should be derated at 1% for every 100m higher than 100m above sea level, and 2% for every 50C
+temperature above 200C for naturally aspirated engines. For turbo charged engines, refer to supplier.
+
+

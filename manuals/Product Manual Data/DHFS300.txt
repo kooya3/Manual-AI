@@ -1,0 +1,171 @@
+DHFS300
+Surface Irrigation
+Pumps
+18
+
+2
+Average Daily Irradiation Values (Kwhr/m)
+
+Graph 1
+
+16
+
+6.3 6.5
+
+6.5
+6.0
+
+5.6
+
+5.8
+
+5.6 5.7 5.9
+
+5.8
+5.1 5.3
+
+14
+
+PUMP HEAD(m)
+
+12
+10
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+% Daily Output
+
+8
+
+Graph 2
+
+13.5%
+13%
+13%
+12%
+12%
+10%
+10%
+
+6
+7%
+
+7%
+
+4
+2%
+
+0
+
+2%
+
+0%
+
+2
+
+6
+
+5
+
+10
+
+15
+
+20
+25
+Flow(m3/hr)
+
+30
+
+35
+
+40
+
+0%
+7
+
+8
+
+9
+
+10 11 12 13 14 15 16 17 18
+Time (hrs)
+
+45
+
+PUMP
+The DHFS300 is a solar powered booster pump suitable for general water transfer and irrigation applications where grid power is
+unavailable. The pump is of centrifugal design with material of construction being cast iron with brass impellers.
+MOTOR
+The pump is coupled to high efficiency cast iron motor rated for continuous application.
+Enclosure Class: IP54
+
+Insulation: F
+
+Speed: 3000rpm
+
+CONTROLLER
+The pump is supplied with a separate self-contained multifunction MPPT controller that tracks the solar modules maximum power
+output voltage which varies with module temperature and irradiation levels. This ensures maximum current output, typically +25%
+higher than conventional module controllers and similar increase in daily water output. The controller also protects from over and
+under voltage, over current and short circuit protection, over-temperature protection and features various indicator lights that give
+the pumps operating status.
+POWER OUTPUTS
+Pump output curve is given at standard test conditions of 1000W/m2 solar irradiance and 250C. Output will vary- throughout the
+year depending upon prevailing irradiation levels. For estimated daily outputs at continuous pumping, multiply the indicated output
+at the duty point by the daily radiation given in Graph 1. For indicative purposes, factors of 1.1 can be applied for hot arid areas
+and 0.9 for temperate high-altitude areas in the Tropics. Output will vary throughout the day as a proportion of the estimated hourly
+irradiation as shown in Graph 2.
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean chemically non-aggressive liquid without solids or fibres.
+Max. Ambient Temperature: +350C
+Max. Liquid Temperature: +400C
+PUMP DATA
+Model
+
+Motor
+Power (W)
+
+Peak
+Voltage (V)
+
+Open Circuit
+Voltage (Voc)
+
+PV
+Conguration
+
+Inlet/
+Outlet(”)
+
+DHFS300
+
+1500
+
+150-380
+
+200-430
+
+6 No. 350W
+Solar Modules
+(Series connection)
+
+3
+
+Dimensions (mm)
+L
+
+W
+
+H
+
+Weight
+(Kgs)
+
+430
+
+255
+
+330
+
+27
+
+

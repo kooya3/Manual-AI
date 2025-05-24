@@ -1,0 +1,154 @@
+18
+
+UPA 15-160
+
+16
+14
+
+UPA 120
+
+12
+10
+UPA 15-90
+
+UPA 15-160
+
+UPA 15-90
+
+8
+6
+4
+2
+
+UPA 120
+1
+
+0.5
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+4
+
+4.5
+
+5
+
+PUMP
+The Grundfos UPA mini circulator pumps are designed for pressure boosting of domestic potable and hot water supplies with
+particular applications for showers, taps and water feeds to appliances. Pumps incorporate a flow switch for automatic on demand
+operation. They are for use in open systems and the option of manual or auto operation can be selected.
+Pump construction is stainless steel encapsulated rotor, rotor can and bearing plate, polycarbonate impeller and cast iron pump
+housing. Pumps are supplied with a female threaded BSP union connection set.
+MOTOR
+UPA 15-90 & 120: Pumps are fitted with an integral 2-pole asychronous squirrel-cage motor, that includes a built-in thermal
+switch which monitors winding temperature and cuts off the power supply in the event of overload. No remote overload protection is
+required, though the pump must be connected to a suitably rated MCB or fuse.
+UPA 15-160: Pumps are fitted with a synchronous 4-pole electronically commutated motor with permanent magnet rotor that is
+energy efficienct with proven quality. Pumps must be connected to a suitably rated MCB or fuse
+Power Supply:1x240V Enclosure Class:IP42-UPA15-90,120
+IPX2D-UPA15-160
+
+Insulation Class: H-UPA15-90
+F-UPA120/15-160
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without solids, fibres or mineral oils.
+Fluid Temperature Range:+20C to +950C.
+Max. Ambient Temperature: 400C
+Max. Operating Pressure: 10 Bar
+Min. Inlet Pressure: 0.2Bar
+Max. Relative Humidity: 95%
+Installation: Pumps must be installed with the pump shaft horizontal.
+Motor
+
+Model
+
+Power P1 (W)
+120
+180
+250
+
+UPA 15-90
+UPA 15-160
+UPA 120
+
+Weight (kg)
+
+Max. Current (A)
+0.48
+1.41
+1.14
+
+2.5
+2.4
+5
+3
+
+/4”
+
+½”
+
+3
+
+/4”
+
+260
+
+310
+
+130
+
+203
+
+212
+
+160
+
+1”
+
+3
+
+/4”
+
+1”
+50
+
+54
+
+UPA 15-90
+
+23
+
+103
+
+116
+
+50
+
+UPA 15-160
+
+25
+
+110
+
+63
+
+69
+
+32
+
+UPA 120
+
+130
+
+All Dimensions in mm
+
+

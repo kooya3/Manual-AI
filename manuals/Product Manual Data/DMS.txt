@@ -1,0 +1,161 @@
+12/8
+25/7
+
+12/7
+
+25/6
+
+12/6
+
+25/5
+
+12/5
+
+85/5
+
+46/7
+46/6
+
+85/4
+
+46/5
+85/3
+
+46/4
+
+PUMP
+The DAYLIFF DMS range of horizontal multistage centrifugal pumps are heavy duty industrial quality pumps suitable for various
+water supply, irrigation and industrial applications. Particular features include gland packing seals for simple and economical
+maintenance and external securing tie bolts for ease of disassembly. Construction is heavy duty cast iron stages and pump body,
+with cast iron impellers and diffusers and stainless steel shaft.
+A wide range of models and specifications are available, a combination of the pump size and number of stages being selected to
+achieve maximum efficiency at a specific duty point. Electric motors are selected according to the required power input at the duty
+point and mounted together with the pump and coupling on a base frame. All pumps are also suitable for direct or belt drive by
+diesel engine.
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without abrasive particles or fibres
+Max. Fluid Temperature: +1100C
+Max. Suction Pressure: 10 bar
+Max. Delivery Pressure: 30 bar
+Inlet
+Rotation: Clockwise viewed from driving end
+L4
+
+Outlet
+
+u
+L3
+L2
+
+g
+
+H
+
+Dimensions (mm)
+
+H1
+
+Model
+
+L5
+
+d
+
+Inlet Flange
+E
+
+Inlet
+
+L1
+
+Motor
+(kW)
+
+L3
+L2
+(mm) (mm)
+
+7.5
+
+180
+
+695
+
+185
+
+15
+
+230
+
+845
+
+316
+
+22
+
+230
+
+845
+
+358
+
+11
+
+230
+
+745
+
+249
+
+18.5
+
+295
+
+910
+
+358
+
+30
+
+295
+
+910
+
+531
+
+995
+
+353
+
+Motor*
+(Kw)
+
+280
+330
+380
+430
+
+9
+
+18.5
+
+480
+
+L3
+L2
+(mm) (mm)
+
+L3
+Motor*
+L2
+(Kw)
+(mm) (mm)
+
+Motor*
+(Kw)
+
+L3
+L2
+(mm) (mm)
+
+

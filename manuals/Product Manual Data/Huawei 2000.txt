@@ -1,0 +1,414 @@
+SUN2000 SERIES
+
+TED
+A
+D
+UP
+
+Smart Grid Solar
+PV Inverters
+
+3 PHASE
+Efficiency Curve
+
+100%
+98%
+96%
+94%
+92%
+90%
+88%
+
+5%
+
+10%
+20%
+30%
+260V
+360V
+LOAD (%)
+
+SUN2000-L1 (1PH)
+
+Input
+EMI Filter
+
+DC
+Switch
++
+
+EFFICIENCY (%)
+
+EFFICIENCY (%)
+
+I PHASE
+
+50%
+75%
+480V
+
+98%
+96%
+94%
+92%
+90%
+
+100%
+
+0%
+
+Circuit Diagram
+
+20%
+
++
+
+60%
+600 V
+LOAD (%)
+
+Output Output
+Isolation EMI Filter
+Relay
+
+PV2
+-
+
+Battery
+
+Output
+Filter
+SPD
+
+AC SPD
+
+L1
+L2
+L3
+N
+PE
+
+EMI
+Filter
+
+SUN2000-3/4/5/6/8/10KTL-M0/M1
+
+SUN2000-M (3PH)
+
+100%
+
+Output
+Isolation
+Relay
+
+BAT+
+BAT -
+
++
+
+SUN2000-2/3/3.68/4/4.6/5/6KTL-L1
+
+DC/AC
+Converter
+
+EMI
+Filter
+
+PV1PV2PV 2+
+L
+N
+PE
+
+80%
+850 V
+
+Circuit Diagram
+
+DC
+Switch
+
+-
+
+DC SPD
+
+40%
+470 V
+
+PV 1+
+DC/AC
+Converter
+
+PV1
+
+-
+
+Efficiency Curve
+
+100%
+
+SPD
+
+* Circuit diagrams for larger inverters available on request
+
+HUAWEI SUN Series Smart String Grid Connect Inverters are of transformerless design for the management of hybrid solar powered PV/AC mains power supply
+installations. The inverters convert the PV generated DC power to AC, either single or three phase depending on model, and feed to the applied load prioritizing the
+PV output, supplementing with AC mains power if there is insufficient PV generated output. Inverters are fitted with MPPT trackers to optimise output efficiency and
+they are designed to be connected in parallel each fed from dedicated solar arrays that can provide power outputs of limitless size. WIFI monitoring devices and
+Huawei Smartlogger are also provided for monitoring and controlling the power to the grid. Particular features include:• Up to 12 MPPT Trackers
+• 99.0% maximum efficiency
+• 1-phase and 3-phase inverters up to 10kW come with a battery interface for back-up power and are compatible with Huawei Smart ESS (LiFEPO4) Battery
+5kWh – 30kWh
+• MBUS Supported - a communication protocol used between meters and the central data collection system or Pre-Payment unit.
+• Fuse free design with AC over current, undervoltage, short-circuit and DC/AC Surge protection
+• Provided with Anti-Islanding and DC reverse polarity protection and Insulation Monitoring
+• EN/IEC 62109-1, EN/IEC 62109-2, IEC 62116 Certifications.
+The following additional accessories are available as options:HUAWEI Smart Logger 3000A with MBUS communication: The Huawei Smart Logger 3000A is dedicated to monitoring and managing a PV power
+generating system. It can connect to 80 devices >40kW and centrally monitors information regarding connected solar modules and inverters. Works as export
+limiter with SmartPower Sensor and other 3rd party meters
+Smart Dongle-WLAN_FE: WLAN & Fast Ethernet (FE) communication Module that supports Huawei Inverters and serves as export limiter with SmartPower
+Sensor. Can be connected to upto 10No. devices <40kW
+HUAWEI SUN Inverters incorporate the latest technologies for optimal PV power generation providing highly efficient, safe & reliable installations with smart
+operating and grid supporting capabilities that optimizes solar energy utilization in Residential, Commercial and Industrial applications.
+TECHNICAL SPECIFICATIONS
+Enclosure Class: IP65
+Night time Power Consumption: <5.5W
+Model
+
+Operating Temp Range: -250 to + 600C
+
+SUN
+SUN
+SUN
+SUN
+SUN
+SUN
+SUN
+SUN
+SUN
+SUN
+SUN
+SUN
+SUN
+SUN
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+2000
+3KTL-L1 3KTL-M1 5KTL-M1 10KTL-M1 15KTL-M5 20KTL-M5 30KTL-M3 36KTL-M3 50KTL-M3 60KTL-M0 100KTL-M2 115KTL-M2 150K-MGO 330KTL-HI
+
+Max. Output &
+3,300 3,300
+5,500
+10,000
+Rated Output
+Power
+Input AC Voltage,
+1x240
+VAC
+Max. PV Input
+7,500
+15,000
+4,500 4,500
+Power, W
+Max. PV Input
+1,100
+600
+Voltage, VDC
+Operating
+140-980
+90-560
+Voltage Range,
+VDC
+Rated Input
+360
+Voltage, VDC
+Start Voltage,VDC 100
+Number of MPPT
+2
+Inputs
+Maximum Input
+Current per
+12.5
+11
+MPPT, A
+Maximum Output
+15
+5.1
+8.5
+16.9
+Current, A
+Rated Output
+240V
+Voltage, Vac
+Backup Power
+Yes, via Back-up Box
+Output
+Peak Efficiency, %
+Dimensions
+(DxWxH)mm
+Net Weight,Kgs
+
+97.3
+
+98.3
+
+98.1
+
+98.2
+
+15,000
+
+20,000
+
+30,000
+
+36,000
+
+50,000
+
+60,000
+
+100,000
+
+115,000
+
+150,000
+
+330,000
+
+3x415
+22,500
+
+30,000
+
+N/A
+
+1,080
+
+1,100
+
+1,500
+
+160-950
+
+200-1000
+
+500 -1500
+
+22
+25.2
+
+33.5
+
+600
+
+1080
+
+200
+
+550
+
+8
+
+12
+
+26
+
+22
+52
+
+43.3
+
+72.2A
+@400V
+
+10
+30
+
+26
+95.3A
+@400V
+
+160.4A
+@400V
+
+230Vac/400Vac,3W/N+PE
+
+7
+
+6
+
+48
+
+65
+
+160.0A
+240.5A
+@400V
+@400V
+400V/480V,
+3W+(N)+PE
+
+216.6A
+800V,3W
++PE
+
+N/A
+98.3
+
+98.7
+
+365x365
+x156
+
+525x470x146.5
+
+525x470x262
+
+640x530x270
+
+1075x555x300
+
+12
+
+17
+
+25
+
+43
+
+74
+
+98.6
+
+98.4
+
+99
+
+1035x700x365
+
+1000x
+710x395
+
+1048x
+732x395
+
+99
+
+112
+
+90
+
+93
+
+

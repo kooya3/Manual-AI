@@ -1,0 +1,49 @@
+PUMP
+The GRUNDFOS SQ range of compact submersible borehole pumps are suitable for both continuous and intermittent operation in
+a wide variety of applications. These include domestic water supply, water transfer and irrigation duties from both boreholes and
+tanks and due to excellent starting characteristics, they are particularly suited to pressure control operation. The pumps offer a
+number of unique features provided by the built-in GRUNDFOS electronic motor controller including:•
+•
+•
+•
+•
+•
+
+Run dry protection - no electrodes required
+Soft start design avoiding high electrical loads and water hammer - also ideal for generator operation
+Over and under voltage protection - ideal for unstable power conditions
+Overload and high temperature protection
+Excellent wear characteristics - can handle slightly silted waters
+3” diameter to fit narrow boreholes.
+1
+
+2
+
+0
+
+Hydraulic components are made from polyamide plastic and the special design floating impellers each have a tungsten carbide/ceramic bearing.The pump sleeve, shaft and other principal components are made from stainless steel.
+MOTOR
+The unique integrated GRUNDFOS MS3 high efficiency permanent magnet motor is controlled by a built in frequency converter
+which increases the standard mains frequency enabling the pump to run at high speed. All control functions are built into the
+frequency converter and no additional motor protection is required other than a 13amps fuse or MCB.
+Voltage: 1 x 240V
+
+Speed: 10,700rpm
+
+Power Factor: 1
+
+OPERATING CONDITIONS
+Pump liquid: Thin, clean, non aggressive liquids containing no solids or fibres.
+Max. Water Temperature: +300C (no liquid flow past motor)
++400C (min 0.15 l/sec liquid flow past motor)
+Max Water depth: 150m
+Min Borehole Diameter: 80mm
+...........
+...........
+...........
+...........
+...........
+...........
+...........
+
+

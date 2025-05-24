@@ -1,0 +1,234 @@
+HT
+Vertical Multistage
+Pumps
+180
+8
+
+160
+140
+
+6
+2
+
+PUMP HEAD (m)
+
+120
+
+7
+
+100
+
+4
+5
+
+1. Pump Body
+2. Cover
+3. Liner
+4. Impellers
+5. Diffusers
+6. Pump Shaft
+7. Mechanical Seal
+8. Bearings
+
+3
+
+1
+
+80
+60
+
+HT 15/7
+HT15/5
+
+40
+
+HT 10/9
+
+HT 15/4
+
+HT 30/8
+HT 30/6
+HT 30/5
+
+HT 10/7
+20
+
+HT 10/5
+
+0
+
+5
+10
+15
+20
+FLOW RATE (m3/hr)
+
+25 50 30
+
+35
+
+45
+
+40
+
+55
+
+PUMP
+Pedrollo HT Series are non-self priming vertical multistage centrifugal pumps suitable for water supply and pressurization in industrial and
+commercial applications, irrigation, etc. The multistage construction ensures low operating noise and high efficiency hydraulic performance that
+provides reliability with minimal operating costs.
+Pump construction is cast iron with a cataphoresis surface treatment top and bottom chambers to ensure high level of wear and corrosion
+resistance and AISI304 stainless-Steel for impellers, diffusers and casing.
+MOTOR
+Pumps are close coupled to a TEFC brushless IE3 induction motor designed for continuous operation and optimised to work with inverter control.
+A remote starter with thermal overload should be fitted.
+Enlosure Class: IPX4
+
+Insulation Class: F
+
+Voltage: 3x415V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without solids or fibres.
+Max. Fluid Temperature: -150 to+900C
+Max. Ambient Temperature: +400C
+Max. Suction lift: 7m (at sea level)
+PUMP DATA
+Model
+
+Motor
+kW
+
+HP
+
+Current
+(A)
+
+2.2
+3
+4
+5.5
+7.5
+
+3
+4
+5.5
+7.5
+10
+
+5.2
+7.2
+9.0
+10.7
+13.5
+
+9.2
+
+12.5
+
+15.8
+
+11
+15
+
+15
+20
+
+17.7
+23
+
+HT 10/5
+HT 10/7
+HT 10/9
+HT 15/4
+HT 15/5
+HT 15/7
+HT 30/5
+HT 30/6
+HT 30/8
+
+DN
+(”)
+
+Dimensions (mm)
+A
+126
+
+1½
+151
+
+B
+231
+257
+275
+
+2
+
+181
+
+2½
+
+C
+280
+
+300
+
+305
+320
+
+H
+
+H1
+
+560
+664
+761
+677
+771
+944
+871
+915
+1003
+
+80
+
+90
+
+105
+
+H
+
+4X14
+
+130
+
+215
+
+DN
+
+DN
+H1
+
+A
+B
+
+18
+C
+
+247
+
+Weight
+(kg)
+40
+49
+54
+64
+72
+117
+125
+126
+139
+
+

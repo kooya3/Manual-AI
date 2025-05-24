@@ -1,0 +1,230 @@
+6SR18
+Submersible
+Borehole Pumps
+400
+ETA%
+
+6SR 18/26
+
+70
+
+300 6SR 18/22
+
+60
+
+250 6SR 18/18
+
+50
+
+200
+150
+
+6SR 18/15
+
+40
+
+6SR 18/13
+6SR 18/11
+
+ETA%
+
+350
+
+80
+
+30
+
+6SR 18/9
+100
+
+20
+
+6SR 18/6
+
+10
+
+50
+
+5
+
+0
+
+15
+
+10
+
+20
+
+25
+
+30
+
+PUMP
+Pedrollo 6SR18 submersible pumps are specifically designed for supply from boreholes, though can also be used in other
+submersible applications in either vertical or horizontal configuration. They feature a hydraulic design that incorporates floating
+impellers which together with especially resistant component materials provide high resistance to sand content in the pumped
+water.
+The pump impellers and diffusers are made from technopolymer while the stage casings, top housing, suction connector, pump
+sleeve and shaft are made of AISI 304 stainless steel. The pump is supplied with a 4m tail cable.
+MOTOR
+Pumps are coupled to a two pole sealed motor constructed principally from stainless steel. Motors require a remote direct in-line
+starter and if irregular electrical supply is prevalent an additional quick tripping multi function protection relay is recommended.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+Voltage: 3x415V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non aggressive liquids with a maximum sand content of 100gm/m3.
+Max. Liquid Temperature: +350C
+Max. Immersion Depth: 200m
+Min. Borehole Diameter: 200mm
+PUMP DATA
+
+150
+DN
+
+HP
+
+6SR18/6
+
+5.5
+
+7.5
+
+6SR18/9
+
+7.5
+
+6SR18/11
+
+DN
+(”)
+
+Dimensions(mm)
+
+Weight
+(Kg)
+
+H1
+
+H2
+
+13
+
+628
+
+625
+
+53
+
+10
+
+17
+
+758
+
+660
+
+60
+
+9.2
+
+12.5
+
+22
+
+845
+
+700
+
+67
+
+6SR18/13
+
+11
+
+15
+
+24
+
+976
+
+765
+
+76
+
+6SR18/15
+
+15
+
+20
+
+32
+
+1193
+
+820
+
+84
+
+6SR18/18
+
+15
+
+20
+
+32
+
+1193
+
+820
+
+86
+
+6SR18/22
+
+18.5
+
+25
+
+39
+
+1367
+
+883
+
+99
+
+6SR18/26
+
+22
+
+30
+
+46.5
+
+1541
+
+953
+
+109
+
+3
+
+H1
+
+kW
+
+Current
+(A)
+
+H2
+
+Motor
+Model
+
+

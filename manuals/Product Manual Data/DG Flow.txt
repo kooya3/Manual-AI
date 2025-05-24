@@ -1,0 +1,128 @@
+DG FLOW
+Variable Speed
+Pump Controllers
+1.0
+
+System Pressure Drop
+
+Pressure (Bar)
+
+0.8
+
+SteadyPress
+
+0.6
+
+0.4
+
+0.2
+
+DGFit
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+DGFLOW STEADYPRESS is an inline water-cooled VSD suitable for light duty residential applications. It uses standard voltage/frequency ratio
+control with in-built electronic pressure transducer to maintain constant pressure.
+Particular features include:
+• Direct mounting on pump or on delivery pipe.
+• Keeps system pressure constant when water demand changes.
+• Can work simultaneously with other STEADYPRESS units and control up to 3 pumps in cascade sequence.
+• Integrated mains filter.
+• Switch and external fuse.
+• Provides complete pump protection against pump overload, dry running, low voltage, high voltage, electronics overheating, open head
+(low outlet pressure) and low water level (when using float switch)
+• Enclosure Class: IP65
+• Max Flow: 12m3/hr, Max Pressure: 10Bar
+DGFIT drives are high specification VSD's suitable for use in residential and industrial applications. They are compact and versatile and can be
+installed either on motor or wall mounted configuration. The inverter incorporates a pressure transducer which regulates pump motor speed with
+demand thus controlling pump output at a preset pressure.
+Particular features include:
+• Air cooled
+• Keeps system pressure constant when water demand changes
+• Can work simultaneously with other DGFIT units and control up to 3 pumps in cascade sequence.
+• Provides complete pump protection against pump overload, dry running, low voltage, high voltage, electronics overheating, open head
+(low outlet pressure) and low water level (when using float switch).
+• Enclosure Class: IP54
+1”
+• Maximum Motor Cable Length: 10m
+OPERATIONAL CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solid particles or
+fibres.
+Frequency: 50-60Hz
+Supply voltage tolerances: ±10%
+Max Liquid Temperature: 550C
+Max Ambient Temperature: 400C
+
+235
+
+1”
+241
+
+279
+
+STEADYPRESS
+174
+
+201
+
+CONTROLLER DATA
+MODEL
+STEADYPRESS M/M 11E
+
+Motor
+Motor
+Max
+Set
+Supply
+Weight
+(kW) Voltage (V) Voltage (V) Current (A) Pressure(Bar)
+(kg)
+309
+1.5
+
+STEADYPRESS M/T 12E
+
+2.2
+
+DGFIT T/T08E
+
+3.0
+
+1x240
+3X415
+
+1x240
+
+11
+
+3x240
+
+12
+
+3X415
+
+8
+
+1-9
+
+_
+
+3
+6
+
+DGFIT Dimensions in mm
+
+

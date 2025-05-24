@@ -1,0 +1,881 @@
+SQF 0.6-2
+
+Helical Rotor Pump
+
+120m
+
+Centrifugal
+Pump
+
+0.4
+
+0.2
+
+SQF 1.2-2
+
+15 25
+40
+20
+30
+
+10
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+1.2
+FLOW RATE (m3/hr)
+
+3
+
+FLOW RATE (m /hr)
+
+Pump End
+
+1.4
+
+10 15 2025 40 50 60 70
+80 90 100 110
+30
+
+0.6
+
+110
+120m
+
+1.0
+0.8
+0.6
+0.4
+0.2
+
+1.4
+
+0.05
+
+0.1
+
+0.15
+
+SQF 1.2-3
+
+90
+
+1.2
+
+110 130
+
+150 170
+
+0.35
+
+0.4
+
+2.8
+190
+
+210
+
+1.0
+
+230
+250m
+
+0.6
+0.8
+1.0
+POWER (kW)
+
+1.2
+
+0.4
+
+0.8
+0.6
+POWER (kW)
+
+1.0
+
+1.2
+
+1.4
+
+120
+
+2.5
+
+140
+
+2.0
+
+45
+50
+
+4
+3
+
+160m
+
+SQF 8A-3
+
+11
+
+2
+
+80
+100m
+
+3
+
+10
+
+3
+
+14
+
+15
+
+12
+
+10
+8
+6
+
+0.2
+
+0.6
+
+1.0
+1.4
+POWER (kW)
+
+1.8
+
+2.2
+
+SQF 8A-5
+
+14
+
+10
+
+20
+
+10
+
+1.0
+
+1.2
+
+25
+
+8
+
+30m
+
+6
+
+2
+0.6
+0.8
+POWER (kW)
+
+15
+
+12
+
+2
+
+0
+
+2
+5
+10
+15m
+
+0.1
+
+0.2
+
+0.3
+0.4
+0.5
+POWER (kW)
+
+0.6
+
+0.7
+
+SQF 7-55
+
+20
+40
+
+8
+60
+
+7
+6
+5
+80m
+
+4
+3
+
+1
+0
+0.2
+20
+
+2
+5
+
+4
+
+0.4
+
+2.6
+
+16
+
+4
+
+1.4
+
+2
+
+5
+
+16
+
+1.2
+
+9
+
+40
+
+5
+
+0
+
+1.4
+
+10
+
+20
+
+4
+
+1.0
+
+3
+
+0
+
+2.2
+
+6
+
+18
+
+18
+
+1.8
+
+60
+
+1
+1.2
+
+1.0
+1.4
+POWER (kW)
+
+7
+
+2
+
+1.0
+
+0.6
+
+SQF 5-70
+
+8
+
+1
+0.8
+0.6
+POWER (kW)
+
+0.2
+
+0.8
+0.6
+POWER (kW)
+
+0.4
+
+5
+
+1
+
+0
+
+0.2
+
+SQF 5A-3
+
+4
+
+0.5
+
+2
+
+0.2
+
+110
+
+6
+
+2
+
+3
+
+35
+40
+
+5
+
+0
+
+100
+
+7
+
+1.0
+
+FLOW RATE (m /hr)
+
+30
+
+6
+
+20
+
+90
+
+8
+
+100
+
+3.0
+
+1.4
+
+25
+
+0.4
+
+80
+
+9
+
+4.0
+
+10
+15
+
+7
+
+0
+
+60
+
+3.5
+
+20
+
+0.2
+
+SQF 2.5-2
+70
+
+120m
+
+10
+80
+
+FLOW RATE (m /hr)
+
+FLOW RATE (m3/hr)
+
+0.2
+
+SQF 3-105
+
+9
+
+SQF 5A-7
+
+8
+
+FLOW RATE (m3/hr)
+
+0
+5.0
+4.5
+
+1
+
+0
+
+60
+
+0.4
+
+1.5
+
+9
+
+50
+
+0.7
+
+0.8
+
+FLOW RATE (m3/hr)
+
+2
+
+0.4
+
+40
+
+0.6
+
+1.2
+
+0.4
+
+FLOW RATE (m3/hr)
+
+70m
+
+0.2
+
+30
+
+0.5
+
+1.6
+
+0.6
+
+18
+
+1.0
+
+0.6
+
+1.8
+1.4
+POWER (kW)
+
+2.2
+
+2.6
+2
+
+SQF 11A-3
+
+5
+10
+
+16
+FLOW RATE (m3/hr)
+
+30
+35
+40
+45
+50
+55
+60
+65
+
+3
+
+0
+
+5 10 15 20 25
+
+0.3
+0.4
+POWER (kW)
+
+2.0
+
+0.8
+
+3
+
+SQF 3A-10
+
+4
+
+10
+
+0.2
+
+Electronic Control Unit
+
+FLOW RATE (m /hr)
+
+FLOW RATE (m3/hr)
+
+5
+
+0.1
+
+2.4
+
+0.2
+
+Motor
+
+0
+
+0.45
+
+3
+
+FLOW RATE (m /hr)
+
+0.2 0.25 0.3
+POWER (kW)
+
+FLOW RATE (m3/hr)
+
+0
+
+15m
+
+14
+12
+10
+8
+6
+4
+2
+
+0.2
+
+0.4
+
+0.8
+1.0
+0.6
+POWER (kW)
+
+1.2
+
+1.4
+
+0
+
+0.2
+
+0.4
+
+0.8
+1.0
+0.6
+POWER (kW)
+
+1.2
+
+1.4
+
+PUMP OUTPUTS
+Pump output curves are given at standard test conditions of 1000W/m2 solar irradiance and 250 C .
+Output will vary throughout the year depending upon prevailing irradiation levels. For estimated daily outputs at continuous
+pumping multiply by the daily irradiation given in Graph 1(see drawing). For indicative purposes factors of 1.1 can be applied for
+hot arid areas and 0.9 for temperate high altitude areas in the Tropics. Output will vary through out the day as a proportion of the
+estimated hourly irradiation as shown in Graph 2.
+
+NOTE: Output estimations are strictly indicative. More accurate projections are available
+using manufacturers data when the exact site location and installation arrangement is
+defined. This information will be provided with all offers.
+PUMP
+A range of seven models of helical rotor pumps for high heads and low flows (suitable for 3”
+boreholes) and six models of centrifugal pumps for low heads and high flows (suitable for 4”
+boreholes) are offered with stainless steel used extensively in construction for both pump
+designs. Pump model selection is determined by the duty requirement.
+
+Average Daily Irradiation Values (Kwhr/m2)
+6.3 6.5
+
+6.0
+
+5.6
+
+6.5
+5.8 5.6 5.7 5.9
+
+5.8
+5.1 5.3
+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Graph 1
+
+% Daily Output
+
+MOTOR
+Grundfos MSF 3 high efficiency permanent magnet motor is specified with all pump types.
+The motors can be powered by either DC or AC voltage within the range of 30-300V DC and
+1X90-240V, 50/60Hz AC. An integral control module uses MPPT technology that
+continuously optimises output frequency to maximize system efficiency and protects against
+over and under voltage (except lightning), electrical overload and over temperature. Effective
+dry running protection is provided by a sensor in the motor cable.
+
+12%
+
+13%13%13%
+12%
+
+10%
+
+10%
+
+7%
+
+7%
+
+2%
+0%
+6 7
+
+2%
+
+8
+
+9
+
+0%
+10 11 12 13 14 15 16 17 18
+Time (hrs)
+Graph 2
+
+CONTROL UNITS
+A variety of switch boxes are available for the various installation options including IO50 for a manual solar system, IO101 for
+solar/generator systems and IO102 for a wind system. In addition a CU200 (1400W) or CIU903 (2500W) control units are offered
+which provides for high-level switch control together with system monitoring and alarm indication.
+SOLAR MODULES
+SQ Flex systems are recommended to be powered by crystalline photo voltaic modules connected in arrays to provide the power
+selected. Arrays should be connected to produce at least 40V input voltage with higher voltage of around 100V recommended for
+maximum efficiency operation.
+ACCESSORIES
+A complete range of accessories including connecting cabling and fittings, drop cable and module support structures are available
+to provide all necessary components for a complete site installation.
+PUMP DATA
+Model
+
+Motor
+Size (W)
+
+Voltage
+(V)
+
+Current
+(A)
+
+SQF 0.6-2
+
+Dimensions (mm)
+Rp
+B
+L
+(inch)
+
+Pump
+weight
+(kg)
+
+1.25
+
+1185
+
+74
+
+9
+
+1.25
+
+1225
+
+74
+
+10
+
+1.25
+
+1295
+
+74
+
+10
+
+SQF 2.5-2
+
+1.25
+
+1247
+
+74
+
+10
+
+SQF 3A-10
+
+1.25
+
+968
+
+101
+
+11
+
+1.25
+
+942
+
+74
+
+7
+
+1.5
+
+815
+
+101
+
+10
+
+1.5
+
+920
+
+101
+
+10
+
+1.5
+
+941
+
+74
+
+6
+
+1.5
+
+860
+
+74
+
+6
+
+2
+
+920
+
+101
+
+11
+
+2
+
+1011
+
+101
+
+12
+
+2
+
+982
+
+101
+
+12
+
+SQF 1.2-2
+SQF 1.2-3
+
+SQF 3-105
+SQF 5A-3
+SQF 5A-7
+SQF 5-70
+SQF 7-55
+
+1400
+
+30-300
+
+8.4
+
+2800
+
+100-300
+
+12
+
+1400
+
+30-300
+
+8.4
+
+2500
+
+100-300
+
+12
+
+1400
+
+30-300
+
+8.4
+
+SQF 8A-3
+SQF 8A-5
+SQF 11A-3
+
+Rp
+3
+
+2
+
+L
+1
+
+B
+
+1. SQF Pump
+2. Generator
+3. Solar Array
+4. Wind Turbine
+5. Switch Unit
+
+

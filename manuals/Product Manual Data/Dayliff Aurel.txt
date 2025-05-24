@@ -1,0 +1,110 @@
+AUREL
+Swimming Pool Pumps
+
+18
+16
+14
+PUMP HEAD (m)
+
+12
+
+AUREL 4
+
+10
+8
+AUREL 3
+6
+4
+2
+0
+
+20
+
+40
+
+60
+80
+100
+FLOW RATE(m3/hr)
+
+120
+
+140
+
+160
+
+PUMP
+The Dayliff Aurel range of high flow pool pumps are specially designed for large swimming pool applications. Features include
+flanged connections and large suction side pre- filter which together with efficient hydraulic performance ensures high filtration
+capacity. The integral pre-filter is fitted with a transparent polycarbonate cover with secure easy release, four stud clamp
+arrangement and a broad base provides for a stable mounting. Pre-filter and pump body, pump base and cover are made of GRP
+reinforced polypropylene and the impeller from Noryl ensuring total resistance to corrosion and pool chemicals. The pump shaft is
+AISI 316 stainless steel. Pumps are supplied complete with counter flanges.
+MOTOR
+The pump is coupled to a super quiet TEFC asynchronous motor with external ventilation. It should be provided with a remote DOL
+starter according to local regulations.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Voltage: 3x415V
+
+Speed: 1450rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean non chemically aggressive liquid, without solid particles or fibres
+Max. Fluid Temperature: 400C
+Max. Ambient Temperature: 400C
+Max. Suction: 7m (at sea level)
+PUMP DATA
+Model
+
+Power
+(kW)
+
+Current
+(A)
+
+AUREL 3
+
+3
+
+6.9
+
+AUREL 4
+
+4
+
+8.8
+
+Intlet/
+Outlet (”)
+
+Dimensions (mm)
+H
+
+L
+
+W1
+
+W2
+
+370
+
+300
+
+44.5
+
+818
+4
+
+590
+
+838
+
+Weight
+(kg)
+
+53.4
+
+

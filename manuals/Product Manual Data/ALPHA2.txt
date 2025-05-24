@@ -1,0 +1,120 @@
+ALPHA2
+Circulator Pump
+
+AUTO
+
+ADAPT
+
+H
+(m)
+
+AUTO
+
+ADAPT
+
+6
+
+PP3
+CP3
+PP2
+CP2
+
+5
+4
+3
+
+PP1
+CP1
+
+2
+1
+
+II
+
+III
+
+I
+
+0
+
+0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8 2.0 2.2 2.4 2.6 2.8 3.0 3.2 3.4
+
+Q(m3/hr)
+
+I, II, III - Selectable Constant Curve Speed
+PP1, PP2, PP3 - Selectable Proportional Pressure Curve
+CP1, CP2, CP3 - Selectable Constant Pressure Curve
+
+PUMP
+GRUNDFOS Alpha2 is a revolutionary variable speed controlled circulator pump designed for hot water circulation in heating,
+cooling and solar applications. The pump is provided with a number of unique features:
+l
+
+l
+l
+l
+
+Variable Speed inverter technology that enables the pump to selectively operate on a constant curve, proportional pressure
+where pressure is adjusted according to heat demand and constant pressure where pressure remains constant irrespective
+of system demand.
+Three selectable speeds so the pump performance can be matched to system requirements.
+Fully automatic AUTOADAPT function which continuously adjusts pump output to system demand and thus optimises energy
+consumption.
+Display indicating power consumption and flow as well as alarm and warning conditions.
+
+Pump construction is cast iron for the pump housing, stainless steel for the rotor can and composite plastic for the impeller. Pumps
+are supplied complete with BSP union connections and insulating shells.
+MOTOR
+The pump is fitted with an integral 4-pole synchronous permanent-magnet high efficiency inverter controlled motor fitted with
+thermal overload protection. The pump should be connected to a suitably rated MCB or fuse.
+Enclosure Class: X4D
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean non-aggressive liquids without solid particles or fibres
+Liquid Temperature: +20C to +1100C, though a maximum of +650C is recommended for optimal system efficiency
+Max. Ambient Temperature: +800C
+Max. Operating Pressure: 10 bar
+Min Inlet Pressure: up to +750C – 0.05 bar, up to +900C – 0.3 bar, up to +1100C – 1 bar
+Installation: Pumps must be installed with the pump shaft horizontal, vertical water flow and the plug connection pointing
+downwards
+PUMP DATA
+Dimensions (mm)
+
+Motor
+Model
+ALPHA2 25-60
+
+Power
+(W)
+34
+
+Max Current
+A
+(A)
+0.32
+
+B
+
+C
+
+D
+
+121 89
+
+52
+
+36 104 180
+
+E
+
+H
+
+Weight
+(kg)
+2.1
+
+

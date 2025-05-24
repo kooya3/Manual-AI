@@ -1,0 +1,176 @@
+DSP1
+Submersible
+Borehole Pump
+240
+
+60
+DSP 1-36
+
+220
+200
+
+DSP 1-30
+
+ETA%
+
+180
+160
+
+40
+
+140
+DSP 1-20
+
+120
+100
+
+DSP 1-15
+
+80
+
+20
+DSP 1-10
+
+60
+40
+20
+
+PUMP
+The DAYLIFF DSP range of submersible multistage centrifugal pumps are specially designed for domestic and small scale water
+supply from wells and boreholes. Material of construction include Noryl impellers, glass filled polycarbonate diffusers, stainless
+steel inlet and outlet chambers, stage casings, shaft and pump housing. These quality materials together with the floating type
+impeller design provide the pumps with efficient performance excellent sand handling capabilities and long life.
+MOTOR
+The pump is coupled to a two pole sealed motor constructed principally from stainless steel. A separate control box is also
+available which incorporates an isolator, run indicator light, thermal overload protection and starting capacitor which can be
+connected directly to mains power. The box is also provided with auxiliary terminals for control probes, pressure switch or float
+switch. A separate SCM control box is also available on request for automatic operation and protection against overload, dry
+running and over/under voltage.
+Enclosure Class: IP68
+
+Voltage: 1x240V
+
+Insulation Class: F
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non aggressive liquids with a maximum sand content 50g/m3.
+Max. Water temperature: +350C
+Max. immersion depth: 200m
+Min. borehole diameter: 110mm
+PUMP DATA
+Power
+
+Current
+(A)
+
+Model
+
+Istat
+I
+
+Dimensions (mm)
+
+DN
+(”)
+A
+
+C
+
+kW
+
+HP
+
+DSP 1-10
+
+0.37
+
+0.5
+
+3.3
+
+3.2
+
+330
+
+676
+
+11
+
+DSP 1-15
+
+0.55
+
+0.75
+
+4.3
+
+2.8
+
+420
+
+785
+
+12
+
+DSP 1-20
+
+0.75
+
+1.0
+
+4.3
+
+4.7
+
+890
+
+14
+
+DSP 1-30
+
+1.1
+
+1.5
+
+8.1
+
+4.0
+
+730
+
+1135
+
+17
+
+DSP 1-36
+
+1.5
+
+2.0
+
+10.4
+
+3.7
+
+830
+
+1270
+
+20
+
+1¼
+
+510
+
+98
+
+D
+
+Weight
+(kg)
+
+DN
+
+

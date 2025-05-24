@@ -1,0 +1,260 @@
+MJ
+
+PD
+
+WP
+
+The various Dayliff water meter types are robust and economical designs for monitoring residential, commercial and agricultural
+consumption. Sizes are available from DN15 to DN100 in three different ranges as follows:MJ
+A high precision and reliable multi jet dry type water meter designed for general water supply metering applications. It features
+magnetic drive for lower transmission resistance, a magnetic shield for external magnetic field protection and a sealed dry dial to
+ensure clear and easy reading. The body is made from composite plastic for DN15 and DN20 sizes and brass for larger sizes.
+Meters are supplied with inlet strainers and union connectors.
+PD
+Rotary piston type meters that provide high accuracy over a wide flow range. The mechanical transmission movement provides
+reliability and the liquid sealed register provides easy and clear reading. Meters are fitted with internal strainers, non return valves
+and union connectors and the bodies are made from composite plastic (15mm size) and corrosion resistant steel for other sizes.
+WP
+A heavy duty meter with flange connections for bulk flow applications featuring magnetic drive, a dry dial for clear reading and a
+removable measuring mechanism that can be maintained without removing the meter body. The body is made from cast iron with
+epoxy coating.
+
+Body thread (D)
+Connector thread (d)
+Flange size (mm)
+Body Length, L (mm)
+Overall Length, L1(mm)
+Height, H (mm)
+Width, W (mm)
+Weight with connectors (kgs)
+
+20
+1”
+¾”
+-
+
+190
+294
+107
+98
+0.8
+
+MJ
+25
+32
+1 ¼” 1½”
+1 ¼”
+1”
+260 260
+380 384
+118 118
+98
+98
+2.9
+3.7
+
+WP
+65
+50
+80 100
+63
+40
+63
+100
+50
+80
+125
+80
+500 800 800 1250
+16
+16
+16
+16
+50
+50
+50
+50
+2½”
+2”
+3”
+4”
+0.02 0.015 0.034 0.038
+0.08 0.08 0.015 0.125
+999999
+
+PD
+40
+2”
+1½”
+
+15
+¾”
+½”
+
+20
+1”
+¾”
+
+50
+165
+200
+256
+165
+12
+
+-
+
+-
+
+-
+
+300
+431
+142
+122
+6.1
+
+115
+209
+96
+96
+0.6
+
+130
+234
+96
+96
+1.48
+
+65
+185
+200
+266
+185
+13
+
+WP
+80
+200
+225
+276
+200
+16
+
+100
+220
+250
+286
+220
+18
+
+15mm
+W
+
+L
+L1
+
+MJ
+
+D
+
+15
+¾”
+½”
+165
+259
+106
+98
+0.7
+
+PD
+15
+20
+2.8
+4
+5
+3
+10
+16
+10
+16
+40
+40
+½” ¾”
+0.2 0.25
+1
+1
+9999.9999
+
+d
+
+Rated Flow (m3/hr), Q3
+Max. Flow (m3/hr), Q4
+Min. Flow (l/hr), Q1
+Pressure Rating (bar)
+Max. Operating Temp (0C)
+Max. Pipe Size
+Pressure Loss at Rated Flow (bar)
+Pressure Loss at Max. Flow (bar)
+Max. Reading (m3)
+
+40
+20
+25
+32
+4
+6.3
+10
+16
+5
+7.8 12.5
+20
+50
+80
+125 200
+10
+16
+16
+16
+40
+40
+40
+40
+1 ¼” 1½”
+¾”
+1
+0.25 0.25 0.24 0.2
+0.9
+1
+1
+1
+99999.999
+
+L
+L1
+
+PD
+
+H
+
+MJ
+
+15
+2.5
+3
+30
+10
+40
+½”
+0.2
+1
+
+H
+
+PERFORMANCE DATA
+
+L
+
+WP
+
+

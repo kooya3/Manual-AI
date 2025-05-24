@@ -1,0 +1,130 @@
+Heat Pumps
+
+Most swimming pools are not useable throughout the year especially during the cold weather and therefore heating is required. A
+particularly effective solution is a Dayliff Heat Pump that utilises energy from two sources, heat from the ambient air and electric power to
+run a compressor in a reverse refrigeration cycle, the compression process extracting heat from the ambient air for transfer to the pool
+through a heat exchanger. The models are highly efficient operating at a Coefficient of Performance (COP), which is the ratio of energy
+output to direct energy input of up to a range 7-15 units, depending on environmental conditions.
+The advanced SPI inverter controlled models feature DC inverter technology which provides variable heat outputs from 20% to 100% of
+capacity. They are more economical to run compared to fixed capacity alternatives as the heat output is automatically varied according to
+requirements to maintain a set temperature.
+The models include an integral controller and durable weatherproof housing suitable for outdoor installation. For optimal performance it
+is recommended that a pool cover is used to reduce heat dissipated through evaporation.
+Particular features include:• High efficiency, low noise Mitsubishi compressor that uses environmentally friendly R32 refrigerant
+• Advanced dual coil titanium heat exchanger for long corrosion free life
+• Remote controller to set temperature up to 400C with digital system settings and fault indicators with WiFi enabled remote control
+• Built in protection for low water flow, high and low pressure and electrical overload
+• Fully automatic and simple to install on the filter return to pool pipe with minimum plumbing and electrical connections
+• All models suitable for reverse cooling configuration
+The Dayliff range of heat pumps are robust and efficient units that are the ideal solution for cost effective swimming pool heating in a variety
+of conditions.
+OPERATING CONDITIONS
+Heating Temp Range: 150-400C
+
+Insulation Class: IPX4
+
+Min/Max Operating Pressure: 0.2/4.4 Bar
+
+PUMP DATA & DIMENSIONS
+Max
+Input
+Output, kW COP Range Power (kW)
+Heating Capacity
+
+Model
+SPI-170
+
+4-17
+
+SPI-280
+SPI-700
+
+7-28
+17-70
+
+7-16
+
+Current
+Max
+(A)
+
+0.3-2.5
+
+12
+
+0.5-4.2
+
+19
+
+1-10
+
+26
+
+Voltage
+(V)
+1x240
+3x415
+
+*Performance values given at Air 260C, Water 260C and Humidity 80%.
+
+Pool
+Return
+From
+Pool
+
+Pump
+
+Filter
+
+Heat Pump
+Outside Plant Room
+
+Dimensions
+(mm)
+
+Max
+Flow
+m3/hr
+5.5
+
+Pool
+Capacity
+m3
+40-70
+
+L
+
+W
+
+H
+
+900
+
+400
+
+650
+
+65
+
+9
+20
+
+80-140
+150-250
+
+1056
+1416
+
+416
+752
+
+744
+1055
+
+85
+280
+
+Weight
+(kg)
+
+

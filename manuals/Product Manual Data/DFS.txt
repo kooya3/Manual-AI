@@ -1,0 +1,156 @@
+DFS
+Fire Hose Reel
+Pumps
+
+DAYLIFF DFS Fire Hose Reel pump sets are specifically designed for the automatic operation of hose reels in commercial and
+industrial buildings. All systems are rated at 4Bar and various sizes are available with single or twin pump options. Systems include
+the following components:• High performance Dayliff DB multistage horizontal stainless steel booster pumps. Grundfos CM/Pedrollo alternatives are
+available on request.
+• Electronic Dayliff Drytek (one pump) and Smart Pro (twin pump) controllers that include pump protection functions. Twin
+pump sets are connected for parallel operation with the second pump set to operate at higher demand conditions.
+• Low maintenance GWS diaphragm type pressure tank incorporating a special diaphragm and air valve design that
+eliminates air leaks and the need for regular maintenance. This is especially important for fire systems that can remain
+unused for long periods of time.
+• Compact frame mounting incorporating all necessary accessories including reliable pressure switches for pump control and
+pump piping and valves for simple site installation.
+For full details of component performance and specification refer to the individual Product Data Sheets.
+For firefighting applications high levels of equipment performance and dependability are especially important. Dayliff DFS Fire
+Hose Reel sets combine carefully matched quality components that give optimal operating efficiency with high levels of reliability
+and competitive pricing to provide effective and dependable firefighting solutions.
+OPERATIONAL DATA
+Single Pump
+
+DAYLIFF Fire Hose Reel
+Pressure Pumps
+Flow
+3/
+Model Hose
+(m)
+Reel (m hr)
+
+Power Pressure
+(kW)
+Tank
+
+Twin Pump
+
+Dimensions
+(mm)
+A
+
+B
+
+C
+
+Weight
+Power
+kg
+Pumps (kW) Pressure
+Tank
+_
+
+_
+
+_
+
+_
+
+850 400 820
+
+70
+
+80
+
+DB 4-60 2.9x1Ph 1x100L 1200 500 900
+
+70
+
+100
+
+DB 8-50 3.4x3Ph 1x300L 1200 650 1400
+
+100
+
+DFS1
+
+1
+
+1.5m /hr
+
+40
+
+DB 2-50
+
+0.68x1Ph
+
+1x24L
+
+850
+
+400 820
+
+50
+
+DFS2
+
+2
+
+3m3/hr
+
+40
+
+DB 4-60 1.45x1Ph
+
+2x24L
+
+850
+
+400 820
+
+50
+
+DB 2-50 1.36x1Ph
+
+DFS5 3,4&5 6m /hr
+
+3
+
+40
+
+DB 8-50
+
+1.7x 3Ph
+
+1x100L
+
+1030 500 900
+
+DFS8 6,7&8 12m3/hr
+
+40
+
+DB 12-50 2.7x3Ph
+
+1x300L
+
+1200 650 1400
+
+3
+
+Dimensions
+Weight
+(mm)
+kg
+C
+A
+B
+_
+
+2x24L
+
+_
+
+Note: This table gives details of the standard product range available. Other systems can be specified to suit particular site
+requirements in terms of control features, flow and pressure.
+
+

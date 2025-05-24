@@ -1,0 +1,155 @@
+DPX
+Swimming Pool Pumps
+
+25
+DPX 2200
+
+PUMP HEAD (m)
+
+20
+
+DPX 1100/1500/2200/3000
+
+15
+
+10
+
+DPX 1100
+5
+
+DPX 3000
+
+DPX 4000
+
+DPX 1500
+
+DPX 4000
+20
+
+0
+
+60
+80
+FLOW (m3/hr)
+
+40
+
+100
+
+120
+
+PUMP
+The DAYLIFF DPX range of swimming pool pumps are quiet running and reliable products suitable for light and medium duty pool
+applications. All models feature a large strainer basket with easy-open transparent cover and connecting unions and all hydraulic
+components are made from high strength glass reinforced corrosion resistant polypropylene for long life.
+MOTOR
+Asynchronous 2-pole TEFC motor designed for continous duty. Single phase motors are provided with built-in thermal overload
+protection and can be connected directly to the mains electrical supply through a 10A MCB or switch fuse. Three phase motors need
+to be connected through a DOL starter.
+Insulation Class: F
+
+Enclosure Class: IP55
+
+Speed: 2800rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean non-chemically aggressive liquid without solid particles or fibers
+0
+Max. Fluid Temperature: 60 C
+Max Ambient Temperature: -100C - +400 C
+PUMP DATA
+Voltage
+(V)
+
+Model
+DPX1100
+DPX1500
+
+1x240
+
+DPX2200
+
+1ph
+
+1.1
+
+6.5
+
+1.5
+
+8.5
+
+DN1/DN2
+
+A
+
+H
+
+Weight
+(kg)
+22
+24
+
+656
+
+358
+
+12.6
+
+26
+
+3
+
+6.4
+
+4
+
+8.3
+
+3x415
+DPX4000
+
+3ph
+
+Dimensions (mm)
+
+75
+2.2
+
+DPX3000
+
+Current (A)
+
+Power
+(kW)
+
+708
+110
+
+31
+
+841
+
+418
+
+36
+
+A
+
+A
+
+DN2
+
+DN2
+DN1
+DN1
+
+DPX 1100/1500/2200/3000
+
+H
+
+H
+
+DPX4000
+
+

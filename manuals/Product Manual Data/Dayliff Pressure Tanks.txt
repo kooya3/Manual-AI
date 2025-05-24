@@ -1,0 +1,226 @@
+TED
+A
+D
+UP
+
+D
+
+TANK DATA
+
+D
+H
+
+KS
+
+VT Models
+
+Max
+Dimensions Gross Packed
+Volume
+Wt Volume
+Model (Litres) Pressure Outlet
+(mm)
+DN
+(Bar)
+(m3)
+D
+H H1 (kg)
+8
+0.047
+KS Kit
+360 335 6
+1”
+24
+0.150
+8
+380 850 165 17
+VT60
+60
+1”
+VT100
+100
+10
+450 965 170
+0.240
+26
+1”
+59
+VT300
+300
+10
+0.600
+1½” 630 1400 160
+1”
+4.7
+DVX03
+03
+10
+130 215 0.0238
+0.04
+6
+24
+16
+290 415 DVX24
+1”
+0.099
+16
+390 592 130 15
+DVX58
+58
+1”
+16
+DVX100
+100
+3901963 130
+0.157
+24
+1”
+61
+DVX305
+305
+16
+0.451
+1¼” 550 1457 130
+
+H
+
+H1
+
+Max Temperature Range -100C - +1000C Test Pressure - 1.5 times the max. working pressure
+
+DVX Models
+
+Pressure tanks are important components of pressurised booster supply systems where automatic pumped water supply is provided by means of
+pressure switch controlled pumps. The tanks have two functions; to cushion pressure surges as the pump starts and stops and also to provide a
+drainage supply into the system to control pump cycling. Options are as follows:Dayliff VT series pressure tanks have been specially designed for pressurised booster installations and are also suitable for firefighting and
+irrigation systems. The design incorporates a replaceable butyl rubber membrane which offers the following features:• Suitable for all types, including corrosive and hard, waters as the water only comes into contact with the membrane.
+• Membrane design eliminates the necessity for constant air recharging.
+• Horizontally collapsing membranes (except KS model) avoids contact with tank sides and therefore increases life.
+• Membrane is simply replaceable.
+Dayliff DVX series are higher specification diaphragm type tanks which are specially suited for medium to heavy duty pressure boosting and
+storage applications where value and reliability are demanded. Features include;
+• Polypropylene liner and butyl diaphragm for long life and safety.
+• Corrosion resistant baked epoxy coating finish.
+• Leaf-free, O-ring sealed air valve cap dispensing the need for maintenance.
+• AISI S/S 304 water connection to protect against corrosion
+All Dayliff pressure tanks are thoroughly tested and conform to various international standards and when properly specified will provide many
+years of reliable maintenance free operation
+PRESSURE TANK SIZING GUIDE
+Correct tank sizing is important and is determined by the system flow rate and pump start and stop pressure settings. Sizing must be based upon the
+system flow at which the maximum cycle frequency occurs. As a rule of thumb this can be taken as 65% of the flow at pump stop pressure.
+Required draining volume is then the maximum cycle frequency flow divided by twice the specified maximum number of cycles per hour. Generally
+60 cycles per hour is considered acceptable. Tank size selected is then that nearest to the volume required. Drainage volume is as follows:Tank Pre-charge (Bar)
+Pump Start Pressure (Bar)
+Pump Stop Pressure (Bar)
+Drainage (%)
+
+1.35
+1.5
+2.5
+26
+
+1.65
+1.8
+3.0
+28
+
+1
+6
+15
+26
+77
+
+1
+7
+17
+28
+83
+
+Drainage Volume (Litres)
+
+Tank Model
+DVX03 (3 Litres)
+KS (24 Litres)
+VT 60 / DVX58 (58 Litres)
+VT 100/ DVX100 (100 Litres)
+VT 300 / DVX305 (305 Litres)
+
+1.85 2.35 2.35 2.83 3.85 4.85
+2.5 2.5 3.0
+2.0
+4.0 5.0
+7.5
+3.5
+4.0 4.5 4.5
+6
+29
+31
+28
+28
+34
+26
+1
+7
+19
+31
+93
+
+1
+7
+17
+28
+85
+
+1
+8
+21
+34
+103
+
+1
+6
+16
+26
+78
+
+1
+7
+17
+28
+83
+
+1
+7
+17
+29
+86
+
+Note that when specifying pressure systems the following is important:
+• Correct tank pre-charge is critical and must be 0.15 Bar below the pump start
+pressure. Efficiency is greatly reduced if pre-charge is either too high or too
+low.
+• Ensure that the difference between start and stop pressure is as high as
+possible as the larger the differential the greater the tank drainage capacity.
+• Ensure the pump start pressure is higher than the system static pressure or else
+the pump will not start.
+• Adjust pump stop pressure to be about 90% of the pumps closed head
+pressure.
+
+SELECTION EXAMPLE
+System Parameters
+Pump Stop Pressure = 4.5 Bar
+Stop Flow = 11m3/hr
+Pump Start Pressure = 2.5 Bar
+Start Flow = 16m3/hr
+System flow at maximum cycle frequency = 65% of
+Pump Stop Flow = 0.65x11=7.2m3/hr or 7200l/hr
+Max Cycle frequency = 60cycles/hr therefore required
+drainage volume = 7200/60x2=60litres
+From table: 100 litre tank has drainage volume of 34 litres
+at defined pressures.
+300 litre tank has drainage volume of 103 litres at defined
+pressures.
+Therefore select either 2x100litre tanks (68 litres drainage
+volume) or 1x300 litre tank (103 litres drainage volume).
+
+

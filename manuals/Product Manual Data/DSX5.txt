@@ -1,0 +1,219 @@
+DSX5
+Permanent Magnet
+Borehole Pumps
+80
+
+600
+DSX5-25
+
+ETA%
+
+70
+
+500
+60
+DSX5-20
+400
+50
+
+DSX5-16
+300
+
+40
+
+DSX5-13
+
+30
+
+200 DSX5-9
+
+20
+100
+10
+
+1
+
+0
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+0
+
+9
+
+1
+
+2
+
+3
+
+5
+
+4
+
+6
+
+7
+
+8
+
+9
+
+PUMP
+DAYLIFF DSX submersible pumps featuring permanent magnet motors are specifically designed for water supply from boreholes.
+Equipped with a high specification intelligent variable frequency controller and operating at high frequency they offer unmatched
+efficiency and much reduced size. Materials of construction are engineering polymer impeller and diffuser and AISI304 stainless
+steel for top and bottom chambers, pump sleeve and shaft.
+MOTOR
+Permanent magnet synchronous motor uses special magnetised materials which generate a higher flux density that greatly
+improves efficiency and power factor. Operating at 5000 RPM the rated motor current is about 85% of an equivalent synchronous
+motor with the motor efficiencies of up to 90%.
+CONTROLLER
+The pump is provided with a remote intelligent variable frequency controller with features that include digital parameter indication,
+soft start, IoT (Internet of Things) control facility, electrical protection from high/low voltage, motor current overload and phase loss
+and dry run protection. The IoT capability provides various functionalities including remote control, real time monitoring, operating
+status recording and fault alarm record. Pumps can be monitored and controlled through GSM connected mobile phones.
+DAYLIFF DSX submersible pumps feature revolutionary motor design that provides up to 15% improvement in energy efficiency,
+about 50% reduced sizes and improved reliability through enhanced motor control. They offer quite unmatched operational
+performance and are the new frontier in pumping technology.
+Enclosure Class: IP68, Controller: IP55
+Voltage: 3x380V - 415V
+
+Insulation Class: B
+Speed: 5000rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without solid particles or fibres.
+Max. Liquid Temperature: +350C
+Max. Particle Size: 2.3mm
+Max Immersion Depth: 200m
+Minimum Borehole Diameter: 110m
+
+100mm
+
+DN
+
+PUMP DATA
+Motor
+
+Model
+
+Current
+(A)
+
+DN
+(”)
+
+Dimensions (mm)
+
+(kg)
+
+846
+
+482
+
+12
+
+1015
+
+624
+
+14
+
+1125
+
+706
+
+17
+
+459
+
+1275
+
+816
+
+19
+
+509
+
+1493
+
+984
+
+23
+
+HP
+
+DSX5-9
+
+2.2
+
+3
+
+5
+
+364
+
+DSX5-13
+
+3
+
+4
+
+8
+
+391
+
+DSX5-16
+
+4
+
+5.5
+
+10
+
+419
+
+DSX5-20
+
+5.5
+
+7.5
+
+13
+
+DSX5-25
+
+7.5
+
+10
+
+16
+
+1½
+
+Weight
+
+C
+
+kW
+
+A
+
+B
+
+95mm
+
+

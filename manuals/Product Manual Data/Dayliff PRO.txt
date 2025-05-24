@@ -1,0 +1,200 @@
+PRO
+Reverse
+Osmosis Systems
+
+FLOW DIAGRAM
+
+MODULE PERFORMANCE
+
+10 Micron
+Sediment Filter
+
+Permeate
+Outlet
+
+5 Micron Activated
+Carbon Filter
+
+Concentrate
+Valve
+
+Operating Pressure (Bar)
+
+6
+
+Parallel Connected
+RO Membrane
+
+5
+
+4
+
+3
+
+2
+
+0
+50
+100
+150
+200
+Permeate Flow rate (litres/hr)
+
+TDS levels
+
+Additional RO Modules
+as Necessary
+
+250ppm
+
+1250ppm
+
+750ppm
+
+1750ppm
+
+Reverse Osmosis is the most effective method of totally purifying water and the technology is now well proven. Traditional RO systems are
+complicated to operate and maintain, though as a result of creative thinking and extensive research Pentair Water, part of one of the world's largest
+corporations, has developed the Modular PRO system that provides excellent pure water quality with simple operation and can be scaled to
+provide a range of system sizes. These RO units are incorporated as the core component of the innovative range of Dayliff PRO treatment units, all
+of which offer the following features:•
+•
+•
+•
+•
+•
+•
+
+Three stage treatment including polypropylene sediment and activated carbon pre-treatment filtration followed by series connected
+Pentair PRO membranes.
+Strong individual corrosion proof plastic housing units for the pre-treatment and RO cartridges.
+High treatment performance with up to 95% salt rejection.
+Modular design with outputs from 100 to 400l/hr
+Available with options of either solar powered Shurflo (PRO1 size only) or mains powered Pedrollo pumps.
+All Pedrollo pump options include a pump controller for automatic pump operation.
+Supplied as complete units base frame mounted with all internal piping connections and control accessories including pressure gauge
+and flow meter.
+
+Featuring reliability, high efficiency and simple operation the Dayliff PRO water purification systems are the ideal solution for all small scale
+domestic and commercial applications where there is a requirement for totally pure water. Solar Power Option is available on request.
+OPERATING PARAMETERS
+Raw Water Quality: Conductivity<3130 or TDS level <2000ppm NaCl, chlorine <0.1mg/l, Hardness <170mg/l, iron <0.1mg/l,
+manganese <0.05mg/l, turbidity <1 NTU. Raw Water outside these limits should be pre-treated accordingly.
+Water Temperature Range: 100C-320C. Design Temperature 250C
+Operating Pressure Range: 2.5-6 Bar
+Flow Rates: Given flow rates are indicative and will depend upon raw water quality and system pressure, performance for one module being
+given in the graph. Standard flow rates are based upon 750mg/l TDS, 250C, 3.4Bar and 25% recovery.
+Membranes: Type Pentair TLC350, Recovery range 10-50%, Average Salt Rejection - 94% NaCl.
+Filters: Max Flow 0.8m3/hr, Capacity - 20m3, Micron - 3µ(carbon), 10µ (Sediment). Inlet / Outlet: ½”
+EQUIPMENT SPECIFICATION
+3
+
+Flow (m /hr)
+
+DIMENSIONS
+PRO 1
+
+PRO 2
+
+PRO 3
+
+Permeate
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+Feed
+
+0.4
+
+0.8
+
+1.2
+
+1.6
+
+1
+
+1
+
+2
+
+Pre treatment Filter Modules
+
+1
+
+Type
+Membrane
+
+Pump
+
+Dimensions
+(mm)
+
+PRO 4
+
+Pentair TLC 350
+1
+
+2
+
+3
+
+4
+
+1x2
+
+2x2
+
+3x2
+
+4x2
+
+Type
+
+PKm65
+
+PKm65
+
+PKm80
+
+PKm100
+
+kW
+Length (L)
+
+0.5/0.15
+
+0.5
+
+0.75
+
+1.1
+
+Modules
+Array
+
+Width (W)
+Height (H)
+
+730
+
+W
+
+820
+550
+
+H
+
+720
+
+* Output with Shurflo pump is reduced by about 50% of the given flow
+
+L
+
+

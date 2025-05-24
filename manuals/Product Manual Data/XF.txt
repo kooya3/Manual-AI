@@ -1,0 +1,37 @@
+PUMP
+The DAVEY XF range of booster pumps are of centrifugal single impeller design with high specification integral electric motors. They
+are particularly suited for water transfer in domestic, agricultural and industrial applications due to their high grade construction
+and continuously rated motors.
+Construction material for the XF171 & XF221 is glass filled noryl for the pump casing and glass filled polycarbonate for the impeller.
+XF211SS and XF311SS models use 304 stainless steel for all pump components including the casing and impeller.
+MOTOR
+The pump includes an integral Davey TEFC permanent split capacitor type motor specified to match the hydraulic load. The motor is
+provided with an in-built thermal cutout for overload protection and can be connected directly to the mains power supply through a
+10 amp fuse or MCB.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Voltage: 1 x 240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, chemically non aggressive liquids without solids or fibres.
+Max Water Temperature:+500C ( XF171/221); 800C (XF221/311SS)
+Max Ambient Temperature: +500C
+Max Suction Lift: 7m (at sea level)
+
+Model
+
+XF 171/221
+
+Motor (kW)
+
+7.3
+
+Model
+
+XF 211SS/ 311SS
+
+

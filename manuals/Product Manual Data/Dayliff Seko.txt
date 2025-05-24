@@ -1,0 +1,44 @@
+KOMPACT
+Chemical Dosing Pump
+
+AML
+
+DPT
+
+Dayliff Seko Kompact chemical dosing pumps are high specification products for the accurate dosage of a wide range of chemicals
+in general water treatment and industrial process applications. They are of positive displacement diaphragm type with microprocessor based magnetic solenoid motors.
+All pumps feature corrosion resistant PVDF-T for the pump heads (with manual priming), PTFE diaphragms, FPM seals and ceramic
+ball valve for universal chemical resistance. The pumps are also supplied with complete installation kits including foot valve,
+mounting screws, injection valve, 2m PE delivery tube, 4m PVC suction and bleeding tube and a wall mounting bracket.
+Two pump models are available:AML (Analogue) - Constant flow rate, manually adjustable using control dial on front panel with two frequency ranges, 0-20%
+and 0-100% for max flow rate. Pumps are fitted with an operating status LED that indicates stroke cycles and fault conditions and
+level control input for the solution tank.
+DPT (Digital) - General specification is as for the AML model with the additional features of selectable manually adjustable
+constant flow or proportional flow according to an external analogue or digital signal. Also included is timed dosing with a
+programmable timer and a digital display that reads various operating parameters.
+SPECIFICATIONS
+Max Flow: 5l/hr at 8Bar
+3l/hr at 5Bar
+Connections: 4/6 mm
+
+Max Stroke Rate: 160/min
+V Stroke: 0.52cc
+Ingress Protection: IP65
+
+PHYSICAL DIMENSIONS
+92.0
+
+Input Voltage: 240 VAC/50 Hz
+Input Power: 14W
+
+CHEMICAL TANKS
+
+190.5
+
+135.4
+
+Dimensions in mm, Weight: 2.6Kgs
+
+All dimensions in mm
+
+

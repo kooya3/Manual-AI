@@ -1,0 +1,126 @@
+20
+
+DPL550/750/1100
+
+20
+
+DPL750VS
+3450RPM
+
+15
+
+15
+2850RPM
+
+DPL750/1100
+
+10
+
+10
+DPL1100
+DPL750
+DPL550
+
+5
+
+5
+
+1500RPM
+
+DPL750VS
+
+PUMP
+The DAYLIFF DPL range of swimming pool pumps are quiet running and reliable products suitable for all domestic pool
+applications. All models feature a large strainer basket with easy-open transparent cover and connecting unions and all hydraulic
+components are made from high strength glass reinforced corrosion resistant polypropylene for long life.
+Fixed and variable speed model options are available, variable speed providing three pre-set speed options for reduced energy
+consumption in periods of low pool usage.
+MOTOR
+DPL 550/750/1100 Fixed Speed - Asynchronous two pole TEFC motor designed for continuous duty and provided with builtin thermal overload protection. Motors can be connected directly to the mains power supply through a 10A fuse of MCB.
+DPL 750 VS Variable Speed - Brushless permanent magnet synchronous motor fitted with an inbuilt frequency converter to
+provide three pre-set operating speeds 3450rpm, 2850rpm and 1500rpm. Intelligent protection from overvoltage, under voltage,
+overload and short circuit is also provided for extended motor life. The motor is also suitable for 50&60Hz frequency supply.
+Motor control is through an easy to operate control module on the pump which provides various control options and digital speed
+indication.
+All motors can be connected directly to the mains electrical supply through a 10A MCB or switch fuse.
+Insulation Class: F
+
+Enclosure Class: IP55
+
+Voltage: 1x240V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean non-chemically aggressive liquid without solid particles or fibers
+Max. Fluid Temperature: 600C
+Max Ambient Temperature: -100C - +400 C
+
+PUMP DATA
+Dimensions (mm)
+Current
+(A)
+A
+B
+D
+DN1/DN2
+
+Model
+
+Speed
+(rpm)
+
+Power
+(kW)
+
+DPL 550
+DPL 750
+
+2850
+
+0.55
+0.75
+
+4.2
+5.3
+
+1.1
+
+7.4
+
+3450
+
+1.2
+
+8
+
+2850
+1500
+
+0.6
+0.2
+
+1.3
+
+DPL 1100
+DPL 750VS
+
+4
+
+H
+
+Weight
+(kg)
+13
+14
+
+50
+
+550
+
+238
+
+345
+
+330
+12
+
+

@@ -1,0 +1,107 @@
+Prepaid Water
+Metering
+
+TED
+A
+D
+UP
+
+Apartment Management
+Administrator(s)
+Water Meter Onboarding
+& Management,
+Operations Report,
+Manual Vending Option
+
+Split Type Prepaid Meter
+
+Prepaid Meter with integrated keypad
+
+Automatic Meter Recharge Option
+DCU
+
+Web Platform
+PAYBILL
+Payment by
+using Meter No.
+as Account No.
+
+Vending
+System
+
+Key in
+token using
+CIU
+
+Token via
+SMS/App
+
+Standard Manual
+Meter Recharge
+
+Apartment Tenant
+
+Smart Prepaid Meter
+
+Tenant gets Water
+
+Dayliff Prepaid Water Metering System is a comprehensive solution that offers effective water meter management for
+apartment owners and water utilities. The high-quality system consists of industry-standard compliant smart prepaid water
+meters with integral electronic valve control and a web-based vending platform for water credit token generation. The meter
+recharge process is facilitated by 20-digit tokens delivered to water service consumers through SMS or mobile app.
+Automated recharge option is possible with installation of Data Concentrator Unit (DCU) that enables wireless
+communication between the vending system and the smart prepaid meters.
+The system enforces prepayment of water service and provides real-time information on water purchases thereby enabling
+defaulter management and promoting water conservation. Also, it offers numerous other benefits to water service providers
+including effective non-revenue water management, reduced operational costs, and improved overall service efficiencies
+The key features of the product:
+• STS compliant water meters with integral electronic valve control and wireless communication modules
+• High precision and reliable multi jet dry dial water meters with body made of composite plastic
+• Consumer interface unit (CIU) options, including integrated keypad or split type with separate wireless CIU.
+• Anti-tamper mechanisms that trigger meter valve closure on magnetic field interference or tampering with seals.
+• Replaceable meter battery with a long lifetime of up to 7 years.
+• Web-based vending platform for kiosk vending with user rights management and vending reports.
+• Integration with mobile money systems for direct payment to water service providers' accounts by consumers.
+Performance Data
+15 (½")
+
+20 (¾")
+
+25(1")
+
+2.5
+
+4
+
+6.3
+
+Max. Flow (m /hr)
+
+3
+
+5
+
+7
+
+Min. Flow (l/hr)
+
+25
+
+40
+
+63
+
+Size
+3
+
+Rated Flow (m /hr)
+3
+
+Pressure Rating (Bar):16Bar
+Max. Reading (m3): 99999.9999
+Accuracy: R100
+
+Pressure Loss at Max. Flow (Bar): 0.6Bar
+Max. Operating Temperature: 500C
+
+

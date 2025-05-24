@@ -1,0 +1,172 @@
+UP
+Multistage
+Submersible Pumps
+100
+90
+UPm2/6
+80
+UPm4/6
+
+70
+
+UPm4/5
+60
+UPm2/4
+50
+40
+
+UPm2/3
+
+30
+
+UPm2/2
+
+20
+
+UPm8/4
+
+10
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+PUMP
+Pedrollo UP pump is a compact automatic multistage closed impeller pump suitable for water transfer and well applications. The
+main feature of this pump is the specially designed independent floating impellers which prevents blockage even after long periods
+of inactivity.
+Pump construction is stainless steel external casing with suction filter raised to prevent passage of sand, leaves and external particles
+while the impellers and diffusers are made from noryl. The pump is also supplied with double mechanical seals with intermediate oil
+chamber for total motor protection.
+Pumps are provided with a floatswitch for automatic operation and supplied with 20m cable.
+MOTOR
+Enclosed rewindable liquid cooled, non-overloading induction motor designed for continuous operation. A thermal cut-out is
+incorporated in the windings to protect against overloading and the pump can be connected directly to mains power supply through
+a 10A fuse or MCB.
+Enclosure: IP68
+
+Insulation Class:F
+
+Voltage:1x240V
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean chemically non-aggressive liquids with maximum sand content of 150gm/m3
+Max. Fluid Temperature: +400C
+Max. Immersion Depth: 20m
+PUMP DATA
+Motor
+Size
+(kW)
+
+Max.
+Current
+(A)
+
+UPm2/2
+
+0.37
+
+4.2
+
+398
+
+UPm2/3
+
+0.55
+
+5.2
+
+425
+
+UPm2/4
+
+0.75
+
+6.0
+
+Model
+
+DN
+(”)
+
+Dimension H (mm) Weight
+(kg)
+H
+Ø
+
+1¼”
+
+13
+482
+
+15
+Minimum
+level for start
+Level of
+emptying
+370
+
+150
+
+1¼
+UPm2/6
+
+1.5
+
+8.5
+
+556
+
+18
+
+UPm4/5
+
+1.1
+
+6.9
+
+509
+
+16
+
+UPm4/6
+
+1.5
+
+8.4
+
+556
+
+18
+
+UPm8/4
+
+1.5
+
+8.4
+
+502
+
+17
+
+min
+500
+
+h
+
+135
+150
+min 500
+
+

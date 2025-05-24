@@ -1,0 +1,114 @@
+DB12
+
+PUMP
+The DAYLIFF DB range of horizontal multistage centrifugal pumps are commercial quality products designed for continuous duty
+in various water transfer applications. The pump has small physical dimensions, axial suction port and radial discharge port and is
+base plate mounted. Suction chamber and pump head are made of grey cast iron, the impeller and impeller housing of stainless
+steel.
+Both pump and continuously rated motor unit are of monoblock design, and particular attention has been paid to quietness and
+smooth operation.
+MOTOR
+The pump is coupled to a totally enclosed, fan cooled DAYLIFF squirrel-cage motor. Single phase motors include a built in thermal
+overload protection and should be connected to mains power through a 10A fuse or MCB. Three phase motors should be installed
+with a remote starter.
+Enclosure Class: IP54
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquids: Thin, clean, non-aggressive and non-explosive liquids without solid particles or fibres.
+Liquid Temperature Range: 00C to +900C
+Max. Ambient Temperature: +500C
+Max. Suction Lift: According to the NPSH curve plus a safety margin of 1.0m
+Max. Inlet Pressure: 10 bar
+Max. Operating Pressure: 10 bar up to 550C
+6 bar up to 900C
+
+CB-12 Rp1½
+
+L4
+
+RP ½
+
+H4
+
+RP 1½
+
+RP ½
+
+L2
+L3
+
+Motor
+(W)
+
+B1
+
+Dimensions (mm)
+
+B2
+
+Model
+L1
+
+L2
+
+L3
+
+L4
+
+B1
+
+B2
+
+H1 H2 H3
+
+138
+160
+L1
+
+H4
+
+Weight
+(kg)
+H3
+
+-
+
+7.4
+
+-
+
+390 84
+
+72 108 181 136 112 190 240 248
+
+21
+
+H1
+H2
+
+DB 12-30 1680
+
+ø8.5
+
+DB 12-50
+
+-
+
+2820
+
+-
+
+5.2
+
+450 132 120 138 185 141 112 190 240 228
+
+29
+
+108
+130
+
+

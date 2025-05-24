@@ -1,0 +1,261 @@
+DIN64
+
+250
+
+5
+DIN 64-7
+
+4
+
+200
+DIN 64-6
+150
+
+DIN 64-5
+DIN 64-4
+
+100
+
+90
+
+6
+
+DIN 64-4/2
+
+5
+
+DIN 64-3/1
+
+4
+
+75
+
+ETA%
+
+60
+45
+
+50
+NPSH
+
+DIN 64-1
+
+30
+15
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+10 20 30 40 50 60 70 80 90
+
+90
+
+PUMP
+The DAYLIFF DIN pump range are of non self priming vertical multistage in-line centrifugal design suitable for a wide range of
+water supply, irrigation, liquid transfer and boosting applications. The pumps are of heavy duty construction and designed for
+continuous duty in commercial and industrial installations. All DIN pumps feature AISI 316 stainless steel vital components in
+contact with water including the impellers, intermediate chambers, shaft and top and bottom housings and are suitable for
+pumping highly mineralised corrosive water. All pumps are water lubricated and are provided with a standard cartridge type
+mechanical seal. They are supplied complete with BSP internally threaded counter flanges.
+MOTOR
+The pumps are coupled to high efficiency IE3 totally enclosed fan cooled 2-pole motor complying with IEC standards and must be
+connected to an effective motor starter in accordance with local regulations.
+Enclosure Class: IP55 Insulation Class: F
+
+Voltage: 3x415V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean, non-aggressive and non-explosive liquids without solid particles or fibres.
+Liquid Temperature Range: -150C to +1200C
+Maximum Ambient Temperature: +500C
+Maximum Suction Lift: According to the NPSH curve plus a safety margin of 1m
+Maximum Operating Pressure: Up to 7.5kW - 16bar, others - 25bar
+Maximum Inlet Pressure: DIN 64-1-4Bar, DIN 64-2 to 3 -10Bar, DIN 64-4 to 7-15Bar
+PUMP DATA
+Model
+
+Motor
+
+Full Load I Start
+Current
+(A)
+I
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+D1
+
+D2
+
+D3
+
+925
+
+235
+
+197
+
+300
+
+101
+
+838 1328
+
+269
+
+215
+
+350
+
+163
+
+921 1461
+
+318
+
+241
+
+350
+
+213
+
+6.4
+
+921 1461
+
+318
+
+241
+
+350
+
+215
+
+6.4
+
+1003 1663
+
+390
+
+295
+
+400
+
+320
+
+61.7
+
+6.6
+
+1086 1746 390
+
+295
+
+400
+
+342
+
+74.8
+
+6.2
+
+1172 1862
+
+325
+
+450
+
+422
+
+kW
+
+HP
+
+H1
+
+H2
+
+DIN64-1
+
+5.5
+
+7.5
+
+11.2
+
+DIN64-3-1
+
+15
+
+20
+
+25.5
+
+7.0
+
+563
+
+6.4
+
+DIN64-4-2
+
+18.5
+
+25
+
+31.3
+
+6.4
+
+DIN64-4
+
+22
+
+DIN64-5
+
+30
+
+40
+
+37.1
+
+30
+
+50.3
+
+DIN64-6
+
+37
+
+DIN64-7
+
+45
+
+50
+60
+
+446
+
+All dimensions in mm
+
+

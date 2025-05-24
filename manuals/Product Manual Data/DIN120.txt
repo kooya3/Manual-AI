@@ -1,0 +1,272 @@
+DIN120
+
+250
+8
+DIN 120-7
+
+6
+
+200
+4
+
+DIN 120-6-1
+
+150
+
+2
+DIN 120-5-1
+
+0
+100
+
+80
+ETA%
+
+DIN 120-4-1
+
+8
+
+64
+
+6
+
+48
+
+DIN 120-3
+DIN 120-2
+
+DIN 120-1
+
+0
+
+NPSH
+
+4
+
+50
+
+20
+
+40
+
+60
+
+80
+
+180
+
+100 120 140 160
+
+32
+
+2
+
+16
+
+0
+
+20 40 60 80 100 120 140 160 180
+
+PUMP
+The DAYLIFF DIN pump range are of non self priming vertical multistage in-line centrifugal design suitable for a wide range of
+water supply, irrigation, liquid transfer and boosting applications. The pumps are of heavy duty construction and designed for
+continuous duty in commercial and industrial installations. All DIN pumps feature vital components in contact with water including
+the impellers, intermediate chambers, shaft and top and bottom housings are made from AISI 316 stainless steel and suitable for
+pumping highly mineralised corrosive water. All pumps are water lubricated and are provided with a standard cartridge type
+mechanical seal. They are supplied complete with BSP internally threaded counter flanges.
+MOTOR
+The pumps are coupled to high efficiency IE3 totally enclosed fan cooled 2-pole motor complying with IEC standards and must be
+connected to an effective motor starter in accordance with local regulations.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Voltage: 3x415V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean, non-aggressive and non-explosive liquids without solid particles or fibres.
+Liquid Temperature Range: -150C to +1200C
+Maximum Ambient Temperature: +500C
+Maximum Suction Lift: According to the NPSH curve plus a safety margin of 1m
+Maximum Operating Pressure: 30bar
+Maximum Inlet Pressure: DIN120-1-10Bar, DIN120-2 to 5 -15Bar, DIN120-6-1 to 7 -20Bar
+PUMP DATA
+Model
+
+Motor
+HP
+kW
+
+Full Load I stat
+Current
+I
+(A)
+18.9
+6.6
+
+H1
+
+Dimensions (mm)
+D1
+H2
+D2
+
+D3
+
+Weight
+(kg)
+196
+
+DIN 120-1
+
+11
+
+15
+
+837
+
+1282
+
+329
+
+215
+
+350
+
+DIN 120-2
+
+22
+
+30
+
+37.1
+
+6.4
+
+993
+
+1533
+
+318
+
+241
+
+350
+
+266
+
+DIN 120-3
+
+30
+
+40
+
+51.3
+
+6.4
+
+1149
+
+1809
+
+390
+
+295
+
+400
+
+376
+
+DIN 120-4-1
+
+37
+
+50
+
+61.7
+
+6.6
+
+1304
+
+1964
+
+390
+
+295
+
+400
+
+404
+
+DIN 120-5-1
+
+45
+
+60
+
+74.8
+
+6.2
+
+1463
+
+2153
+
+446
+
+325
+
+450
+
+490
+
+DIN 120-6-1
+
+55
+
+75
+
+91.2
+
+6.6
+
+1645
+
+2415
+
+485
+
+355
+
+550
+
+620
+
+DIN 120-7
+
+75
+
+100
+
+123.8
+
+6.5
+
+1800
+
+2645
+
+550
+
+410
+
+550
+
+747
+
+All dimensions in mm
+
+

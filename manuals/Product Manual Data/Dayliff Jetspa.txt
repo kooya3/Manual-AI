@@ -1,0 +1,118 @@
+JetSpa
+25
+
+20
+JetSpa 1.5
+
+15
+
+JetSpa 3.0
+
+10
+
+5
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+PUMP
+The DAYLIFF JetSpa pump is a high flow, high pressure, quiet running pump for particular application in spas and water features.
+The high efficiency impeller gives enhanced performance and the pump is of robust and simple construction to give years of
+reliable operation. Materials of construction is engineering plastic with Noryl impeller.
+MOTOR
+The pump is close coupled to asynchronous two pole motor with continuous operation rating and overload protection. Single
+phase pumps can be connected directly to mains electrical supply through 10A fuse or MCB while three phase motors require a
+remote starter.
+Enclosure: IP55
+
+Insulation Class: F
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean non-chemically aggressive liquid without solid particles or fibers
+Max. Liquid Temperature: +600C
+Max. Ambient Temperature: -100C - +400C
+PUMP DATA
+Power
+(kW)
+
+Current
+(A)
+
+Voltage
+(V)
+
+JetSpa 1.5
+
+1.5
+
+8.7
+
+JetSpa 3.0
+
+3
+
+6.4
+
+Model
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+Outlet/
+Inlet
+
+A
+
+B
+
+C
+
+1x240
+
+50
+
+380
+
+186
+
+277
+
+12
+
+3x415
+
+75
+
+450
+
+260
+
+319
+
+18
+A
+
+C
+
+B
+
+

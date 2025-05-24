@@ -1,0 +1,216 @@
+CP
+Horizontal
+Centrifugal Pumps
+60
+
+CPm 200/CP200
+
+PUMP HEAD (m)
+
+50
+
+CPm190
+
+CPm170
+
+40
+
+CPm158
+CPm150
+
+30
+
+CPm130
+
+20
+
+10
+
+0
+
+1
+
+2
+
+3
+
+4
+5
+6
+FLOW RATE (m3/hr)
+
+7
+
+8
+
+9
+
+10
+
+PUMP
+The PEDROLLO CP range are non self-priming closed impeller pumps with integral motors. They are efficient, quiet and rated for
+continuous duty making them suitable for water boosting and transfer in a variety of domestic, industrial and agricultural
+applications. They are also particularly suited to automatic pressurised supply using either a surge tank or 'Presscontrol' unit.
+Pump construction material is cast iron for the casing and brass alloy for impellers.
+Pumps can be installed for manual or automatic control using either the unique ‘Presscontrol’ unit or a pressure tank and switch.
+Cpm 158 is available with the ‘Hydrofresh’ option combines a 24L horizontal diaphragm tank, pressure switch and gauge with
+pressure settings of 1.8Bar for pump start and 3.2 ar for pump stop.
+MOTOR
+Pumps are close coupled to a Pedrollo brushless TEFC induction motor designed for continuous operation. Single phase motors
+are provided with a thermal cutout in the windings to protect against electric and mechanical overload and can be connected
+directly to the mains power supply through a 10Amp fuse or MCB. Three phase motors require remote DOL starter protection
+according to local regulations.
+Enclosure Class: IPX4
+
+Insulation Class: F
+
+Speed: 2900 rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without solids or fibres.
+Max. Fluid Temperature: +90oC
+Max. Ambient Temperature: +40oC
+Max. Suction lift: 7 m (at sea level).
+PUMP DATA
+
+CPm 170
+CPm 190
+CPm 200
+CP 200
+
+0.75
+1x240
+1.1
+1.5
+3x415
+
+2.2
+
+DN2
+(”)
+
+Dimensions (mm)
+L
+
+H
+
+H1
+
+W
+
+Weight
+(kg)
+
+2.9
+
+257
+
+205
+
+82
+
+165
+
+8
+
+5.4
+
+286
+
+240
+
+92
+
+190
+
+12
+
+286
+
+240
+
+92
+
+190
+
+12
+
+535
+
+600
+
+-
+
+255
+
+21
+
+367
+
+260
+
+110
+
+206
+
+18
+
+290
+
+115
+
+242
+
+1
+
+5.8
+1
+
+7.2
+1.0
+11.7
+5.2
+
+1¼
+
+364
+384
+
+W
+
+L
+DN1
+
+H
+
+0.37
+
+DN1
+(”)
+
+H1
+
+CPm 130
+CPm 150
+CPm 158
+CPm 158 Hydrofresh
+
+Voltage Motor Current
+(kW)
+(A)
+(V)
+
+DN1
+
+Model
+
+22
+H
+
+24
+
+L
+
+W
+
+

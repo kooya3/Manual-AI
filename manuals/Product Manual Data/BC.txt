@@ -1,0 +1,202 @@
+BC
+Submersible
+Drainage Pumps
+35
+
+30
+
+25
+BC75/35
+
+20
+
+15
+BC40/35
+
+Double Channel
+Impeller
+
+10
+BCm15
+
+BC40/75
+
+5
+
+BCm15/50
+
+0
+
+20
+
+40
+
+60
+
+100
+
+80
+
+120
+
+PUMP
+The Pedrollo BC range of centrifugal submersible drainage pumps are specifically designed to operate in waste water containing
+relatively large amounts of impurities. They are fitted with a double channel impeller for pumping of liquids containing suspended
+solids and short fibres.
+Construction is epoxy electrocoated cast iron pump body, stainless steel motor housing with cast iron impellers. 5m of Neoprene
+cable is supplied for single phase model and 10m cable for three phase models. Single phase models are provided with an external
+float switch to automatically control pump start and stop.
+MOTOR
+Pumps are provided with built-in liquid cooled non-overloading induction motors designed for continuous operation. A thermal
+cut-out is provided in the motor windings to protect against pump overload and the pump can be connected directly to the mains
+power supply through a 10amp fuse or MCB. Three phase models require a remote DOL starter.
+Enclosure Class: IPX8
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids containing some impurities and fibres.
+Max. Fluid Temperature: +400C
+Max. Immersion Depth: 5m
+Min. Immersion Depth: 300mm (BCm15/50), 470mm (BC 40,75/35)
+PUMP DATA
+Motor
+Model
+
+Current (A)
+
+kW
+
+HP
+
+1x240V
+8
+
+3x415V
+
+BCm 15/50
+
+1.1
+
+1.5
+
+BC 40/35
+
+3
+
+4
+
+6
+
+BC 75/35
+
+5.5
+
+7.5
+
+14
+
+Max
+Particle
+Size
+(mm)
+
+DN
+(”)
+
+A
+
+B
+
+C
+
+D
+
+50
+
+2
+
+115
+
+95
+
+155
+
+17
+
+35
+
+2½
+
+Dimensions (mm)
+
+113
+
+170
+
+40
+
+F
+
+H
+
+H1
+
+Weight
+(kg)
+
+500
+
+447
+
+164
+
+16
+
+E
+
+500
+
+800
+
+Typical Installation
+A
+
+H
+H
+
+DN
+
+DN
+H1
+
+H1
+
+F(min)
+D (min)
+
+C
+
+BCm 15
+
+B
+
+C
+
+B
+
+BC 40/75
+
+E(min)
+
+595
+665
+
+100
+
+56
+67
+
+

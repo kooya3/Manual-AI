@@ -1,0 +1,58 @@
+1
+
+3
+
+1. Pump Body
+2. Pump Body Back Plate
+3. Motor Bracket
+4. Impeller
+5. Motor Shaft
+4
+6. Mechanical Seal
+7. Electric Motor
+2
+
+6
+
+5
+
+7
+
+PUMP
+The Pedrollo PQ 3000 is a high specification high pressure peripheral pump for use in applications like horticultural fertigation and
+spraying, wash-down and high head water transfers where increased pressures are required. The hydraulic end features a special
+design to minimise the incidence of impeller jamming and carefully matched component materials including AISI 316 stainless
+steel for the pump body and body back plate and bronze for the impeller ensure reliability and durability.
+MOTOR
+Pumps are fitted with close coupled TEFC brushless induction motors designed for continuous duty. Motors should be fitted with a
+DOL starter and an appropriately sized MCB for control and protection.
+Enclosure Class: IPX5
+Voltage: 3x415V
+
+Insulation Class: H
+Power:2.2kW
+
+Speed: 2900rpm
+Max. Current: 4.8A
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without abrasive particles or fibres.
+Max. Fluid Temperature: +900C
+Max. Ambient Temperature: +400C
+Max. Suction lift: 8m (at sea level)
+
+356
+
+211
+
+¾”
+
+¾”
+
+151
+
+All dimensions in mm
+
+Weight = 20kgs
+
+

@@ -1,0 +1,118 @@
+Generator
+Accessories
+AUTOMATIC TRANSFER
+SWITCHES (ATS)
+
+The Dayliff range of Auto Transfer Switches are specially designed for automatic switching of power supply between mains
+and generator inputs according to load requirements. They are specificied for applications with Dayliff generators fitted
+with DSE modules and include motorised 4-pole breakers powered by a signal from the module. Manual power change
+over is also provided. The units are fitted with indicator lights to show active power and connection status.
+Dayliff ATS switches may also be supplied with a separate Manual bypass switch for applications where uninterrupted
+supply is required. The bypass switches are manually operated to allow primary power supply to be connected to the load
+while isolating the ATS for operational reasons.
+Generator Range
+
+9-40kVA
+45-80kVA
+85-100kVA
+110-160kVA
+165-250kVA
+260-400kVA
+
+Model No.
+ATS63
+ATS125
+ATS160
+ATS250
+ATS400
+ATS630
+
+Breaker Rating
+63A
+125A
+160A
+250A
+400A
+630A
+
+MANUAL CHANGEOVER A range of Manual switches changing input power from mains supply to generator. They feature 4-pole switches and are
+fitted with indicator lights to show connection status.
+SWITCH
+Genset Range
+20kVA, 3phase
+25kVA, 3phase
+40kVA, 3phase
+65kVA, 3phase
+
+DSE857 MODULE
+
+Model No.
+MCO-32
+MCO-40
+MCO-63
+MCO-100
+
+Changeover Rating
+32A
+40A
+63A
+100A
+
+DSE857 is a controller that allows BMS integration of generators fitted with DSE controllers. The module enables DSE
+controllers with USB connectivity to be converted to RS485 connection which enables communication with MODBUS RTU
+master within a1.2km distance.
+Connection to the module is via a USB cable while a RS485 port allows for connection to a Modbus master device such as
+a PC, Building Management System (BMS), PLC or other Modbus master device.
+
+DSE890 MODULE
+
+DSE890 is a Gateway module used for remote communication on generators fitted with compatible DSE controllers. It
+connects the Generator module to the DSE data server by GPRS (GSM or 3G mobile internet) and includes GPS (satellite
+location) functionality. GSM and GPS antennas are provided separately for installation and the system offers an ideal
+solution for genset maintenance, remote/periodic testing, fault analysis and genset tracking. It also offers mapping with
+real-time location, instrumentation and control, event log tables and system alerts with information being relayed via email
+or SMS and accessible to a number of authorized users through smart phone devices, tablets or laptops.
+Parameters monitored varies depending on the module fitted with the key ones being Genset Parameters (Volts – Line and
+Phase, Amps, kW, kVA, kVAr, pf, kWh, kVAh, kVAr), Mains Parameters, Engine Status and Parameters, Digital Input and
+Output Status as well as Alarm Status.
+
+DF DC FUEL
+TRANSFER PUMP
+
+A self-priming rotary vane DC type pump specifically designed for diesel or kerosene transfer. They are particularly suited
+for use on generators for the transfer of fuel from bulk storage to main supply tanks. The pump features a cast iron body
+and composite vane impeller and is fitted with either a 12 or 24V DC brush motor with PMG stator, to suit the battery
+voltage of the system. The pump should only be used for intermittent service of maximum 1 hour work cycles followed by at
+least 30 minutes rest.
+Fuel level sensors with electrical outputs are available for automatic start/stop operation. A small panel which houses the
+components of the fuel transfer circuit is recommended and must be used with appropriate gauge to suit fuel tank depth,
+sizes available being 130mm, 160mm and 210mm.
+Parameter
+Max Flow (L/min)
+Max Head (m)
+Suction (m)
+Working Voltage
+Power (kW)
+Speed (rpm)
+Inlet/Outlet Size (”)
+Dimensions (mm)
+Weight (Kg)
+
+Specifications
+70
+15
+3
+DC 12V or 24V
+0.55
+2800
+1x1
+200x160x120
+3
+
+ENGINE SERVICE KITS
+A range of cost-effective service kits comprising Oil Filters, Fuel Filters and Air
+Cleaners packaged conveniently to suit scheduled service of the different
+engine models within the Dayliff range. Engine kit component details are
+available on request.
+
+

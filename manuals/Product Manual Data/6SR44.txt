@@ -1,0 +1,183 @@
+6SR44
+Submersible
+Borehole Pumps
+300
+
+80%
+
+6SR44/21
+
+ETA
+
+200
+
+64%
+
+6SR44/16
+150
+
+6SR44/13
+
+48%
+
+6SR44/11
+100
+
+32%
+
+6SR44/8
+
+50
+
+0
+
+ETA%
+
+250
+
+16%
+
+10
+
+20
+
+30
+
+50
+
+40
+
+70
+
+60
+
+PUMP
+Pedrollo 6SR44 submersible pumps are specifically designed for supply from boreholes, though can also be used in other
+submersible applications in either vertical or horizontal configuration. They feature a hydraulic design that incorporates floating
+impellers which together with especially resistant component materials provide high resistance to sand content in the pumped water.
+The pump impellers and diffusers are made from technopolymer while the stage casings, top housing, suction connector, pump
+sleeve and shaft are made of AISI 304 stainless steel. The pump is supplied with a 4m tail cable.
+MOTOR
+Pumps are coupled to a two pole sealed motor constructed principally from stainless steel. Motors require a remote direct in-line
+starter and if irregular electrical supply is prevalent an additional quick tripping multi function protection relay is recommended.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+Voltage: 3x415V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non aggressive liquids with a maximum sand content of 100gm/m3.
+Max. Liquid Temperature: +350C
+Max. Immersion Depth: 200m
+Min. Borehole Diameter: 200mm
+150
+
+PUMP DATA
+
+DN
+
+HP
+
+Dimensions(mm)
+
+3x415V
+
+H1
+
+H2
+
+Weight
+(Kg)
+
+6SR44/8
+
+11
+
+15
+
+24
+
+1275
+
+826
+
+32
+
+6SR44/11
+
+15
+
+20
+
+32
+
+1613
+
+894
+
+40
+
+6SR44/13
+
+18.5
+
+25
+
+39
+
+1839
+
+959
+
+45
+
+6SR44/16
+
+22
+
+30
+
+47
+
+2178
+
+1116
+
+54
+
+6SR44/21
+
+30
+
+40
+
+64
+
+2743
+
+1243
+
+63
+
+3
+
+H1
+
+kW
+
+DN
+(”)
+
+H2
+
+Current
+(A)
+
+Motor
+
+Model
+
+

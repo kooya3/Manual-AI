@@ -1,0 +1,207 @@
+DIN20
+300
+
+250
+
+200
+
+150
+
+100
+
+DIN 20-17
+
+DIN 20-14
+
+DIN 20-10
+
+DIN 20-7
+DIN 20-5
+
+50
+
+DIN 20-3
+
+PUMP
+The DAYLIFF DIN pump range are of non self priming vertical multistage in-line centrifugal design suitable for a wide range of
+water supply, irrigation, liquid transfer and boosting applications. The pumps are of heavy duty construction and designed for
+continuous duty in commercial and industrial installations. All DIN pumps feature AISI 316 stainless steel vital components in
+contact with water including the impellers, intermediate chambers, shaft and top and bottom housings and are suitable for
+pumping highly mineralised corrosive water. All pumps are water lubricated and are provided with a standard cartridge type
+mechanical seal. They are supplied complete with BSP internally threaded counter flanges.
+MOTOR
+The pumps are coupled to high efficiency IE3 totally enclosed fan cooled 2-pole motor complying with IEC standards and must be
+connected to an effective motor starter in accordance with local regulations.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Voltage: 3x415V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean, non-aggressive and non-explosive liquids without solid particles or fibres.
+Liquid Temperature Range: -150C to +1200C
+Maximum Ambient Temperature: +500C
+Maximum Suction Lift: According to the NPSH curve plus a safety margin of 1m
+Maximum Operating Pressure: Up to 11kW - 16bar, other - 25bar
+Maximum Inlet Pressure: DIN20-3 -8bar, DIN 20-5 to 17 - 10bar
+PUMP DATA
+Motor
+Model
+
+Full Load
+I Start
+Current
+(A)
+I
+
+kW
+
+HP
+
+DIN20-3
+
+4
+
+5.5
+
+8.7
+
+DIN20-5
+
+5.5
+
+7.5
+
+DIN20-7
+
+7.5
+
+DIN20-10
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+H1
+
+H2
+
+D1
+
+D2
+
+D3
+
+7.5
+
+463
+
+789
+
+220
+
+161
+
+-
+
+63
+
+11.2
+
+7.0
+
+585
+
+947
+
+235
+
+197
+
+300
+
+93
+
+10
+
+14.7
+
+8.7
+
+675 1080
+
+235
+
+197
+
+300
+
+102
+
+11
+
+15
+
+18.9
+
+6.6
+
+887 1332
+
+269
+
+215
+
+350
+
+139
+
+DIN20-14
+
+15
+
+20
+
+25.5
+
+6.4
+
+1067 1557
+
+269
+
+215
+
+350
+
+155
+
+DIN20-17
+
+18.5
+
+25
+
+31.3
+
+6.4
+
+1202 1742
+
+318
+
+241
+
+350
+
+193
+
+PN16-25/DN50
+
+All dimensions in mm
+
+

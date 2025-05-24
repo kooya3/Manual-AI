@@ -1,0 +1,234 @@
+SUNVERTER
+AC Solar
+Pump Controllers
+Sunverter 3
+
+Solar Panel
+
+Water Tank
+
+Generator
+
+Grid
+Pump
+Sunverter 4
+
+Dayliff Sunverter is an established range of advanced AC/DC inverters specially designed for solar-powering AC motors in various water pumping applications. As
+well as a general upgrade of the electronics and functionality an important new feature is hybrid capability that enables concurrent operation with direct AC power
+from mains or generator supply while prioritising solar supply. It is adaptable to all AC motor types and can be retro fitted to existing AC supply installations in
+solarisation projects. Particular features include;
+•
+•
+•
+•
+•
+•
+•
+•
+
+Hybrid capability with the option of DC solar power, generator or mains grid power inputs
+Patented MPPT (Maximum Power Point Tracking) capability providing fast response, good stability and up to 99% efficiency.
+Fully automatic operation with up to 8 years storage capacity of operating data.
+Supports motor soft start and gives full motor protection
+User friendly LCD display interface with comprehensive display information
+Integral remote monitoring and control capability available on all units which is activated by signing up to the unique iDAYLIFF Service.
+Strong IP65 rated enclosure for enhanced component protection
+Built-in PV array disconnect switch and fuse, for system isolation (SV4 only)
+
+CONTROLLER FUNCTIONALITY
+The controller offers the following control functions:
+• Settable minimum and maximum frequency and open circuit voltage.
+• Display of operating parameters including frequency, voltage, amperage, input power and pump speed.
+• Display of historical data including energy generation, maximum power and operating times.
+• Protection against over and under voltage, over current, system overload and module over temperature.
+• Fault detection with error code display.
+• Selectable hybrid modes that prioritise solar supply as well as maximise output through optimal blending of both power supplies.
+Ÿ Power saving mode (CRUISE) - limit the maximum AC input power, hence saving energy (SV4 only).
+INSTALLATION
+Dayliff Sunverter 4 controllers are surface mounted and should be provided with a housing for water and heat protection. Due to the high operating voltages proper
+earthing is essential, which must be done by a qualified electrician. As a rule, all PV powered solar pumping systems should be provided with a solar module array
+with a nominal output about 30% greater than the motor size. In hybrid applications, higher array MPP voltage is specified to allow achievement of larger solar
+supply share of hybrid power supply. The arrays should be wired in a combination of series and parallel connections to ensure that the correct voltage is available into
+the inverter. It is important that the connection arrangement is approved by the pump supplier.
+OPERATING CONDITIONS
+Altitude: 0-2,000m**
+Relative Humidity: 0-95% (non condensing)
+
+Ambient Temperature: -200C to 600C ***
+Frequency: 0-60Hz
+
+CONTROLLER DATA
+Model
+
+Motor
+Rated
+Power
+(kW)
+
+Rated
+Voltage
+
+Output
+Current
+(A)
+
+SV4/1.5M
+SV4/2.2M
+SV4/3.0M
+SV3/3.7T
+
+1.1
+1.5
+2.2
+3.7
+
+SV3/5.5T
+
+5.5
+
+13
+
+SV3/7.5T
+
+7.5
+
+18
+
+SV3/11T
+
+11
+
+24
+
+SV3/15T
+
+15
+
+SV3/18T
+
+18.5
+
+39
+
+SV3/22T
+
+22
+
+45
+
+SV3/30T
+
+30
+
+60
+
+SV3/37T
+
+37
+
+84
+
+SV3/45T
+
+45
+
+98
+
+1x240V
+
+3x415V
+
+8.6
+11
+14
+9
+
+Max
+DC
+Input
+Voltage
+VDC
+
+MPP
+Voltage
+VDC,
+Solar
+
+MPP
+Voltage
+VDC,
+Hybrid
+
+440
+
+150-360
+180-360
+250-360
+
+150-370
+180-370
+250-370
+
+Dimensions (mm)
+
+Weight
+(kg)
+
+H
+
+W
+
+D
+
+266
+
+296
+
+111
+
+5.5
+
+416
+
+257
+
+158
+
+8.5
+8
+
+850
+
+500-700
+
+600-700
+
+30
+
+458
+
+300
+
+175
+11.5
+
+780
+
+500-600
+
+540-600
+
+625
+
+388
+
+235
+
+29
+
+**If the altitude is over 2,000m, the rated output current should be derated by 10% for every 1,500m increase in height
+***When operating in a small enclosed space, such as a cabinet, ensure the inverter is adequately cooled to prevent high internal temperature.
+
+All dimensions in mm
+
+

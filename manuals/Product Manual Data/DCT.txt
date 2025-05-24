@@ -1,0 +1,150 @@
+Trash Pumps
+
+25
+
+20
+
+15
+
+10
+
+DCT80D
+
+DCT150D
+
+5
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+PUMP
+The DAYLIFF DCT range of portable diesel engine pumps are of self-priming centrifugal type specially designed for pumping waste
+water with high silt loads with applications in construction site drainage, sewage abstraction, flood drainage etc. Pumps are fitted
+with open vane type impellers for enhanced solid passing performance and are also provided with an easy opening front casing for
+volute cleaning incase of blockage. Both models are powered by reliable and economic diesel engines.
+For all pumps the body and impellers are manufactured from high grade aluminum. The DCT80D is provided with a sturdy carrying
+and protection frame while the DCT150D is wheel mounted
+ENGINE
+4 stroke OHV, direct injection air cooled design fitted with oil alert protection.
+Note that performance curves for all engines relate to the engine governor set at maximum speed to achieve maximum rated power
+output. To prolong engine life pumps should only be run under maximum power conditions for short periods and for extended duty
+the throttle setting should be reduced to approximately three-quarters power. Pump performance will then be reduced accordingly.
+SPECIFICATIONS
+
+Model
+
+Inlet
+&
+Outlet
+(”)
+
+Max
+Particle
+Size
+(mm)
+
+Starter
+
+Engine
+Type
+
+Dimensions (mm)
+
+Fuel
+
+Capacity
+(cc)
+
+Max.
+Power
+(HP)
+
+Weight
+(kg)
+
+Tank
+(ltr)
+
+Consumption
+(l/hr)
+
+L
+
+W
+
+H
+
+DCT 80D
+
+3
+
+Recoil
+
+15
+
+LA178FP
+
+406
+
+6
+
+3.5
+
+1.5
+
+590
+
+450
+
+530
+
+65
+
+DCT 150D
+
+6
+
+Electric
+
+40
+
+LA290
+
+954
+
+20
+
+28
+
+4
+
+920
+
+560
+
+800
+
+180
+
+W
+
+L
+
+H
+
+W
+
+H
+
+

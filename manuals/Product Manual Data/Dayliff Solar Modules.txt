@@ -1,0 +1,204 @@
+TED
+A
+D
+UP
+
+100
+80
+60
+40
+20
+
+1000 W/m2
+800 W/m
+
+VOLTAGE/CELL TEMPERATURE
+100
+% Module Current
+
+% Module Current
+
+CURRENT/IRRADIANCE LEVELS
+
+2
+
+600 W/m2
+400 W/m2
+200 W/m2
+
+200C
+300C
+400C
+500C
+600C
+Irradiance 1000 W/m2
+
+Cell Temperature 250C
+
+0
+0
+
+5
+10
+15
+20
+Module Voltage (V)
+
+25
+
+0
+
+5
+
+10
+15
+20
+Module Voltage (V)
+
+25
+
+The heart of all effective photovoltaic systems is an efficient and reliable solar module and there are none better than Dayliff PV
+Modules. All are sourced directly from leading global PV module manufacturers who comply with the highest standards of quality
+and durability and offer the following features:• High efficiency mono crystalline solar cells with maximum efficiency of 21.6% to provide maximum power even at low
+irradiation levels
+• High transmission rate tempered glass with an anti-reflection coating to increase the power output and provide mechanical
+strength.
+• Multi function water proof junction box for easy connection.
+• 25 year power output warranty.
+• Global Certification.
+Modules are sourced from world leading PV module manufacturers principally Trina, Longi, Topray and Amerisolar who are all
+large scale vertically integrated manufacturers that process from silicon production to module assembly to ensure consistently high
+quality levels. Module types are recognised as quality products and are internationally certified by TUV Rheinland to ISO, CE and
+IEC standards as follows.
+All Dayliff modules are manufactured to the highest standards and are guaranteed to provide reliable performance over long life
+spans. They are quality products in terms of both technology and performance and are ideal power sources for all types of solar
+applications.
+THERMAL CHARACTERISTICS
+Nominal Operating Cell Temperature: 430C (±20C)
+Temperature Coefficient Pmax.: - 0.34%/0C
+Temperature Coefficient Voc: - 0.25%/0C
+Temperature Coefficient Isc: 0.04%/0C
+Operational Temperature -40~+850C
+PV MODULE DATA
+
+Model
+TP85M
+TP125M
+TP150M
+TP200M
+LO350M
+AS545M
+LO560M
+TR660M
+TR665M
+
+Open
+Short
+Rated Nominal Peak
+Dimensions (mm)
+Circuit Circuit Number
+Power Voltage Voltage
+of
+Voltage Current
+(W)
+(V)
+(V)
+Cells
+C
+A
+B
+D
+E
+(V)
+(A)
+528
+350
+85
+24.4
+4.45
+20.9
+715
+875
+36
+12
+24.9
+125
+21.3
+765
+6.14
+516
+100
+910
+37.2
+750 588
+150
+4.45
+43.3
+64
+875
+5.95
+1190
+37.5
+200
+1030 665
+43.5
+40.4
+10.18
+350
+34.4
+60
+1755 1038 1300 942 500
+13.98
+2279
+1279 942 200
+49.8
+545
+41.6
+24
+1134
+144
+13.94
+51.6
+43.5
+2278
+560
+1093 439
+18.53
+45.7
+37.8
+660
+1400
+132
+2384 1303
+1261 492
+38.0
+18.57
+665
+45.9
+
+F
+23
+25
+
+Weight
+(kg)
+2
+4
+
+30
+
+5
+18
+21
+27.2
+
+35
+
+33.3
+
+35
+
+Data is given at Standard Test Conditions: Irradiance 1000W/m2, spectrum AM 1.5 and 250C cell temperature
+Suffix ‘M’ - Monocrystalline
+
+

@@ -1,0 +1,321 @@
+Clean Water Line
+
+Waste Line
+
+To Use/
+Storage
+Oxidiser
+Dosing
+
+Backwash Clean Water
+Line
+Flow meter
+
+CIP
+TANK
+T170
+
+Supply Line
+
+Dosing
+
+Back Wash Water
+Storage Tank
+
+Backwash
+Pump
+
+Strainer
+
+Raw Water Pump
+
+Blower
+
+ACID ALKALI
+Dosing Dosing
+
+Ultra Filtration (UF) is a highly effective treatment process that clarifies turbid and polluted water to a high quality potable condition. The UF models
+use a large number of small pore capillaries with an outside-in flow configuration and with pore sizes of about 0.03 micron will remove particles and
+high molecular weight substances, colloidal materials and organic and inorganic polymeric particles. It is therefore particularly suitable for the
+treatment of polluted surface waters from dams, rivers, reservoirs etc as well as waste water recovery. The process will not remove dissolved solids
+including sodium, calcium and chlorides and so is less suited to the treatment of ground water with high salt levels. Ultra filtration is a full flow recovery
+process and contaminants are removed by air scouring and back washing, periodically with a chemical cleaning agent, the process being fully
+automated using solenoid valves. The heart of the system is the pressurised UF module and various system sizes can be provided by combining
+modules in parallel.
+Systems are frame mounted and supplied as complete units with all necessary accessories and controls for simple integration with the flow process.
+They offer the following features:• High efficiency Dayliff/DuPont ultra filtration membranes.
+• Fully automated plant operation including normal filtration cycle, 2 backwash cycles, rinse and forward flush cycles as well as providing
+various alarms in case of system malfunction. The various cycles are controlled by an integral PLC controller.
+• High efficiency Dayliff, Davey or Pedrollo feed, backwash and cleaning pumps
+• Integrated cleaning, air scour and backwash systems and two chemical dosers for chlorine and a cleaning agent
+• System monitoring instruments including inlet and outlet flow meters and pressure gauges.
+• 150 micron pre-filter.
+• Skid mounted for simple installation.
+DAYLIFF Ultra-Filtration Systems provide a high performance, high efficiency treatment process that produces fully potable water without chemical
+additions. The process uses low energy consumption and provides consistent quality without frequent operational intervention. Due to the efficiency of
+the membranes it also offers considerable economies over conventional systems and is the ideal solution where ever pure, potable water is required.
+OPERATING PARAMETERS
+Operating Pressure: Ranges between 0.5 Bar and 3 Bar depending on raw water quality and temperature.
+Maximum Operating Trans Membrane Pressure: 2.1 Bar
+Max Operating Temp: 400C
+Operating pH Range: 5-10
+Raw Water Quality: : Up to 100 mg/l TSS (300 NTU). A raw water analysis should be provided to establish the extent of pre-treatment necessary.
+Recovery Range: 70-98% depending on raw water quality.
+SYSTEM DATA
+DUF
+020D
+
+DUF
+040D
+
+DUF
+060D
+
+DUF
+100D
+
+DUF
+120D
+
+DUF
+160D
+
+DUF
+200D
+
+DUF
+250D
+
+DUF
+300D
+
+Flow m /hr
+
+2
+
+4
+
+6
+
+10
+
+12
+
+16
+
+20
+
+25
+
+30
+
+Module No.
+
+1
+
+1
+
+2
+
+2
+
+3
+
+3
+
+4
+
+5
+
+6
+
+Module Type
+
+IP-51
+
+IP-77
+
+IP-51
+
+IP-77
+
+IP-77
+
+IP-77
+
+IP-77
+
+IP-77
+
+IP-77
+
+Feed Pump
+
+DDS 750
+
+DDS750
+
+DF 6210 DF 6210 DF 6210
+
+MAG 4
+
+MAG 5
+
+MAG 5
+
+MAG 5
+
+Backwash Pump DDS 750
+
+DPL 750
+
+DPL 750
+
+MAG 3
+
+MAG 4
+
+MAG 5
+
+MAG 5
+
+DPX 3000 DPX 4000
+
+Cleaning Pump
+
+Feed/CIP Feed/CIP
+
+DPL 750
+
+DPL 750
+
+DPL 750
+
+DPL 750
+
+DPL 750 DPX 1100 DPX 1100
+
+Dosing Pump
+
+AML200
+
+AML200
+
+AML200
+
+AML200
+
+AML200
+
+AML200
+
+Model
+3
+
+AML200
+
+CL420HS
+
+Air Blower
+
+AML200
+
+CL2R5
+
+L
+
+Plan View
+
+AML200
+
+CL2R7
+
+H
+
+L (mm)
+
+2000
+
+2000
+
+2500
+
+2500
+
+3000
+
+3000
+
+3000
+
+3000
+
+3000
+
+W (mm)
+
+1500
+
+1500
+
+2000
+
+2000
+
+2500
+
+2500
+
+2500
+
+2500
+
+2500
+
+W
+
+H (mm)
+
+2500
+
+2900
+
+2900
+
+2900
+
+2900
+
+2900
+
+2900
+
+2900
+
+2900
+
+Side View
+
+Weight (kg)
+
+260
+
+440
+
+540
+
+625
+
+700
+
+750
+
+850
+
+950
+
+1000
+
+Front View
+
+

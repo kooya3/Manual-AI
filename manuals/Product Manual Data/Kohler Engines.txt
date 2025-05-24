@@ -1,0 +1,163 @@
+KD
+Diesel Engines
+
+KD 477/2
+
+KDI 1903M AND
+KDI 2504M
+
+KD 625/2
+
+The KOHLER range of naturally aspirated air and water cooled diesel engines are proven and dependable designs suitable for a
+wide range of prime mover applications including pumps, generators, maize mills, concrete mixers, dumpers etc.
+The KOHLER range specification include a cast iron crankcase for durability, individual cylinder direct injection combustion system
+for easy starting and low fuel consumption, centrifugal governor and mechanical fuel lift pump. They are supplied with 12V electric
+start, electro stop, muffler and panel board with warning indicators for high temperature and low oil pressure. Two models are
+available as follows:KD
+KD range features two cylinder air cooled variable speed engines with settable speed between 2000 to 3000rpm. The engines are in
+ECE R 24 emission compliant stage and are supplied complete with engine mounted fuel tank, PTO drive shaft, oil bath air filter and
+are fitted with recoil rope for emergency start.
+KDI
+The KDI range is of water cooled 3 and 4 cylinder design featuring the latest technology including four valves per cylinder and are
+fully compliant for fire pump applications at 3000 rpm fixed speed. They feature an advanced specification that includes energise to
+stop solenoid, fireproof fuel lines, customised fuel filter and heavy duty air cleaner and are supplied with integral radiator, fan and fan
+guard with power take off from the flywheel. Drive shaft, fuel tank and starter battery with leads are not included and offered
+separately. The engines are stage IIIA emissions compliant.
+TECHNICAL DATA
+Engine Type
+
+KD 477/2
+
+KD 625/2
+
+2200rpm
+Power
+2200rpm
+Output
+2400rpm
+kW (BHP)
+2600rpm
+2800rpm
+3000rpm
+2000rpm
+Fuel
+2200rpm
+Consumption
+2400rpm
+L/hr
+2600rpm
+2800rpm
+3000rpm
+Cylinder Capacity (cc)
+Flanging, rpm
+No. of Cylinders
+Fuel Tank Size (L)
+Cooling Medium
+Engine Drive Shaft
+
+10.0(13.4)
+11.2(15.0)
+12.2(16.4)
+12.8(17.1)
+13.2(17.7)
+13.8(18.4)
+2.7
+3.0
+3.3
+3.5
+3.6
+3.8
+954
+SAE 5-6.5”
+
+12.6(17)
+14.0(18.8)
+15.2(20.4)
+16.0(21.5)
+16.6(22.3)
+17.1(22.8)
+3.3
+3.7
+4.1
+4.5
+4.9
+5.2
+1248
+
+Dimensions
+&
+Weights
+
+Length mm (L)
+Width mm (W))
+Height mm (H)
+Weight (kgs)
+
+2
+
+KDI 1903M
+
+W
+
+W
+
+H
+
+25.2(33.8)
+
+H
+
+36.9(49.5)
+
+KD477/2
+
+10.5
+1861
+SAE 4-7.5”
+3
+
+KD625/2
+
+11.5
+2482
+4
+
+10
+
+7
+
+H
+
+Water
+
+Air
+577
+483
+565
+78
+
+KDI 2504M
+
+633
+557
+599
+115
+
+918
+566
+757
+252
+
+1024
+566
+757
+287
+
+L
+KDI 1903M AND
+KDI 2504M
+
+DERATING: Given outputs are sea level ratings. Sets should be derated at 1% for every 100m higher than 100m above sea level, and 2% for every
+50C temperature above 200C for naturally aspirated engines.
+
+

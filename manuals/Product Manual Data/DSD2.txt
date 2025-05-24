@@ -1,0 +1,162 @@
+DSD2
+Submersible
+Borehole Pump
+140
+
+60
+DSD 2/18
+ETA
+
+120
+
+50
+DSD 2/15
+
+100
+40
+80
+30
+
+DSD 2/9
+
+60
+20
+
+40
+
+10
+
+20
+
+0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+PUMP
+DAYLIFF DSD range of submersible multistage centrifugal pumps are specially designed for water supply from wells and boreholes. Material of
+construction include polycarbonate impellers and diffusers, AISI 201 stainless steel delivery and suction chambers and AISI 304 stainless steel
+pump housing, shaft and shaft coupling. These corrosion resistant materials together with the advanced hydraulic design provide the pumps with
+excellent sand handling capabilities for a longer life and operational efficiency. DSD 2/9, 2/15 and 2/18 are supplied complete with 30m cable
+and control box.
+MOTOR
+The pump is coupled to a sealed liquid cooled 2-pole asynchronous squirrel-cage motor constructed of stainless steel. Single phase motors
+should be supplied with purpose designed Dayliff SCM control boxes for operation and protection against overload, dry running and over/under
+voltage. Three phase motors require a remote DOL starter; A DAYLIFF SCT electronic Pump Controller is recommended for comprehensive pump
+control including low level, motor overload and irregular power supply protection
+Enclosure Class: IP68
+
+Insulation Class: B
+
+Speed: 2850 rpm
+
+Voltage:1x240V
+
+PUMP KITS
+Pump Kits are available for the indicated*models including pump, quick connection fittings, cast aluminium well head cover, Safety rope and
+Dayliff SCM/SCT Controller. DSD 2/9 Kit is supplied with 70m cable, DSD 2/15 Kit with 90m and DSD 2/18 with 120m cable
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids
+Max. Water temperature: +350C
+Max. immersion depth: 150m
+Min. borehole diameter: 110m
+Max Particle Size: 2.4mm
+PUMP DATA
+Motor
+kW
+
+HP
+
+Current
+(A)
+
+DSD2/9*
+
+0.37
+
+0.5
+
+4
+
+DSD2/15*
+
+0.75
+
+1
+
+5
+
+DSD2/18*
+
+0.92
+
+1.25
+
+6
+
+Model
+
+Istat
+I
+
+4
+
+DN
+(”)
+
+1¼
+
+Dimensions
+A
+
+D
+
+Weight
+(kg)
+
+444
+
+748
+
+10
+
+591
+
+940
+
+12
+
+695
+
+1064
+
+15
+
+

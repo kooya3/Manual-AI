@@ -1,0 +1,90 @@
+The Dayliff Drytek Electronic Pump Controller is a solid state integrated control unit for all types of pumps with a particular application to borehole
+installations. Panels are fitted with a digital display of both operating and fault parameters and settings are simply made using fascia mounted
+push buttons. A range of sizes are available for single and three phase motors, settings for particular motor sizes being effected by simple
+adjustment of the running current. Panels also offer the following features:• Incoming mains isolator switch with fuse protection and door interlock.
+• Digital display of motor operating status including voltage, amps, cos Ø and fault messages.
+• Protection against over/under voltage, motor overload and phase sequence/loss.
+• Electronic dry run protection using cos Ø sensitivity adjustment dispensing with the need for low level electrodes and cables.
+• Selectable auto/manual operation with an extra terminal set for an additional external control function, e.g float switch, pressure switch or
+level electrodes
+• Auto restart for fault signals with 4 separate adjustable times from 0-250 mins.
+• Large IP55 rated flame-proof plastic enclosure with space for additional accessories as may be specified.
+• Optional digital connectivity interfaces are fitted to order for BMS applications
+Dayliff Drytek Electronic Pump Controllers are high specification units that provide comprehensive protection for all pump motors. The
+combination of extensive built-in functionality that eliminates the need for expensive separate components, a wide application range through
+easy adjustment and simple operation provides units of great versatility and effectiveness. These features combined with exceptional value results
+in one of the best pump controllers available.
+
+16-32A
+
+ELECTRONIC PUMP CONTROLLER
+GENERAL DATA
+
+Min
+
+Max
+
+Current
+Range
+
+DRYTEK 1Ph/2.2kW
+
+0.37kW
+
+2.2kW
+
+2-18Amps
+
+DRYTEK 3Ph/7.5kW
+
+0.55kW
+
+7.5kW
+
+2-18Amps
+
+DRYTEK 3Ph/15kW
+
+7.5kW
+
+15kW
+
+16-32Amps
+
+Controller Model
+
+Motor Size
+
+Enclosure Class: IP55
+Relative humidity: 50% @400C (condensate free)
+
+Dimensions (mm)
+Height
+
+Width
+
+Depth
+
+Weight
+(kg)
+1.5
+
+310
+
+240
+
+185
+
+2.3
+3.0
+
+0
+
+0
+
+Temperature Range: -5 - +40 C
+
+Power Supply: 220V-240V±10% 1Ph
+380V-415V±10% 3Ph
+
+

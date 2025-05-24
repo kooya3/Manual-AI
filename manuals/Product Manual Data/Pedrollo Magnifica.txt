@@ -1,0 +1,148 @@
+MAGNIFICA
+Swimming Pool Pumps
+
+25
+
+20
+
+15
+
+MAGNIFICA 5
+
+10
+
+5
+
+MAGNIFICA 1
+
+0
+
+5
+
+10
+
+15
+
+20
+
+MAGNIFICA 4
+MAGNIFICA 3
+MAGNIFICA 2
+
+25
+
+35
+
+30
+
+40
+
+45
+
+PUMP
+Pedrollo MAGNIFICA are self priming swimming pool pumps specially designed for residential and institutional swimming pool applications.
+Features include a large pre-filter basket with easy-release see through lid, high flow rate with low energy consumption, stable base support for
+pump and piping and double insulation between hydraulic and electric parts for safety. All pump components are made from corrosion resistant
+Noryl reinforced with glass fibre for long life and durability.
+Pumps are supplied complete with connection unions.
+MOTOR
+The pump is coupled to a TEFC, brushless induction motor rated for continuous operation with in-built thermal overload protection and can be
+connected directly to mains power supply through a 15 amp fuse or MCB.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solids or fibres.
+Maximum Fluid Temperature:+400C
+Maximum Ambient Temperature:+500C
+Maximum Suction Lift: 4m
+Maximum Working Pressure: 2.5bar
+
+PUMP DATA
+Power
+
+Pump
+
+kW
+
+HP
+
+MAGNIFICA 1
+
+0.55
+
+0.75
+
+.4
+
+MAGNIFICA 2
+
+0.75
+
+1
+
+5.4
+
+MAGNIFICA 3
+
+1.1
+
+1.5
+
+7.9
+
+MAGNIFICA 4
+
+1.5
+
+2
+
+9.3
+
+MAGNIFICA 5
+
+2.2
+
+3
+
+12.5
+
+B
+DN2-2”
+
+Dimensions (mm)
+
+Current (A)
+
+B
+583
+
+Weight (kg)
+14
+15
+
+657
+677
+
+19
+21
+23
+
+235
+
+DN1
+2”
+353
+
+294
+
+155
+
+All dimensions in mm
+
+

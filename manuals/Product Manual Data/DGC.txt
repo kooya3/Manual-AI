@@ -1,0 +1,485 @@
+DGC
+Prime Power
+Diesel Generators
+
+Dayliff DGC Cummins generators are robust, high quality units designed for continuous duty in a wide range of power supply
+applications. All sets offer the following features:• Powered by dependable and efficient Cummins water cooled diesel engines.
+• Close coupled at 1500rpm to a brushless single bearing alternator with solid state AVR regulation.
+• Base frame mounted on anti-vibration mounts and including a high capacity base mounted fuel tank for extended operation
+periods.
+• Powder coated sound and weather proof canopies with residential silencer for extremely low noise operation.
+• Integral DSE digital control module that provides selectable readout of electrical voltage, phase current, output frequency
+and battery voltage and engine speed, hours run, oil pressure and coolant temperature.
+• Automatic shut down protection in the event of low engine oil pressure, high engine temperature and over and under speed
+with warning indicators provided for each condition.
+• Digital automatic mains failure provision for starting the generator. An additional automatic transfer switch is also required for
+mains/generator power transfer.
+Dayliff DGC diesel generators are reliable economical and high specification products that are the ideal solution for all continuous
+duty and standby power generating requirements.
+TECHNICAL DATA
+GENERATOR MODEL
+Prime/Standby
+Power Output
+
+kVA
+
+Engine Data
+
+DGC 64C
+
+DGC 80C
+
+DGC 104C
+
+DGC 144C
+
+DGC 200C
+
+DGC 250C
+
+DGC 280C
+
+56/63
+
+80/88
+
+100/110
+
+130/143
+
+180/200
+
+250/275
+
+313/350
+
+350/375
+
+45/50
+
+64/70
+
+80/88
+
+104/114
+
+144/158
+
+200/220
+
+250/280
+
+280/300
+
+Cummins
+4BTA3.9-G2
+
+Cummins
+4BTA3.9-G11
+
+Cummins
+6BT5.9-G2
+
+Cummins
+6BTAA5.9-G2
+
+Cummins
+6CTA8.3-G2
+
+Cummins
+NT855-GA
+
+Cummins
+NTA855-G1B
+
+Cummins
+NTA855-G2A
+
+Rated Power
+@ 1500rpm (kW)
+
+55
+
+70
+
+86
+
+120
+
+180
+
+231
+
+284
+
+310
+
+Max Power
+@ 1500rpm (kW)
+
+50
+
+80
+
+92
+
+130
+
+163
+
+254
+
+321
+
+313
+
+kW
+
+Type
+
+Aspiration
+
+Turbo charged & Aftercooled
+
+No. of cylinders
+
+4
+
+Displacement (L)
+
+3.9
+
+75%
+Fuel
+load
+Consumption
+100%
+(litres/hr)
+load
+Dimensions &
+Weights
+
+DGC 45C
+
+6
+5.9
+
+8.3
+
+10
+
+13.2
+
+17
+
+23
+
+30
+
+41.3
+
+54.3
+
+54.9
+
+12.9
+
+17.6
+
+22
+
+30
+
+40
+
+53.4
+
+71.4
+
+71.9
+
+Fuel Tank Size (litres)
+
+120
+
+230
+
+420
+
+Length, A (mm)
+
+2600
+
+3200
+
+3400
+
+Width, B (mm)
+
+800
+4200
+1500
+
+1100
+
+Height, C (mm)
+Dry Weight (kgs)
+
+14
+
+1290
+1370
+
+1850
+
+1470
+1480
+
+1750
+
+1850
+
+2450
+
+2200
+4110
+
+4330
+
+4470
+
+GENERATOR MODEL
+
+DGC 320C
+
+DGC 360C
+
+DGC 400C
+
+DGC 460C
+
+DGC 600C
+
+DGC 640C
+
+DGC 800C
+
+kVA
+
+400/438
+
+450/500
+
+500/550
+
+575/650
+
+750/825
+
+800/888
+
+1000/1100
+
+kW
+
+320/350
+
+360/400
+
+400/440
+
+460/520
+
+600/660
+
+640/710
+
+800/880
+
+Cummins
+QSNT-G3
+
+Cummins
+KTA19-G3
+
+Cummins
+KTA19-G3
+
+Cummins
+KTAA19-G6
+
+Cummins
+KTA 38-G2
+
+Cummins
+KTA 38-G2B
+
+Cummins
+KTA 38-G5
+
+Rated Power
+@ 1500rpm (kW)
+
+392
+
+403
+
+448
+
+520
+
+664
+
+711
+
+881
+
+Max Power
+@ 1500rpm (kW)
+
+358
+
+448
+
+504
+
+570
+
+731
+
+790
+
+970
+
+Prime/Standby
+Power Output
+
+Engine Data
+
+Type
+
+Turbo charged & Aftercooled
+
+Aspiration
+No. of cylinders
+Displacement (L)
+
+12
+19
+
+38
+
+75%
+Fuel
+load
+Consumption
+100%
+(litres/hr)
+
+62.3
+
+97
+
+107
+
+131.5
+
+83.9
+
+107
+
+121
+
+143.5
+
+Fuel Tank Size (litres)
+
+800
+
+Length, A (mm)
+
+4200
+
+Width, B (mm)
+
+1500
+
+1700
+
+1900
+
+2150
+
+Height, C (mm)
+
+2200
+
+2340
+
+2430
+
+2540
+
+Dry Weight (kgs)
+
+4670
+
+load
+
+Dimensions &
+Weights
+
+6
+14
+
+1070
+
+183
+
+184
+
+5600
+
+228
+
+1300
+
+1080
+
+5800
+
+4800
+
+5500
+
+209
+
+167
+
+6020
+
+10350
+
+10650
+
+ALTERNATOR DATA
+Alternator Type
+Output Voltage
+Voltage Regulation
+
+Self excited 4 pole (1500rpm) single bearing, brushless
+3x415V
+Solid state AVR±1.0% with 4% engine governing
+
+Insulation Class
+
+H
+
+Protection Rating
+
+IP21
+
+DERATING: Given outputs are sea level rating. Sets should be derated at 1% for every 100m higher than 100m above sea level, and 2% for every 50C temperature
+above 200C for naturally aspirated engines. Refer to manufacturers tables for accurate ratings.
+
+

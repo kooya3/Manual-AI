@@ -1,0 +1,174 @@
+DWY
+Submersible Drainage
+Pumps
+35
+
+30
+
+PUMP HEAD (m)
+
+25
+DWY750H
+20
+
+15
+
+DWY370
+
+DWY750L
+
+10
+
+DWY1500
+DWY550
+
+5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+3
+FLOW RATE (m/hr)
+
+PUMP
+The Dayliff DWY range of portable submersible pumps are designed for well pumping and drainage of clean water containing
+minimal impurities for domestic and small scale water supply applications. They are of closed impeller type, all major components
+being manufactured from cast aluminium. All models are supplied with 8m of cable and level switch for automatic operation
+MOTOR
+Pumps are supplied with two pole single phase squirrel cage motors with integral thermal overload protection and can be directly
+connected to the mains through a 10A fuse or MCB (13A for 1.5kW motor)
+Enclosure Class:IP68
+
+Insulation Class:F
+
+Voltage:1x240
+
+Speed:2850rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids
+Max. Fluid Temperature: +40°C
+Max. Ambient Temperature: +40°C
+Max. Immersion Depth:5m
+Max. Particle Size: <1.1kW, 3.3mm, >1.5kW, 5.5mm
+PUMP DATA
+Model
+
+Motor
+kW
+
+HP
+
+Current
+(A)
+
+Dimensions (mm)
+H
+
+DN
+(”)
+
+Weight
+(kg)
+
+DWY370
+
+0.37
+
+0.5
+
+2.8
+
+W
+195
+
+340
+
+1
+
+7
+
+DWY550
+
+0.55
+
+0.75
+
+4.2
+
+235
+
+380
+
+2
+
+10
+
+0.75
+
+1
+
+1.5
+
+2
+
+DWY750L
+DWY750H
+DWY1500
+
+6.1
+
+230
+
+390
+
+1.5
+
+11
+
+6.3
+
+235
+
+390
+
+1
+
+11
+
+9.1
+
+270
+
+465
+
+2.5
+
+20
+
+DN
+
+W
+
+H
+
+

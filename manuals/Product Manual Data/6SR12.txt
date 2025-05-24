@@ -1,0 +1,184 @@
+6SR12
+Submersible
+Borehole Pumps
+
+350
+300
+250
+200
+
+150
+
+6SR 12/28
+6SR 12/25
+72%
+
+6SR 12/21
+ETA%
+
+6SR 12/18
+
+60%
+
+6SR 12/15
+
+48%
+
+6SR 12/11
+
+ETA%
+
+400
+
+36%
+
+100
+
+24%
+
+50
+
+12%
+
+5
+
+0
+
+15
+
+10
+
+0
+25
+
+20
+
+PUMP
+Pedrollo 6SR12 submersible pumps are specifically designed for supply from boreholes, though can also be used in other
+submersible applications in either vertical or horizontal configuration. They feature a hydraulic design that incorporates floating
+impellers which together with especially resistant component materials provide high resistance to sand content in the pumped water.
+The pump impellers and diffusers are made from technopolymer while the stage casings, top housing, suction connector, pump
+sleeve and shaft are made of AISI 304 stainless steel. The pump is supplied with a 4m tail cable.
+MOTOR
+Pumps are coupled to a two pole sealed motor constructed principally from stainless steel. Motors require a remote direct in-line
+starter and if irregular electrical supply is prevalent an additional quick tripping multi function protection relay is recommended.
+Enclosure Class : IP68
+
+Insulation Class: F
+
+Speed: 2900rpm
+
+Voltage: 3x415V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non aggressive liquids with a maximum sand content of 100gm/m3.
+Max. Liquid Temperature: +350C
+Max. Immersion Depth: 200m
+Min. Borehole Diameter: 200mm
+PUMP DATA
+
+kW
+
+HP
+
+6SR12/11
+
+5.5
+
+7.5
+
+6SR12/15
+
+7.5
+
+6SR12/18
+6SR12/21
+
+Dimensions(mm)
+
+Weight
+(Kg)
+
+H1
+
+H2
+
+13
+
+849
+
+667
+
+61
+
+10
+
+17
+
+1068
+
+698
+
+67
+
+9.2
+
+12.5
+
+22
+
+1198
+
+731
+
+73
+
+11
+
+15
+
+24
+
+1328
+
+826
+
+84
+
+15
+
+20
+
+32
+
+6SR12/25
+6SR12/28
+
+DN
+(”)
+
+3
+
+1502
+
+96
+894
+
+1632
+
+DN
+
+H1
+
+Model
+
+Current
+(A)
+
+98
+
+H2
+
+Motor
+
+

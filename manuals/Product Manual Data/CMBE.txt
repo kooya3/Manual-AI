@@ -1,0 +1,321 @@
+CMBE
+Horizontal Multistage
+Variable Speed Pumps
+
+70
+
+110
+
+CMBE 3-62
+
+100%
+
+100
+60
+
+PUMP HEAD (m)
+
+30 50%
+20 40%
+
+25%
+
+10 25%
+
+ETA %
+
+5
+
+0
+
+0
+
+50
+
+8
+
+40
+
+NPSH (m)
+
+19%
+
+ETA(%)
+
+4
+3
+2
+
+20
+
+1
+
+1
+2
+3
+4
+5
+FLOW RATE (m3/hr)
+
+40%
+
+10
+25%
+18%
+
+ETA
+
+40
+30
+
+4
+
+20
+
+NPSH
+
+10
+
+6
+
+0
+
+2
+8
+10
+4
+6
+FLOW RATE (m3/hr)
+
+ETA
+
+8
+
+10
+
+2
+
+18%
+
+0
+
+6
+
+30
+NPSH
+
+60%
+
+20 50%
+
+12
+
+6
+
+40
+
+NPSH
+
+30
+
+4
+
+20
+
+2
+
+10
+
+0
+
+2
+
+ETA(%)
+
+40%
+
+70%
+
+30
+
+40 60%
+
+50%
+
+80%
+
+40
+
+50 70%
+
+60%
+
+0
+NPSH (m)
+
+50
+
+NPSH (m)
+
+PUMP HEAD (m)
+
+70%
+
+0
+
+80%
+
+60
+
+30
+
+CMBE TWIN
+
+60 90%
+
+ETA(%)
+
+PUMP HEAD (m)
+
+70
+
+80%
+
+40
+
+10
+
+90%
+
+80
+
+50
+
+20
+
+CMBE TWIN 5-62
+
+70 100%
+
+90
+
+90%
+
+CMBE 3-62
+
+80
+
+CMBE TWIN 3-93
+
+100%
+
+4 6 8 10 12 14 16 18
+FLOW RATE (m3/hr)
+
+PUMP
+The Grundfos CMBE Booster is a compact water boosting unit for water supply in domestic and commercial applications for single and twobooster pump systems. The pump is fitted with an integral variable speed controller that maintains pump output at constant pressure adjustable to
+any value up to 5 Bar. The pump is compact for simple installation, quiet with operating noise level of 55dDA and of robust design for long life.
+The speed controller also maintains pump performance at maximum efficiency thereby minimizing operating costs. Particular features of CMBE
+twin include;
+• Cascade switching that ensures booster output is adapted to demand by changing speed and one or two pump operation
+• Automatic pump alternation between master and slave to ensure uniform operating periods.
+All hydraulic parts are made from AISI304 and the pump unit is supplied complete with tank integrated pressure sensor, a 5-way connector with
+non-return valve, a 2L diaphragm tank for CMBE 3-62, 4L for CMBE twin and a pressure gauge.
+1
+
+2
+
+0
+
+MOTOR
+The pump is fitted with high efficiency IE5 Grundfos MGE variable speed motor that incorporates thermal protection against motor overload and
+dry run protection with auto-restart. The motor can be directly connected to the mains power supply through a 10A FUSE or MCB.
+Enclosure Class: IP55
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+Speed: 3600-3868rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean non-aggressive and non-explosive liquids without solid particles or fibres
+Selected Liquid Temperature: 200C
+Liquid Temperature: 0-600C
+Max. Ambient Temperature: +550C
+Max. Suction Lift: 1m
+Max. Operating Pressure: CMBE 3-62;7 bar, CMBE Twin;10bar
+PUMP DATA
+
+CMBE 3-62
+CMBE 3-93
+CMBE 5-62
+
+Motor
+kW
+1.1
+1.5
+1.5
+
+HP
+1.5
+2
+2
+
+Current
+(A)
+8.2
+7.6
+7.6
+
+A1
+(”)
+1
+1
+1
+
+A2
+(”)
+1
+1
+1¼
+
+W
+221
+475
+475
+
+Dimensions (mm)
+L
+H1
+H2
+239
+345
+467
+250
+404
+495
+250
+350
+495
+
+H3
+75
+125
+125
+
+H3
+
+Model
+
+CMBE 3-62
+
+CMBE TWIN
+
+Weight
+(Kg)
+26
+44
+45
+
+

@@ -1,0 +1,158 @@
+DDWS
+Submersible
+Centrifugal Pumps
+12
+
+2
+Average Daily Irradiation Values (Kwhr/m)
+
+Graph 1
+6.3 6.5
+
+6.5
+6.0
+
+5.6
+
+10
+
+5.8
+
+5.6 5.7 5.9
+
+5.8
+5.1 5.3
+
+PUMP HEAD(m)
+
+8
+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+6
+
+% Daily Output
+
+Graph 2
+
+13.5%
+13%
+13%
+12%
+12%
+10%
+10%
+
+4
+7%
+
+2
+
+7%
+
+2%
+
+2%
+
+0%
+6
+
+0
+
+1
+
+2
+
+3
+4
+Flow(m3/hr)
+
+5
+
+6
+
+0%
+7
+
+8
+
+9
+
+10 11 12 13 14 15 16 17 18
+Time (hrs)
+
+7
+
+PUMP
+DAYLIFF DDWS is a PV solar powered submersible centrifugal closed impeller DC pump for water supply, irrigation and drainage
+applications. Material of construction is aluminium impeller, cast iron pump body, double mechanical seal, NBR oil seal and
+AISI301 stainless steel strainer and casing. Pumps feature an inbuilt controller that provides thermal protection, over/under voltage
+protection, dry running protection, seizure and humidity protection and are supplied complete with 3m power cable and 1.5m solar
+PV cable with MC4 connectors.
+MOTOR
+The pump is fitted with a permanent magnet DC brushless motor specifically designed for maximum efficiency from solar power.
+The solar array must meet minimum input voltage required and it can be directly connected to the pump thRough an MCB isolator .
+POWER OUTPUTS
+Pump output curve is given at standard test conditions of 1000W/m2 solar irradiance and 250C. Output will vary throughout the
+year depending upon prevailing irradiation levels. For estimated daily outputs at continuous pumping, multiply the indicated output
+at the duty point by the daily radiation given in Graph 1. For indicative purposes, factors of 1.1 can be applied for hot arid areas and
+0.9 for temperate high-altitude areas in the Tropics. Output will vary throughout the day as a proportion of the estimated hourly
+irradiation as shown in Graph 2.
+Enclosure Class: F
+
+Insulation Class: IP68
+
+Speed:3000rpm
+
+OPERATING CONDITIONS
+Pumped liquids: Thin, clean, chemically non-aggressive liquids without solid particles or fibres.
+Max. Liquid temperature: +400C
+Max. Particle Size: 0.2mm
+Max. Immersion Depth: 5m
+PUMP DATA
+Model
+
+Motor
+Power
+(W)
+
+Input
+Voltage
+(V)
+
+DDWS 220
+
+220
+
+24
+
+Open Circuit
+Peak
+PV
+Outlet Dimensions (mm) Weight
+Voltage
+Voltage
+Configuration (”)
+(kg)
+(VOC)
+(V)
+W
+H
+_>30
+
+<50
+
+1x545W
+
+1¼
+
+265
+
+465
+
+11
+H
+
+W
+
+

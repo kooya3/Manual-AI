@@ -1,0 +1,234 @@
+70
+
+60
+
+50
+DWC 150
+40
+DWC 100H
+30
+
+20
+
+DWC 55H
+
+10
+
+DWC 30
+
+DWC 100L
+
+DWC30/55/75/100/150
+
+DWC10A/20A
+
+DWC 55L
+
+DWC 10A
+0
+
+10
+
+DWC 20A
+20
+30
+40
+
+50
+
+70
+
+60
+
+80
+
+90
+
+PUMP
+The Dayliff DWC range of heavy duty submersible pumps are designed to handle industrial and domestic waste water and sewage with a specially
+designed cutter impeller. They are suitable for pumping water containing a high proportion of solid paricles including threads and fibres. Pump
+construction is cast iron semi-open impeller with Tungstein Carbide cutting edge, double mechanical seal and NBR oil seal and cast iron casing.
+The pumps are supplied as standard for free standing installation complete with 10m of H07RNF cable. Options of flange connection, hose
+connection and guide rail connection with fittings are available.
+MOTOR
+Pumps are supplied with dry-type 2-pole motors designed for continous duty.Single phase motors have integral thermal protection and can be
+connected directly to the mains power through a 10A fuse or MCB. Three phase motors require a remote DOL starter.
+Enclosure Class: IP68
+
+Insulation Class: B
+
+Speed:2900rpm
+
+OPERATING CONDITIONS
+Pumped liquids: Thin, chemically non-aggressive liquids, containing suspended particles up to the specified size.
+Max. Liquid temperature: +400C
+Max. Immersion Depth: 10m
+PUMP DATA
+Voltage
+(V)
+DWC 10A
+DWC 20A
+DWC 30
+DWC 55H
+DWC 55L
+DWC 100H
+DWC 100L
+DWC 150
+
+1x240
+
+3x415
+
+Power
+kW
+
+HP
+
+Current
+(A)
+
+0.75
+
+1
+
+6
+
+1.5
+
+12
+
+2.2
+
+2
+3
+
+4.6
+
+4
+
+5.5
+
+7.7
+
+Max.
+Particle
+Size (mm)
+
+A2
+
+D
+
+H
+
+H1
+
+Weight
+(kg)
+
+222
+403
+
+115
+250
+
+179
+212
+
+416
+541
+
+292
+393
+
+24
+34
+
+3
+
+345
+386
+420
+
+240
+265
+305
+
+518
+565
+590
+
+390
+435
+460
+
+39
+43
+49
+
+2
+
+408
+
+275
+
+138
+
+3
+
+450
+441
+
+325
+295
+
+180
+138
+
+690
+700
+
+550
+560
+
+765
+
+480
+
+86
+87
+100
+
+22
+26
+18
+45
+
+7.5
+
+10
+
+14.3
+
+18
+26
+
+11
+
+15
+
+21.8
+
+19
+
+Dimensions(mm)
+A
+
+DN
+(”)
+
+2
+
+138
+248
+
+

@@ -1,0 +1,211 @@
+TED
+A
+D
+UP
+
+Solar
+Submersible Pump
+90
+
+PUMP HEAD (m)
+
+80
+
+400W
+
+70
+60
+50
+
+350W
+
+40
+30
+200W
+
+20
+10
+0
+90
+
+450
+
+500
+550
+600
+FLOW RATE (LPH)
+
+650
+
+700
+
+PUMP HEAD (m)
+
+80
+
+SUNFLO-S 300
+
+PUMP KITS
+
+70
+60
+50
+40
+30
+20
+10
+40
+
+60
+
+PUMP
+DAYLIFF SUNFLO-S series submersible pumps are designed for reliable small-scale water supply from boreholes and wells
+and are the ideal solution for remote pumping requirements in livestock watering, irrigation and general water supply
+applications. They are of positive displacement three-chamber diaphragm design and can run dry without damage. An
+internal bypass is also incorporated to prevent pump damage in the event of delivery cut-off. A key feature is automatic
+restart every 10 mins in the event of low insolation.
+Pump components are manufactured from high quality engineering plastics with santoprene used for the diaphragm and
+EPDM for the valves. Pump casings is stainless steel and a 50-mesh stainless steel screen.
+Pumps can be installed either with a direct connection to the PV module or through a charge controller that is connected to a
+battery for 24hr operation. Pump output will be determined by the PV module input power available.
+MOTOR
+The pump is fitted with a permanent magnet type totally enclosed brushless motor with 24V DC power input from either a
+direct source or due to the positive displacement pump design, the motor can be connected to different size PV modules as
+indicated to provide the output required. Internal thermal protection is also provided.
+PUMP KIT
+The Sunflo-S pump is also available as a kit and includes
+1. Solar Pump
+2. 2x150W foldable mono solar PV panel complete with brackets
+3. 20m Submersible cable with waterproof connector suitable for heads upto 60m. Extra cable available on request
+4. 70m of delivery hose with connector
+5. 70mx6mm Safety Rope
+6. Diaphragm unit & seal ring spares
+
+80
+
+100 120 140 160 180 200 220
+POWER (WATTS)
+
+Average Daily Irradiation Values (Kwhr/m)
+6.3 6.5
+
+6.5
+6.0
+
+5.6
+
+5.8
+
+5.8
+
+5.6 5.7 5.9
+
+5.1 5.3
+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Graph 1
+% Daily Output
+13.5%
+13%
+13%
+12%
+12%
+10%
+
+10%
+
+7%
+
+7%
+
+2%
+
+2%
+
+0%
+6
+
+0%
+7
+
+8
+
+9
+
+10 11 12 13 14 15 16 17 18
+Time (hrs)
+Graph 2
+
+PUMP OUTPUTS
+Performance curves are given at standard test conditions of 1000W/m2 solar irradiance and 250C. Output will vary
+throughout the year depending upon prevailing irradiation levels. For estimated daily outputs at continuous pumping multiply the indicated output at the duty point by the daily
+irradiation given in Graph 1. For indicative purposes factors of 1.1 can be applied for hot arid areas and 0.9 for temperate high altitude areas in the Tropics. Output will vary
+throughout the day as a proportion of the estimated hourly irradiation as shown in Graph 2.
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solid particles.
+Nominal Voltage: 18V-40V
+Max. Liquid Temperature: +770C
+Ambient Temperature: -400C-+600C
+Max. Immersion Depth: 30m
+Internal by-pass Pressure: 7.5bar
+Max. Voltage: 45V
+
+104mm
+13.8mm
+
+335mm
+
+PUMP DATA
+
+Model
+
+SUNFLO-S 300
+
+Motor
+Power
+(Watts)
+
+300
+
+Voltage
+(VDC)
+
+24
+
+Input
+Power
+(Watts)
+
+Current
+(A)
+
+PV
+Modules (W)
+
+200
+
+4
+
+1x200W
+
+350
+
+6
+
+1x350W
+
+400
+
+6
+
+2x200W parallel
+
+Dimensions: Pump: 560x560x300mm PV Panel: 1120x780x80mm Total Weight: 43kgs
+
+Outlet
+(”)
+
+½
+Weight: 3Kgs
+
+

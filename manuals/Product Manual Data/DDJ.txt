@@ -1,0 +1,49 @@
+PUMP
+The Dayliff DDJ Centrifugal jet type pumps is specifically designed for all small scale domestic and commercial water supply uses. It
+features an integral ejector unit to provide highly effective self priming performance. The pump body is made from cast iron, the
+ejector and impeller from engineering plastic.
+MOTOR
+Pumps are close coupled to reliable TEFC electric motors designed for continuous operation and are provided with a thermal cutout
+to protect against electrical overload. They can be connected directly to the mains power supply through a 10A fuse or MCB.
+Enclosure Class: IP44
+
+Insulation Class: F
+
+Voltage:1x240V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solid particles or fibres
+Max. Fluid Temperature: +500C
+Max. Ambient Temperature: +400C
+Max. Suction Lift: 9m at sea level
+
+Model
+
+Motor
+(kW)
+
+Current
+(A)
+
+Dimensions (mm)
+Inlet (”)
+
+Outlet (”)
+
+1
+
+1
+
+1.25
+
+1
+
+L
+
+W
+
+H
+
+

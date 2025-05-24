@@ -1,0 +1,382 @@
+PD
+Submersible
+Motors
+
+4”-38.3mm
+6”-73mm
+
+H
+
+4PD Sacrificial Anode
+
+4”-ø92
+6”-ø144
+
+6PD
+
+4PD
+
+Dimensions in mm
+
+Pedrollo PD submersible motors are of the oil filled rewindable type designed to give exceptional reliability and efficiency in all borehole pumping
+applications. They are constructed principally from stainless steel AISI 316 making them robust and long lasting in harsh operating conditions.
+Features include;
+•
+•
+•
+•
+•
+•
+
+Oil filled type motor with FDA approved colourless oil
+Largely stainless steel AISI 316 construction with duplex shaft
+Oil lubricated thrust and radial bearings
+Reinforced netted NBR diaphragm for internal motor pressure compensation
+Standard NEMA flanges for use with both 4” and 6” pumps
+Sacrificial anode available on request for 4PD for extremely aggressive water and stray currents
+
+Protection: IP68
+
+Insulation Class: F
+
+Voltage: 1x230V/ 240V,50Hz / 3x380V/ 415V,50Hz
+
+OPERATING PARAMETERS
+Max Voltage Variation: ±10%
+Max Starts/Hr: 20 - 4” and 30 - 6”
+Max Water Temperature: 4PD (400), 6PD (350)
+Min Water Pass Flow Rate:8 cm/s
+Max Immersion Depth: 200m
+Installation: Vertical/horizontal with a tilt angle >50
+MOTOR DATA
+SINGLE PHASE
+Motor
+kW
+0.37
+0.55
+0.75
+1.1
+1.5
+2.2
+
+HP
+0.5
+0.75
+1
+1.5
+2
+3
+
+MATERIAL SPECIFICATION
+
+In
+
+Istart
+
+PF
+
+Capacitor
+
+(A)
+3.6
+4.7
+5.9
+8.3
+10.7
+15.2
+
+(A)
+12
+16
+19
+27
+35
+47
+
+CosØ
+
+µF
+
+0.86
+0.89
+0.91
+0.93
+0.93
+0.94
+
+20
+25
+35
+40
+60
+75
+
+Tail Cable
+mm2
+
+1.5
+
+m
+
+H
+(mm)
+
+Weight
+(Kg)
+
+311
+331
+356
+396
+437
+492
+
+7
+8
+9
+11
+13
+15
+
+2
+
+THREE PHASE
+Motor
+kW
+0.37
+0.55
+0.75
+1.1
+1.5
+2.2
+3.0
+4.0
+5.5
+7.5
+4.0
+5.5
+7.5
+9.2
+11
+15
+18.5
+22
+30
+37
+
+HP
+0.5
+0.75
+1
+1.5
+2
+3
+4.0
+5.5
+7.5
+10
+5.5
+7.5
+10
+12.5
+15
+20
+25
+30
+40
+50
+
+In
+(A)
+
+Istart
+(A)
+
+PF
+(CosØ)
+
+1.8
+2.0
+2.5
+3.4
+4.8
+6.1
+7.1
+9.2
+12.3
+16.4
+9
+13
+17
+22
+24
+32
+39
+47
+64
+78
+
+6
+0
+10
+16
+18
+
+0.52
+0.63
+0.71
+0.79
+0.66
+0.73
+0.79
+0.77
+0.82
+0.76
+0.86
+0.84
+0.83
+0.77
+0.82
+0.86
+0.84
+
+40
+50
+66
+89
+47
+66
+80
+98
+124
+158
+230
+256
+349
+400
+
+0.83
+
+Tail Cable
+mm2
+
+1.5
+
+2
+
+4
+
+8
+
+m
+
+2
+
+3.6
+
+3
+
+4
+
+H
+(mm)
+
+Weight
+(Kg)
+
+311
+331
+356
+371
+396
+437
+450
+505
+590
+800
+595
+625
+660
+700
+765
+820
+883
+953
+1098
+1233
+
+7
+8
+
+Component
+
+Material
+
+Motor shell
+
+316 stainless steel
+
+Sand guard
+
+NBR
+
+Cable connector
+
+LDPE+TPO+AISI304
+
+Upper end
+bracket cover
+
+4"-304
+stainless steel
+Cast Iron with
+cataphoresis treatment
+
+Upper end bracket
+
+9
+11
+13
+14
+16
+20
+30
+33
+37
+38
+43
+52
+58
+63
+79
+92
+93
+
+Mechanical Seal
+
+Ceramic/Graphite
+
+Shaft
+
+Duplex
+
+Lower end bracket
+
+4”-Stainless steel,
+6”-Cast Iron
+
+Winding
+
+Copper
+
+Lower end
+bracket cover
+
+AISI 304
+stainless steel
+
+Diaphragm
+
+NBR
+
+

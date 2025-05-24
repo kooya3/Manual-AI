@@ -1,0 +1,231 @@
+DID
+Vertical Multistage
+Centrifugal Pumps
+400
+45-140-2
+
+POWER (kw)
+
+60
+375
+350
+
+50
+40
+30
+
+15-180
+
+325
+
+20
+10
+
+300
+
+60
+
+10-250
+4-300
+
+DID45-140-2
+
+275
+
+4-300 10-250
+
+15-180
+
+45-140-2
+
+40
+20
+
+DID4-300
+DID10-250
+
+DID15-180
+
+NPSHr(m)
+
+250
+
+ETA%
+
+0
+
+225
+
+0
+
+45-140-2
+
+5
+15-180
+4
+10-250
+3
+2 4-300
+1
+
+5 10 15 20 25 30 35 40 45 50 55 60
+
+0
+
+5 10 15 20 25 30 35 40 45 50 55 60
+
+PUMP
+The DAYLIFF DID pump range are of non-self-priming, high efficiency in-line centrifugal design with a special application for
+pumping highly mineralised water especially in RO plant application. The pumps are of heavy-duty construction and designed
+for continuous duty in high pressure installations. Material of construction is Duplex SS2205 for the inlet and outlet chamber, seal
+base, pump sleeve and shaft while impellers and chambers are of Stainless Steel 904L. Pumps are water lubricated and are
+provided with a standard cartridge type mechanical seal and BSP internally threaded counter flanges.
+MOTOR
+The pumps are coupled to high efficiency IE3 totally enclosed fan cooled 2-pole motor complying with IEC standards and must
+be connected to an effective motor starter in accordance with local regulations.
+Enclosure Class: IP55 Insulation Class: F
+
+Voltage: 3x415V
+
+Speed: 2900rpm
+
+OPERATING CONDITIONS
+Pumped Liquids: Thin, clean, non-flammable, non-combustible and non-explosive liquids without solid particles or fibres.
+Liquid Temperature Range: -150C to +700C
+Maximum Ambient Temperature: +400C
+Maximum Suction Lift: According to the NPSH curve plus a safety margin of 0.5m
+Maximum Operating Pressure: Up to 7.5kW - 21bar, other - 30bar
+Maximum Inlet Pressure: 3 bar
+Water Quality @200C Temperature: TDS- 35,000ppm, Chloride 20,000ppm
+PUMP DATA
+
+D
+
+Motor
+Model
+
+Full Load
+Current I Start
+I
+(A)
+
+kW
+
+HP
+
+DID4-300
+
+7.5
+
+10
+
+16
+
+DID10-250
+
+15
+
+20
+
+DID15-180
+
+22
+
+DID45-140-2
+
+55
+
+Dimensions(mm)
+
+Weight
+(Kgs)
+
+B1
+
+B2
+
+B1+B2
+
+D
+
+1.8
+
+32
+
+1086
+
+465
+
+1551
+
+260
+
+113
+
+25
+
+2.2
+
+40
+
+1174
+
+610
+
+1784
+
+350
+
+184
+
+30
+
+43
+
+1.9
+
+50
+
+1240
+
+670
+
+1910
+
+360
+
+233
+
+75
+
+110
+
+1.8
+
+80
+
+1686
+
+670
+
+2056
+
+550
+
+532
+
+B1
+
+B2
+
+DN
+
+60
+
+60
+
+G12
+
+260
+
+

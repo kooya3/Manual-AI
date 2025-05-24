@@ -1,0 +1,226 @@
+2
+DC Solar
+Submersible Pump
+130
+SUNFLO-B2 1300C3
+
+120
+
+2
+Average Daily Irradiation Values (Kwhr/m)
+
+110
+
+Graph 1
+6.3 6.5
+
+PUMP HEAD (m)
+
+100
+5.6
+
+90
+
+5.8
+
+5.6 5.7 5.9
+
+5.8
+5.1 5.3
+
+80
+70
+SUNFLO-B2 800C3
+
+60
+50
+
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+
+40
+
+SUNFLO-B2 400C3
+
+30
+20
+
+% Daily Output
+
+10
+
+Graph 2
+
+13.5%
+13%
+13%
+12%
+12%
+10%
+10%
+
+60
+50
+ETA(%)
+
+6.5
+6.0
+
+7%
+
+40
+
+7%
+
+30
+2%
+
+20
+
+6
+
+10
+0
+
+2%
+
+0%
+
+0.5
+
+1.0
+
+1.5 2.0 2.5 3.0 3.5
+FLOW RATE (m3/hr)
+
+4.0
+
+4.5
+
+0%
+7
+
+8
+
+9
+
+10 11 12 13 14 15 16 17 18
+Time (hrs)
+
+5.0
+
+PUMP
+DAYLIFF SUNFLO-B2 pumps are specifically designed for PV solar powered water supply from wells and boreholes. They are of centrifugal design
+and material of construction incude polycarbonate impellers and diffusers, cast iron delivery and suction chambers and AISI 304 stainless steel
+pump housing, shaft and shaft coupling. Pumps are supplied complete with an MPPT controller.
+MOTOR
+Permanent magnet, oil filled, brushless, DC motor specifically designed for maximum efficiency from solar module power sources. It should be
+powered by a solar array configured to provide the input voltage required and sized at approximately 130% of the rated motor power
+Enclosure Class: IP68
+
+Insulation Class: F
+
+Speed:3000rpm
+
+CONTROLLER
+The pump is supplied with a seperate multifunction MPPT (Maximum Power Point Tracking) controller that tracks the solar module's maximum
+power output voltage which varies with module temperature and irradiation levels. This ensures maximum current output, typically +25% higher
+than conventional module controllers and a similar increase in daily water output. The controller also protects from over and under voltage, over
+current and low water level and features various indicator lights that give the pump’s operating status. The system can be installed either with or
+without batteries. If batteries are included, the pump will operate when there is insufficient solar irradiation for direct power.
+PUMP OUTPUTS
+Pump output curve is given at standard test conditions of 1000W/m solar irradiance and 250C. Output will vary throughout the year depending
+upon prevailing irradiation levels. For estimated daily outputs at continuous pumping, multiply the indicated output at the
+duty point by the daily radiation given in Graph 1. For indicative purposes, factors of 1.1 can be applied for hot arid areas
+and 0.9 for temperate high-altitude areas in the Tropics. Output will vary throughout the day as a proportion of the
+estimated hourly irradiation as shown in Graph 2.
+OPERATING PARAMETERS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids with a maximum particle size of 2.3mm
+Max. Liquid Temperature: +350C
+Max Immersion Depth: 100m
+PUMP DATA
+Model
+
+Motor
+Rating
+(W)
+
+Input
+Voltage
+(V)
+
+Peak
+Voltage
+(V)
+
+Open
+Circuit
+Voltage (VOC)
+
+PV
+Modules (W)
+
+SUNFLO-B2 400C3
+
+400
+
+48
+
+≥40
+
+<75
+
+1x545W
+
+SUNFLO-B2 800C3
+
+800
+
+72
+
+≥70
+
+<110
+
+2x545W (connected
+in Series)
+
+SUNFLO-B2 1300C3
+
+1300
+
+130
+
+≥130
+
+<180
+
+4x545W (2 No. Series,
+2No. Parallel Strings)
+
+DN
+(”)
+
+1¼
+
+Dimensions
+Weight
+(mm)
+(kg)
+M
+P
+
+251
+
+298
+
+15
+
+347
+
+16
+
+469
+
+19
+
+

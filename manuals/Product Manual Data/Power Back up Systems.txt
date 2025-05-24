@@ -1,0 +1,296 @@
+TED
+A
+D
+UP
+
+MAINS IN
+
+CONSUMER UNIT
+ISOLATOR
+INVERTER INPUT
+INVERTER
+
+INVERTER
+OUTPUT
+
+MCB
+
+MCB
+
+MCB
+
+MCB
+
+BATTERY
+FUSE
+
+CHANGE OVER
+SWITCH
+
+DC BATTERY BANK
+NON
+BACKEDUP
+LOADS
+
+INVERTER
+BACKEDUP
+LOADS
+
+Dayliff Power Backup Systems are specifically designed for small domestic and commercial applications to provide standby power in the
+event of mains power supply failure. They can be used as an alternative to a generator and have many advantages including:• Instantaneous and automatic changeover when the mains power fails which is especially beneficial when used with electronic
+equipment such as computers and TV's.
+• Totally silent and non polluting operation which particularly suits enclosed space applications.
+• Very low running costs - just the power to charge a battery.
+During normal power conditions the inverter maintains the batteries at full charge while during a power failure the DC battery energy is
+seamlessly converted to AC power and fed to the supply circuits. Systems include two principal components, a reliable and efficient
+Dayliff Ultraverter/Optiverter, a DC/AC power inverter with built in battery charger and a battery bank.
+Ultravertres and Optiverters are Transformerless inverters with precision Pure Sinewave output and full function LCD status displays
+monitoring various operating parameters. Sizes are available from 1,000W to 8,000W output.
+The endurance of a power backup system is determined by battery capacity, Dayliff systems being offered with a selection of capacities
+depending upon backup time required. Batteries supplied are with options of Valve Regulated Lead Acid (VRLA) or Lithium Ion
+Phosphate (LiFePO4) and the inverters provide automatic regulation to prevent over-charge and over-discharge. Systems are also
+provided complete with connecting cabling between the inverter and battery pack and expert selection advice is available to assist with
+sizing and installation.
+The components of all Dayliff Backup Systems are carefully matched in terms of quality and performance and they provide a reliable,
+effective and economic solution to all small scale mains standby power requirements.
+INSTALLATION
+Dayliff Power Backup Systems should be installed between the main electricity meter and the distribution board as indicted in the wiring
+diagram. It is important to separate the installed loads so the back up system is not connected to high consumption appliances like
+cookers, water heaters, washing machines, pumps etc. This may require some re-wiring of the distribution board and it is recommended
+that a qualified electrician is consulted.
+Note that the indicated backup times are approximate and based upon the loads indicated. They are entirely dependant upon the loads
+applied and will vary accordingly.
+SYSTEM SPECIFICATIONS
+
+Model
+
+Inverter
+Max AC
+Output Charging
+Amps
+
+DC
+Voltage
+
+ULTRAVERTER
+DUV-1012
+
+1000W
+
+60A
+
+12V
+
+ULTRAVERTER
+DUV-2024
+
+2000W
+
+60A
+
+24V
+
+ULTRAVERTER
+DUV-3024
+
+3000W
+
+80A
+
+24V
+
+ULTRAVERTER
+DUV-5048
+
+5000W
+
+80A
+
+48V
+
+OPTIVERTER
+DO6000
+
+6000W
+
+OPTIVERTER
+DO8000
+
+8000W
+
+120A
+
+120A
+
+Lead Acid (VRLA)
+Battery Bank Option
+Capacity
+Configuration
+(AH)
+200
+300
+200
+400
+600
+300
+600
+900
+
+1x200AH
+2X150AH
+2X100AH
+2X200AH
+4X150AH
+2X150AH
+4X150AH
+6X150AH
+
+Lithium Ion (LiFEP04) Battery
+Bank Option
+Capacity
+(kWh)
+
+Configuration
+
+Back-up
+Times
+Hrs
+
+1.2
+2.4
+2.4
+4.8
+7.2
+2.4
+4.8
+7.2
+
+1x100AH-12VDC
+2X100AH-12VDC
+1X100AH-24VDC
+2X100AH-24VDC
+3X100AH-24VDC
+1X100AH-24VDC
+2X100AH-24VDC
+3X100AH-24VDC
+
+4
+6
+2
+4
+6
+2
+4
+6
+
+400
+
+4X100AH
+
+4.8
+
+2X100AH-24VDC
+
+2
+
+800
+
+4X200AH
+
+7.2
+
+3X100AH-24VDC
+
+4
+
+1200
+
+8X150AH
+
+9.6
+
+4X100AH-24VDC
+
+6
+
+600
+
+4X150AH
+
+4.8
+
+2X100AH-24VDC
+
+2
+
+1200
+
+6X200AH
+
+7.2
+
+3X100AH-24VDC
+
+4
+
+48V
+
+120A
+
+800
+
+4X200AH
+
+9.6
+
+4X100AH-24VDC
+
+2
+
+1600
+
+8X200AH
+
+19.2
+
+8X100AH-24VDC
+
+4
+
+Typical Application
+Home
+
+Office
+
+TV, 8 Lights (energy saving)
+
+2PCs, 4 Laptops, Wifi, 6 lights
+(energy saving)
+
+TV, Small Fridge, 8 Lights
+
+3PCs, 6 Laptops, Wifi, 6 lights
+
+TV, Fridge, 20 Lights
+
+5PCs, 10 Laptops, Wifi, 6 lights
+
+TV, Fridge, Microwave, 20
+Lights
+
+5PCs, 10Laptops, Wifi,
+Copier, Lights
+
+TV, Fridge, Microwave, PC,
+30 Lights
+
+8PCs, 16 Laptops, Wifi,
+Copier, Lights
+
+TV, Fridge, Microwave, PC,
+40 Lights
+
+12PCs, 24 Laptops, Wifi,
+Copier, Lights
+
+

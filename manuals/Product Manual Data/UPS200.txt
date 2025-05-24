@@ -1,0 +1,49 @@
+PUMP
+The GRUNDFOS UPS circulator pumps are designed for water circulation in heating, hot water, cooling or air conditioning systems
+where the duty requires high water volumes at low pressures. Three standard models are available, but options include single or
+two head units and alternative specifications for cold water and very low pressure installations. A particular feature of the pump
+design is that the motors have three speed settings so it is possible to select the ideal flow to meet the system requirements.
+Pump construction is AISI304 stainless steel for the impeller and bearing plate, cast iron for the pump housing and diecast
+aluminium for the rotor housing.
+MOTOR
+The integral 2-pole asynchronous squirrel-cage motor is designed to operate at three speeds. Motors should be connected to
+mains supply though an MCB and suitably sized DOL starter.
+Power Supply: 3 x 415 V
+
+Speed: 2800 rpm
+
+Enclosure Class: IP44
+
+Insulation Class: F
+
+OPERATING CONDITIONS
+Pumped liquid: Thin, clean, chemically non-aggressive liquids without solids or fibres.
+Fluid Temperature Range: -100C to +1200C. Note the liquid temperature should be higher than the ambient temperature.
+Maximum Ambient Temperature: 400C
+Max. Operating Pressure: 10 bar
+Installation: Pumps must be installed with the pump shaft horizontal.
+
+Model
+
+Power
+(W)
+
+Max. Current
+(A)
+
+Weight
+(kg)
+
+A
+
+D
+E
+
+DN
+C
+
+B
+
+F
+
+

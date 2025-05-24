@@ -1,0 +1,142 @@
+DQA
+Circulator Pumps
+
+7
+Night Mode
+Speed
+Speed
+1
+3
+Speed
+Night
+2
+Auto Adaptation
+
+66
+
+55
+
+PUMP HEAD(m)
+
+CP2
+
+European Level of
+energy Efficiency
+LED Display Power
+Max Proportional
+Pressure Curve
+Min Proportional Pressure Curve
+Max Constant Pressure Curve
+
+Min Constant
+Pressure Curve
+
+44
+
+CP1
+
+33
+
+PP2
+
+22
+
+PP1
+
+One Button Operation
+Night Mode
+11
+
+CPI - Selectable Constant Pressure
+PP -Selectable Proportional Pressure
+
+Speed III
+Speed II
+
+Speed I
+0
+
+0.3
+
+0.6
+
+0.9
+
+1.2
+
+1.5
+
+1.8
+
+2.1
+
+2.4
+
+FLOW RATE(m3/hr)
+
+PUMP
+DAYLIFF DQA is a revolutionary variable speed controlled circulator pump designed for hot water circulation in heating, cooling
+and solar applications. The pump is provided with a number of unique features:
+• Variable Speed inverter technology that enables the pump to selectively operate on a constant curve, proportional
+pressure where pressure is adjusted according to system demand and constant pressure where pressure remains
+constant irrespective of system demand.
+• Three selectable speeds so the pump performance can be matched to system requirements.
+• Fully automatic function which continuously adjusts pump output to system demand and thus optimises energy
+consumption.
+• Display indicating power consumption and as well as alarm and warning conditions.
+Pump construction is cast iron for the pump housing, stainless steel for the rotor can and composite plastic for the impeller. Pumps
+are supplied complete with BSP union connections.
+MOTOR
+The pump is fitted with an integral synchronous permanent-magnet high efficiency inverter controlled motor. The pump should be
+connected to a suitably rated MCB or fuse.
+Enclosure Class: IP42
+
+Insulation Class: F
+
+Voltage: 1x240V
+
+OPERATING CONDITIONS
+Pumped Liquid: Thin, clean, chemically non-aggressive liquids without solid particles or fibres
+Liquid Temperature: -100C to +1100C
+Max. Ambient Temperature: 10 - 500C
+Max Operating Pressure: 6bar
+Installation: Pumps must be installed with the rotor shaft horizontal and vertical water flow
+PUMP DATA
+Model
+DQA25/60
+
+Motor
+(W)
+
+Inlet/
+Outlet
+(”)
+
+L
+
+H
+
+W
+
+5-45
+
+1
+
+180
+
+128
+
+130
+
+Dimensions (mm)
+
+Weight
+(kg)
+3
+L
+
+H
+
+W
+
+

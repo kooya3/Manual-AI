@@ -1,0 +1,131 @@
+FUTUREPUMP
+Solar
+Irrigation Pump
+16
+
+18
+
+SE1
+Flow Rate at 1m Suction
+
+16
+
+14
+
+12
+
+PUMP HEAD (m)
+
+PUMP HEAD (m)
+
+Small Pulley
+
+14
+
+12
+10
+
+SE1
+
+SF2
+Flow Rate at 1m Suction
+
+10
+
+8
+6
+4
+
+8
+6
+
+Large Pulley
+
+4
+
+2
+
+2
+
+SF2
+0.4 0.6
+
+0.8 1 1.2 1.4 1.6
+FLOW RATE(m3/hr)
+
+1.8
+
+0
+
+0.5 1 1.5 2 2.5 3
+FLOW RATE (m3/hr)
+
+3.5
+
+4
+
+PUMP
+Futurepumps SE1 & SF2 are robust solar powered irrigation pumps specially designed for small scale agricultural applications using low pressure
+spray, hoses and drip distribution. They comprise three principal components, the PV solar modules, a specially designed DC motor that is coupled to
+a flywheel and a positive displacement reciprocating piston type pump. Features include:
+• High efficiency pump that is tolerant to water containing suspended solids and also capable of running dry without damage.
+• Supplied with comprehensive spare parts kit and tools.
+• Horizontal discharge upto 500m.
+• Manufacturer supported five year operating warranty
+Futurepump SE1 pump specification;
+• Supplied with 1x60W solar panel
+• Fitted with a 36V, 2.5A DC motor with in-built controller
+• Supplied complete with 8mx1” inlet/suction hose with couplers and strainer
+Futurepump SF2 pump specification:
+• Supplied with 2x60W (120W) solar panel. Panels include USB port for charging small electronic devices
+• Fitted with a 60VDC motor with in-built controller
+• Includes remote performance monitoring data logger that indicates pump performance and tracked location.
+• Two pulley sizes for motor drive for low and high head applications
+• Supplied complete with 6mx11¼” inlet/suction hose with couplers and strainer
+A special feature of Futurepumps is their simplicity of design and operation being simple to set up and maintain by the user. They are also flexible in
+operation and efficient and are the ideal solution for all small scale farmer irrigation applications.
+PUMP OUTPUTS
+Performance curves are given at standard test conditions of 1000W/m2 solar irradiance and 250C temperature. Output will vary throughout the year
+depending upon prevailing irradiation levels. For estimated daily outputs at continuous pumping multiply the indicated output at the duty point by the
+daily irradiation given in the graph. For indicative purposes, factors of 1.1 can be applied for hot arid areas and 0.9 for temperate high altitude areas
+in the Tropics.
+Flywheel
+Motor Mount
+Motor
+Piston rod and yoke
+
+Average Daily Irradiation Values (Kwhr/m3)
+6.3 6.5
+5.6
+
+Switch Box
+
+SF2: Suction Lift
+Max 5m, 16ft (sea level)
+SE1: Suction Lift
+Max 7m (22ft) (sea level)
+
+Total Lift
+Max 15m(50ft)
+
+6.0 5.8
+
+6.5
+5.6 5.7 5.9
+
+5.8
+
+5.1 5.3
+
+Inlet
+Pump Chamber
+Outlet
+Pump Frame
+SF2: Weight: 37Kgs
+Dimensions: (LxWxH): 520mmx530mmx200mm
+SE1: Weight: 19Kgs
+Dimensions: (LxWxH): 350mmx480mmx260mm
+
+Jan Feb Mar AprMay Jun Jul AugSep Oct Nov Dec
+
+
