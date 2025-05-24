@@ -11,7 +11,7 @@ Manual Agent is an advanced AI-powered system that revolutionizes how you intera
 Manual Agent combines powerful PDF processing, intelligent search, and automation capabilities with an intuitive interface that understands what you need and delivers results efficiently.
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue)](./license)
-[![GitHub Issues](https://img.shields.io/github/issues/davis-shirtliff/manual-agent)](https://github.com/davis-shirtliff/manual-agent/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/kooya3/manuals)](https://github.com/kooya3/manuals/issues)
 
 </div>
 
