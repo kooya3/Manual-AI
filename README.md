@@ -186,8 +186,8 @@ Manual Agent can be self-hosted using our setup wizard. The process includes:
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/davis-shirtliff/manual-agent.git
-cd manual-agent
+git clone git@github.com:kooya3/manuals.git
+cd manual
 ```
 
 2. **Run setup**:
